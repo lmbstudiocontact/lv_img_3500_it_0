@@ -1,0 +1,45 @@
+{
+  "english": "conquer",
+  "phat_am": "['kɔηkə]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đoạt, xâm chiếm; chiến thắng",
+          "list_en_vn": [
+            {
+              "full_en": "to conquer an enemy",
+              "full_vn": "chiến thắng quân thù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chinh phục, chế ngự",
+          "list_en_vn": [
+            {
+              "full_en": "to stoop to conquer",
+              "full_vn": "hạ mình để chinh phục"
+            },
+            {
+              "full_en": "to conquer a bad habit",
+              "full_vn": "chế ngự được một thói xấu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425703_ff8bdb5873_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425703_06eeea5371_o.png",
+      "id_image": "conquer_2597236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425663_27739f37a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425663_92dfff6643_o.png",
+      "id_image": "conquer_6257400"
+    }
+  ]
+}

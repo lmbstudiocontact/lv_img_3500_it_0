@@ -1,0 +1,56 @@
+{
+  "english": "debate",
+  "phat_am": "[di'beit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc tranh luận, cuộc thảo luận, cuộc tranh cãi"
+        },
+        {
+          "m_full_vn": "( the debates ) biên bản chính thức của những phiên họp nghị viện"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tranh luận, tranh cãi, bàn cãi (một vấn đề...)"
+        },
+        {
+          "m_full_vn": "suy nghĩ, cân nhắc",
+          "list_en_vn": [
+            {
+              "full_en": "to debate a matter in one's mind",
+              "full_vn": "suy nghĩ cân nhắc một vấn đề trong óc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352357_407a4381cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352357_26ebc110be_o.png",
+      "id_image": "debate_1147948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308131_8db599c0cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308131_a8bb66bf86_o.png",
+      "id_image": "debate_2688835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423338_4fcb4271d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423338_df17fefc0c_o.png",
+      "id_image": "debate_3571109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423313_b438204cba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423313_a67be26fdb_o.png",
+      "id_image": "debate_5605909"
+    }
+  ]
+}

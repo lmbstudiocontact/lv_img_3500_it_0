@@ -1,0 +1,45 @@
+{
+  "english": "contractor",
+  "phat_am": "[kən'træktə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thầu khoán, người đấu thầu, người thầu (cung cấp lương thực cho quân đội, bệnh viện, trường học)",
+          "list_en_vn": [
+            {
+              "full_en": "army contractor",
+              "full_vn": "người thầu cung cấp lương thực cho quân đội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(giải phẫu) cơ co"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421763_1e9d410b0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421763_76c26fbdf2_o.png",
+      "id_image": "contractor_2590488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661909_7cc63da5c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661909_bdf8e524bd_o.png",
+      "id_image": "contractor_4647586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043595_9a5af323ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043595_6f1e322aae_o.png",
+      "id_image": "contractor_4647606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421723_4ff66dd32f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421723_577c309d49_o.png",
+      "id_image": "contractor_6027085"
+    }
+  ]
+}

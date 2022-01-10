@@ -1,0 +1,27 @@
+{
+  "english": "columnist",
+  "phat_am": "['kɔləmnist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người phụ trách một chuyên mục trong một tờ báo",
+          "list_en_vn": [
+            {
+              "full_en": "a political columnist",
+              "full_vn": "một nhà báo chuyên mục chính trị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057410_bda16d4437_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057410_fba99fb673_o.png",
+      "id_image": "columnist_6315945"
+    }
+  ]
+}

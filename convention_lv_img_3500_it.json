@@ -1,0 +1,44 @@
+{
+  "english": "convention",
+  "phat_am": "[kən'ven∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hội nghị, sự triệu tập"
+        },
+        {
+          "m_full_vn": "hiệp định"
+        },
+        {
+          "m_full_vn": "sự thoả thuận ngầm"
+        },
+        {
+          "m_full_vn": "tục lệ, lệ thường",
+          "list_en_vn": [
+            {
+              "full_en": "social conventions",
+              "full_vn": "tục lệ xã hội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quy ước (của một số trò chơi)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661329_ae0dfa222e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661329_22e37f2a74_o.png",
+      "id_image": "convention_2473000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042850_ce84237c10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042850_e188b2f01e_o.png",
+      "id_image": "convention_4079161"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "english": "agreement",
+  "phat_am": "[ə'gri:mənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thoả thuận, hứa hẹn hoặc giao kèo với ai; hợp đồng",
+          "list_en_vn": [
+            {
+              "full_en": "please sign the agreement",
+              "full_vn": "mời ông ký vào bản hợp đồng"
+            },
+            {
+              "full_en": "an agreement with the employers was finally worked out",
+              "full_vn": "cuối cùng đã vạch ra được một thoả thuận với các ông chủ"
+            },
+            {
+              "full_en": "to enter into an agreement with somebody",
+              "full_vn": "ký kết một hợp đồng với ai"
+            },
+            {
+              "full_en": "they have broken the agreement between them",
+              "full_vn": "họ đã vi phạm hợp đồng giữa họ với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bằng lòng, sự tán thành, sự đồng ý",
+          "list_en_vn": [
+            {
+              "full_en": "by mutual agreement",
+              "full_vn": "theo sự thoả thuận chung"
+            },
+            {
+              "full_en": "to come to an agreement",
+              "full_vn": "đi đến sự thoả thuận; đi đến ký kết một hiệp định"
+            },
+            {
+              "full_en": "the two sides failed to reach agreement",
+              "full_vn": "hai bên không thoả thuận được với nhau"
+            },
+            {
+              "full_en": "there is little agreement as to what our policy should be",
+              "full_vn": "có rất ít sự thống nhất về vấn đề chính sách của chúng ta sẽ thế nào"
+            },
+            {
+              "full_en": "individualism is not in agreement with the common interests",
+              "full_vn": "chủ nghĩa cá nhân không phù hợp với lợi ích chung"
+            },
+            {
+              "full_en": "are we in agreement about the price ?",
+              "full_vn": "chúng ta có thống nhất với nhau về giá cả hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ) có cùng số, giống, cách hoặc ngôi",
+          "list_one_mean": [
+            {
+              "id_full_en": "executive agreement",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) bản hiệp định ký kết giữa tổng thống với chính phủ một nước khác không cần thông qua thượng nghị viện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a gentleman's agreement",
+              "list_im": [
+                {
+                  "im_full_vn": "thoả thuận danh dự"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "agreement between subject and verb",
+              "full_vn": "sự phù hợp giữa chủ ngữ và động từ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362807_bfbb666b95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362807_43ac182370_o.png",
+      "id_image": "agreement_1284687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054845_407233b5c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054845_7ce62500ef_o.png",
+      "id_image": "agreement_1566554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054825_e25052760c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054825_f9d55b3838_o.png",
+      "id_image": "agreement_1728967"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673169_80fea809de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673169_912e1afe12_o.png",
+      "id_image": "agreement_306858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318311_8297861a72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318311_a26afc2923_o.png",
+      "id_image": "agreement_751808"
+    }
+  ]
+}

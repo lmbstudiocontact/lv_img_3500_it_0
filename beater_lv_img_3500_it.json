@@ -1,0 +1,60 @@
+{
+  "english": "beater",
+  "phat_am": "['bi:tə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đánh, người đập"
+        },
+        {
+          "m_full_vn": "que, gậy, đòn, chày (để đập đánh)",
+          "list_en_vn": [
+            {
+              "full_en": "a carpet beater",
+              "full_vn": "gậy đập thảm"
+            },
+            {
+              "full_en": "an egg beater",
+              "full_vn": "que đánh trứng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(săn bắn) người xua dã thú (đẻ cho người ta (săn bắn))"
+        },
+        {
+          "m_full_vn": "(nông nghiệp) đòn đập lúa; máy đập"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666054_b50c0963a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666054_d19630b7d1_o.png",
+      "id_image": "beater_1866304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425908_e1a262dc7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425908_f9c5d32089_o.png",
+      "id_image": "beater_3244892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047715_63409a5e36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047715_0081dc80ae_o.png",
+      "id_image": "beater_3565168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310866_d16e6b0779_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310866_a9959b701f_o.png",
+      "id_image": "beater_4975045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047655_166ae2e67f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047655_10ab0dace6_o.png",
+      "id_image": "beater_6138109"
+    }
+  ]
+}

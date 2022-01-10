@@ -1,0 +1,148 @@
+{
+  "english": "cash",
+  "phat_am": "[kæ∫]",
+  "list_type": [
+    {
+      "type": "danh từ (không có số nhiều)",
+      "list_m": [
+        {
+          "m_full_vn": "tiền, tiền mặt",
+          "list_one_mean": [
+            {
+              "id_full_en": "cash and carry",
+              "list_im": [
+                {
+                  "im_full_vn": "cách mua sắm mà theo đó, người mua tự lấy hàng đi sau khi trả tiền mặt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in cash",
+              "list_im": [
+                {
+                  "im_full_vn": "có tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be out of cash",
+              "list_im": [
+                {
+                  "im_full_vn": "không có tiền, cạn tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be rolling in cash",
+              "list_im": [
+                {
+                  "im_full_vn": "tiền nhiều như nước"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be short of cash",
+              "list_im": [
+                {
+                  "im_full_vn": "thiếu tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "cash down",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) down"
+                }
+              ]
+            },
+            {
+              "id_full_en": "cash on delivery (C. O. D. )",
+              "list_im": [
+                {
+                  "im_full_vn": "trả tiền lúc nhận hàng; lĩnh hoá giao ngân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for prompt cash",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) prompt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "ready cash",
+              "list_im": [
+                {
+                  "im_full_vn": "tiền mặt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sold for cash",
+              "list_im": [
+                {
+                  "im_full_vn": "bán lấy tiền mặt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I have no cash with me",
+              "full_vn": "tôi không có tiền mặt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trả tiền mặt, lĩnh tiền mặt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cash in",
+              "list_im": [
+                {
+                  "im_full_vn": "gởi tiền ở ngân hàng"
+                },
+                {
+                  "im_full_vn": "(thông tục) chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cash in on",
+              "list_im": [
+                {
+                  "im_full_vn": "kiếm chác được ở"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437508_b676e4c0c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437508_349f3b7b83_o.png",
+      "id_image": "cash_3898031"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322221_1908ea980b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322221_0151294146_o.png",
+      "id_image": "cash_3937098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058985_9f482411e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058985_ff8ce2dff3_o.png",
+      "id_image": "cash_4564940"
+    }
+  ]
+}

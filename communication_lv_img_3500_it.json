@@ -1,0 +1,102 @@
+{
+  "english": "communication",
+  "phat_am": "[kə,mju:ni'kei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự truyền đạt, sự thông tri, sự thông tin; tin tức truyền đạt; thông báo",
+          "list_en_vn": [
+            {
+              "full_en": "communication of disease",
+              "full_vn": "sự lan truyền bệnh tật, sự lây bệnh"
+            },
+            {
+              "full_en": "being deaf and dumb makes communication very difficult",
+              "full_vn": "bị điếc và câm làm cho việc giao tiếp rất khó khăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giao thiệp, sự liên lạc",
+          "list_en_vn": [
+            {
+              "full_en": "to get into communication with somebody",
+              "full_vn": "liên lạc với ai"
+            },
+            {
+              "full_en": "to be in secret communication with the enemy",
+              "full_vn": "liên lạc lén lút với địch, tư thông với quân địch"
+            },
+            {
+              "full_en": "there's no communication between the two rooms",
+              "full_vn": "hai phòng không thông nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( communications ) những phương tiện liên lạc (đường bộ, đường sắt, điện thoại, điện tín, phát thanh, truyền hình)",
+          "list_one_mean": [
+            {
+              "id_full_en": "communication cord",
+              "list_im": [
+                {
+                  "im_full_vn": "dây báo hãm (trên xe lửa)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "communication satellite",
+              "list_im": [
+                {
+                  "im_full_vn": "vệ tinh viễn thông"
+                }
+              ]
+            },
+            {
+              "id_full_en": "communication trench",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) trench"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "telephone communications between the two cities have been restored",
+              "full_vn": "phương tiện liên lạc bằng điện thoại giữa hai thành phố đã được phục hồi"
+            },
+            {
+              "full_en": "widespread flooding has prevented all communications with the remote areas of this province",
+              "full_vn": "nạn lụt lội tràn lan đã cản trở mọi sự liên lạc với các vùng xa trong tỉnh này"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054690_5884254a29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054690_2421c6e883_o.png",
+      "id_image": "communication_2191227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673054_2121a26b4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673054_471da900c2_o.png",
+      "id_image": "communication_296914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054760_c8aee87acd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054760_bb68994611_o.png",
+      "id_image": "communication_332965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362667_f9218e1d4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362667_7f919e34c1_o.png",
+      "id_image": "communication_417749"
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "english": "clear",
+  "phat_am": "[kliə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trong, trong trẻo, trong sạch",
+          "list_en_vn": [
+            {
+              "full_en": "clear water",
+              "full_vn": "nước trong"
+            },
+            {
+              "full_en": "a clear sky",
+              "full_vn": "bầu trời trong sáng"
+            },
+            {
+              "full_en": "a clear voice",
+              "full_vn": "giọng nói trong trẻo"
+            },
+            {
+              "full_en": "clear conscience",
+              "full_vn": "lương tâm trong sạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sáng sủa, dễ hiểu",
+          "list_en_vn": [
+            {
+              "full_en": "a clear statement",
+              "full_vn": "bài phát biểu dễ hiểu"
+            },
+            {
+              "full_en": "a clear style",
+              "full_vn": "văn sáng sủa"
+            },
+            {
+              "full_en": "to make one's meaning clear",
+              "full_vn": "làm dễ hiểu"
+            },
+            {
+              "full_en": "to have a clear head",
+              "full_vn": "có đầu óc sáng sủa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thông trống, không có trở ngại (đường xá)",
+          "list_en_vn": [
+            {
+              "full_en": "to keep the road clear",
+              "full_vn": "giữ cho đường thông suốt"
+            },
+            {
+              "full_en": "the road was clear of traffic",
+              "full_vn": "đường xá vắng tanh không có xe cộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thoát khỏi, giũ sạch, trang trải hết",
+          "list_en_vn": [
+            {
+              "full_en": "to be clear of debt",
+              "full_vn": "giũ sạch nợ nần"
+            },
+            {
+              "full_en": "to be clear of suspicion",
+              "full_vn": "thoát khỏi sự hồ nghi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trọn vẹn, toàn bộ, đủ, tròn, trọn",
+          "list_en_vn": [
+            {
+              "full_en": "a clear profit",
+              "full_vn": "toàn bộ tiền lãi"
+            },
+            {
+              "full_en": "a clear month",
+              "full_vn": "tháng đủ"
+            },
+            {
+              "full_en": "two clear days",
+              "full_vn": "hai ngày tròn"
+            },
+            {
+              "full_en": "clear 10 dongs",
+              "full_vn": "đúng 10 đ không kém"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chắc, chắc chắn",
+          "list_one_mean": [
+            {
+              "id_full_en": "as clear as the sun at noonday",
+              "list_im": [
+                {
+                  "im_full_vn": "rõ như ban ngày"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as clear as that two and two make four",
+              "list_im": [
+                {
+                  "im_full_vn": "rõ như hai với hai là bốn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the coast is clear",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) không có khó khăn trở ngại gì; không có gì đáng sợ; không có gì cản trở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get away clear",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) không có khó khăn trở ngại gì; không có gì đáng sợ; không ai cản trở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get away clear",
+              "list_im": [
+                {
+                  "im_full_vn": "giũ sạch được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in clear",
+              "list_im": [
+                {
+                  "im_full_vn": "viết rõ, không viết bằng số hoặc mật mã"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I'm not at all clear that he is right",
+              "full_vn": "tôi không dám chắc là nó đúng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "rõ ràng",
+          "list_en_vn": [
+            {
+              "full_en": "to speak clear",
+              "full_vn": "nói rõ ràng"
+            },
+            {
+              "full_en": "the ship shows clear on the horizon",
+              "full_vn": "con tàu lộ ra rõ ràng ở chân trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn toàn, hẳn",
+          "list_en_vn": [
+            {
+              "full_en": "he got clear away",
+              "full_vn": "anh ta đi mất hẳn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tách ra, ra rời, xa ra, ở xa",
+          "list_en_vn": [
+            {
+              "full_en": "to keep clear of a rock",
+              "full_vn": "tránh xa tảng đá (thuyền)"
+            },
+            {
+              "full_en": "to get clear",
+              "full_vn": "đi xa, tránh xa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm trong sạch, lọc trong; làm đăng quang, làm sáng sủa, làm sáng tỏ",
+          "list_en_vn": [
+            {
+              "full_en": "to clear the air",
+              "full_vn": "làm cho không khí trong sạch; (nghĩa bóng) xua tan không khí nặng nề (do nghi kỵ, cãi cọ...)"
+            },
+            {
+              "full_en": "to clear the throat",
+              "full_vn": "đằng hắng, hắng giọng"
+            },
+            {
+              "full_en": "to clear a mystery",
+              "full_vn": "làm sáng tỏ một điều bí ẩn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tự bào chữa, thanh minh, minh oan",
+          "list_en_vn": [
+            {
+              "full_en": "I'll easily clear myself",
+              "full_vn": "tôi sẽ thanh minh cho tôi một cách dễ dàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dọn, dọn sạch, dọn dẹp; phát quang, phá hoang, khai khẩn; nạo, cạo",
+          "list_en_vn": [
+            {
+              "full_en": "to clear a yard of rubbish",
+              "full_vn": "dọn sạch rác rưởi ở sân"
+            },
+            {
+              "full_en": "to clear a chimney",
+              "full_vn": "nạo ống khói"
+            },
+            {
+              "full_en": "to clear land",
+              "full_vn": "phá hoang"
+            },
+            {
+              "full_en": "to clear the table",
+              "full_vn": "dọn bàn"
+            },
+            {
+              "full_en": "clear the way !",
+              "full_vn": "đứng dãn ra!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vét sạch, lấy đi, mang đi, dọn đi",
+          "list_en_vn": [
+            {
+              "full_en": "to clear the letter-box",
+              "full_vn": "lấy thư"
+            },
+            {
+              "full_en": "to clear these boxes out of the way",
+              "full_vn": "mang những cái hòm này ra chỗ khác"
+            },
+            {
+              "full_en": "to clear obstruction out of the way",
+              "full_vn": "dọn sạch vật chướng ngại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vượt, nhảy qua; (hàng hải) tránh, đi né sang bên",
+          "list_en_vn": [
+            {
+              "full_en": "to clear a hedge",
+              "full_vn": "vượt qua rào"
+            },
+            {
+              "full_en": "to clear the reefs",
+              "full_vn": "tránh những tảng đá ngầm (thuyền bè...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lãi, lãi đứt đi"
+        },
+        {
+          "m_full_vn": "trả hết, thanh toán, trang trải (nợ, sổ sách); (hàng hải) trả hết mọi khoản thuế để tàu có thể rời bến; làm mọi thủ tục để có thể cho tàu rời bến",
+          "list_en_vn": [
+            {
+              "full_en": "to clear debts",
+              "full_vn": "thanh toán nợ"
+            },
+            {
+              "full_en": "to clear goods",
+              "full_vn": "trả thuế hải quan (để lấy hàng hoặc gửi hàng)"
+            },
+            {
+              "full_en": "to clear a ship",
+              "full_vn": "làm thủ tục trả các thứ thuế để cho tàu rời bến"
+            },
+            {
+              "full_en": "to clear the harbour",
+              "full_vn": "rời bến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyển (séc)",
+          "list_en_vn": [
+            {
+              "full_en": "to clear a cheque",
+              "full_vn": "chuyển séc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ, (thường) + up",
+      "list_m": [
+        {
+          "m_full_vn": "sáng sủa ra, trở nên trong trẻo (bầu trời); tươi lên, hết nhăn nhó (mặt)"
+        },
+        {
+          "m_full_vn": "( (thường) + up ) sáng tỏ (điều bí mật, tình hình...)"
+        },
+        {
+          "m_full_vn": "(hàng hải) rời bến",
+          "list_en_vn": [
+            {
+              "full_en": "the ship cleared for Shanghai yesterday",
+              "full_vn": "con tàu rời bến đi Thượng hải từ hôm qua"
+            },
+            {
+              "full_en": "to clear from a port",
+              "full_vn": "đến bến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + away , off , out ) chuồn, cút, tẩu",
+          "list_en_vn": [
+            {
+              "full_en": "clear out !",
+              "full_vn": "cút ngay!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tan đi, tiêu tan, tan biến"
+        },
+        {
+          "m_full_vn": "(từ lóng) biến mất (người)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to clear away",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy đi, dọn đi, mang đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to clear away the table",
+                      "full_vn": "thu dọn bàn ăn (sau bữa ăn)"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "làm tan; làm biến đi (mối nghi ngờ, mây mù)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clear off",
+              "list_im": [
+                {
+                  "im_full_vn": "trả hết, thanh toán (nợ nần...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clear out",
+              "list_im": [
+                {
+                  "im_full_vn": "quét sạch, vét sạch, dọn sạch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to clear someone out",
+                      "full_vn": "(thông tục) tống cổ ai ra khỏi nhà, đuổi ai đi"
+                    },
+                    {
+                      "full_en": "to clear out a stock",
+                      "full_vn": "bán tống bán tháo hàng tồn kho"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clear up",
+              "list_im": [
+                {
+                  "im_full_vn": "dọn dẹp (một căn buồng)"
+                },
+                {
+                  "im_full_vn": "làm sáng tỏ; giải quyết (nột vấn đề...)"
+                },
+                {
+                  "im_full_vn": "làm tiêu tan (sự hiểu lầm...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348507_d0f16581d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348507_266e9aaa46_o.png",
+      "id_image": "clear_1719139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419308_be9b72f7db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419308_7726bfc205_o.png",
+      "id_image": "clear_2598786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419293_dc7bb3366b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419293_d46a191821_o.png",
+      "id_image": "clear_4647935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659624_62391c526e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659624_8c16e1a4cc_o.png",
+      "id_image": "clear_552424"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "clay",
+  "phat_am": "[klei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đất sét",
+          "list_en_vn": [
+            {
+              "full_en": "clay pipe",
+              "full_vn": "ống điếu làm bằng đất sét"
+            },
+            {
+              "full_en": "clay pigeon",
+              "full_vn": "dĩa dùng làm mục tiêu tập bắn trên không"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cơ thể người",
+          "list_one_mean": [
+            {
+              "id_full_en": "to wet (moisten ) one's clay",
+              "list_im": [
+                {
+                  "im_full_vn": "uống (nước...) nhấp giọng"
+                },
+                {
+                  "im_full_vn": "ống điếu bằng đất sét ( (cũng) clay pipe )"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419633_88c8866090_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419633_47736736cd_o.png",
+      "id_image": "clay_1594705"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041465_cffb43ee20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041465_7d3412cf4f_o.png",
+      "id_image": "clay_2047109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041445_04231fd98c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041445_313d9042ae_o.png",
+      "id_image": "clay_5350443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348767_ed80a7c59d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348767_096fd75f6c_o.png",
+      "id_image": "clay_5350529"
+    }
+  ]
+}

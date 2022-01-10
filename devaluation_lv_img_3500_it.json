@@ -1,0 +1,27 @@
+{
+  "english": "devaluation",
+  "phat_am": "[,di:vælju'ei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phá giá; sự mất giá (tiền tệ)",
+          "list_en_vn": [
+            {
+              "full_en": "there's been a further devaluation of the dollar",
+              "full_vn": "đồng đô la vừa mới mất giá thêm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063130_06afc59f66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063130_dc95e14015_o.png",
+      "id_image": "devaluation_301095"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "english": "couch",
+  "phat_am": "[kaut∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghế dài giống như giường (để ngồi hoặc để nằm); ghế trường kỷ; đi-văng"
+        },
+        {
+          "m_full_vn": "giường",
+          "list_en_vn": [
+            {
+              "full_en": "on a couch of pain",
+              "full_vn": "trên giường bệnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hang (chồn, cáo...)"
+        },
+        {
+          "m_full_vn": "chỗ rải ủ lúa mạch (để làm rượu bia)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) động tính từ quá khứ) nằm xuống, nằm dài ra"
+        },
+        {
+          "m_full_vn": "diễn đạt, diễn tả",
+          "list_en_vn": [
+            {
+              "full_en": "couched in writing",
+              "full_vn": "diễn đạt bằng văn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ẩn, che đậy",
+          "list_en_vn": [
+            {
+              "full_en": "irony couched under compliment",
+              "full_vn": "sự mỉa mai che đậy dưới hình thức lời ca ngợi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) đánh màng, đánh mộng (mắt)"
+        },
+        {
+          "m_full_vn": "đặt ngang (ngọn giáo, để chuẩn bị tấn công)"
+        },
+        {
+          "m_full_vn": "rải ủ (lúa mạch) cho nẩy mầm"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nằm, nằm dài ra (thú dữ trong hang)"
+        },
+        {
+          "m_full_vn": "ẩn náu, núp trốn"
+        },
+        {
+          "m_full_vn": "nằm phục kích"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373087_8dc7f42ff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373087_aa16322d9e_o.png",
+      "id_image": "couch_2357030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065100_c4dfac4a6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065100_92af03826e_o.png",
+      "id_image": "couch_3049599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328261_8fc2b635ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328261_ae8b1d7114_o.png",
+      "id_image": "couch_5683972"
+    }
+  ]
+}

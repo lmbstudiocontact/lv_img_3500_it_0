@@ -1,0 +1,43 @@
+{
+  "english": "contagion",
+  "phat_am": "[kən'teidʒən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) sự lây bệnh"
+        },
+        {
+          "m_full_vn": "bệnh truyền qua tiếp xúc; bệnh lây",
+          "list_en_vn": [
+            {
+              "full_en": "fear spreads through the crowd like a contagion",
+              "full_vn": "nỗi sợ hãi lan nhanh trong đám đông như một bệnh truyền nhiễm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ảnh hưởng dễ tiêm nhiễm, ảnh hưởng xấu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045020_b83ff6e97c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045020_cc27b54bbe_o.png",
+      "id_image": "contagion_2688360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663309_32c95a4207_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663309_f18278448f_o.png",
+      "id_image": "contagion_2927191"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352152_74cab0563c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352152_072d68efaa_o.png",
+      "id_image": "contagion_3734017"
+    }
+  ]
+}

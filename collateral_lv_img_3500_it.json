@@ -1,0 +1,46 @@
+{
+  "english": "collateral",
+  "phat_am": "[kɔ'lætərəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở bên"
+        },
+        {
+          "m_full_vn": "phụ thêm",
+          "list_en_vn": [
+            {
+              "full_en": "collateral evidence",
+              "full_vn": "bằng chứng thêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cùng họ nhưng khác chi, bàng hệ"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ ký quỹ ( (cũng) collateral security )"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437478_341a52b701_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437478_daa2d7e84b_o.png",
+      "id_image": "collateral_2620251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677294_74154c9165_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677294_28f77903a3_o.png",
+      "id_image": "collateral_5571336"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "english": "bet",
+  "phat_am": "[bet]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cá độ; sự đánh cuộc",
+          "list_en_vn": [
+            {
+              "full_en": "to lay /make a bet",
+              "full_vn": "đánh cuộc, cá độ"
+            },
+            {
+              "full_en": "to have a bet on the Derby",
+              "full_vn": "đánh cá con ngựa Derby"
+            },
+            {
+              "full_en": "to lose a bet",
+              "full_vn": "thua cuộc"
+            },
+            {
+              "full_en": "to win a bet",
+              "full_vn": "thắng cuộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền đánh cuộc; tiền cá độ; tiền đánh cá",
+          "list_en_vn": [
+            {
+              "full_en": "to place /put a bet on a horse",
+              "full_vn": "đặt tiền cá độ một con ngựa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời dự đoán",
+          "list_one_mean": [
+            {
+              "id_full_en": "one's best bet",
+              "list_im": [
+                {
+                  "im_full_vn": "xem best"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hedge one's bets",
+              "list_im": [
+                {
+                  "im_full_vn": "xem hedge"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "my bet is they are short of money",
+              "full_vn": "tôi đoán rằng họ thiếu tiền"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ, thì quá khứ và động tính từ quá khứ là bet hoặc betted",
+      "list_m": [
+        {
+          "m_full_vn": "( to bet something on something ) đánh cuộc; đánh cá",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bet on a certainty",
+              "list_im": [
+                {
+                  "im_full_vn": "chắc ăn rồi mới đánh cuộc; đánh cuộc nắm chắc phần thắng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bet one's shirt",
+              "list_im": [
+                {
+                  "im_full_vn": "bán cả khố đi mà đánh cuộc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you bet",
+              "list_im": [
+                {
+                  "im_full_vn": "anh có thể coi cái đó là một điều chắc chắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bet one's bottom dollar (on something /that ...)",
+              "list_im": [
+                {
+                  "im_full_vn": "chắc chắn 100 phần trăm về điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "do you bet your bottom dollar that he will be absent tonight ?",
+                      "full_vn": "bạn dám chắc 100 phần trăm rằng tối nay hắn sẽ vắng mặt?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to spend all one's money betting on horses",
+              "full_vn": "dốc hết tiền vào việc cá ngựa"
+            },
+            {
+              "full_en": "to bet on someone's winning",
+              "full_vn": "đánh cuộc ai thắng"
+            },
+            {
+              "full_en": "to bet against someone's winning",
+              "full_vn": "đánh cuộc ai thua"
+            },
+            {
+              "full_en": "daren't you bet me that he will prostrate himself at my feet ?",
+              "full_vn": "anh không dám đánh cuộc với tôi rằng nó sẽ quỳ lạy tôi hay sao?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662374_77a80b6f1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662374_4e534bf0a3_o.png",
+      "id_image": "bet_1901792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662339_1ed8586db1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662339_441a40af92_o.png",
+      "id_image": "bet_3824067"
+    }
+  ]
+}

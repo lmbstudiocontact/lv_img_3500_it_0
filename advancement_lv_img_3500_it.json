@@ -1,0 +1,54 @@
+{
+  "english": "advancement",
+  "phat_am": "[əd'vɑ:nsmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tiến lên; sự tiến bộ",
+          "list_en_vn": [
+            {
+              "full_en": "advancement of science",
+              "full_vn": "sự tiến bộ của khoa học; sự thúc đẩy cho khoa học tiến lên"
+            },
+            {
+              "full_en": "advancement in career",
+              "full_vn": "sự thăng tiến trong nghề nghiệp"
+            },
+            {
+              "full_en": "the advancement of learning",
+              "full_vn": "sự tiến bộ trong học tập"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thăng cấp bậc hoặc vị thế",
+          "list_en_vn": [
+            {
+              "full_en": "the job offers good opportunities for advancement",
+              "full_vn": "công việc tạo cơ hội tốt để thăng chức"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056690_b3b012e7db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056690_b601faa579_o.png",
+      "id_image": "advance_3775997"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675024_16de3b7572_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675024_ba3ce2b68c_o.png",
+      "id_image": "advantage_1622582"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364762_86cf567855_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364762_e3e2cae3ef_o.png",
+      "id_image": "advantage_5999981"
+    }
+  ]
+}

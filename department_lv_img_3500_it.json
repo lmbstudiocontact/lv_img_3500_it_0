@@ -1,0 +1,63 @@
+{
+  "english": "department",
+  "phat_am": "[di'pɑ:tmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) là Dept một trong những bộ phận của một chính phủ, doanh nghiệp, cửa hàng, trường đại học...; bộ; ban; gian",
+          "list_en_vn": [
+            {
+              "full_en": "the Department of Environment",
+              "full_vn": "Bộ môi trường"
+            },
+            {
+              "full_en": "the Education Department",
+              "full_vn": "Bộ giáo dục"
+            },
+            {
+              "full_en": "Department of State",
+              "full_vn": "Bộ ngoại giao (ở Hoa Kỳ)"
+            },
+            {
+              "full_en": "Department of the Navy",
+              "full_vn": "Bộ hải quân"
+            },
+            {
+              "full_en": "the ladies' hat department",
+              "full_vn": "gian hàng bán mũ phụ nữ"
+            },
+            {
+              "full_en": "the men's clothing department",
+              "full_vn": "gian hàng bán quần áo nam giới"
+            },
+            {
+              "full_en": "a department store",
+              "full_vn": "cửa hàng mậu dịch tổng hợp; cửa hàng bách hoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khu hành chính (ở Pháp)"
+        },
+        {
+          "m_full_vn": "phạm vi hoạt động hoặc kiến thức; lĩnh vực",
+          "list_en_vn": [
+            {
+              "full_en": "Don't ask me about our finances : That's my wife's department",
+              "full_vn": "Đừng hỏi tôi về chuyện tài chính : Đó là lĩnh vực của nhà tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686119_5a472d771b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686119_8ccc4971ab_o.png",
+      "id_image": "department_2206541"
+    }
+  ]
+}

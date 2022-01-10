@@ -1,0 +1,54 @@
+{
+  "english": "affection",
+  "phat_am": "[ə'fek∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( affection for / towards somebody / something ) cảm giác ưa thích, yêu mến",
+          "list_en_vn": [
+            {
+              "full_en": "he felt great affection for his sister",
+              "full_vn": "anh ta cảm thấy rất thương chị mình"
+            },
+            {
+              "full_en": "to hold somebody in great affection",
+              "full_vn": "rất yêu mến ai"
+            },
+            {
+              "full_en": "I tried to win her affection (s )",
+              "full_vn": "Tôi cố gắng chiếm cảm tình của cô ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bệnh tật hoặc tình trạng bệnh tật",
+          "list_en_vn": [
+            {
+              "full_en": "an affection of the throat",
+              "full_vn": "bệnh viêm họng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319066_ab7067004f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319066_a34b711f45_o.png",
+      "id_image": "affection_2651001"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055640_77b3687536_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055640_cfe4878ebe_o.png",
+      "id_image": "affection_2651056"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363727_9d2fb75749_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363727_cf58628564_o.png",
+      "id_image": "affection_708690"
+    }
+  ]
+}

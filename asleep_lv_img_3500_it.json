@@ -1,0 +1,37 @@
+{
+  "english": "asleep",
+  "phat_am": "[ə'sli:p]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngủ, đang ngủ",
+          "list_en_vn": [
+            {
+              "full_en": "to fall asleep",
+              "full_vn": "ngủ thiếp đi"
+            },
+            {
+              "full_en": "to be asleep",
+              "full_vn": "ngủ, đang ngủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tê cóng, tê bại (chân tay)"
+        },
+        {
+          "m_full_vn": "quay tít (con cù)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303886_9401445fdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303886_d7e20e24d7_o.png",
+      "id_image": "asleep_1320917"
+    }
+  ]
+}

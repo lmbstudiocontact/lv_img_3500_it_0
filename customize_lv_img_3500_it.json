@@ -1,0 +1,51 @@
+{
+  "english": "customize",
+  "phat_am": "['kʌstəmaiz]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm theo yêu cầu của khách hàng",
+          "list_en_vn": [
+            {
+              "full_en": "to customize a car",
+              "full_vn": "chế tạo (hoặc sửa chữa) một chiếc xe hơi theo yêu cầu của chủ xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) tùy biến",
+          "list_en_vn": [
+            {
+              "full_en": "to customize a toolbar",
+              "full_vn": "tùy biến một thanh công cụ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357487_271775bae7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357487_2a32597202_o.png",
+      "id_image": "customize_1248146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668214_ce7bd1688e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668214_68bc4f78b0_o.png",
+      "id_image": "customize_2721587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357517_9c586c8f57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357517_1289b627de_o.png",
+      "id_image": "customize_407792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313396_d6c92886a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313396_7fe6bb8e22_o.png",
+      "id_image": "customize_4176919"
+    }
+  ]
+}

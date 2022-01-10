@@ -1,0 +1,57 @@
+{
+  "english": "cabin",
+  "phat_am": "['kæbin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "buồng nhỏ hoặc khoang trên tàu thủy, máy bay hoặc tàu vũ trụ; ca-bin",
+          "list_en_vn": [
+            {
+              "full_en": "to book a cabin on a boat",
+              "full_vn": "đăng ký một buồng trên tàu"
+            },
+            {
+              "full_en": "the pilot's cabin",
+              "full_vn": "buồng lái của phi công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhà gỗ nhỏ, túp lều"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ ( (thường) ở dạng bị động)",
+      "list_m": [
+        {
+          "m_full_vn": "nhốt vào chỗ chật hẹp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422238_557562634c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422238_327ebc2dc0_o.png",
+      "id_image": "cabin_1348663"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044095_b68afcb8f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044095_332a1567cf_o.png",
+      "id_image": "cabin_3762888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307026_e3d723bcfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307026_944fe540b3_o.png",
+      "id_image": "cabin_3827704"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662414_8194eb3693_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662414_125123a695_o.png",
+      "id_image": "cabin_613855"
+    }
+  ]
+}

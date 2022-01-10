@@ -1,0 +1,64 @@
+{
+  "english": "cocktail",
+  "phat_am": "['kɔkteil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ uống pha bằng rượu mạnh với nước hoa quả....; cốc-tai",
+          "list_en_vn": [
+            {
+              "full_en": "a cocktail party",
+              "full_vn": "một bữa tiệc rượu cốc-tai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "món ăn hải sản hoặc hoa quả",
+          "list_en_vn": [
+            {
+              "full_en": "prawn cocktail",
+              "full_vn": "món tôm cốc-tai"
+            },
+            {
+              "full_en": "fruit cocktail",
+              "full_vn": "món hoa quả cốc-tai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất kỳ sự pha trộn hợp chất nào",
+          "list_en_vn": [
+            {
+              "full_en": "a lethal cocktail of drugs",
+              "full_vn": "một hợp chất thuốc có thể gây chết người"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326031_8f91dbe0bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326031_dc5f494f54_o.png",
+      "id_image": "cocktail_282728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370777_53b0d71e9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370777_6f7e70bde6_o.png",
+      "id_image": "cocktail_282741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325961_d74a1fc21d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325961_3606ddd61d_o.png",
+      "id_image": "cocktail_545080"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325916_8ce767f28d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325916_6bf232dc6f_o.png",
+      "id_image": "cocktail_545093"
+    }
+  ]
+}

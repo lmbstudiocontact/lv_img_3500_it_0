@@ -1,0 +1,45 @@
+{
+  "english": "bale",
+  "phat_am": "[beil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiện (hàng...)",
+          "list_en_vn": [
+            {
+              "full_en": "a bale of cotton",
+              "full_vn": "kiện bông"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng thành kiện",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bale out of the airplane",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng dù nhảy ra khỏi máy bay (do máy bay hỏng, không điều khiển được)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433788_3317a2dd6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433788_a3b60b55dc_o.png",
+      "id_image": "bale_123947"
+    }
+  ]
+}

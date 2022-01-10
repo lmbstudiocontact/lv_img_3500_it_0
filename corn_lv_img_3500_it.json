@@ -1,0 +1,128 @@
+{
+  "english": "corn",
+  "phat_am": "[kɔ:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cục chai ở chân",
+          "list_one_mean": [
+            {
+              "id_full_en": "one's pet corn",
+              "list_im": [
+                {
+                  "im_full_vn": "chỗ đau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tread on someone's corns",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) tread"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hạt ngũ cốc"
+        },
+        {
+          "m_full_vn": "cây ngũ cốc"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) ngô, bắp ( (cũng) Indian corn )"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) rượu ngô",
+          "list_one_mean": [
+            {
+              "id_full_en": "to acknowledge the corn",
+              "list_im": [
+                {
+                  "im_full_vn": "công nhận lời của ai là đúng"
+                },
+                {
+                  "im_full_vn": "nhận lỗi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry corn",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) lợi dụng sự may mắn một cách khôn ngoan; lợi dụng sự thành công một cách khôn ngoan"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel somebody on soft corn",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) khen ai, tán tụng ai, cho ai đi tàu bay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to measure another's corn by one's own bushel",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bushel"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "muối bằng muối hột, muối (thịt...)",
+          "list_en_vn": [
+            {
+              "full_en": "corned beef",
+              "full_vn": "thịt bò muối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) viên thành hạt nhỏ"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) nuôi bằng ngô"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331926_29509d0b3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331926_8df01a5b38_o.png",
+      "id_image": "corn_1408034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068580_bd6f13b432_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068580_dbf28f038a_o.png",
+      "id_image": "corn_1488298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068675_9e478e0864_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068675_7d37329246_o.png",
+      "id_image": "corn_517606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446993_e9a0e2d24f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446993_26d1f4d66a_o.png",
+      "id_image": "corn_525038"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "english": "claw",
+  "phat_am": "[klɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vuốt (mèo, chim)"
+        },
+        {
+          "m_full_vn": "chân có vuốt"
+        },
+        {
+          "m_full_vn": "càng (cua...)"
+        },
+        {
+          "m_full_vn": "vật hình móc"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cam, vấu, cái kẹp"
+        },
+        {
+          "m_full_vn": "(thông tục) tay",
+          "list_one_mean": [
+            {
+              "id_full_en": "to draw in one's claw",
+              "list_im": [
+                {
+                  "im_full_vn": "bớt hăng, bớt sôi nổi; có thái độ ôn hoà hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pare (cut ) someone's claw",
+              "list_im": [
+                {
+                  "im_full_vn": "bẻ móng vuốt của ai (bóng)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "hold out your claw",
+              "full_vn": "đưa tay ra đây"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quắp (bằng vuốt)"
+        },
+        {
+          "m_full_vn": "quào, cào; xé (bằng vuốt)"
+        },
+        {
+          "m_full_vn": "gãi"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + at ) móc vào, bám lấy; vồ, chụp bằng móng",
+          "list_en_vn": [
+            {
+              "full_en": "the tiger clawed at the pig",
+              "full_vn": "hổ vồ lợn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + off ) (hàng hải) ra khơi, ra khỏi bến cảng (thuyền)",
+          "list_one_mean": [
+            {
+              "id_full_en": "claw me and I'll claw you",
+              "list_im": [
+                {
+                  "im_full_vn": "hãy đề cao tôi, tôi lại đề cao anh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348847_506e5628cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348847_52da632686_o.png",
+      "id_image": "claw_1408443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660079_df253776d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660079_6477ca5638_o.png",
+      "id_image": "claw_464491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304691_136817ee14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304691_609a317102_o.png",
+      "id_image": "claw_815954"
+    }
+  ]
+}

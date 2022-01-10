@@ -1,0 +1,89 @@
+{
+  "english": "bubble",
+  "phat_am": "['bʌbl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bong bóng, bọt, tăm",
+          "list_en_vn": [
+            {
+              "full_en": "soap bubble",
+              "full_vn": "bong bóng, xà bông"
+            },
+            {
+              "full_en": "to blow bubbles",
+              "full_vn": "thổi bong bóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều hão huyền, ảo tưởng"
+        },
+        {
+          "m_full_vn": "sự sôi sùng sục, sự sủi tăm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to prick the bubble",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) prick"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nổi bong bóng, nổi bọt"
+        },
+        {
+          "m_full_vn": "sôi sùng sục, nổi tăm (nước)"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) đánh lừa, lừa bịp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bubble over with joy",
+              "list_im": [
+                {
+                  "im_full_vn": "mừng quýnh lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bubble over with wrath",
+              "list_im": [
+                {
+                  "im_full_vn": "giận sôi lên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050280_264ed8db2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050280_676886f582_o.png",
+      "id_image": "bubbles_2101422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357777_4fdd54b832_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357777_4fb488275b_o.png",
+      "id_image": "bubbles_2383853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668514_5085b48967_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668514_52ef345d05_o.png",
+      "id_image": "bubbles_525797"
+    }
+  ]
+}

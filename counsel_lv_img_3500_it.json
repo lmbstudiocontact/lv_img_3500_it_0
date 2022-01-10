@@ -1,0 +1,92 @@
+{
+  "english": "counsel",
+  "phat_am": "['kaunsəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hỏi ý kiến, sự bàn bạc",
+          "list_en_vn": [
+            {
+              "full_en": "to take counsel with somebody",
+              "full_vn": "hội ý với ai, bàn bạc với ai"
+            },
+            {
+              "full_en": "to take counsel together",
+              "full_vn": "cùng nhau bàn bạc trao đổi ý kiến với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời khuyên, lời chỉ bảo",
+          "list_en_vn": [
+            {
+              "full_en": "to give good counsel",
+              "full_vn": "góp lời khuyên tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý định, dự định",
+          "list_en_vn": [
+            {
+              "full_en": "to keep one's own counsel",
+              "full_vn": "giữ bí mật, không để lộ ý định của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "luật sư; nhóm luật sư (trong một vụ kiện)",
+          "list_en_vn": [
+            {
+              "full_en": "to be counsel for the plaintiff",
+              "full_vn": "làm luật sư cho nguyên đơn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khuyên răn, khuyên bảo, chỉ bảo",
+          "list_en_vn": [
+            {
+              "full_en": "to counsel someone to do something",
+              "full_vn": "khuyên ai làm gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372757_26124dcfe0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372757_73ca469303_o.png",
+      "id_image": "counseling_1686743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327966_bdfd42a3e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327966_498c0b9af5_o.png",
+      "id_image": "counseling_4899603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064600_baf4a7ab1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064600_48c5873441_o.png",
+      "id_image": "counseling_5526411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064555_4994cfbed3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064555_d3aa8c3531_o.png",
+      "id_image": "counseling_6000924"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328031_c09dcda1e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328031_bce7d4d642_o.png",
+      "id_image": "counsel_2905996"
+    }
+  ]
+}

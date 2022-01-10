@@ -1,0 +1,46 @@
+{
+  "english": "compensator",
+  "phat_am": "['kɔmpenseitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cơ cấu bù, cái bù",
+          "list_en_vn": [
+            {
+              "full_en": "optical compensator",
+              "full_vn": "cái bù quang học"
+            },
+            {
+              "full_en": "sensivity compensator",
+              "full_vn": "cái bù độ nhạy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671609_6f826c50e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671609_a0c2359800_o.png",
+      "id_image": "compensation_2586927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431938_0f30a75be2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431938_ed86bc73d3_o.png",
+      "id_image": "compensation_2631378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431918_869805e848_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431918_3615650b8c_o.png",
+      "id_image": "compensation_2631381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053275_9574d589b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053275_f3f8641b00_o.png",
+      "id_image": "compensation_5781691"
+    }
+  ]
+}

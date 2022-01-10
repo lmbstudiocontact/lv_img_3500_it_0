@@ -1,0 +1,178 @@
+{
+  "english": "deposit",
+  "phat_am": "[di'pɔzit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoản tiền gửi vào một tài khoản (ở ngân hàng)",
+          "list_en_vn": [
+            {
+              "full_en": "a 200-dollar deposit",
+              "full_vn": "khoản tiền gửi 200 đô la"
+            },
+            {
+              "full_en": "she made two deposits of 1000 dollars last month",
+              "full_vn": "tháng rồi cô ấy gửi hai khoản tiền 1000 đô la"
+            },
+            {
+              "full_en": "deposit account",
+              "full_vn": "tài khoản tiền gửi, tài khoản ký thác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc chi trả một phần của một khoản tiền lớn hơn, phần còn lại sẽ được trả sau; tiền đặt cọc",
+          "list_en_vn": [
+            {
+              "full_en": "to leave some money as a deposit",
+              "full_vn": "để tiền đặt cọc"
+            },
+            {
+              "full_en": "the shop promised to keep the goods for me if I paid a deposit",
+              "full_vn": "cửa hàng hứa sẽ giữ hàng cho tôi nếu tôi trả một khoản tiền đặt cọc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "món tiền mà ai trả trước, trong trường hợp anh ta làm hỏng hoặc làm mất cái mà anh ta đang thuê; tiền ký quỹ",
+          "list_en_vn": [
+            {
+              "full_en": "I'd to pay a 5000-franc deposit to the landlord before I could move into the house",
+              "full_vn": "tôi phả trả 5000 frăng tiền ký quỹ cho chủ nhà trước khi dọn vào nhà đó ở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớp chất đọng lại do một chất lỏng, dòng sông...",
+          "list_en_vn": [
+            {
+              "full_en": "a thick deposit of mud lay on the fields when the flood went down",
+              "full_vn": "một lớp bùn lắng dầy lắng đọng lại trên các cánh đồng khi cơn lũ rút đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) lớp chất nằm sâu trong lòng đất, được tích tụ một cách tự nhiên; trầm tích",
+          "list_one_mean": [
+            {
+              "id_full_en": "on deposit",
+              "list_im": [
+                {
+                  "im_full_vn": "trong một tài khoản tiền gửi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to have 5000 dollars on deposit",
+                      "full_vn": "có 5000 đô la tiền gửi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "valuable deposits of oil have been found by drilling",
+              "full_vn": "những trầm tích dầu có giá trị đã được phát hiện qua khoan thử"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gửi (tiền) vào ngân hàng để lấy lãi",
+          "list_en_vn": [
+            {
+              "full_en": "the cheque was only deposited yesterday , so it hasn't been cleared yet",
+              "full_vn": "tờ séc này mới được gửi hôm qua, nên chưa thanh toán được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trao vật gì quý giá cho ai để giữ ở một nơi an toàn; ký thác",
+          "list_en_vn": [
+            {
+              "full_en": "to deposit papers with one's lawyer",
+              "full_vn": "ký thác giấy tờ cho luật sư của mình giữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chi trả cái gì coi như một phần của một khoản tiền lớn hơn, phần còn lại sẽ trả sau; đặt cọc",
+          "list_en_vn": [
+            {
+              "full_en": "I had to deposit 10% of the price of the house",
+              "full_vn": "tôi phải đặt cọc 10 % giá tiền ngôi nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trả một món tiền để đảm bảo cho trường hợp vật thuê bị mất hoặc hư hỏng; ký quỹ",
+          "list_en_vn": [
+            {
+              "full_en": "you must deposit 5000 francs as well as the first month's rent",
+              "full_vn": "anh phải ký quỹ 5000 frăng và tiền thuê tháng đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nhất là nói về chất lỏng hoặc một con sông) làm cho (bùn, phù sa) lắng xuống",
+          "list_en_vn": [
+            {
+              "full_en": "The Nile floods the fields and deposits mud on them",
+              "full_vn": "Sông Nin làm ngập lụt các cánh đồng và làm lắng đọng một lớp bùn trên bề mặt chúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để hoặc đặt cái gì xuống",
+          "list_en_vn": [
+            {
+              "full_en": "she deposited her child in the cradle",
+              "full_vn": "chị ta đặt con vào nôi"
+            },
+            {
+              "full_en": "he deposited the books on the desk",
+              "full_vn": "anh ta đặt các quyển sách xuống bàn"
+            },
+            {
+              "full_en": "some insects deposit their eggs on the ground",
+              "full_vn": "một số loại côn trùng đẻ trứng trên mặt đất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375137_04f4b490b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375137_a0abdfb591_o.png",
+      "id_image": "deposit_1610402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445413_a4561d7d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445413_51ae94df2f_o.png",
+      "id_image": "deposit_2867595"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685539_e43f38ae45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685539_422e535e85_o.png",
+      "id_image": "deposit_422158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375077_a024074ff5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375077_750db63588_o.png",
+      "id_image": "deposit_4237074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375022_311951ab84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375022_66d6a3d17e_o.png",
+      "id_image": "deposit_5848031"
+    }
+  ]
+}

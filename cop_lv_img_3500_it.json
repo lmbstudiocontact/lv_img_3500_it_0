@@ -1,0 +1,51 @@
+{
+  "english": "cop",
+  "phat_am": "[kɔp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "suốt chỉ, con chỉ"
+        },
+        {
+          "m_full_vn": "(từ lóng) cảnh sát, mật thám, cớm"
+        },
+        {
+          "m_full_vn": "(từ lóng) sự bắt được, sự tóm được",
+          "list_en_vn": [
+            {
+              "full_en": "a fair cop",
+              "full_vn": "sự bị tóm gọn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) bắt được, tóm được",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cop it",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) bị phạt, bị chỉnh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070210_ebc97d90b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070210_ecd2bd7ce4_o.png",
+      "id_image": "cop_1865647"
+    }
+  ]
+}

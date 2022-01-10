@@ -1,0 +1,50 @@
+{
+  "english": "alignment",
+  "phat_am": "[ə'lainmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sắp thẳng hàng, sự sắp hàng",
+          "list_en_vn": [
+            {
+              "full_en": "out of alignment",
+              "full_vn": "không thẳng hàng"
+            },
+            {
+              "full_en": "in alignment with",
+              "full_vn": "thẳng hàng với"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự liên kết",
+          "list_en_vn": [
+            {
+              "full_en": "the alignment of German nazism with Japanese militarism",
+              "full_vn": "sự liên kết của chủ nghĩa quốc xã Đức với chủ nghĩa quân phiệt Nhật"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671084_d0b664f669_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671084_d0d7a6a4f4_o.png",
+      "id_image": "alignment_1833886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360632_fdb4137fd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360632_c4d3be10d2_o.png",
+      "id_image": "alignment_2844271"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316376_1298f6b473_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316376_41ac263418_o.png",
+      "id_image": "alignment_4845855"
+    }
+  ]
+}

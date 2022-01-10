@@ -1,0 +1,94 @@
+{
+  "english": "complex",
+  "phat_am": "['kɔmpleks]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "phức tạp, rắc rối",
+          "list_en_vn": [
+            {
+              "full_en": "a complex question /argument /theory",
+              "full_vn": "một vấn đề/lý lẽ/lý thuyết phức tạp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "do nhiều bộ phận liên hệ chặt chẽ với nhau hợp thành; phức hợp",
+          "list_en_vn": [
+            {
+              "full_en": "complex sentence",
+              "full_vn": "câu phức (câu có mệnh đề phụ)"
+            },
+            {
+              "full_en": "a complex system /network",
+              "full_vn": "một hệ thống/mạng lưới phức tạp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhóm những cái gì có quan hệ với nhau hoặc giống nhau; khu liên hợp",
+          "list_en_vn": [
+            {
+              "full_en": "a big industrial complex",
+              "full_vn": "một khu liên hợp công nghiệp lớn"
+            },
+            {
+              "full_en": "a sports /leisure complex",
+              "full_vn": "một khu liên hợp thể thao/giải trí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nỗi lo sợ ám ảnh",
+          "list_en_vn": [
+            {
+              "full_en": "he has a complex about his weight /has a weight complex",
+              "full_vn": "nó luôn luôn lo lắng về sức nặng của cơ thể nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trạng thái tâm thần không bình thường do kinh nghiệm cũ hoặc những ham muốn bị dồn nén gây ra; phức cảm; mặc cảm",
+          "list_one_mean": [
+            {
+              "id_full_en": "inferiority complex",
+              "list_im": [
+                {
+                  "im_full_vn": "(tâm lý học) phức cảm tự ti"
+                }
+              ]
+            },
+            {
+              "id_full_en": "superiority complex",
+              "list_im": [
+                {
+                  "im_full_vn": "(tâm lý học) phức cảm tự tôn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a persecution complex",
+              "full_vn": "mặc cảm bị ngược đãi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670714_4a58fb300a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670714_078fb8fa25_o.png",
+      "id_image": "complex_6133813"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "brochure",
+  "phat_am": "['brou∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sách mỏng hoặc sách nhỏ thông tin hoặc quảng cáo về cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "a World Cup brochure",
+              "full_vn": "sách nhỏ quảng cáo Cúp bóng đá thế giới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051790_4892754fc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051790_5f2ba08063_o.png",
+      "id_image": "brochure_494715"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315226_7faba57a89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315226_4fef78f8d7_o.png",
+      "id_image": "brochure_538213"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359417_824d3ac0a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359417_acc8822035_o.png",
+      "id_image": "brochure_543931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315201_0d62f67678_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315201_43a531ba18_o.png",
+      "id_image": "brochure_5978612"
+    }
+  ]
+}

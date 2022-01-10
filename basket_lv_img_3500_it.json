@@ -1,0 +1,76 @@
+{
+  "english": "basket",
+  "phat_am": "['bɑ:skit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái rổ, cái giỏ, cái thúng",
+          "list_en_vn": [
+            {
+              "full_en": "fish basket",
+              "full_vn": "giỏ đựng cá"
+            },
+            {
+              "full_en": "a basket of eggs",
+              "full_vn": "một rổ trứng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tay cầm của roi song; roi song; roi mây"
+        },
+        {
+          "m_full_vn": "( định ngữ) hình rổ, hình giỏ"
+        },
+        {
+          "m_full_vn": "( định ngữ) bằng song, bằng mây",
+          "list_one_mean": [
+            {
+              "id_full_en": "like a basket of chips",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (đùa cợt) rất có duyên, rất dễ thương"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the pick of the basket",
+              "list_im": [
+                {
+                  "im_full_vn": "những phần tử ưu tú; cái chọn lọc nhất, cái ngon nhất, cái ngon lành nhất"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ vào rổ, bỏ vào giỏ, bỏ vào thùng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429103_8db07d7cc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429103_ee115a21e9_o.png",
+      "id_image": "basket_207748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429053_82d641aaa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429053_e096e7865d_o.png",
+      "id_image": "basket_471446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429018_e7df12417a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429018_cf1ae89538_o.png",
+      "id_image": "basket_869006"
+    }
+  ]
+}

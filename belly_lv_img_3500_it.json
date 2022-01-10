@@ -1,0 +1,62 @@
+{
+  "english": "belly",
+  "phat_am": "['beli]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bụng; dạ dày",
+          "list_en_vn": [
+            {
+              "full_en": "with an empty belly",
+              "full_vn": "bụng đói"
+            },
+            {
+              "full_en": "to be belly- pinched",
+              "full_vn": "kiến bò bụng, đói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bầu (bình, lọ); chỗ khum lên (mặt đàn viôlông), chỗ phồng ra (buồm)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a hungry belly has no ears",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) bụng đói thì tai điếc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thường) + out phồng ra (cánh buồm...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663429_d54d77414d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663429_f6c53806c5_o.png",
+      "id_image": "belly_2367877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352287_871101d583_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352287_07901514dd_o.png",
+      "id_image": "belly_3979020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045055_bfba1e2cb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045055_a2d9666c8f_o.png",
+      "id_image": "belly_5571401"
+    }
+  ]
+}

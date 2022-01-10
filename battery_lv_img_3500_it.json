@@ -1,0 +1,74 @@
+{
+  "english": "battery",
+  "phat_am": "['bætəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(quân sự) khẩu đội pháo"
+        },
+        {
+          "m_full_vn": "(điện học) bộ pin, ắc-quy"
+        },
+        {
+          "m_full_vn": "bộ dụng cụ",
+          "list_en_vn": [
+            {
+              "full_en": "cooking battery",
+              "full_vn": "bộ đồ xoong chảo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dãy chuồng nuôi gà nhốt",
+          "list_en_vn": [
+            {
+              "full_en": "battery chicken",
+              "full_vn": "gà nhốt vỗ béo"
+            },
+            {
+              "full_en": "battery farm",
+              "full_vn": "trại gà chuồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) sự hành hung, sự bạo hành",
+          "list_one_mean": [
+            {
+              "id_full_en": "to turn someone's battery against himself",
+              "list_im": [
+                {
+                  "im_full_vn": "gậy ông đập lưng ông"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667694_6a7189fa4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667694_91d6ffefc4_o.png",
+      "id_image": "battery_252592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356782_ddf383a9ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356782_cdb81e452a_o.png",
+      "id_image": "battery_290136"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049320_5eb23605a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049320_2f0fc9be22_o.png",
+      "id_image": "battery_307139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427583_9050cdce57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427583_30ccb6e221_o.png",
+      "id_image": "battery_309122"
+    }
+  ]
+}

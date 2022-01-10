@@ -1,0 +1,27 @@
+{
+  "english": "advisory",
+  "phat_am": "[əd'vaizəri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tư vấn, cố vấn",
+          "list_en_vn": [
+            {
+              "full_en": "advisory council",
+              "full_vn": "hội đồng tư vấn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674354_40950bb154_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674354_5338189ffa_o.png",
+      "id_image": "advisory_6001105"
+    }
+  ]
+}

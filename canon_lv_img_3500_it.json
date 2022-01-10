@@ -1,0 +1,75 @@
+{
+  "english": "canon",
+  "phat_am": "['kænən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiêu chuẩn",
+          "list_en_vn": [
+            {
+              "full_en": "the canons of conduct",
+              "full_vn": "tiêu chuẩn tư cách đạo đức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) luật lệ, quy tắc, phép tắc"
+        },
+        {
+          "m_full_vn": "(tôn giáo) nghị định của giáo hội"
+        },
+        {
+          "m_full_vn": "(tôn giáo) kinh sách được công nhận"
+        },
+        {
+          "m_full_vn": "giáo sĩ"
+        },
+        {
+          "m_full_vn": "danh sách các tác phẩm được công nhận là đúng của một tác giả",
+          "list_en_vn": [
+            {
+              "full_en": "the Shakespearian canon",
+              "full_vn": "danh sách các tác phẩm được công nhận là đúng của Sếch-xpia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) ca-nông, luân khúc"
+        },
+        {
+          "m_full_vn": "cái móc chuông"
+        },
+        {
+          "m_full_vn": "(ngành in) chữ cỡ 48"
+        },
+        {
+          "m_full_vn": "(như) canyon"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067110_1730497653_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067110_1750fd345a_o.png",
+      "id_image": "canon_1461909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067040_1138b84747_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067040_cacbde7345_o.png",
+      "id_image": "canon_2464300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374997_70460809c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374997_cb2e600f97_o.png",
+      "id_image": "canon_384421"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685349_6c41821fd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685349_f12165be16_o.png",
+      "id_image": "canon_942374"
+    }
+  ]
+}

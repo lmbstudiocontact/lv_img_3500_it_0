@@ -1,0 +1,62 @@
+{
+  "english": "converse",
+  "phat_am": "['kɔnvə:s]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to converse with somebody about something ; to converse together ) nói chuyện, chuyện trò",
+          "list_en_vn": [
+            {
+              "full_en": "she sat conversing with the Prime Minister",
+              "full_vn": "bà ấy ngồi trò chuyện với Thủ tướng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều ngược lại",
+          "list_en_vn": [
+            {
+              "full_en": "He says she is satisfied , but I believe the converse to be true ; she's very dissatisfied",
+              "full_vn": "Anh ta nói rằng cô ấy hài lòng, nhưng tôi tin điều ngược lại mới đúng; cô ta rất bất bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(lô gích học) đảo đề"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trái ngược, nghịch đảo",
+          "list_en_vn": [
+            {
+              "full_en": "converse theorem",
+              "full_vn": "(toán học) định lý đảo"
+            },
+            {
+              "full_en": "they hold converse opinions",
+              "full_vn": "họ có những quan điểm trái ngược nhau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305716_1fdfb77d9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305716_a5c7fff3c3_o.png",
+      "id_image": "converse_1974761"
+    }
+  ]
+}

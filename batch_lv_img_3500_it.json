@@ -1,0 +1,66 @@
+{
+  "english": "batch",
+  "phat_am": "[bæt∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mẻ (bánh)"
+        },
+        {
+          "m_full_vn": "đợt, chuyến; khoá (học)",
+          "list_one_mean": [
+            {
+              "id_full_en": "of the same batch",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng một loạt, cùng một giuộc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a batch run",
+              "list_im": [
+                {
+                  "im_full_vn": "một đợt vận hành (kỹ thuật)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "batch processing",
+              "list_im": [
+                {
+                  "im_full_vn": "(tin học) sự xử lý theo khối"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a batch of books from London",
+              "full_vn": "một đợt sách từ Luân đôn tới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668554_246cd50597_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668554_687409fe26_o.png",
+      "id_image": "batch_1792350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357877_ce5f5ceb09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357877_186531f1cf_o.png",
+      "id_image": "batch_5132107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357852_ccc81d31fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357852_73415dec4f_o.png",
+      "id_image": "batch_5132121"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "english": "crow",
+  "phat_am": "[krou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con quạ"
+        },
+        {
+          "m_full_vn": "như crowbar",
+          "list_one_mean": [
+            {
+              "id_full_en": "as the crow flies",
+              "list_im": [
+                {
+                  "im_full_vn": "theo đường chim bay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat crow",
+              "list_im": [
+                {
+                  "im_full_vn": "thừa nhận rằng mình đã nói bậy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a crow to pick (pluck ) with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "có chuyện lôi thôi với ai; có chuyện cãi cọ với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "stone the crows",
+              "list_im": [
+                {
+                  "im_full_vn": "xem stone"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng gà gáy"
+        },
+        {
+          "m_full_vn": "tiếng trẻ con bi bô"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ, thì quá khứ là crew hoặc crowed , động tính từ quá khứ là crowed",
+      "list_m": [
+        {
+          "m_full_vn": "gáy (gà)"
+        },
+        {
+          "m_full_vn": "nói bi bô (trẻ con)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to crow over somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "thể hiện sự vui mừng chiến thắng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she won the competition and won't stop crowing (over her rivals /her rivals' failure )",
+                      "full_vn": "cô ta giành chiến thắng trong cuộc đua và sẽ không ngớt reo mừng (trước các đối thủ/sự thất bại của các đối thủ)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673324_fca39a94d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673324_0887866e74_o.png",
+      "id_image": "crow_249390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363042_c5816a24a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363042_256e0522c9_o.png",
+      "id_image": "crow_523534"
+    }
+  ]
+}

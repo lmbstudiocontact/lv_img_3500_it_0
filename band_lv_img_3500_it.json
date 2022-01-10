@@ -1,0 +1,123 @@
+{
+  "english": "band",
+  "phat_am": "[bænd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dải dẹt và mỏng, đai hoặc nẹp dùng để buộc đồ vật với nhau hoặc quấn quanh một vật cho chặt thêm; đai; nẹp",
+          "list_en_vn": [
+            {
+              "full_en": "iron bands round a barrel",
+              "full_vn": "những nẹp sắt bao quanh thùng gỗ"
+            },
+            {
+              "full_en": "papers kept together with a rubber band",
+              "full_vn": "những tập giấy buộc vào nhau bằng dây cao su"
+            },
+            {
+              "full_en": "the waistband of a dress",
+              "full_vn": "dải thắt lưng của áo dài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dải hoặc đường kẻ trên một cái gì, khác màu hoặc khác kiểu với phần còn lại; dải; băng; đường kẻ",
+          "list_en_vn": [
+            {
+              "full_en": "a white plate with a blue band round the edge",
+              "full_vn": "chiếc đĩa trắng có đường chỉ xanh viền mép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) một dải bước sóng trong giới hạn nhất định (cũng) waveband",
+          "list_en_vn": [
+            {
+              "full_en": "frequency band",
+              "full_vn": "dải tần số"
+            },
+            {
+              "full_en": "the 19-metre band",
+              "full_vn": "dải sóng 19 mét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm người cùng làm một việc gì; toán; tốp",
+          "list_en_vn": [
+            {
+              "full_en": "a band of robbers",
+              "full_vn": "một băng cướp"
+            },
+            {
+              "full_en": "a band of joiners",
+              "full_vn": "một tốp thợ mộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm người chơi nhạc cụ (nhất là nhạc cụ thổi); đội",
+          "list_en_vn": [
+            {
+              "full_en": "a brass band",
+              "full_vn": "đội kèn đồng"
+            },
+            {
+              "full_en": "a military band",
+              "full_vn": "đội quân nhạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm người chơi nhạc dân gian; ban nhạc; dàn nhạc",
+          "list_en_vn": [
+            {
+              "full_en": "a dance band",
+              "full_vn": "dàn nhạc nhảy"
+            },
+            {
+              "full_en": "a jazz band",
+              "full_vn": "ban nhạc jazz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "buộc dải lên xung quanh cái gì; buộc dải; đóng đai"
+        },
+        {
+          "m_full_vn": "( to band together ) tập hợp trong một nhóm",
+          "list_en_vn": [
+            {
+              "full_en": "to band together to protest",
+              "full_vn": "tập hợp lại để phản đối"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317471_2b73a6d42c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317471_f54a2e2aa3_o.png",
+      "id_image": "band_1058540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317436_816af71a89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317436_597c52a0ca_o.png",
+      "id_image": "band_1312020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053870_89ca18f360_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053870_b6ca2df01f_o.png",
+      "id_image": "band_2037800"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "english": "comb",
+  "phat_am": "[koum]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái lược",
+          "list_en_vn": [
+            {
+              "full_en": "a rake (large-tooth , dressing ) comb",
+              "full_vn": "lượt thưa"
+            },
+            {
+              "full_en": "a small-tooth comb",
+              "full_vn": "lượt bí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành dệt) bàn chải len"
+        },
+        {
+          "m_full_vn": "lỗ tổ ong"
+        },
+        {
+          "m_full_vn": "mào (gà)",
+          "list_en_vn": [
+            {
+              "full_en": "cock's comb",
+              "full_vn": "mào gà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đỉnh, chóp, ngọn đầu (núi, sóng...)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tính kiêu ngạo",
+          "list_en_vn": [
+            {
+              "full_en": "to cut someone's comb",
+              "full_vn": "làm cho ai mất kiêu ngạo, làm cho ai cụt vòi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chải (tóc, len, ngựa...)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) lùng, sục"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nổi cuồn cuộn, dập dồn (sóng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to comb out",
+              "list_im": [
+                {
+                  "im_full_vn": "chải cho hết rối, gỡ (tóc)"
+                },
+                {
+                  "im_full_vn": "lùng sục, bắt bớ, ráp (những người tình nghi...)"
+                },
+                {
+                  "im_full_vn": "thải, thải hồi (những thứ, những người không cần thiết)"
+                },
+                {
+                  "im_full_vn": "(thông tục) vét sạch (người để đưa ra mặt trận; hàng trong kho...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to comb somebody's hair",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hair"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675354_7a58bf658d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675354_95a3652370_o.png",
+      "id_image": "comb_2071615"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365447_79cf689de5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365447_aa595cb013_o.png",
+      "id_image": "comb_224014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320441_9824d7a4a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320441_2eabae33fa_o.png",
+      "id_image": "comb_410442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057180_892bfd69c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057180_a145fa2be4_o.png",
+      "id_image": "comb_456667"
+    }
+  ]
+}

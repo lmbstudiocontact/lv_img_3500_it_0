@@ -1,0 +1,121 @@
+{
+  "english": "collar",
+  "phat_am": "['kɔlə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cổ áo",
+          "list_en_vn": [
+            {
+              "full_en": "soft collar",
+              "full_vn": "cổ mềm"
+            },
+            {
+              "full_en": "stiff collar",
+              "full_vn": "cổ cứng"
+            },
+            {
+              "full_en": "detachable collar",
+              "full_vn": "cổ rời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vòng cổ (chó, ngựa)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) vòng đai; vòng đệm"
+        },
+        {
+          "m_full_vn": "vòng lông cổ (chim, thú)"
+        },
+        {
+          "m_full_vn": "chả cuộn (thịt, cá)",
+          "list_one_mean": [
+            {
+              "id_full_en": "byron collar",
+              "list_im": [
+                {
+                  "im_full_vn": "cổ hở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in collar",
+              "list_im": [
+                {
+                  "im_full_vn": "đang làm việc, đang có việc làm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be out of collar",
+              "list_im": [
+                {
+                  "im_full_vn": "không có việc làm, thất nghiệp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work against the collar",
+              "list_im": [
+                {
+                  "im_full_vn": "làm việc hết sức căng thẳng; vất vả cực nhọc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tóm, tóm cổ, bắt"
+        },
+        {
+          "m_full_vn": "(từ lóng) chiếm, lây, xoáy"
+        },
+        {
+          "m_full_vn": "cuôn lại mà nướng (thịt, cá)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) đóng đai"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) chặn (đối phương đang cầm bóng) (bóng bầu dục)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367317_0a376d32a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367317_dc95a18093_o.png",
+      "id_image": "collar_3436167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367272_511409f476_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367272_b9e17639c3_o.png",
+      "id_image": "collar_4310669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367232_8b5061861a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367232_b1a3bf9452_o.png",
+      "id_image": "collar_4690429"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677399_4e4f9f02c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677399_b9a3e1311b_o.png",
+      "id_image": "collar_6401235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437693_295cc59aee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437693_40acf21eb2_o.png",
+      "id_image": "collar_877111"
+    }
+  ]
+}

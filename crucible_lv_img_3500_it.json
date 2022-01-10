@@ -1,0 +1,40 @@
+{
+  "english": "crucible",
+  "phat_am": "['kru:sibl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nồi nấu kim loại"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cuộc thử thách gắt gao",
+          "list_en_vn": [
+            {
+              "full_en": "tempered in the crucible of the resistance",
+              "full_vn": "được tôi luyện trong lò lửa kháng chiến"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433288_a579d8c9c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433288_a4888fab2c_o.png",
+      "id_image": "crucible_1504097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054625_01fd64e575_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054625_3b03e1c32a_o.png",
+      "id_image": "crucible_1987365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362617_b4e491da6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362617_b1d2054513_o.png",
+      "id_image": "crucible_470512"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "english": "armband",
+  "phat_am": "['ɑ:mbænd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "băng làm bằng vật liệu nào đó quấn quanh cánh tay hoặc ống tay áo; băng tay",
+          "list_en_vn": [
+            {
+              "full_en": "tonight , all the insurgents will wear red armbands when attacking the enemy post in the town",
+              "full_vn": "đêm nay, tất cả quân khởi nghĩa đều sẽ đeo băng tay đỏ khi tấn công đồn giặc trong thị trấn"
+            },
+            {
+              "full_en": "many people at the funeral were wearing black armbands",
+              "full_vn": "nhiều người trong đám tang đeo băng tay đen"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350082_fe91530a3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350082_e46909bb70_o.png",
+      "id_image": "armband_1177623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350072_a3459c84fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350072_e6524bb1e8_o.png",
+      "id_image": "armband_1505366"
+    }
+  ]
+}

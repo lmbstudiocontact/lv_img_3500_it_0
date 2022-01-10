@@ -1,0 +1,75 @@
+{
+  "english": "dental",
+  "phat_am": "['dentl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) răng",
+          "list_en_vn": [
+            {
+              "full_en": "dental care",
+              "full_vn": "sự chăm sóc răng"
+            },
+            {
+              "full_en": "dental work /treatment",
+              "full_vn": "công việc chữa răng"
+            },
+            {
+              "full_en": "dental sound",
+              "full_vn": "(ngôn ngữ học) âm thanh phát ra nhờ chót lưỡi sát hoặc chạm vào răng cửa trên; âm răng"
+            },
+            {
+              "full_en": "dental floss",
+              "full_vn": "chỉ tơ mềm dùng làm sạch kẽ răng"
+            },
+            {
+              "full_en": "dental hygienist",
+              "full_vn": "người giúp việc cho nha sĩ bằng cách làm sạch và đánh bóng răng cho khách hàng; phụ tá của nha sĩ"
+            },
+            {
+              "full_en": "dental surgeon",
+              "full_vn": "bác sĩ nha khoa, nha sĩ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) âm răng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447188_a01a34e089_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447188_e5bfa64b84_o.png",
+      "id_image": "dental_1338957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068825_7101db16f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068825_3bf38d043d_o.png",
+      "id_image": "dental_1719175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376867_5d1b44b824_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376867_1f718305b3_o.png",
+      "id_image": "dental_1719216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687184_d5ea55471b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687184_97096cfe20_o.png",
+      "id_image": "dental_527024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332061_3d9337d601_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332061_c93c906bd3_o.png",
+      "id_image": "dental_5714939"
+    }
+  ]
+}

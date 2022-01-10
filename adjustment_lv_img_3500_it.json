@@ -1,0 +1,44 @@
+{
+  "english": "adjustment",
+  "phat_am": "[ə'dʒʌstmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sửa lại cho đúng, sự điều chỉnh, sự chỉnh lý",
+          "list_en_vn": [
+            {
+              "full_en": "adjustment in direction",
+              "full_vn": "(quân sự) sự điều chỉnh hướng"
+            },
+            {
+              "full_en": "adjustment in range",
+              "full_vn": "(quân sự) sự điều chỉnh tầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hoà giải, sự dàn xếp (mối bất hoà, cuộc phân tranh...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365912_0e693170de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365912_48293a4514_o.png",
+      "id_image": "adjustment_1892457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320926_0620ed4ee9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320926_38dab5b3f1_o.png",
+      "id_image": "adjustment_2062011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436233_825a1315da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436233_b047a76743_o.png",
+      "id_image": "adjust_6315924"
+    }
+  ]
+}

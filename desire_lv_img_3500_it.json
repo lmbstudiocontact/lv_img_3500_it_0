@@ -1,0 +1,83 @@
+{
+  "english": "desire",
+  "phat_am": "[di'zaiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thèm muốn; sự mong muốn, sự ao ước, sự khát khao, sự mơ ước, lòng thèm muốn, lòng khát khao",
+          "list_en_vn": [
+            {
+              "full_en": "to express a desire to do something",
+              "full_vn": "tỏ lòng mong muốn làm việc gì"
+            },
+            {
+              "full_en": "to satisfy a desire",
+              "full_vn": "thoả mãn một sự mơ ước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật mong muốn, vật ao ước"
+        },
+        {
+          "m_full_vn": "dục vọng"
+        },
+        {
+          "m_full_vn": "lời đề nghị, lời yêu cầu; lệnh",
+          "list_en_vn": [
+            {
+              "full_en": "to do something at the desire of somebody",
+              "full_vn": "làm việc gì theo lời yêu cầu của ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thèm muốn; mong muốn, ao ước, khát khao, mơ ước",
+          "list_en_vn": [
+            {
+              "full_en": "to desire something",
+              "full_vn": "ao ước cái gì"
+            },
+            {
+              "full_en": "to desire to do something",
+              "full_vn": "mong muốn làm việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đề nghị, yêu cầu; ra lệnh",
+          "list_en_vn": [
+            {
+              "full_en": "to desire somebody to do something",
+              "full_vn": "yêu cầu ai làm việc gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328766_0a7dbb6e38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328766_1d5606f18e_o.png",
+      "id_image": "desire_2620345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683794_577d1dc498_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683794_95a7fb1027_o.png",
+      "id_image": "desire_6213260"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683864_d1ca53a40a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683864_f8d641629a_o.png",
+      "id_image": "desire_708674"
+    }
+  ]
+}

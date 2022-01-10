@@ -1,0 +1,88 @@
+{
+  "english": "custom",
+  "phat_am": "['kʌstəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phong tục; tục lệ",
+          "list_en_vn": [
+            {
+              "full_en": "it's difficult to get used to another country's customs",
+              "full_vn": "khó có thể quen được với phong tục của một nước khác"
+            },
+            {
+              "full_en": "the customs of the Vietnamese",
+              "full_vn": "phong tục của người Việt Nam"
+            },
+            {
+              "full_en": "to be a slave to custom",
+              "full_vn": "quá lệ thuộc vào tập tục"
+            },
+            {
+              "full_en": "procedures laid down by ancient custom",
+              "full_vn": "các thủ tục do tục lệ cổ xưa đề ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thói quen",
+          "list_en_vn": [
+            {
+              "full_en": "it's my custom to rise early",
+              "full_vn": "tôi có thói quen dậy sớm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự quen mua hàng, sự làm khách hàng; khách hàng, bạn hàng, mối hàng",
+          "list_en_vn": [
+            {
+              "full_en": "we would like to have your custom",
+              "full_vn": "chúng tôi muốn được quý ông /bà đến mua hàng thường xuyên"
+            },
+            {
+              "full_en": "we've lost a lot of custom since our prices went up",
+              "full_vn": "chúng tôi mất nhiều khách hàng quen từ khi tăng giá"
+            },
+            {
+              "full_en": "I'll withdraw my custom from that shop",
+              "full_vn": "Tôi sẽ không mua hàng ở cửa hàng đó nữa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "do khách hàng đặt làm; làm theo ý của khách hàng",
+          "list_en_vn": [
+            {
+              "full_en": "custom clothes",
+              "full_vn": "quần áo đặt may"
+            },
+            {
+              "full_en": "a custom car",
+              "full_vn": "chiếc xe hơi do khách đặt làm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313701_48efe0c167_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313701_6e9cea71f3_o.png",
+      "id_image": "custom_2130671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357832_8485c72847_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357832_3abe470abb_o.png",
+      "id_image": "custom_2761020"
+    }
+  ]
+}

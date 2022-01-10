@@ -1,0 +1,47 @@
+{
+  "english": "demolish",
+  "phat_am": "[di'mɔli∫]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phá huỷ; đánh đổ",
+          "list_en_vn": [
+            {
+              "full_en": "to demolish a doctrine",
+              "full_vn": "đánh đổ một học thuyết"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448333_a3e91766be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448333_c635d0dde9_o.png",
+      "id_image": "demolishing_2564090"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378157_1b6af52e06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378157_f3a2dbddb3_o.png",
+      "id_image": "demolish_4531236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448263_d2625b690a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448263_55bbb3ee98_o.png",
+      "id_image": "demolition_1540006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333121_f5323ffaca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333121_90c7e6f51b_o.png",
+      "id_image": "demolition_2154649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069970_26936320f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069970_0bdbf6babf_o.png",
+      "id_image": "demolition_2276341"
+    }
+  ]
+}

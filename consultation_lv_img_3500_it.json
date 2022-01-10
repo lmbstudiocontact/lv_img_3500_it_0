@@ -1,0 +1,58 @@
+{
+  "english": "consultation",
+  "phat_am": "[,kɔnsəl'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hỏi ý kiến",
+          "list_en_vn": [
+            {
+              "full_en": "To work in consultation with the director-general",
+              "full_vn": "Làm việc có tham khảo ý kiến tổng giám đốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tra cứu; sự tham khảo",
+          "list_en_vn": [
+            {
+              "full_en": "Consultation of an encyclopedia",
+              "full_vn": "Việc tham khảo một từ điển bách khoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bàn bạc; sự hội ý; cuộc hội đàm",
+          "list_en_vn": [
+            {
+              "full_en": "Top-level consultations between the Third World leaders",
+              "full_vn": "Cuộc hội đàm giữa các nhà lãnh đạo Thế giới thứ ba"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) cuộc hội ý giữa các bác sĩ về một ca bệnh; cuộc hội chẩn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352927_a5ae43f578_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352927_f2ee26dd11_o.png",
+      "id_image": "consultation_2005885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352897_dcbe023745_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352897_bd6172506a_o.png",
+      "id_image": "consultation_2720606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663929_6ef37a3f85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663929_73147d3b5b_o.png",
+      "id_image": "consultation_4148615"
+    }
+  ]
+}

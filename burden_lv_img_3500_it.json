@@ -1,0 +1,96 @@
+{
+  "english": "burden",
+  "phat_am": "['bə:dn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gánh nặng ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "to bend beneath the burden",
+              "full_vn": "còng xuống vì gánh nặng"
+            },
+            {
+              "full_en": "to be a burden to someone",
+              "full_vn": "là gánh nặng cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) sức chở, trọng tải (của tàu)",
+          "list_en_vn": [
+            {
+              "full_en": "a ship of a thousand tons burden",
+              "full_vn": "tàu sức chở một nghìn tấn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "món chi tiêu bắt buộc"
+        },
+        {
+          "m_full_vn": "đoạn điệp (bài bát)"
+        },
+        {
+          "m_full_vn": "ý chính, chủ đề (bài thơ, cuốn sách)",
+          "list_one_mean": [
+            {
+              "id_full_en": "beast of burden",
+              "list_im": [
+                {
+                  "im_full_vn": "súc vật thồ"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) thân trâu ngựa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất nặng lên; đè nặng lên ( (nghĩa đen) & (nghĩa bóng))",
+          "list_one_mean": [
+            {
+              "id_full_en": "the burden of proof",
+              "list_im": [
+                {
+                  "im_full_vn": "(pháp lý) trách nhiệm dẫn chứng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be burdened with debts",
+              "full_vn": "nợ nần chồng chất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424923_2192e56352_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424923_dae3c720f6_o.png",
+      "id_image": "burden_1749656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424903_6883c94569_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424903_651c388e66_o.png",
+      "id_image": "burden_4593123"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309696_261eeeea4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309696_64071faebf_o.png",
+      "id_image": "burden_5705194"
+    }
+  ]
+}

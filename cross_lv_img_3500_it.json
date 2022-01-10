@@ -1,0 +1,430 @@
+{
+  "english": "cross",
+  "phat_am": "[krɔs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cây thánh giá; dấu chữ thập (làm bằng tay phải để cầu khẩn hoặc tỏ vẻ thành kính đối với Chúa); đài thập ác (đài kỷ niệm trên có chữ thập)",
+          "list_en_vn": [
+            {
+              "full_en": "she wore a small silver cross on a chain round her neck",
+              "full_vn": "cô ta đeo một chiếc thánh giá nhỏ bằng bạc ở sợi dây chuyền quanh cổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đạo Cơ đốc",
+          "list_en_vn": [
+            {
+              "full_en": "to follow the Cross",
+              "full_vn": "theo đạo Cơ đốc"
+            },
+            {
+              "full_en": "the Cross and the Crescent",
+              "full_vn": "Chữ thập và Trăng lưỡi liềm ( Cơ Đốc giáo và Hồi giáo)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dấu chữ thập, hình chữ thập",
+          "list_en_vn": [
+            {
+              "full_en": "to make one's cross",
+              "full_vn": "đánh dấu chữ thập của mình (đánh dấu chéo trên tài liệu thay cho chữ ký, do không biết viết chẳng hạn)"
+            },
+            {
+              "full_en": "that city is marked on the map with a cross",
+              "full_vn": "thành phố ấy được đánh dấu trên bản đồ bằng một dấu chữ thập"
+            },
+            {
+              "full_en": "the priest made a cross over her head",
+              "full_vn": "linh mục làm dấu chữ thập trên đầu cô ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dấu gạch ngang ở chữ cái ( (ở chữ đ, t chẳng hạn))"
+        },
+        {
+          "m_full_vn": "nỗi đau khổ, nỗi thống khổ; bước thử thách; sự gian nan",
+          "list_en_vn": [
+            {
+              "full_en": "to bear one's cross",
+              "full_vn": "chịu đựng đau khổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bội tinh",
+          "list_en_vn": [
+            {
+              "full_en": "the Military Cross",
+              "full_vn": "bội tinh chiến công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tạp giao; vật lai giống",
+          "list_en_vn": [
+            {
+              "full_en": "a mule is a cross between a horse and an ass",
+              "full_vn": "la là vật lai giống giữa ngựa và lừa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự pha tạp"
+        },
+        {
+          "m_full_vn": "(từ lóng) sự gian lận, sự lừa đảo, sự ăn cắp",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Cross",
+              "list_im": [
+                {
+                  "im_full_vn": "cây thánh giá của Đức Chúa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the Cross of the Legion of Honour",
+              "list_im": [
+                {
+                  "im_full_vn": "Bắc đẩu bội tinh hạng năm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the Red Cross",
+              "list_im": [
+                {
+                  "im_full_vn": "hội chữ thập đỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make one's cross",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh dấu chữ thập thay cho chữ ký (đối với người không biết viết)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chéo nhau, vắt ngang",
+          "list_en_vn": [
+            {
+              "full_en": "cross lines",
+              "full_vn": "đường chéo nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) bực mình, cáu, gắt",
+          "list_en_vn": [
+            {
+              "full_en": "to be cross with someone",
+              "full_vn": "cáu với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đối, trái ngược, ngược lại",
+          "list_en_vn": [
+            {
+              "full_en": "two cross winds",
+              "full_vn": "hai luồng gió trái ngược"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lai, lai giống",
+          "list_en_vn": [
+            {
+              "full_en": "a cross breed",
+              "full_vn": "giống lai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) bất lương, man trá; kiếm được bằng những thủ đoạn bất lương",
+          "list_one_mean": [
+            {
+              "id_full_en": "as cross as two sticks",
+              "list_im": [
+                {
+                  "im_full_vn": "tức điên lên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "qua, đi qua, vượt, đi ngang qua; đưa (ai cái gì...) đi ngang qua",
+          "list_en_vn": [
+            {
+              "full_en": "to cross the sea",
+              "full_vn": "vượt biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gạch ngang, gạch chéo, xoá",
+          "list_en_vn": [
+            {
+              "full_en": "to cross a cheque",
+              "full_vn": "gạch chéo tờ séc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xếp hay đặt cái gì chéo qua hoặc chồng lên một cái gì cùng chủng loại; đặt chéo nhau; bắt chéo",
+          "list_en_vn": [
+            {
+              "full_en": "to cross one's legs",
+              "full_vn": "vắt chéo chân"
+            },
+            {
+              "full_en": "to cross one's arms on one's chest",
+              "full_vn": "khoanh tay trước ngực"
+            },
+            {
+              "full_en": "a flag with a design of two crossed keys",
+              "full_vn": "lá cờ có hình vẽ hai chiếc chìa khoá chéo nhau"
+            },
+            {
+              "full_en": "a crossed line",
+              "full_vn": "đường dây nối nhầm (sự ngắt quãng một cú điện thoại bởi nối nhầm)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gặp mặt, chạm mặt (một người ở ngoài đường)"
+        },
+        {
+          "m_full_vn": "cưỡi (ngựa)"
+        },
+        {
+          "m_full_vn": "viết đè lên (một chữ, một trang đã viết)"
+        },
+        {
+          "m_full_vn": "cản trở, gây trở ngại",
+          "list_en_vn": [
+            {
+              "full_en": "to cross someone",
+              "full_vn": "cản trở ai"
+            },
+            {
+              "full_en": "to cross a plan",
+              "full_vn": "gây trở ngại cho một kế hoạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tạp giao, lai giống (động vật)",
+          "list_en_vn": [
+            {
+              "full_en": "to cross a horse with an ass",
+              "full_vn": "lai giống ngựa với lừa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vượt qua, đi qua"
+        },
+        {
+          "m_full_vn": "gặp nhau, giao nhau, chéo ngang, chéo nhau",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cross off (out )",
+              "list_im": [
+                {
+                  "im_full_vn": "gạch đi, xoá đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cross over",
+              "list_im": [
+                {
+                  "im_full_vn": "đi qua, vượt qua, vượt, ngang qua"
+                },
+                {
+                  "im_full_vn": "tạp giao, lai giống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cross oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "(tôn giáo) làm dấu thánh giá trên ngực mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's fingers crossed",
+              "list_im": [
+                {
+                  "im_full_vn": "cầu mong, hy vọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cross one's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "chợt nảy ra trong óc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cross someone's hand with a piece of money",
+              "list_im": [
+                {
+                  "im_full_vn": "cho người nào tiền, thưởng tiền người nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cross someone's path",
+              "list_im": [
+                {
+                  "im_full_vn": "gặp ai"
+                },
+                {
+                  "im_full_vn": "ngăn trở kế hoạch của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cross the Styx",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) Styx"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cross swords",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) sword"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cross one's bridges when one comes to them",
+              "list_im": [
+                {
+                  "im_full_vn": "một việc nào đó chưa thực sự xảy ra thì không cần phải lo trước; đến đó sẽ hay; đến đâu tính đến đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "We'll cross that bridge when we come to it",
+                      "full_vn": "khi nào đến cầu thì chúng ta sẽ qua cầu (chẳng cần phải lo trước!)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "cross my heart (and hope to die )",
+              "list_im": [
+                {
+                  "im_full_vn": "xin thề thật lòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cross sb's palm with silver",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa cho ai một đồng tiền (khi coi bói)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cross the Rubicon",
+              "list_im": [
+                {
+                  "im_full_vn": "tiến hành một hoạt động hoặc bắt đầu một quá trình quan trọng và không thể đảo ngược; một liều ba bảy cũng liều"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dot one's i's and cross one's t's",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn thành những công đoạn cuối công việc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get one's wires crossed",
+              "list_im": [
+                {
+                  "im_full_vn": "hiểu sai, hiểu nhầm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get one's lines crossed",
+              "list_im": [
+                {
+                  "im_full_vn": "không thể nói chuyện qua điện thoại, vì đường dây bị trục trặc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the two roads cross",
+              "full_vn": "hai con đường gặp nhau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434183_e8e7f3f092_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434183_765e7762cf_o.png",
+      "id_image": "crossed_5928285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319081_d316881f67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319081_dcd30b305f_o.png",
+      "id_image": "cross_3155291"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363687_8d3af908c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363687_2c91e85966_o.png",
+      "id_image": "cross_3804897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055740_255c7f6dd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055740_f861d5e69d_o.png",
+      "id_image": "cross_684157"
+    }
+  ]
+}

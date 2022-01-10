@@ -1,0 +1,265 @@
+{
+  "english": "balance",
+  "phat_am": "['bæləns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái cân",
+          "list_en_vn": [
+            {
+              "full_en": "precision balance",
+              "full_vn": "cân chính xác, cân tiểu ly"
+            },
+            {
+              "full_en": "analytical balance",
+              "full_vn": "cân phân tích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thăng bằng, sự cân bằng; cán cân",
+          "list_en_vn": [
+            {
+              "full_en": "balance of forces ; balance of power",
+              "full_vn": "cán cân lực lượng"
+            },
+            {
+              "full_en": "balance of power",
+              "full_vn": "(chính trị) chính sách cân bằng lực lượng giữa các nước"
+            },
+            {
+              "full_en": "balance of payments",
+              "full_vn": "cán cân thanh toán"
+            },
+            {
+              "full_en": "balance of trade",
+              "full_vn": "cán cân mậu dịch"
+            },
+            {
+              "full_en": "to keep one's balance",
+              "full_vn": "giữ thăng bằng; (nghĩa bóng) bình tĩnh"
+            },
+            {
+              "full_en": "to lose one's balance",
+              "full_vn": "mất thăng bằng; (nghĩa bóng) mất bình tĩnh, rối trí"
+            },
+            {
+              "full_en": "to be off one's balance",
+              "full_vn": "ngã (vì mất thăng bằng); bối rối"
+            },
+            {
+              "full_en": "to catch /throw somebody off balance",
+              "full_vn": "làm cho ai mất thăng bằng"
+            },
+            {
+              "full_en": "to redress the balance",
+              "full_vn": "khôi phục thế cân bằng; lấy lại thăng bằng"
+            },
+            {
+              "full_en": "to tip the balance in favour of somebody",
+              "full_vn": "làm cho cán cân nghiêng về ai, giành lợi thế cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cân nhắc kỹ",
+          "list_en_vn": [
+            {
+              "full_en": "on balance",
+              "full_vn": "sau khi cân nhắc kỹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thăng trầm của số mệnh"
+        },
+        {
+          "m_full_vn": "( Balance) (thiên văn học) cung thiên bình"
+        },
+        {
+          "m_full_vn": "đối trọng"
+        },
+        {
+          "m_full_vn": "quả lắc (đồng hồ)"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) bản đối chiếu thu chi, bản quyết toán",
+          "list_en_vn": [
+            {
+              "full_en": "to strike a balance",
+              "full_vn": "làm bản quyết toán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sai ngạch; số còn lại, số dư",
+          "list_en_vn": [
+            {
+              "full_en": "balance in hand",
+              "full_vn": "sai ngạch thừa"
+            },
+            {
+              "full_en": "balance due",
+              "full_vn": "sai ngạch thiếu"
+            },
+            {
+              "full_en": "to check one's bank balance",
+              "full_vn": "kiểm tra số dư của mình ở ngân hàng (xem) có bao nhiêu trong tài khoản của mình"
+            },
+            {
+              "full_en": "the balance will be paid within one week",
+              "full_vn": "số tiền còn lại sẽ được trả trong vòng một tuần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghệ thuật) sự cân xứng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be /tremble /swing /hang in the balance",
+              "list_im": [
+                {
+                  "im_full_vn": "do dự, lưỡng lự"
+                },
+                {
+                  "im_full_vn": "ở vào tình trạng (nguy ngập)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the balance of advantage lies with him",
+              "list_im": [
+                {
+                  "im_full_vn": "anh ta ở vào thế có lợi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold the balance even between two parties",
+              "list_im": [
+                {
+                  "im_full_vn": "cầm cân nảy mực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn balance",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho thăng bằng; làm cho cân bằng; giữ cho thăng bằng"
+        },
+        {
+          "m_full_vn": "làm cho cân xứng",
+          "list_en_vn": [
+            {
+              "full_en": "to balance the amount of time spent on arts and science subjects",
+              "full_vn": "phân bổ thời gian cho các môn văn chương và khoa học cân xứng nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bù lại",
+          "list_en_vn": [
+            {
+              "full_en": "this year's profits will balance our previous losses",
+              "full_vn": "lãi năm nay sẽ bù lại những khoản lỗ trước đây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cân nhắc (một vấn đề, một giải pháp)"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) quyết toán",
+          "list_en_vn": [
+            {
+              "full_en": "to balance the accounts",
+              "full_vn": "quyết toán các khoản chi thu"
+            },
+            {
+              "full_en": "to balance the budget",
+              "full_vn": "cân đối ngân sách"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giữ thăng bằng",
+          "list_en_vn": [
+            {
+              "full_en": "how long can you balance on one foot ?",
+              "full_vn": "anh có thể đứng một chân được bao lâu?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "do dự, lưỡng lự",
+          "list_en_vn": [
+            {
+              "full_en": "to balance a long time before coming to a decision",
+              "full_vn": "do dự lâu trước khi quyết định"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cân nhau, cân xứng",
+          "list_en_vn": [
+            {
+              "full_en": "the penalty does not balance with the offence",
+              "full_vn": "hình phạt không cân xứng với tội lỗi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) cân bằng",
+          "list_en_vn": [
+            {
+              "full_en": "the accounts don't balance",
+              "full_vn": "sổ sách không cân bằng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319001_3f41685ba1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319001_093a3ef03c_o.png",
+      "id_image": "balance_1656927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363537_70efbac829_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363537_9ae896ff67_o.png",
+      "id_image": "balance_1721446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673774_2091cef739_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673774_621d97c9cd_o.png",
+      "id_image": "balance_1751694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434243_dc51d8a6af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434243_7c3843c15e_o.png",
+      "id_image": "balance_855370"
+    }
+  ]
+}

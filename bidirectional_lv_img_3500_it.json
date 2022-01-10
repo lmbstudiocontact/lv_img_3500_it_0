@@ -1,0 +1,27 @@
+{
+  "english": "bidirectional",
+  "phat_am": "[bai,dai'rek∫ənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) hai chiều",
+          "list_en_vn": [
+            {
+              "full_en": "A bidirectional printer can print from left to right and from right to left",
+              "full_vn": "Máy in hai chiều có thể in từ trái sang phải và từ phải sang trái"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305901_8353d82423_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305901_9ddb31da13_o.png",
+      "id_image": "bidirectional_3558097"
+    }
+  ]
+}

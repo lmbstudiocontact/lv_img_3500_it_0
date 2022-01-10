@@ -1,0 +1,51 @@
+{
+  "english": "brainstorm",
+  "phat_am": "['brein'stɔ:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự náo động tâm tư bất thần dữ dội; sự xúc động mãnh liệt"
+        },
+        {
+          "m_full_vn": "khoảnh khắc quẫn trí; khoảnh khắc rối trí",
+          "list_en_vn": [
+            {
+              "full_en": "I must have had a brainstorm - I couldn't remember my own phone number for a moment",
+              "full_vn": "Chắc là tôi bị lú - trong phút chốc, tôi chẳng nhớ nổi số điện thoại của chính mình nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) như brainwave"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vận dụng trí não để tìm hiểu hoặc giải quyết một vấn đề; động não"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318756_85df2ce2de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318756_94c48a318c_o.png",
+      "id_image": "brainstorm_1608265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055385_6851eee592_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055385_3c886f9f09_o.png",
+      "id_image": "brainstorm_395674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318811_7f51db56b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318811_5e3bf89e6c_o.png",
+      "id_image": "brainstorm_562528"
+    }
+  ]
+}

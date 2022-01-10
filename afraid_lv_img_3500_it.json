@@ -1,0 +1,104 @@
+{
+  "english": "afraid",
+  "phat_am": "[ə'freid]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( afraid of somebody / something , of doing something / to do something ) sợ hãi",
+          "list_en_vn": [
+            {
+              "full_en": "don't be afraid !",
+              "full_vn": "đừng sợ!"
+            },
+            {
+              "full_en": "there's nothing to be afraid of",
+              "full_vn": "chẳng có gì phải sợ cả"
+            },
+            {
+              "full_en": "are you afraid of snakes ?",
+              "full_vn": "anh có sợ rắn hay không?"
+            },
+            {
+              "full_en": "he's afraid of going out /to go out alone at night",
+              "full_vn": "anh ta sợ đi đêm một mình"
+            },
+            {
+              "full_en": "don't be afraid to ask for help if you need it",
+              "full_vn": "nếu cần, anh đừng ngại nhờ vả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( afraid of doing something / that ...) lo lắng, bâng khuâng về (kết quả có thể có của cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "I didn't mention it because I was afraid of upsetting him /afraid that I might upset him",
+              "full_vn": "tôi không nòiđiêu đó ra vì sợ làm anh ta bối rối"
+            },
+            {
+              "full_en": "he's afraid of losing customers /that he might lose customers",
+              "full_vn": "anh ta sợ mất khách hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( afraid for somebody / something ) sợ hãi hoặc lo lắng về những cái có thể gây nguy hiểm cho cái gì/ai",
+          "list_one_mean": [
+            {
+              "id_full_en": "I'm afraid (that ...)",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi lấy làm tiếc phải nói",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm afraid we can't come",
+                      "full_vn": "tôi e rằng chúng tôi không đến được"
+                    },
+                    {
+                      "full_en": "Have we missed the train ? - I'm afraid so",
+                      "full_vn": "Chúng ta lỡ tàu rồi ư? - Tôi e rằng thế"
+                    },
+                    {
+                      "full_en": "Have you any milk ? - I'm afraid not",
+                      "full_vn": "Anh có sữa hay không? - Tôi e rằng không"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "parents afraid for (the safety of ) their children",
+              "full_vn": "bố mẹ hay lo sợ cho (sự an toàn của) con cái"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055600_d8f0679ea1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055600_41021303aa_o.png",
+      "id_image": "afraid_214225"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055570_c932330db8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055570_dde81207ea_o.png",
+      "id_image": "afraid_3874537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434178_0d9cd1c6e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434178_5d394757e2_o.png",
+      "id_image": "afraid_6000681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055495_e01bd35671_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055495_1c825f5035_o.png",
+      "id_image": "afraid_6002295"
+    }
+  ]
+}

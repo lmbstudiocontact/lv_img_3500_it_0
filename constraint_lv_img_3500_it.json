@@ -1,0 +1,57 @@
+{
+  "english": "constraint",
+  "phat_am": "[kən'streint]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bắt ép, sự ép buộc, sự cưỡng ép, sự thúc ép",
+          "list_en_vn": [
+            {
+              "full_en": "to act under constraint",
+              "full_vn": "hành động do bị ép buộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đè nén, sự kiềm chế"
+        },
+        {
+          "m_full_vn": "sự gượng gạo, sự miễn cưỡng; sự e dè",
+          "list_en_vn": [
+            {
+              "full_en": "to speak without constraint",
+              "full_vn": "nói không e dè"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự câu thúc, sự giam hãm, sự nhốt (người điên)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353392_e985f12f74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353392_fbe139212f_o.png",
+      "id_image": "constraint_1900193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424318_3baefbf6ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424318_d40378eb25_o.png",
+      "id_image": "constraint_2844303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664444_6756c0bac8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664444_153f4c1fd3_o.png",
+      "id_image": "constraint_2844384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353307_1554be8697_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353307_935c15cb50_o.png",
+      "id_image": "constraint_4252352"
+    }
+  ]
+}

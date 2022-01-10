@@ -1,0 +1,87 @@
+{
+  "english": "cupboard",
+  "phat_am": "['kʌpbəd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bộ giá đỡ có một hoặc nhiều cửa ở phía mặt (hoặc xây chìm vào tường) để đựng thức ăn, quần áo, đĩa; tủ ly",
+          "list_one_mean": [
+            {
+              "id_full_en": "cupboard love",
+              "list_im": [
+                {
+                  "im_full_vn": "tình cảm được thể hiện (nhất là của trẻ con) để có được cái gì; tình cảm vờ vịt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it's only cupboard love ; he wants some sweets !",
+                      "full_vn": "đó chỉ là tình cảm vờ vịt thôi, nó muốn ăn kẹo đấy!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cry cupboard",
+              "list_im": [
+                {
+                  "im_full_vn": "kêu đói, thấy đói, thấy kiến bò bụng ( (thường) + belly , inside , stomach )",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "my inside cries cupboard",
+                      "full_vn": "tôi đã thấy kiến bò bụng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "skeleton in the cupboard",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) skeleton"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a kitchen cupboard",
+              "full_vn": "tủ đựng đồ ăn, tủ nhà bếp, chạn"
+            },
+            {
+              "full_en": "airing cupboard",
+              "full_vn": "tủ hong quần áo (để làm khô quần áo)"
+            },
+            {
+              "full_en": "they ask for more funds , but the cupboard is bare",
+              "full_vn": "họ đề nghị thêm tiền, nhưng tủ hiện nay trống trơn"
+            },
+            {
+              "full_en": "not enough cupboard space",
+              "full_vn": "không đủ chỗ kê tủ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430413_b80d3224f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430413_90f72e6f54_o.png",
+      "id_image": "cupboard_2286089"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315551_b66c0de651_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315551_ef77c4df48_o.png",
+      "id_image": "cupboard_2394549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359727_ba3f675e48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359727_3acc61e3fb_o.png",
+      "id_image": "cupboard_436174"
+    }
+  ]
+}

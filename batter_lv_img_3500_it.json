@@ -1,0 +1,114 @@
+{
+  "english": "batter",
+  "phat_am": "['bætə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục thể thao) vận động viên bóng chày, vận động viên crickê"
+        },
+        {
+          "m_full_vn": "tường xây thoải chân (chân tường dày, đầu tường nhỏ lại cho vững)"
+        },
+        {
+          "m_full_vn": "bột nhão làm bánh"
+        },
+        {
+          "m_full_vn": "sự mòn vẹt chữ in"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thoải chân (nói về tường)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đập vỡ, đập liên hồi"
+        },
+        {
+          "m_full_vn": "(quân sự) nã pháo vào thành"
+        },
+        {
+          "m_full_vn": "hành hạ, ngược đãi, đánh đập"
+        },
+        {
+          "m_full_vn": "bóp méo"
+        },
+        {
+          "m_full_vn": "làm mòn vẹt chữ in",
+          "list_en_vn": [
+            {
+              "full_en": "the battered type",
+              "full_vn": "chữ in bị mòn vẹt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đập liên hồi, đạp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to batter about",
+              "list_im": [
+                {
+                  "im_full_vn": "hành hạ, đánh nhừ tử"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to batter down",
+              "list_im": [
+                {
+                  "im_full_vn": "phá đổ, đập nát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to batter in",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh bể, đập vỡ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to batter at the door",
+              "full_vn": "đập cửa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049500_0c66327b8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049500_9a23528ac5_o.png",
+      "id_image": "batter_1867111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049565_5267ba013e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049565_c44d3af02d_o.png",
+      "id_image": "batter_209561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667874_8e22812463_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667874_9961e6bf5f_o.png",
+      "id_image": "batter_221847"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "english": "course",
+  "phat_am": "[kɔ:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiến trình, dòng; quá trình diễn biến",
+          "list_en_vn": [
+            {
+              "full_en": "the course of a river",
+              "full_vn": "dòng sông"
+            },
+            {
+              "full_en": "the course of events",
+              "full_vn": "quá trình diễn biến các sự kiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sân chạy đua, vòng chạy đua; trường đua ngựa ( (cũng) race course )"
+        },
+        {
+          "m_full_vn": "hướng, chiều hướng; đường đi",
+          "list_en_vn": [
+            {
+              "full_en": "the ship is on her right course",
+              "full_vn": "con tàu đang đi đúng hướng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách cư xử, cách giải quyết; đường lối, con đường ( (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "to follow a dangerous course",
+              "full_vn": "theo con đường nguy hiểm"
+            },
+            {
+              "full_en": "to hold one's course",
+              "full_vn": "theo con đường đã vạch sẵn"
+            },
+            {
+              "full_en": "to take its course",
+              "full_vn": "theo con đường của nó; cứ tiến hành"
+            },
+            {
+              "full_en": "several courses open before us",
+              "full_vn": "trước mắt chúng ta có nhiều cách giải quyết"
+            },
+            {
+              "full_en": "course of action",
+              "full_vn": "kế hoạch vạch ra để đạt một mục tiêu nhất định; đường lối/phương hướng hành động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất cứ món riêng biệt nào của bữa ăn (xúp, tráng miệng chẳng hạn)",
+          "list_en_vn": [
+            {
+              "full_en": "a five-course dinner",
+              "full_vn": "một bữa ăn tối có năm món"
+            },
+            {
+              "full_en": "the main course was a vegetable stew",
+              "full_vn": "món chủ yếu là rau hầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loạt; khoá; đợt; lớp",
+          "list_en_vn": [
+            {
+              "full_en": "course of lectures",
+              "full_vn": "một loạt bài giảng, một đợt thuyết trình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng gạch, hàng đá"
+        },
+        {
+          "m_full_vn": "( số nhiều) đạo đức, tư cách"
+        },
+        {
+          "m_full_vn": "( số nhiều) kỳ hành kinh",
+          "list_one_mean": [
+            {
+              "id_full_en": "by course of",
+              "list_im": [
+                {
+                  "im_full_vn": "theo thủ tục (lệ) thông thường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "course of nature",
+              "list_im": [
+                {
+                  "im_full_vn": "lệ thường, lẽ thường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in course",
+              "list_im": [
+                {
+                  "im_full_vn": "đang diễn biến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the course of",
+              "list_im": [
+                {
+                  "im_full_vn": "trong khi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in due course",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng lúc; đúng trình tự"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a matter of course",
+              "list_im": [
+                {
+                  "im_full_vn": "một vấn đề dĩ nhiên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "of course",
+              "list_im": [
+                {
+                  "im_full_vn": "dĩ nhiên, đương nhiên, tất nhiên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take one's own course",
+              "list_im": [
+                {
+                  "im_full_vn": "làm theo ý mình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "săn đuổi (thỏ)"
+        },
+        {
+          "m_full_vn": "cho (ngựa) chạy"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chạy"
+        },
+        {
+          "m_full_vn": "chảy",
+          "list_en_vn": [
+            {
+              "full_en": "blood courses through vein",
+              "full_vn": "máu chảy qua tĩnh mạch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thơ ca) ngựa chiến; con tuấn mã"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371027_8e6c2a6e6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371027_ddc1d5e9cf_o.png",
+      "id_image": "course_3965926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371012_48548fcf90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371012_034aca8962_o.png",
+      "id_image": "course_4728718"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063000_28766d36c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063000_21b5107da1_o.png",
+      "id_image": "course_5352122"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681249_dfbcba6f52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681249_95e5aaaf2b_o.png",
+      "id_image": "course_5965835"
+    }
+  ]
+}

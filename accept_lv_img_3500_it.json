@@ -1,0 +1,65 @@
+{
+  "english": "accept",
+  "phat_am": "[ək'sept]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhận, chấp nhận, chấp thuận",
+          "list_en_vn": [
+            {
+              "full_en": "to accept a proposal",
+              "full_vn": "chấp nhận một đề nghị"
+            },
+            {
+              "full_en": "to accept a present",
+              "full_vn": "nhận một món quà"
+            },
+            {
+              "full_en": "to accept an invitation",
+              "full_vn": "nhận lời mời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thừa nhận",
+          "list_en_vn": [
+            {
+              "full_en": "to accept a truth",
+              "full_vn": "thừa nhận một sự thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đảm nhận (công việc...)"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) nhận thanh toán (hoá đơn, hối phiếu...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063140_73c033c2be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063140_631549753f_o.png",
+      "id_image": "acceptance_708618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063020_0f62147bee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063020_c7af0d56b5_o.png",
+      "id_image": "accepted_1484643"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326196_29f20c3bbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326196_b3c3ca09b7_o.png",
+      "id_image": "accepted_2222833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370917_8cd167d3f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370917_912a83a147_o.png",
+      "id_image": "accepted_6182807"
+    }
+  ]
+}

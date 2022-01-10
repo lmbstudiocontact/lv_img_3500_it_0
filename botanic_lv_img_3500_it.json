@@ -1,0 +1,32 @@
+{
+  "english": "botanic",
+  "phat_am": "[bə'tænik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thực vật học",
+          "list_en_vn": [
+            {
+              "full_en": "botanic garden",
+              "full_vn": "vườn bách thảo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366617_26816cdf7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366617_e988d734c5_o.png",
+      "id_image": "botanic_1720139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676764_5a1bc89755_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676764_0fb2d9ca03_o.png",
+      "id_image": "botanic_3839567"
+    }
+  ]
+}

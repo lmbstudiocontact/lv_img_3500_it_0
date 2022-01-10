@@ -1,0 +1,140 @@
+{
+  "english": "beg",
+  "phat_am": "[beg]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to beg from somebody ; to beg for something from / of somebody ) xin (tiền, thức ăn, quần áo....) coi như của cho hoặc của từ thiện; sống bằng cách đó; ăn xin",
+          "list_en_vn": [
+            {
+              "full_en": "there are hundreds begging in the streets",
+              "full_vn": "có hàng trăm người ăn xin trên đường phố"
+            },
+            {
+              "full_en": "a begging letter",
+              "full_vn": "bức thư cầu xin"
+            },
+            {
+              "full_en": "he was so poor he had to beg (for ) money from passers-by",
+              "full_vn": "ông ta nghèo đến nỗi phải xin tiền của khách qua đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to beg something of somebody ; to beg somebody for something ) cầu xin; khẩn cầu; van xin",
+          "list_en_vn": [
+            {
+              "full_en": "set him free , I beg (of ) you !",
+              "full_vn": "tôi van xin ông, hãy thả anh ấy ra!"
+            },
+            {
+              "full_en": "May I beg a favour (of you )?",
+              "full_vn": "Tôi có thể xin ông một ân huệ được không?"
+            },
+            {
+              "full_en": "he begged mercy (of the king )",
+              "full_vn": "nó cầu xin (nhà vua) ân xá"
+            },
+            {
+              "full_en": "he begged (her ) for forgiveness",
+              "full_vn": "anh ta van xin (cô ấy) tha thứ"
+            },
+            {
+              "full_en": "the boy begged that he might be allowed /begged to be allowed to come with us",
+              "full_vn": "cậu bé đã van nài để được phép đi với chúng tôi"
+            },
+            {
+              "full_en": "I beg (of ) you not to take any risks",
+              "full_vn": "tôi van anh đừng có liều lĩnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xin trân trọng (trong thư giao dịch)",
+          "list_en_vn": [
+            {
+              "full_en": "I beg to inform you",
+              "full_vn": "tôi xin trân trọng báo tin để ngài rõ"
+            },
+            {
+              "full_en": "I beg to differ",
+              "full_vn": "(để bày tỏ sự bất đồng ý kiến với ai) xin phép cho tôi có ý kiến khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to beg for something ) (nói về con chó) đứng trên hai chân sau, hai chân trước giơ lên chờ đợi (để xin ăn)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to beg leave to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "xin phép làm cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beg the question",
+              "list_im": [
+                {
+                  "im_full_vn": "không đề cập đúng vào vấn đề đang bàn cãi, cho rằng câu hỏi gì cần có câu trả lời thì đã giải đáp rồi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Your proposal begs the question whether a change is needed at all",
+                      "full_vn": "Đề nghị của ông không hề đề cập đến vấn đề có cần một sự thay đổi hay không"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beg somebody off",
+              "list_im": [
+                {
+                  "im_full_vn": "xin cho ai được thứ lỗi hoặc được tha"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beg off",
+              "list_im": [
+                {
+                  "im_full_vn": "xin được thứ lỗi để khỏi làm cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he promised to attend but then begged off",
+                      "full_vn": "ông ta hứa đến dự nhưng rồi cáo lỗi không đến"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go begging",
+              "list_im": [
+                {
+                  "im_full_vn": "không ai cần đến; bị chê",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "If that cake is going begging , I'll have it",
+                      "full_vn": "Nếu cái bánh này bị chê thì tôi ăn vậy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664044_45501c90ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664044_c6c9efd88b_o.png",
+      "id_image": "beg_4812235"
+    }
+  ]
+}

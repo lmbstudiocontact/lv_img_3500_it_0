@@ -1,0 +1,27 @@
+{
+  "english": "computational",
+  "phat_am": "[kɔmpju:'tei∫nəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có sử dụng máy điện toán",
+          "list_en_vn": [
+            {
+              "full_en": "computational physics",
+              "full_vn": "vật lý học dùng máy điện toán"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358642_5286a40c73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358642_b4d9ebf39c_o.png",
+      "id_image": "computational_4632876"
+    }
+  ]
+}

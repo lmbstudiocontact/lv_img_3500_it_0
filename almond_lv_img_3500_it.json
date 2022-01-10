@@ -1,0 +1,52 @@
+{
+  "english": "almond",
+  "phat_am": "['ɑ:mənd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quả hạnh",
+          "list_en_vn": [
+            {
+              "full_en": "sweet almond",
+              "full_vn": "hạnh ngọt"
+            },
+            {
+              "full_en": "bitter almond",
+              "full_vn": "hạnh đắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(giải phẫu) hạch hạnh"
+        },
+        {
+          "m_full_vn": "vật hình quả hạnh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359957_4f98e65f2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359957_fb92c587d8_o.png",
+      "id_image": "almonds_2689393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052350_25507cb510_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052350_9844e928c6_o.png",
+      "id_image": "almond_1497092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360047_e22b537589_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360047_15efffd888_o.png",
+      "id_image": "almond_3439376"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430723_385c405981_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430723_066f99a254_o.png",
+      "id_image": "almond_4264750"
+    }
+  ]
+}

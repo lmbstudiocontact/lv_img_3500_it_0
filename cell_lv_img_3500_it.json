@@ -1,0 +1,81 @@
+{
+  "english": "cell",
+  "phat_am": "[sel]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ô, ngăn"
+        },
+        {
+          "m_full_vn": "phòng nhỏ"
+        },
+        {
+          "m_full_vn": "xà lim",
+          "list_en_vn": [
+            {
+              "full_en": "condemned cell",
+              "full_vn": "xà lim giam những người bị kết án tử hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lỗ tổ ong"
+        },
+        {
+          "m_full_vn": "(điện học) pin",
+          "list_en_vn": [
+            {
+              "full_en": "dry cell",
+              "full_vn": "pin khô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) tế bào"
+        },
+        {
+          "m_full_vn": "(chính trị) chi bộ",
+          "list_en_vn": [
+            {
+              "full_en": "communist party cell",
+              "full_vn": "chi bộ đảng cộng sản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "am (nhà nhỏ một gian của ẩn sĩ)"
+        },
+        {
+          "m_full_vn": "(thơ ca) túp lều tranh, căn nhà nhỏ"
+        },
+        {
+          "m_full_vn": "(thơ ca) nấm mồ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672219_b5c5a3129f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672219_1b5a4ee8fc_o.png",
+      "id_image": "cell_1474369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053975_8d45359638_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053975_6c67848f39_o.png",
+      "id_image": "cell_191118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317451_725d5193cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317451_89d7fd623d_o.png",
+      "id_image": "cell_2750823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317401_1237cea0c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317401_fd99bfff61_o.png",
+      "id_image": "cell_3360220"
+    }
+  ]
+}

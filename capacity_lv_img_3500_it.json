@@ -1,0 +1,105 @@
+{
+  "english": "capacity",
+  "phat_am": "[kə'pæsiti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khả năng chứa đựng cái gì; sức chứa",
+          "list_en_vn": [
+            {
+              "full_en": "a hall with a seating capacity of 2000",
+              "full_vn": "một phòng lớn có sức chứa 2000 người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khả năng sản xuất cái gì; công suất",
+          "list_en_vn": [
+            {
+              "full_en": "factories working at full capacity",
+              "full_vn": "các nhà máy hoạt động hết công suất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( capacity for something ) khả năng tạo ra, trải qua, hiểu, học cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "she has an enormous capacity for hard work",
+              "full_vn": "cô ta rất có khả năng làm những việc khó nhọc"
+            },
+            {
+              "full_en": "this book is within the capacity of young readers",
+              "full_vn": "cuốn sách này các bạn đọc trẻ tuổi có thể hiểu được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) điện dung",
+          "list_one_mean": [
+            {
+              "id_full_en": "capacity house",
+              "list_im": [
+                {
+                  "im_full_vn": "rạp hát chật ních khán giả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "filled to capacity",
+              "list_im": [
+                {
+                  "im_full_vn": "đầy hết sức chứa; đầy ắp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "packed to capacity",
+              "list_im": [
+                {
+                  "im_full_vn": "chật ních"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a capacity crowd",
+              "list_im": [
+                {
+                  "im_full_vn": "một đám đông chật ních (hết sức chứa của một sân vận động....)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in one's capacity as something",
+              "list_im": [
+                {
+                  "im_full_vn": "với tư cách là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to act in one's capacity as a police officer /in one's police capacity",
+                      "full_vn": "hành động với tư cách là sĩ quan/nhân viên cảnh sát"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444128_44061154aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444128_c8f626d071_o.png",
+      "id_image": "capacity_4524887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684139_3e69a2ccbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684139_235e12f0bc_o.png",
+      "id_image": "capacity_5692252"
+    }
+  ]
+}

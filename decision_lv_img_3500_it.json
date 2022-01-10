@@ -1,0 +1,53 @@
+{
+  "english": "decision",
+  "phat_am": "[di'siʒn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự giải quyết (một vấn đề...); sự phân xử, sự phán quyết (của toà án)"
+        },
+        {
+          "m_full_vn": "sự quyết định, quyết nghị",
+          "list_en_vn": [
+            {
+              "full_en": "to come to (arrive at ) a decision",
+              "full_vn": "đi tới một quyết định"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính kiên quyết, tính quả quyết",
+          "list_en_vn": [
+            {
+              "full_en": "a man of decision",
+              "full_vn": "người kiên quyết"
+            },
+            {
+              "full_en": "to lack decision",
+              "full_vn": "thiếu kiên quyết"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044420_97b4fa5474_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044420_a83816e497_o.png",
+      "id_image": "decision_1900209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662719_d1549bc1aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662719_2be638c65c_o.png",
+      "id_image": "decision_1900265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351577_a439380e75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351577_de3215af68_o.png",
+      "id_image": "decision_993690"
+    }
+  ]
+}

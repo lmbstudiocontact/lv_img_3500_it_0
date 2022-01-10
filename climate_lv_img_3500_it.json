@@ -1,0 +1,54 @@
+{
+  "english": "climate",
+  "phat_am": "['klaimit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khí hậu, thời tiết",
+          "list_en_vn": [
+            {
+              "full_en": "continental climate",
+              "full_vn": "khí hậu lục địa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "miền khí hậu",
+          "list_en_vn": [
+            {
+              "full_en": "a warm climate",
+              "full_vn": "miền khí hậu ấm áp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) hoàn cảnh, môi trường, không khí; xu hướng chung (của một tập thể); xu thế (của thời đại)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377112_dc0be3abb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377112_865dbff371_o.png",
+      "id_image": "climate_1730197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377072_2f670fb2ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377072_8731a89561_o.png",
+      "id_image": "climate_4215414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376997_73324cfebd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376997_d32ed9fb7a_o.png",
+      "id_image": "climate_5264789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376982_b733530e3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376982_3345f07b07_o.png",
+      "id_image": "climate_5493014"
+    }
+  ]
+}

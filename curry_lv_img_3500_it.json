@@ -1,0 +1,77 @@
+{
+  "english": "curry",
+  "phat_am": "['kʌri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bột ca-ri"
+        },
+        {
+          "m_full_vn": "món ca-ri"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nấu ca-ri, cho bột ca-ri (vào đồ ăn)",
+          "list_en_vn": [
+            {
+              "full_en": "curried chicken",
+              "full_vn": "món gà nấu ca-ri"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chải lông (cho ngựa)"
+        },
+        {
+          "m_full_vn": "sang sửa (da thuộc)"
+        },
+        {
+          "m_full_vn": "đánh đập, hành hạ (ai)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to curry favour with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "nịnh hót ai, bợ đỡ ai, xum xoe với ai để cầu ân huệ, cầu cạnh ai để xin ân huệ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314676_18bcaf0b4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314676_4b2fe7656d_o.png",
+      "id_image": "curry_1900806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051180_130d618edb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051180_22fa9f44b2_o.png",
+      "id_image": "curry_2014020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358727_0391c58e95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358727_5df8effda7_o.png",
+      "id_image": "curry_3813111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314591_f5f6ef14b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314591_a248f1d90e_o.png",
+      "id_image": "curry_5495506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429583_851502094b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429583_ef703ca216_o.png",
+      "id_image": "curry_644703"
+    }
+  ]
+}

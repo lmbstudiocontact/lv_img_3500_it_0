@@ -1,0 +1,100 @@
+{
+  "english": "composition",
+  "phat_am": "[,kɔmpə'zi∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành phần cấu tạo; kết cấu",
+          "list_en_vn": [
+            {
+              "full_en": "to study the composition of the soil",
+              "full_vn": "nghiên cứu thành phần cấu tạo của đất"
+            },
+            {
+              "full_en": "there is a touch of madness in his composition",
+              "full_vn": "tính hắn hơi tàng tàng"
+            },
+            {
+              "full_en": "he has a touch of absent-mindedness in his composition",
+              "full_vn": "con người ông ta hơi đãng trí một tí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bố cục (của bức tranh, bức ảnh..)",
+          "list_en_vn": [
+            {
+              "full_en": "her drawing is competent , but her composition is poor",
+              "full_vn": "nét vẽ của cô ta thì khá, nhưng bố cục thì yếu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chất tổng hợp",
+          "list_en_vn": [
+            {
+              "full_en": "a composition used as flooring material",
+              "full_vn": "chất tổng hợp dùng làm vật liệu lát sàn"
+            },
+            {
+              "full_en": "a composition floor",
+              "full_vn": "sàn làm bằng chất tổng hợp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tác phẩm (bản nhạc, bài thơ, quyển sách....)",
+          "list_en_vn": [
+            {
+              "full_en": "one of Beethoven's most famous compositions",
+              "full_vn": "một trong những tác phẩm nổi tiếng nhất của Bi-tô-ven"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) sự sáng tác; nghệ thuật sáng tác",
+          "list_en_vn": [
+            {
+              "full_en": "to play a piano sonata of one's own composition",
+              "full_vn": "chơi một bản xônat cho pianô do chính mình sáng tác"
+            },
+            {
+              "full_en": "studying composition at a world-famous conservatory",
+              "full_vn": "học sáng tác tại một nhạc viện nổi tiếng thế giới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bài luận; bài tiểu luận"
+        },
+        {
+          "m_full_vn": "(ngành in) sự xếp chữ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315251_280b61ba96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315251_8d71039b5c_o.png",
+      "id_image": "composition_1488104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430108_e47d00aa49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430108_726a271a81_o.png",
+      "id_image": "composition_1589534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315171_522b4a57d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315171_d1023b6933_o.png",
+      "id_image": "composition_4005487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669819_005d39e477_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669819_0d2150b80b_o.png",
+      "id_image": "composition_6347978"
+    }
+  ]
+}

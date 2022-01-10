@@ -1,0 +1,90 @@
+{
+  "english": "concrete",
+  "phat_am": "['kɔηkri:t]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tồn tại ở dạng vật chất (có thể sờ, cảm thấy...); cụ thể",
+          "list_en_vn": [
+            {
+              "full_en": "concrete noun",
+              "full_vn": "danh từ cụ thể"
+            },
+            {
+              "full_en": "concrete evidence /facts",
+              "full_vn": "bằng chứng, những sự việc cụ thể"
+            },
+            {
+              "full_en": "concrete music",
+              "full_vn": "âm nhạc cụ thể"
+            },
+            {
+              "full_en": "concrete poetry",
+              "full_vn": "thơ ca sử dụng những hình ảnh cụ thể"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm bằng bê-tông",
+          "list_en_vn": [
+            {
+              "full_en": "a concrete path , wall",
+              "full_vn": "một con đường, bức tường bằng bê-tông"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bê-tông",
+          "list_en_vn": [
+            {
+              "full_en": "a slab of concrete",
+              "full_vn": "một tấm bê-tông"
+            },
+            {
+              "full_en": "modern buildings made of concrete",
+              "full_vn": "những toà nhà hiện đại bằng bê-tông"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rải bê-tông; đổ bê-tông; phủ bê-tông",
+          "list_en_vn": [
+            {
+              "full_en": "to concrete a road",
+              "full_vn": "rải bê-tông một con đường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357527_4c898a1287_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357527_2114300cb1_o.png",
+      "id_image": "concrete_1563143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428273_fe66664194_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428273_5259d69b42_o.png",
+      "id_image": "concrete_4631742"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313461_e8c1ceebb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313461_2b320c1742_o.png",
+      "id_image": "concrete_4631803"
+    }
+  ]
+}

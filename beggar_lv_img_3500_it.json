@@ -1,0 +1,91 @@
+{
+  "english": "beggar",
+  "phat_am": "['begə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người ăn mày, người ăn xin"
+        },
+        {
+          "m_full_vn": "(thông tục) gã; anh chàng",
+          "list_one_mean": [
+            {
+              "id_full_en": "beggars can't be choosers",
+              "list_im": [
+                {
+                  "im_full_vn": "phải bằng lòng với những gì có thể có được nếu không còn cái gì khác để chọn lựa; ăn mày còn đòi xôi gấc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to know something as well as a beggar knows his bag",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) know"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "you lucky beggar !",
+              "full_vn": "anh đúng là kẻ may mắn!"
+            },
+            {
+              "full_en": "the cheeky beggar !",
+              "full_vn": "Cáo thằng láo xược!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm nghèo đi; bần cùng hoá",
+          "list_one_mean": [
+            {
+              "id_full_en": "to beggar description",
+              "list_im": [
+                {
+                  "im_full_vn": "lạ thường đến nỗi không tả được"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a nation beggared by crippling taxes",
+              "full_vn": "một quốc gia bị lụn bại vì thuế má quá nặng nề"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423968_0349fd72b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423968_4a7f0e7e85_o.png",
+      "id_image": "beggar_4244635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045715_56858ea5d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045715_1ba689ecdc_o.png",
+      "id_image": "beggar_4244641"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352902_3351a5137a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352902_b35d4a4ed3_o.png",
+      "id_image": "beggar_5256187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664034_6a9b7a6831_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664034_554fa23ea3_o.png",
+      "id_image": "beggar_949555"
+    }
+  ]
+}

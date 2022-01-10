@@ -1,0 +1,49 @@
+{
+  "english": "ballet",
+  "phat_am": "['bælei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "một hình thức múa dùng để kể lại một câu chuyện bằng cách diễn kịch, kết hợp với âm nhạc mà không có lời hoặc hát; ba-lê",
+          "list_en_vn": [
+            {
+              "full_en": "to enjoy (the ) classical ballet",
+              "full_vn": "thưởng thức ba lê cổ điển"
+            },
+            {
+              "full_en": "ballet music",
+              "full_vn": "nhạc vũ ba-lê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "câu chuyện được trình diễn bằng vũ ba lê; nhóm diễn viên múa ba lê"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362732_381dfda62a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362732_e04b3d9d3e_o.png",
+      "id_image": "ballet_1082635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362692_cce23dbc52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362692_088526a728_o.png",
+      "id_image": "ballet_2410344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318121_84c54c3fd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318121_68a7e8d3f4_o.png",
+      "id_image": "ballet_2410365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362627_6d0dabafaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362627_064e567164_o.png",
+      "id_image": "ballet_5774989"
+    }
+  ]
+}

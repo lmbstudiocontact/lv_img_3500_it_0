@@ -1,0 +1,77 @@
+{
+  "english": "cabinet",
+  "phat_am": "['kæbinit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tủ có ngăn kéo hoặc giá để đựng hoặc trưng bày",
+          "list_en_vn": [
+            {
+              "full_en": "a medicine cabinet",
+              "full_vn": "tủ đựng thuốc"
+            },
+            {
+              "full_en": "a filing cabinet",
+              "full_vn": "tủ đựng hồ sơ"
+            },
+            {
+              "full_en": "a china cabinet",
+              "full_vn": "tủ đựng cốc tách bát đĩa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vỏ (máy thu thanh, máy ghi âm)"
+        },
+        {
+          "m_full_vn": "( the Cabinet ) nội các, chính phủ",
+          "list_en_vn": [
+            {
+              "full_en": "cabinet minister",
+              "full_vn": "thành viên nội các, bộ trưởng"
+            },
+            {
+              "full_en": "cabinet council",
+              "full_vn": "hội đồng nội các; hội đồng chính phủ"
+            },
+            {
+              "full_en": "cabinet crisis",
+              "full_vn": "khủng hoảng nội các"
+            },
+            {
+              "full_en": "cabinet reshuffle",
+              "full_vn": "sự cải tổ nội các"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phòng riêng dùng vào một việc cụ thể"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422133_d6408bca90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422133_393439f2c2_o.png",
+      "id_image": "cabinet_3255558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306911_03ff5cc174_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306911_e1156c442a_o.png",
+      "id_image": "cabinet_4806477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306871_b73468d8ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306871_b92712dcfd_o.png",
+      "id_image": "cabinet_5684022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306966_dbeac0ed10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306966_371e99d94f_o.png",
+      "id_image": "cabinet_700082"
+    }
+  ]
+}

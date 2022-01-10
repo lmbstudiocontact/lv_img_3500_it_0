@@ -1,0 +1,76 @@
+{
+  "english": "activity",
+  "phat_am": "[æk'tiviti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tích cực, sự hoạt động, sự nhanh nhẹn, sự linh lợi"
+        },
+        {
+          "m_full_vn": "( số nhiều) hoạt động",
+          "list_en_vn": [
+            {
+              "full_en": "sport activities",
+              "full_vn": "hoạt động thể thao"
+            },
+            {
+              "full_en": "scientific activities",
+              "full_vn": "hoạt động khoa học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phạm vi hoạt động",
+          "list_en_vn": [
+            {
+              "full_en": "within my activities",
+              "full_vn": "trong phạm vi hoạt động của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý), (hoá học) tính hoạt động, độ hoạt động; tính phóng xạ, độ phóng xạ",
+          "list_en_vn": [
+            {
+              "full_en": "photochemical activity",
+              "full_vn": "tính hoạt động quang hoá"
+            },
+            {
+              "full_en": "specific activity",
+              "full_vn": "phóng xạ riêng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367182_c8479c7a60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367182_65ed64a8bb_o.png",
+      "id_image": "activity_202393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437458_4de9ed708b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437458_f8379d9816_o.png",
+      "id_image": "activity_2191209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677304_3100e46338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677304_5f1eff8828_o.png",
+      "id_image": "activity_2919941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367087_89840f19b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367087_fe1ae03eb1_o.png",
+      "id_image": "activity_3475151"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677364_7375e61013_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677364_30c573ee01_o.png",
+      "id_image": "activity_392778"
+    }
+  ]
+}

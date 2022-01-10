@@ -1,0 +1,41 @@
+{
+  "english": "accelerator",
+  "phat_am": "[ək'seləreitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người làm tăng tốc độ"
+        },
+        {
+          "m_full_vn": "máy gia tốc; chân ga (xe ô tô)",
+          "list_en_vn": [
+            {
+              "full_en": "high-frequency accelerator",
+              "full_vn": "máy gia tốc tần cao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) chất gia tốc"
+        },
+        {
+          "m_full_vn": "(sinh vật học) dây thần kinh gia tốc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681514_5004ee80af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681514_7072a2be71_o.png",
+      "id_image": "accelerator_1394911"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063315_5b4e4bf052_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063315_42d7c58c9d_o.png",
+      "id_image": "accelerator_1924207"
+    }
+  ]
+}

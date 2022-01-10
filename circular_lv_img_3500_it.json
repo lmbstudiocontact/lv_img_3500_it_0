@@ -1,0 +1,74 @@
+{
+  "english": "circular",
+  "phat_am": "['sə:kjulə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tròn, vòng, vòng quanh",
+          "list_one_mean": [
+            {
+              "id_full_en": "circular letter",
+              "list_im": [
+                {
+                  "im_full_vn": "thông tư, thông tri"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a circular building",
+              "full_vn": "toà nhà hình tròn"
+            },
+            {
+              "full_en": "a circular movement",
+              "full_vn": "chuyển động vòng"
+            },
+            {
+              "full_en": "a circular railway",
+              "full_vn": "đường sắt vòng quanh thành phố"
+            },
+            {
+              "full_en": "a circular tour (trip )",
+              "full_vn": "chuyến đi vòng quanh"
+            },
+            {
+              "full_en": "a circular saw",
+              "full_vn": "cưa tròn, cưa đĩa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thông tri, thông tư"
+        },
+        {
+          "m_full_vn": "giấy báo (gửi cho khách hàng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350507_30583451fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350507_57562c9fbc_o.png",
+      "id_image": "circular_2442310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350472_64680601da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350472_9fa9938906_o.png",
+      "id_image": "circular_3815512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421483_c9054fa57e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421483_931e52e825_o.png",
+      "id_image": "circular_6203356"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "english": "bright",
+  "phat_am": "[brait]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sáng, sáng chói",
+          "list_en_vn": [
+            {
+              "full_en": "bright sunshine",
+              "full_vn": "mặt trời sáng chói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tươi",
+          "list_en_vn": [
+            {
+              "full_en": "bright red",
+              "full_vn": "đỏ tươi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sáng sủa; rạng rỡ, sáng ngời; rực rỡ",
+          "list_en_vn": [
+            {
+              "full_en": "a bright force",
+              "full_vn": "khuôn mặt sáng sủa"
+            },
+            {
+              "full_en": "a bright smile",
+              "full_vn": "nụ cười rạng rỡ"
+            },
+            {
+              "full_en": "bright eyes",
+              "full_vn": "cặp mắt sáng ngời"
+            },
+            {
+              "full_en": "a bright future",
+              "full_vn": "tương lai rực rỡ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sáng dạ, thông minh, nhanh trí",
+          "list_en_vn": [
+            {
+              "full_en": "a bright boy",
+              "full_vn": "một đứa bé sáng dạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lanh lợi, hoạt bát, nhanh nhẹn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to look on the bright side of everything",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) side"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get up bright and early",
+              "list_im": [
+                {
+                  "im_full_vn": "thức dậy lúc sớm tinh mơ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as bright as a button",
+              "list_im": [
+                {
+                  "im_full_vn": "khôn ngoan, nhạy bén"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the bright lights",
+              "list_im": [
+                {
+                  "im_full_vn": "đời sống nhộn nhịp ở chốn phồn hoa đô thị"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a bright spark",
+              "list_im": [
+                {
+                  "im_full_vn": "kẻ tài trí hơn người (đùa cợt)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "sáng chói, sáng ngời"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670629_4cf690fcf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670629_705d79aa65_o.png",
+      "id_image": "bright_1114046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360132_a2cdf7ca74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360132_ed82ae6a4f_o.png",
+      "id_image": "bright_1576543"
+    }
+  ]
+}

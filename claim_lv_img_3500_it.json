@@ -1,0 +1,181 @@
+{
+  "english": "claim",
+  "phat_am": "[kleim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( claim for something ) sự đòi hỏi một số tiền (bảo hiểm, bồi (thường), tăng lương..... chẳng hạn); số tiền muốn đòi",
+          "list_en_vn": [
+            {
+              "full_en": "to put in /make a claim for damages , a pay rise",
+              "full_vn": "đòi bồi thường thiệt hại, đòi tăng lương"
+            },
+            {
+              "full_en": "that's a very large claim !",
+              "full_vn": "số tiền đòi hỏi nhiều quá!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( claim to something ; claim on somebody / something ) quyền đòi, quyền yêu sách",
+          "list_en_vn": [
+            {
+              "full_en": "his claim to ownership is invalid",
+              "full_vn": "đòi hỏi của nó về quyền sở hữu là không có giá trị"
+            },
+            {
+              "full_en": "claim to the throne",
+              "full_vn": "đòi làm vua"
+            },
+            {
+              "full_en": "you've no claim on my sympathy",
+              "full_vn": "anh không có quyền buộc tôi phải đồng tình"
+            },
+            {
+              "full_en": "his only claim to fame is that he once shook hands with our leader",
+              "full_vn": "điều duy nhất khiến ông ta tự cho mình nổi tiếng là ông ta đã có một lần bắt tay với lãnh tụ của chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật muốn đòi (nhất là một mảnh đất)"
+        },
+        {
+          "m_full_vn": "lời tuyên bố điều gì là sự thật; sự khẳng định",
+          "list_en_vn": [
+            {
+              "full_en": "nobody believed his claim that he was innocent /to be innocent",
+              "full_vn": "không ai tin lời tuyên bố của nó rằng nó vô tội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), ( Uc) quyền khai thác mỏ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lay claim to something",
+              "list_im": [
+                {
+                  "im_full_vn": "tuyên bố rằng mình có quyền đòi hỏi cái gì; tự cho rằng mình có khả năng làm điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to lay claim to an inheritance",
+                      "full_vn": "tuyên bố rằng mình có quyền thừa kế"
+                    },
+                    {
+                      "full_en": "I lay no claim to being a writer",
+                      "full_vn": "tôi chẳng hề cho mình là một nhà văn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stake a / one's claim",
+              "list_im": [
+                {
+                  "im_full_vn": "xem stake"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đòi, yêu sách; thỉnh cầu",
+          "list_en_vn": [
+            {
+              "full_en": "every citizen may claim the protection of the law",
+              "full_vn": "tất cả mọi công dân đều có thể yêu cầu pháp luật bảo vệ"
+            },
+            {
+              "full_en": "to claim something back from somebody",
+              "full_vn": "yêu cầu ai trả lại cái gì"
+            },
+            {
+              "full_en": "to claim diplomatic immunity",
+              "full_vn": "đòi hưởng quyền bất khả xâm phạm về ngoại giao"
+            },
+            {
+              "full_en": "to claim ownership of a house",
+              "full_vn": "đòi quyền sở hữu một căn nhà"
+            },
+            {
+              "full_en": "to claim an item of lost property",
+              "full_vn": "đòi một món tài sản bị thất lạc"
+            },
+            {
+              "full_en": "gardening claims much time",
+              "full_vn": "việc làm vườn đòi hỏi phải tốn nhiều thời gian"
+            },
+            {
+              "full_en": "there are several matters that claim my attention",
+              "full_vn": "có một số việc đòi hỏi tôi phải chú ý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to claim for something ) đòi (bồi (thường) theo hợp đồng bảo hiểm)",
+          "list_en_vn": [
+            {
+              "full_en": "have you claimed (the insurance ) yet ?",
+              "full_vn": "anh đòi tiền (bảo hiểm) chưa?"
+            },
+            {
+              "full_en": "to claim for damages",
+              "full_vn": "đòi bồi thường thiệt hại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quả quyết; khẳng định",
+          "list_en_vn": [
+            {
+              "full_en": "to claim knowledge of something",
+              "full_vn": "quả quyết rằng mình biết cái gì"
+            },
+            {
+              "full_en": "after the battle , both sides claimed victory",
+              "full_vn": "sau trận đánh, cả hai bên đều quả quyết rằng mình thắng"
+            },
+            {
+              "full_en": "she claims that she is related to the Queen /to be related to the Queen",
+              "full_vn": "bà ta quả quyết rằng mình có họ hàng với Nữ hoàng"
+            },
+            {
+              "full_en": "he claimed to be the best fooball-player in the school",
+              "full_vn": "nó cho mình là cầu thủ bóng đá xuất sắc nhất của trường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về một thảm hoạ, tai nạn) gây ra tổn thất hay tử vong",
+          "list_en_vn": [
+            {
+              "full_en": "the earthquake claimed thousands of lives /victims",
+              "full_vn": "trận động đất làm chết hàng nghìn sinh mạng/nạn nhân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042600_e33128736c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042600_ff50f00322_o.png",
+      "id_image": "claim_2419571"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420758_c3842ce082_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420758_5c4d15e954_o.png",
+      "id_image": "claim_670845"
+    }
+  ]
+}

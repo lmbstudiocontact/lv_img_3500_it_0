@@ -1,0 +1,93 @@
+{
+  "english": "angel",
+  "phat_am": "['eindʒəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thiên thần, thiên sứ",
+          "list_en_vn": [
+            {
+              "full_en": "the angel of death",
+              "full_vn": "thiên thần báo tử"
+            },
+            {
+              "full_en": "the angel of darkness",
+              "full_vn": "ác ma, ác quỷ"
+            },
+            {
+              "full_en": "guardian angel",
+              "full_vn": "thần hộ mệnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người phúc hậu, người hiền lành, người đáng yêu; người ngây thơ trong trắng"
+        },
+        {
+          "m_full_vn": "(từ lóng) người xuất vốn cho kẻ khác"
+        },
+        {
+          "m_full_vn": "tiền cổ bằng vàng (ở Anh) ( (cũng) angel noble )",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be someone's good angel",
+              "list_im": [
+                {
+                  "im_full_vn": "che chở phù hộ cho ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to entertain an angel unawares",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp đãi một nhân vật quan trọng mà không biết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to join the angels",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) về nơi cực lạc, chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a ministering angel",
+              "list_im": [
+                {
+                  "im_full_vn": "người luôn hết lòng tận tụy vì người khác"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427508_e9ca1c5f53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427508_58060e0ea3_o.png",
+      "id_image": "angel_1221456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667474_d839b7a214_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667474_c0ab2dca97_o.png",
+      "id_image": "angel_1775574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427573_bfb3a9b68e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427573_aa81967b3e_o.png",
+      "id_image": "angel_348968"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356722_b14421a29f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356722_2639bf2623_o.png",
+      "id_image": "angel_643956"
+    }
+  ]
+}

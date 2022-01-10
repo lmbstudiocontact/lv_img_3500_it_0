@@ -1,0 +1,171 @@
+{
+  "english": "cream",
+  "phat_am": "[kri:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kem (lấy từ sữa)",
+          "list_en_vn": [
+            {
+              "full_en": "peaches and cream",
+              "full_vn": "món đào trộn kem"
+            },
+            {
+              "full_en": "to put cream in one's coffee",
+              "full_vn": "cho kem vào ly cà phê của mình"
+            },
+            {
+              "full_en": "whipped cream",
+              "full_vn": "kem đánh"
+            },
+            {
+              "full_en": "cream buns /cakes",
+              "full_vn": "bánh sữa/bánh ngọt kem"
+            },
+            {
+              "full_en": "cream tea",
+              "full_vn": "bữa ăn mà thực đơn là trà, bánh nướng, mứt và kem"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thực phẩm có chứa kem hoặc giống như kem",
+          "list_en_vn": [
+            {
+              "full_en": "ice-cream",
+              "full_vn": "kem ăn"
+            },
+            {
+              "full_en": "chocolate creams",
+              "full_vn": "kem sôcôla"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bột nhão mịn hoặc nước đặc dùng làm mỹ phẩm, thuốc đánh bóng",
+          "list_en_vn": [
+            {
+              "full_en": "face-cream",
+              "full_vn": "kem xoa mặt"
+            },
+            {
+              "full_en": "cold-cream",
+              "full_vn": "kem bôi chống rét"
+            },
+            {
+              "full_en": "antiseptic cream",
+              "full_vn": "kem khử trùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tinh hoa, tinh tuý, phần tốt nhất, phần hay nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the cream of the crop",
+              "full_vn": "phần tốt nhất của vụ thu hoạch"
+            },
+            {
+              "full_en": "the cream of society",
+              "full_vn": "tinh hoa của xã hội"
+            },
+            {
+              "full_en": "the cream of the story",
+              "full_vn": "phần hay nhất của câu chuyện"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "màu kem",
+          "list_en_vn": [
+            {
+              "full_en": "a cream dress /jacket",
+              "full_vn": "áo dài/áo vét màu kem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghiền (rau đã luộc chín, nhất là khoai tây) cho thêm sữa hoặc bơ đến khi mềm nhuyễn"
+        },
+        {
+          "m_full_vn": "trộn cái gì với nhau thành một loại bột nhão, nhuyễn mềm",
+          "list_en_vn": [
+            {
+              "full_en": "to cream butter and sugar",
+              "full_vn": "trộn đều bơ và đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hớt bọt, hớt váng, gạn lấy kem đi (như) skim"
+        },
+        {
+          "m_full_vn": "đánh bại",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cream somebody /something off",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy đi (người hoặc đồ vật tốt nhất); gạn lấy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the most able pupils are creamed off and put into special classes",
+                      "full_vn": "những học sinh có khả năng nhất đã được chọn ra và xếp vào lớp đặc biệt"
+                    },
+                    {
+                      "full_en": "our best scientists are being creamed off by other countries",
+                      "full_vn": "các nhà khoa học giỏi nhất nước ta đang bị các nước khác lấy đi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the enemy troops were creamed last night",
+              "full_vn": "đêm qua quân địch đại bại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở thành kem"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677784_8bc64cddbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677784_b9a646bf11_o.png",
+      "id_image": "cream_209723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677734_b419488244_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677734_16bf0dc8af_o.png",
+      "id_image": "cream_410420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437848_8cded3fd07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437848_2593ee96d6_o.png",
+      "id_image": "cream_5578304"
+    }
+  ]
+}

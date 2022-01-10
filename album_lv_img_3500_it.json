@@ -1,0 +1,45 @@
+{
+  "english": "album",
+  "phat_am": "['ælbəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quyển sách để giữ một bộ sưu tập ảnh, chữ ký, tem...; an-bom"
+        },
+        {
+          "m_full_vn": "đĩa quay tốc độ 331 / 3 vòng/phút, ghi nhiều tiết mục của cùng một người biểu diễn",
+          "list_en_vn": [
+            {
+              "full_en": "This is one of the songs from /on her latest album",
+              "full_vn": "Đây là mộttrong những bài hát trong an bom mới nhất của cô ấy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671944_3e3c589df1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671944_ecfc9063ea_o.png",
+      "id_image": "album_2005010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671899_06683f174e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671899_7daa2c7d00_o.png",
+      "id_image": "album_2005052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361472_be10f0621a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361472_4f4f5a4af2_o.png",
+      "id_image": "album_2880528"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432348_971245f24e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432348_dd35ffb7a0_o.png",
+      "id_image": "album_898853"
+    }
+  ]
+}

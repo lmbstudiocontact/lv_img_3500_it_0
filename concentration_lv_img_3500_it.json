@@ -1,0 +1,78 @@
+{
+  "english": "concentration",
+  "phat_am": "[,kɔnsn'trei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( concentration on something ) (năng lực) tập trung vào cái gì; sự tập trung",
+          "list_en_vn": [
+            {
+              "full_en": "stress and tiredness often result in lack of concentration",
+              "full_vn": "tình trạng căng thẳng và mệt mỏi thường dẫn đến sự thiếu tập trung"
+            },
+            {
+              "full_en": "a book that requires great concentration",
+              "full_vn": "cuốn sách đòi hỏi sự tập trung cao độ"
+            },
+            {
+              "full_en": "I found it hard to keep my concentration with such a noise going on",
+              "full_vn": "tôi thấy khó mà giữ được tập trung với một tiếng ồn liên tiếp như thế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( concentration of something ) sự tập hợp người hoặc vật; sự tập trung",
+          "list_en_vn": [
+            {
+              "full_en": "concentrations of enemy troops , industrial buildings",
+              "full_vn": "những sự tập trung của binh lính địch, các công trình công nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) sự cô",
+          "list_one_mean": [
+            {
+              "id_full_en": "concentration camp",
+              "list_im": [
+                {
+                  "im_full_vn": "nơi giam giữ tù chính trị, tù binh (nhất là thời Đức quốc xã); trại tập trung"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "concentration by evaporation",
+              "full_vn": "sự cô cạn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428933_ffeb07a902_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428933_f706a711d4_o.png",
+      "id_image": "concentration_1055349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428908_db473254ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428908_38f78700d9_o.png",
+      "id_image": "concentration_2654397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313991_0e167ec155_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313991_b4db45bfc1_o.png",
+      "id_image": "concentration_2688600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358222_452163c1cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358222_612bd709f3_o.png",
+      "id_image": "concentration_5265831"
+    }
+  ]
+}

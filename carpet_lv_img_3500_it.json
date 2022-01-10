@@ -1,0 +1,77 @@
+{
+  "english": "carpet",
+  "phat_am": "['kɑ:pit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tấm thảm",
+          "list_en_vn": [
+            {
+              "full_en": "to lay a carpet",
+              "full_vn": "trải thảm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thảm (cỏ, hoa, rêu...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on the carpet",
+              "list_im": [
+                {
+                  "im_full_vn": "được đem ra thảo luận, bàn cãi"
+                },
+                {
+                  "im_full_vn": "bị mắng, bị quở trách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk the carpet",
+              "list_im": [
+                {
+                  "im_full_vn": "bị mắng, bị quở trách"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trải thảm"
+        },
+        {
+          "m_full_vn": "(thông tục) lôi (người làm...) ra mắng mỏ; gọi lên mắng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324171_ee773a1afc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324171_f09e5faf82_o.png",
+      "id_image": "carpet_1347834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439168_47a7d4aa99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439168_6fa19e8bc5_o.png",
+      "id_image": "carpet_1878071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439138_1651f2f536_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439138_b40e02682f_o.png",
+      "id_image": "carpet_4834146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679269_c0f14f96e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679269_87e41a82bc_o.png",
+      "id_image": "carpet_5233865"
+    }
+  ]
+}

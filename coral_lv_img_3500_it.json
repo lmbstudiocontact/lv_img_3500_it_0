@@ -1,0 +1,79 @@
+{
+  "english": "coral",
+  "phat_am": "['kɔrəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "san hô"
+        },
+        {
+          "m_full_vn": "đồ chơi bằng san hô (của trẻ con)"
+        },
+        {
+          "m_full_vn": "bọc trứng tôm hùm",
+          "list_one_mean": [
+            {
+              "id_full_en": "true coral needs no painter's brush",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) hữu xạ tự nhiên hương"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đỏ như san hô",
+          "list_en_vn": [
+            {
+              "full_en": "coral lips",
+              "full_vn": "môi đỏ như san hô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) san hô",
+          "list_en_vn": [
+            {
+              "full_en": "coral island",
+              "full_vn": "đảo san hô"
+            },
+            {
+              "full_en": "coral reef",
+              "full_vn": "đá ngầm hình thành từ san hô"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688029_b8f14a5d5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688029_3d1659fbab_o.png",
+      "id_image": "coral_2333710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687994_8d62ebc828_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687994_cb7c61cef0_o.png",
+      "id_image": "coral_3860075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377817_f47e3b54b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377817_b18279d393_o.png",
+      "id_image": "coral_4545245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377742_04f4d2324c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377742_835ba7dbc5_o.png",
+      "id_image": "coral_4751234"
+    }
+  ]
+}

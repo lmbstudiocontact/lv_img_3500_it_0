@@ -1,0 +1,77 @@
+{
+  "english": "competition",
+  "phat_am": "[,kɔmpi'ti∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( competition between / with somebody for something ) sự đua tranh giữa nhiều người; sự cạnh tranh",
+          "list_en_vn": [
+            {
+              "full_en": "trade competition between two countries",
+              "full_vn": "sự cạnh tranh thương mại giữa hai nước"
+            },
+            {
+              "full_en": "competition between bidders for this valuable painting has been keen",
+              "full_vn": "sự đua tranh giữa những người đấu giá để giành bức tranh quý này là rất gay go"
+            },
+            {
+              "full_en": "we're in competition with several other companies for the contract",
+              "full_vn": "chúng tôi đang cạnh tranh với nhiều công ty về bản hợp đồng này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự kiện đua tranh, cuộc thi đấu",
+          "list_en_vn": [
+            {
+              "full_en": "a swimming /chess /beauty competition",
+              "full_vn": "cuộc thi bơi/đánh cờ/hoa hậu"
+            },
+            {
+              "full_en": "he came first in the poetry competition",
+              "full_vn": "anh ta giành giải nhất trong cuộc thi thơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the competition ) những người cạnh tranh với ai",
+          "list_en_vn": [
+            {
+              "full_en": "she had a chance to see the competition before the interview",
+              "full_vn": "cô ta đã có dịp thấy những người cạnh tranh trước khi bước vào phỏng vấn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053125_ec2dedb873_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053125_ca3f1ccc48_o.png",
+      "id_image": "competition_1208153"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316671_d80a59f8d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316671_478111355f_o.png",
+      "id_image": "competition_1599828"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053065_65e3c579ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053065_50b8eab20e_o.png",
+      "id_image": "competition_2631531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431588_18214fd5fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431588_5685c2f881_o.png",
+      "id_image": "competition_2720671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316581_8e10a39859_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316581_13112a7f0b_o.png",
+      "id_image": "competition_2734733"
+    }
+  ]
+}

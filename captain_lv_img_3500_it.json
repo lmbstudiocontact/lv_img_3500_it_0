@@ -1,0 +1,59 @@
+{
+  "english": "captain",
+  "phat_am": "['kæptin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người phụ trách một chiếc tàu hoặc máy bay dân sự; hạm trưởng; phi trưởng"
+        },
+        {
+          "m_full_vn": "sĩ quan giữa cấp trung úy và cấp thiếu tá; đại úy"
+        },
+        {
+          "m_full_vn": "sĩ quan giữa cấp đô đốc và trung tá hải quân Anh; đại tá hải quân"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đội trưởng",
+          "list_en_vn": [
+            {
+              "full_en": "captain of a football team",
+              "full_vn": "đội trưởng đội banh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm đội trưởng (của một đội banh...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442753_4058d12807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442753_d8013fa5d6_o.png",
+      "id_image": "captain_1733953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064405_7ced9b2dc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064405_7921ea710a_o.png",
+      "id_image": "captain_1876747"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372367_727bd4107c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372367_6b3e16ac09_o.png",
+      "id_image": "captain_6150306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327796_61c8cf066f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327796_94d5b2514f_o.png",
+      "id_image": "captain_683825"
+    }
+  ]
+}

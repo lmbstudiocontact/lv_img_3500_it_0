@@ -1,0 +1,101 @@
+{
+  "english": "chill",
+  "phat_am": "[t∫il]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ớn lạnh, sự rùng mình (vì lạnh)",
+          "list_en_vn": [
+            {
+              "full_en": "to catch a chill",
+              "full_vn": "bị cảm lạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự lạnh lẽo, sự giá lạnh",
+          "list_en_vn": [
+            {
+              "full_en": "to take the chill off",
+              "full_vn": "làm tan giá, làm ấm lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự lạnh lùng, sự lạnh nhạt"
+        },
+        {
+          "m_full_vn": "sự làm nhụt (nhuệ khí, nhiệt tình...); gáo nước lạnh (bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "to cast a chill over ...",
+              "full_vn": "làm nhụt..., giội gáo nước lạnh lên..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự tôi"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lạnh, lạnh lẽo, giá lạnh"
+        },
+        {
+          "m_full_vn": "cảm thấy lạnh, ớn lạnh"
+        },
+        {
+          "m_full_vn": "lạnh lùng, lạnh nhạt"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) đã tôi"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm ớn lạnh"
+        },
+        {
+          "m_full_vn": "làm nhụt (nhuệ khí, nhiệt tình...); giội gáo nước lạnh (bóng)"
+        },
+        {
+          "m_full_vn": "làm chết cóng (cây)"
+        },
+        {
+          "m_full_vn": "(thông tục) làm tan giá, làm ấm lên"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) tôi"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ớn lạnh; bị cảm lạnh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353632_62198b46b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353632_fd6708b1f0_o.png",
+      "id_image": "chill_1721746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424543_9413317af9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424543_d076ef4b9a_o.png",
+      "id_image": "chill_1730175"
+    }
+  ]
+}

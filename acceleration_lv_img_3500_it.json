@@ -1,0 +1,30 @@
+{
+  "english": "acceleration",
+  "phat_am": "[ək,selə'rei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự làm nhanh thêm, sự thúc mau, sự giục gấp"
+        },
+        {
+          "m_full_vn": "gia tốc",
+          "list_en_vn": [
+            {
+              "full_en": "acceleration of gravity",
+              "full_vn": "(vật lý) gia tốc của trọng lực"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063380_9fcccd28cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063380_6e2063630b_o.png",
+      "id_image": "acceleration_1533943"
+    }
+  ]
+}

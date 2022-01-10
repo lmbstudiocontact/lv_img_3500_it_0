@@ -1,0 +1,96 @@
+{
+  "english": "desert",
+  "phat_am": "[di'zə:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sa mạc",
+          "list_one_mean": [
+            {
+              "id_full_en": "desert island",
+              "list_im": [
+                {
+                  "im_full_vn": "đảo không có người ở, đảo hoang"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the Sahara Desert",
+              "full_vn": "sa mạc Xahara"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ đi; rời bỏ",
+          "list_en_vn": [
+            {
+              "full_en": "to desert a house /city",
+              "full_vn": "rời bỏ căn nhà/thành phố"
+            },
+            {
+              "full_en": "the village had been hurriedly deserted , perhaps because terrorists were in the area",
+              "full_vn": "người ta vội vã bỏ làng ra đi, có lẽ vì bọn khủng bố đã có mặt ở vùng này"
+            },
+            {
+              "full_en": "he deserted his wife and children and went abroad",
+              "full_vn": "hắn bỏ vợ con lại để đi nước ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ trốn, đào ngũ",
+          "list_en_vn": [
+            {
+              "full_en": "a soldier who deserts (his post ) in wartime will be punished severely",
+              "full_vn": "quân nhân đào ngũ trong thời chiến sẽ bị trừng phạt nghiêm khắc"
+            },
+            {
+              "full_en": "to desert from the army",
+              "full_vn": "đào ngũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tan biến",
+          "list_en_vn": [
+            {
+              "full_en": "his courage /presence of mind deserted him",
+              "full_vn": "lòng can đảm/sự nhanh trí của nó đã biến đâu mất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374092_285ac51192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374092_0aa24de90c_o.png",
+      "id_image": "desert_1083275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444363_97b0b36c94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444363_3045aa5d1b_o.png",
+      "id_image": "desert_1399467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684474_92d9f403ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684474_2213ff1326_o.png",
+      "id_image": "desert_520098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444453_b634b1feb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444453_e923dd1aaf_o.png",
+      "id_image": "desert_619136"
+    }
+  ]
+}

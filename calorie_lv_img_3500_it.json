@@ -1,0 +1,51 @@
+{
+  "english": "calorie",
+  "phat_am": "['kæləri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ca-lo",
+          "list_en_vn": [
+            {
+              "full_en": "large calorie ; kilogram calorie",
+              "full_vn": "kí-lô ca-lo"
+            },
+            {
+              "full_en": "small calorie ; gram calorie",
+              "full_vn": "gam ca-lo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420208_26129895e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420208_26ff66a1a4_o.png",
+      "id_image": "calories_1813420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660544_3e41445718_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660544_37eea6c077_o.png",
+      "id_image": "calories_2117186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042050_0696d7bfee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042050_a98f8e9806_o.png",
+      "id_image": "calories_2548475"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305001_d2f4ab5f92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305001_acbec379ba_o.png",
+      "id_image": "calories_3632468"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305176_4b15f77a32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305176_53975d2568_o.png",
+      "id_image": "calorie_2860821"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "english": "access",
+  "phat_am": "['ækses]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( access to something ) phương tiện đến gần hoặc đi vào nơi nào đó; đường vào",
+          "list_en_vn": [
+            {
+              "full_en": "the only access to the farmhouse is across the fields",
+              "full_vn": "lối duy nhất dẫn vào trang trại là băng qua các cánh đồng"
+            },
+            {
+              "full_en": "easy /difficult of access",
+              "full_vn": "dễ/khó lui tới"
+            },
+            {
+              "full_en": "the village is easy of access",
+              "full_vn": "đường vào làng dễ đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự dâng lên (nước triều)",
+          "list_en_vn": [
+            {
+              "full_en": "the access and recess of the sea",
+              "full_vn": "lúc triều lên và triều xuống ở biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơn",
+          "list_en_vn": [
+            {
+              "full_en": "access of anger",
+              "full_vn": "cơn giận"
+            },
+            {
+              "full_en": "access of illness",
+              "full_vn": "cơn bệnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( access to something / somebody ) cơ hội/quyền sử dụng cái gì; sự đến gần ai",
+          "list_en_vn": [
+            {
+              "full_en": "to get access to classified information",
+              "full_vn": "được quyền sử dụng thông tin đã phân loại"
+            },
+            {
+              "full_en": "students must have access to a good library",
+              "full_vn": "sinh viên phải được quyền vào đọc sách ở một thư viện tốt"
+            },
+            {
+              "full_en": "only high officials had access to the President",
+              "full_vn": "chỉ những quan chức cao cấp mới có quyền đến gặp Tổng thống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) sự truy cập (thông tin)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tin học) truy cập",
+          "list_en_vn": [
+            {
+              "full_en": "to access a file",
+              "full_vn": "truy cập một tập tin"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681139_b005045318_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681139_d3b7a0e3ec_o.png",
+      "id_image": "access_1725498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370797_6998b41891_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370797_13e38a3332_o.png",
+      "id_image": "access_1753306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681054_f72e63a5a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681054_71cbb4a053_o.png",
+      "id_image": "access_4198534"
+    }
+  ]
+}

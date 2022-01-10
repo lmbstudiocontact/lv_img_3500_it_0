@@ -1,0 +1,30 @@
+{
+  "english": "cowboy",
+  "phat_am": "['kaubɔi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người chăn bò ở miền Tây nước Mỹ; cao bồi",
+          "list_en_vn": [
+            {
+              "full_en": "a cowboy movie",
+              "full_vn": "phim mô tả những cuộc phiêu lưu ở miền Tây nước Mỹ; phim cao bồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhà kinh doanh thiếu khả năng hoặc thiếu thiện chí"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062040_5c056db5ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062040_82390f8c63_o.png",
+      "id_image": "cowboy_412778"
+    }
+  ]
+}

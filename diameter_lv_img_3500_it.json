@@ -1,0 +1,30 @@
+{
+  "english": "diameter",
+  "phat_am": "[dai'æmitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) đường kính"
+        },
+        {
+          "m_full_vn": "số phóng to (của thấu kính...)",
+          "list_en_vn": [
+            {
+              "full_en": "lens magnifying 20 diameters",
+              "full_vn": "thấu kính phóng to 20 lần"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438848_1b49216daf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438848_17a6d43fb8_o.png",
+      "id_image": "diameter_5967631"
+    }
+  ]
+}

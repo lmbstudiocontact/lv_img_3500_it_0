@@ -1,0 +1,47 @@
+{
+  "english": "compression",
+  "phat_am": "[kəm'pre∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ép, sự nén"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự cô lại, sự cô đọng; sự giảm bớt",
+          "list_en_vn": [
+            {
+              "full_en": "compression of ideas",
+              "full_vn": "sự cô đọng ý"
+            },
+            {
+              "full_en": "the compression of expenses",
+              "full_vn": "sự giảm bớt các khoản chi tiêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự độn, sự lèn, sự đầm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429628_033e7fb1cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429628_6fde5435d8_o.png",
+      "id_image": "compression_1644359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429643_4084f00b18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429643_308dd0f54b_o.png",
+      "id_image": "compression_180956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314721_a50a04b24c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314721_6545ab5874_o.png",
+      "id_image": "compression_3399762"
+    }
+  ]
+}

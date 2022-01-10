@@ -1,0 +1,63 @@
+{
+  "english": "crystal",
+  "phat_am": "['kristl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tinh thể",
+          "list_en_vn": [
+            {
+              "full_en": "single crystal",
+              "full_vn": "tinh thể đơn"
+            },
+            {
+              "full_en": "organic crystal",
+              "full_vn": "tinh thể hữu cơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "pha lê; đồ pha lê"
+        },
+        {
+          "m_full_vn": "(thơ ca) vật trong suốt như pha lê (tuyết, nước, con mắt...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) mặt kính đồng hồ"
+        },
+        {
+          "m_full_vn": "( định ngữ) bằng pha lê; như pha lê"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671679_5e76f60d5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671679_8698c9c67d_o.png",
+      "id_image": "crystal_1021357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053380_f86b5c30e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053380_4aa3c8a607_o.png",
+      "id_image": "crystal_2464317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361237_d921405596_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361237_be98b642ce_o.png",
+      "id_image": "crystal_2732410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671579_b8b4ecd8a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671579_258970455f_o.png",
+      "id_image": "crystal_4455512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671544_a13113f26f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671544_f90052479a_o.png",
+      "id_image": "crystal_4545077"
+    }
+  ]
+}

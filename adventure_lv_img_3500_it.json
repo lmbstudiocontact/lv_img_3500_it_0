@@ -1,0 +1,84 @@
+{
+  "english": "adventure",
+  "phat_am": "[əd'vent∫ə]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mạo hiểm, liều",
+          "list_en_vn": [
+            {
+              "full_en": "to adventure to do something",
+              "full_vn": "liều làm việc gì"
+            },
+            {
+              "full_en": "to adventure one's life",
+              "full_vn": "liều mạng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phiêu lưu, sự mạo hiểm; việc làm mạo hiểm, việc làm táo bạo",
+          "list_en_vn": [
+            {
+              "full_en": "stories of adventures",
+              "full_vn": "những truyện phiêu lưu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nguy hiểm, sự hiểm nghèo"
+        },
+        {
+          "m_full_vn": "sự việc bất ngờ",
+          "list_en_vn": [
+            {
+              "full_en": "to meet with an adventure",
+              "full_vn": "gặp một sự việc bất ngờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự may rủi, sự tình cờ",
+          "list_en_vn": [
+            {
+              "full_en": "if , by adventure ,you come across him",
+              "full_vn": "nếu tình cờ anh có gặp hắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) sự đầu cơ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056620_a5e31584b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056620_569894c9c7_o.png",
+      "id_image": "adventure_2267658"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674944_f0716e3698_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674944_8c65d3a6e0_o.png",
+      "id_image": "adventure_2533743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435038_e37aa22f76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435038_8d7e11f07f_o.png",
+      "id_image": "adventure_5998537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674839_e7c0581f59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674839_ee7e3f3076_o.png",
+      "id_image": "adventure_6192827"
+    }
+  ]
+}

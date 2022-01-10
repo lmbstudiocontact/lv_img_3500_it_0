@@ -1,0 +1,45 @@
+{
+  "english": "booth",
+  "phat_am": "[bu:ð]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quán, rạp, lều",
+          "list_en_vn": [
+            {
+              "full_en": "a refreshment booth",
+              "full_vn": "quán giải khát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) phòng điện thoại công cộng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677864_219dcf3f52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677864_f27afe9579_o.png",
+      "id_image": "booth_2066953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322651_e6fea6ac31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322651_05606462e0_o.png",
+      "id_image": "booth_4133226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367592_26424a1521_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367592_d6b8306c4c_o.png",
+      "id_image": "booth_4213348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677754_1e682b6b65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677754_d29d29d1f8_o.png",
+      "id_image": "booth_5593675"
+    }
+  ]
+}

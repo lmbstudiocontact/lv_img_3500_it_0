@@ -1,0 +1,31 @@
+{
+  "english": "aromatic",
+  "phat_am": "[,ærou'mætik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thơm",
+          "list_en_vn": [
+            {
+              "full_en": "aromatic spices",
+              "full_vn": "hương liệu"
+            },
+            {
+              "full_en": "aromatic compound",
+              "full_vn": "(hoá học) hợp chất thơm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305391_5ec738f0e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305391_5ef34a0c01_o.png",
+      "id_image": "aromatic_2553972"
+    }
+  ]
+}

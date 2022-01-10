@@ -1,0 +1,67 @@
+{
+  "english": "differential",
+  "phat_am": "[,difə'ren∫əl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "khác nhau; có phân biệt; chênh lệch",
+          "list_en_vn": [
+            {
+              "full_en": "differential treatment of patients",
+              "full_vn": "sự đối xử phân biệt đối với các bệnh nhân"
+            },
+            {
+              "full_en": "differential tariff",
+              "full_vn": "thuế biểu chênh lệch (không (như) thuế biểu (thường) lệ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) vi phân",
+          "list_en_vn": [
+            {
+              "full_en": "differential equation",
+              "full_vn": "phương trình vi phân"
+            },
+            {
+              "full_en": "differential calculus",
+              "full_vn": "phép tính vi phân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) vi sai",
+          "list_en_vn": [
+            {
+              "full_en": "differential gear",
+              "full_vn": "truyền động vi sai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) vi phân"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) hộp số có khả năng làm cho những bánh sau của xe quay với tốc độ khác khi vào đường vòng; bộ truyền động vi sai ( (cũng) differential gear )"
+        },
+        {
+          "m_full_vn": "sự chênh lệch về lương (giữa hai ngành (công nghiệp) hoặc giữa hai loại công nhân cùng ngành)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322321_6ebf7a3ffe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322321_cb82fb80df_o.png",
+      "id_image": "differential_6213266"
+    }
+  ]
+}

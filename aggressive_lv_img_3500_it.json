@@ -1,0 +1,49 @@
+{
+  "english": "aggressive",
+  "phat_am": "[ə'gresiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hay gây hấn; hùng hổ; hung hăng",
+          "list_en_vn": [
+            {
+              "full_en": "aggressive nations threaten world peace",
+              "full_vn": "những quốc gia hung hăng đe doạ hoà bình thế giới"
+            },
+            {
+              "full_en": "aggressive war",
+              "full_vn": "chiến tranh xâm lược"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công kích; tấn công",
+          "list_en_vn": [
+            {
+              "full_en": "aggressive grenades",
+              "full_vn": "lựu đạn tấn công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tháo vát, xốc vác, xông xáo, năng nổ",
+          "list_en_vn": [
+            {
+              "full_en": "a good salesman must be aggressive if he wants to succeed",
+              "full_vn": "một người bán hàng giỏi cần phải năng nổ nếu muốn thành công"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318576_35af76f84b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318576_a05b365c49_o.png",
+      "id_image": "aggressive_708680"
+    }
+  ]
+}

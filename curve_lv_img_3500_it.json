@@ -1,0 +1,61 @@
+{
+  "english": "curve",
+  "phat_am": "[kə:v]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường cong, đường vòng, chỗ quanh co",
+          "list_en_vn": [
+            {
+              "full_en": "a curve of pursuit",
+              "full_vn": "đường đuôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cong, uốn cong, bẻ cong, làm vênh",
+          "list_en_vn": [
+            {
+              "full_en": "the road curves round the hillside",
+              "full_vn": "con đường uốn quanh sườn đồi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314191_b11904970c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314191_d7fa0094b5_o.png",
+      "id_image": "curve_1070223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668894_684f8990e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668894_f10e8a22a9_o.png",
+      "id_image": "curve_1900206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314126_fca138d001_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314126_c77c05a964_o.png",
+      "id_image": "curve_2597900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050705_fa8935524d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050705_e380ffca28_o.png",
+      "id_image": "curve_5772951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429153_242fd352d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429153_9a3627b51b_o.png",
+      "id_image": "curve_803199"
+    }
+  ]
+}

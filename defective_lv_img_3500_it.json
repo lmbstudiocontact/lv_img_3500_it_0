@@ -1,0 +1,65 @@
+{
+  "english": "defective",
+  "phat_am": "[di'fektiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thiếu sót, có nhược điểm; có khuyết điểm",
+          "list_en_vn": [
+            {
+              "full_en": "a defective machine , method , theory",
+              "full_vn": "một cỗ máy, phương pháp, lý thuyết có nhược điểm"
+            },
+            {
+              "full_en": "defective in workmanship , character",
+              "full_vn": "có khuyết điểm trong tay nghề, tính nết"
+            },
+            {
+              "full_en": "a defective memory",
+              "full_vn": "trí nhớ kém"
+            },
+            {
+              "full_en": "her hearing was found to be slightly defective",
+              "full_vn": "người ta thấy thính giác của bà ta hơi kém"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) khiếm khuyết",
+          "list_en_vn": [
+            {
+              "full_en": "a defective verb",
+              "full_vn": "động từ khiếm khuyết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người có tật",
+          "list_en_vn": [
+            {
+              "full_en": "a mental defective",
+              "full_vn": "người kém thông minh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) động từ khiếm khuyết"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306061_f22c2bb5a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306061_bcc205ce79_o.png",
+      "id_image": "defective_5318814"
+    }
+  ]
+}

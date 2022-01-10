@@ -1,0 +1,48 @@
+{
+  "english": "bookmark",
+  "phat_am": "['bukmɑ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dải bằng da hoặc bằng vải... do người đọc chèn vào giữa hai trang trong một cuốn sách để khỏi quên số của trang mà mình đang đọc dở dang"
+        },
+        {
+          "m_full_vn": "(tin học) búc-mác"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tin học) đánh dấu",
+          "list_en_vn": [
+            {
+              "full_en": "To bookmark a Help topic",
+              "full_vn": "Đánh dấu một đề tài trong phần Trợ giúp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368547_fce63e6ea4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368547_8b46397b2d_o.png",
+      "id_image": "bookmark_3500291"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323551_5a2485a213_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323551_f32749eef3_o.png",
+      "id_image": "bookmark_4219227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438653_b24de46b75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438653_caa63a69c1_o.png",
+      "id_image": "bookmark_6396300"
+    }
+  ]
+}

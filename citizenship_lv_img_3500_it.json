@@ -1,0 +1,42 @@
+{
+  "english": "citizenship",
+  "phat_am": "['sitizn∫ip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quyền công dân; tư cách công dân",
+          "list_en_vn": [
+            {
+              "full_en": "to grant French citizenship to the refugees",
+              "full_vn": "cấp quốc tịch Pháp cho những người tị nạn; cho những người tị nạn được nhập quốc tịch Pháp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421043_4a5679a762_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421043_a9f49e857c_o.png",
+      "id_image": "citizenship_4697304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421028_d1d433ab3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421028_831a4324e7_o.png",
+      "id_image": "citizenship_4697338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042865_c8c03c3d74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042865_72ee3fa9ff_o.png",
+      "id_image": "citizenship_5291775"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420998_6b0a91bda2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420998_b4d442dded_o.png",
+      "id_image": "citizenship_5308212"
+    }
+  ]
+}

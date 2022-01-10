@@ -1,0 +1,159 @@
+{
+  "english": "cheap",
+  "phat_am": "[t∫i:p]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "giá thấp; ít tốn tiền; rẻ",
+          "list_en_vn": [
+            {
+              "full_en": "cheap seats",
+              "full_vn": "chỗ ngồi rẻ tiền"
+            },
+            {
+              "full_en": "cheap music",
+              "full_vn": "âm nhạc rẻ tiền"
+            },
+            {
+              "full_en": "a cheap jest",
+              "full_vn": "trò đùa rẻ tiền"
+            },
+            {
+              "full_en": "cheap flattery",
+              "full_vn": "lời nịnh bợ rẻ tiền"
+            },
+            {
+              "full_en": "cheap trip",
+              "full_vn": "cuộc đi chơi bằng tàu xe hạng ít tiền"
+            },
+            {
+              "full_en": "cheap tripper",
+              "full_vn": "người đi chơi bằng tàu xe hạng ít tiền"
+            },
+            {
+              "full_en": "cauliflowers are very cheap at the moment",
+              "full_vn": "dạo này hoa lơ rẻ lắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lấy giá thấp",
+          "list_en_vn": [
+            {
+              "full_en": "a cheap hairdresser's , restaurant",
+              "full_vn": "cửa hàng cắt tóc; tiệm ăn rẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không đáng kính trọng; đáng khinh; ti tiện",
+          "list_one_mean": [
+            {
+              "id_full_en": "cheapest is the dearest",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) của rẻ là của ôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel cheap",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) cảm thấy khó chịu, cảm thấy bực bội",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his treatment of her made her feel cheap",
+                      "full_vn": "cách cư xử của hắn đối cô ta khiến cô ta cảm thấy khó chịu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as cheap /common as dirt",
+              "list_im": [
+                {
+                  "im_full_vn": "xem dirt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold someone cheap",
+              "list_im": [
+                {
+                  "im_full_vn": "khinh ai, coi thường ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make oneself cheap",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn ở không ra gì để cho người ta khinh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the cheap",
+              "list_im": [
+                {
+                  "im_full_vn": "với giá rẻ hơn giá thông thường",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to buy , sell , get something on the cheap",
+                      "full_vn": "mua, bán, sắm cái gì với giá rẻ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "that was a cheap trick to play on her",
+              "full_vn": "đó là trò chơi khăm ti tiện nhằm vào cô ấy"
+            },
+            {
+              "full_en": "a cheap crook",
+              "full_vn": "kẻ lừa đảo đê tiện"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "với giá rẻ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go cheap",
+              "list_im": [
+                {
+                  "im_full_vn": "được đem bán với giá rẻ; được đem bán hạ giá"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to get (buy ) something cheap",
+              "full_vn": "mua vật gì rẻ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667494_c0da67d740_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667494_72a3d46bc9_o.png",
+      "id_image": "cheap_1259997"
+    }
+  ]
+}

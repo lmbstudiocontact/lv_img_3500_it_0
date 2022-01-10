@@ -1,0 +1,46 @@
+{
+  "english": "cuddle",
+  "phat_am": "['kʌdl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ôm ấp, sự âu yếm, sự vuốt ve"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ôm ấp, nâng niu, âu yếm, vuốt ve"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộn mình, thu mình",
+          "list_en_vn": [
+            {
+              "full_en": "to cuddle up under a blanket",
+              "full_vn": "cuộn mình trong chăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ôm ấp nhau, âu yếm nhau"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052795_42468eb08d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052795_9d40accc52_o.png",
+      "id_image": "cuddle_4966084"
+    }
+  ]
+}

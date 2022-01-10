@@ -1,0 +1,47 @@
+{
+  "english": "cattle",
+  "phat_am": "['kætl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "loại động vật có sừng và móng chẻ như bò, nuôi để lây sữa hoặc ăn thịt; gia súc",
+          "list_en_vn": [
+            {
+              "full_en": "a herd of cattle",
+              "full_vn": "một đàn gia súc"
+            },
+            {
+              "full_en": "twenty head of cattle",
+              "full_vn": "hai mươi đầu gia súc (hai mươi con bò chẳng hạn)"
+            },
+            {
+              "full_en": "the prisoners were herded like cattle",
+              "full_vn": "tù nhân bị lùa đi như súc vật"
+            },
+            {
+              "full_en": "cattle sheds",
+              "full_vn": "chuồng gia súc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) những kẻ đáng khinh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363757_d92a2c634b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363757_8b1632efc1_o.png",
+      "id_image": "cattle_4212534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055700_85e1137edd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055700_fa0eddec30_o.png",
+      "id_image": "cattle_4496220"
+    }
+  ]
+}

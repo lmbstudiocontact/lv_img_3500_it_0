@@ -1,0 +1,43 @@
+{
+  "english": "carton",
+  "phat_am": "['kɑ:tən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hộp bìa cứng (đựng hàng)",
+          "list_en_vn": [
+            {
+              "full_en": "A carton of 200 cigarettes",
+              "full_vn": "Một tút thuốc lá 200 điếu (nghĩa là 10 bao, mỗi bao 20 điếu)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bìa cứng (để làm hộp)"
+        },
+        {
+          "m_full_vn": "vòng trắng giữa bia (bia tập bắn)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438178_09b80ef835_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438178_593fb52020_o.png",
+      "id_image": "carton_2421536"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678179_9bbac8fc66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678179_1d59e06558_o.png",
+      "id_image": "carton_3408358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438108_6e00c2c551_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438108_14dafc7526_o.png",
+      "id_image": "carton_5365762"
+    }
+  ]
+}

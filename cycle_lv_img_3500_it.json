@@ -1,0 +1,67 @@
+{
+  "english": "cycle",
+  "phat_am": "['saikl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(vật lý) chu kỳ, chu trình",
+          "list_en_vn": [
+            {
+              "full_en": "reversible cycle",
+              "full_vn": "chu trình thuận nghịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) vòng"
+        },
+        {
+          "m_full_vn": "tập thơ cùng chủ đề, tập bài hát cùng chủ đề"
+        },
+        {
+          "m_full_vn": "xe đạp"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quay vòng tròn theo chu kỳ"
+        },
+        {
+          "m_full_vn": "đi xe đạp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427478_4781e828c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427478_cf18fca8d0_o.png",
+      "id_image": "cycle_2535545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427458_bb4831360e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427458_bbf57c245b_o.png",
+      "id_image": "cycle_2621308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049150_faed3ca303_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049150_4385337f4b_o.png",
+      "id_image": "cycle_2721289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427378_cc0fa393c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427378_01baae1618_o.png",
+      "id_image": "cycle_3050506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356567_d23cfc5f24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356567_31ec286c27_o.png",
+      "id_image": "cycle_4018100"
+    }
+  ]
+}

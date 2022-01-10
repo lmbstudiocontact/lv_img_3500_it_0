@@ -1,0 +1,150 @@
+{
+  "english": "court",
+  "phat_am": "[kɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sân nhà"
+        },
+        {
+          "m_full_vn": "toà án; quan toà; phiên toà",
+          "list_en_vn": [
+            {
+              "full_en": "court of justice",
+              "full_vn": "toà án"
+            },
+            {
+              "full_en": "at a court",
+              "full_vn": "tại một phiên toà"
+            },
+            {
+              "full_en": "to bring to court for trial",
+              "full_vn": "mang ra toà để xét xử"
+            },
+            {
+              "full_en": "magistrate's court",
+              "full_vn": "toà tiểu hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cung điện (vua); triều đình; quần thần; buổi chầu",
+          "list_en_vn": [
+            {
+              "full_en": "to hold a court",
+              "full_vn": "tổ chức buổi chầu thiết triều"
+            },
+            {
+              "full_en": "the court of the Tsars",
+              "full_vn": "cung vua Nga"
+            },
+            {
+              "full_en": "Court of St James",
+              "full_vn": "triều đình của vua (hoàng hậu) nước Anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) sân (đánh quần vợt...)"
+        },
+        {
+          "m_full_vn": "phố cụt"
+        },
+        {
+          "m_full_vn": "sự ve vãn, sự tán tỉnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "out of court",
+              "list_im": [
+                {
+                  "im_full_vn": "mất quyền thưa kiện"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) lỗi thời, không còn thích hợp; không có căn cứ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to pay one's court to someone",
+              "full_vn": "tán tỉnh ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tìm cách đạt được, cầu, tranh thủ",
+          "list_en_vn": [
+            {
+              "full_en": "to court popular applause",
+              "full_vn": "tìm cách làm cho quần chúng hoan nghênh"
+            },
+            {
+              "full_en": "to court someone's support",
+              "full_vn": "tranh thủ sự ủng hộ của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ve vãn, tán tỉnh, tỏ tình, tìm hiểu"
+        },
+        {
+          "m_full_vn": "quyến rũ",
+          "list_en_vn": [
+            {
+              "full_en": "to court somebody into doing something",
+              "full_vn": "quyến rũ ai làm việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đón lấy, rước lấy, chuốc lấy",
+          "list_en_vn": [
+            {
+              "full_en": "to court disaster",
+              "full_vn": "chuốc lấy tai hoạ"
+            },
+            {
+              "full_en": "to court death",
+              "full_vn": "chuốc lấy cái chết; liều chết"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062830_d16d5afd29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062830_d7904e9fd4_o.png",
+      "id_image": "court_1548368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370787_a6a564ef16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370787_93013428f5_o.png",
+      "id_image": "court_1750509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062770_c5fa2e117f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062770_5fdac48d61_o.png",
+      "id_image": "court_2322900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370672_b241a95049_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370672_7c6ee406cf_o.png",
+      "id_image": "court_4253282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440848_02b81daa2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440848_fed0135239_o.png",
+      "id_image": "court_4751284"
+    }
+  ]
+}

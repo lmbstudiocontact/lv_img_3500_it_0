@@ -1,0 +1,86 @@
+{
+  "english": "deny",
+  "phat_am": "[di'nai]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói rằng (điều gì) không có thật; phủ nhận",
+          "list_en_vn": [
+            {
+              "full_en": "to deny that something is true",
+              "full_vn": "không thừa nhận rằng điều gì có thật"
+            },
+            {
+              "full_en": "to deny a statement /claim /accusation /charge",
+              "full_vn": "phủ nhận một lời tuyên bố/yêu cầu/cáo trạng/lời buộc tội"
+            },
+            {
+              "full_en": "he denied knowing anything about it",
+              "full_vn": "nó cứ khăng khăng nói là không biết gì về chuyện đó"
+            },
+            {
+              "full_en": "he denied any knowledge of their plans",
+              "full_vn": "nó cứ khăng khăng nói là không biết gì về kế hoạch của họ"
+            },
+            {
+              "full_en": "he denied that he was involved in that scheme",
+              "full_vn": "nó cứ khăng khăng nói là không có dính líu vào âm mưu đó"
+            },
+            {
+              "full_en": "she denied this to be the case",
+              "full_vn": "cô ta cho rằng điều này không phải như vậy"
+            },
+            {
+              "full_en": "there is no denying the fact that ...",
+              "full_vn": "không thể phủ nhận sự thực là..."
+            },
+            {
+              "full_en": "to deny one's signature",
+              "full_vn": "chối không nhận chữ ký của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to deny something to somebody ) từ chối hoặc ngăn không cho ai lấy (cái mà người ta hỏi xin hoặc muốn có)",
+          "list_en_vn": [
+            {
+              "full_en": "to deny food to the enemy",
+              "full_vn": "chặn không cho địch tiếp tế lương thực, chặn nguồn tiếp tế của địch"
+            },
+            {
+              "full_en": "he gave to his friends what he denied to his family",
+              "full_vn": "anh ta cho bạn bè những thứ mà anh ta không chịu cho gia đình"
+            },
+            {
+              "full_en": "she was angry at being denied the opportunity to see me",
+              "full_vn": "cô ta tức giận khi bị khước từ cơ hội gặp tôi"
+            },
+            {
+              "full_en": "he denies himself nothing",
+              "full_vn": "ông ta không chịu nhịn thứ gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068100_f8da650d88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068100_7c823b1c9c_o.png",
+      "id_image": "deny_2313327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331336_bc6cbd403f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331336_6e6caa48ab_o.png",
+      "id_image": "deny_2598753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331306_47951f61ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331306_de45c7a270_o.png",
+      "id_image": "deny_2776427"
+    }
+  ]
+}

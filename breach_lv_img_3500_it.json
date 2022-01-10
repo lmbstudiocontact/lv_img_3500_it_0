@@ -1,0 +1,95 @@
+{
+  "english": "breach",
+  "phat_am": "[bri:t∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lỗ đạn, lỗ thủng (ở tường, thành luỹ...)"
+        },
+        {
+          "m_full_vn": "mối bất hoà; sự tuyệt giao, sự chia lìa, sự tan vỡ"
+        },
+        {
+          "m_full_vn": "sự vi phạm, sự phạm",
+          "list_en_vn": [
+            {
+              "full_en": "a breach of discipline",
+              "full_vn": "sự phạm kỷ luật"
+            },
+            {
+              "full_en": "a breach of promise",
+              "full_vn": "sự không giữ lời hứa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái nhảy ra khỏi mặt nước (của cá voi)"
+        },
+        {
+          "m_full_vn": "(hàng hải) sóng to tràn lên tàu",
+          "list_one_mean": [
+            {
+              "id_full_en": "breach of the peace",
+              "list_im": [
+                {
+                  "im_full_vn": "hành vi gây rối trật tự công cộng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand in (throw oneself into ) the breach",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng chiến đáu"
+                },
+                {
+                  "im_full_vn": "sẵn sàng gánh nhiệm vụ nặng nề nhất, đứng mũi chịu sào"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "clear breach",
+              "full_vn": "sóng tràn nhẹ lên boong"
+            },
+            {
+              "full_en": "clean breach",
+              "full_vn": "sóng tràn cuốn cả cột buồm và mọi thứ trên boong"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(quân sự) chọc thủng (phòng tuyến)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy khỏi mặt nước (cá voi)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362327_3503801eb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362327_1f353498a3_o.png",
+      "id_image": "breach_2720497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672654_64809497cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672654_1a6872f15b_o.png",
+      "id_image": "breach_2720551"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "choker",
+  "phat_am": "['t∫oukə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vòng hay băng vải thắt khít quanh cổ của phụ nữ",
+          "list_en_vn": [
+            {
+              "full_en": "a pearl choker",
+              "full_vn": "chuỗi hạt ngọc đeo cổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) cuộn cảm kháng ( (như) choke )"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423428_7c07cbaa8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423428_7ab33712cd_o.png",
+      "id_image": "choker_4380367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423393_b2e7f49ec8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423393_4bf2674bf1_o.png",
+      "id_image": "choker_4533671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352397_697a90dcc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352397_de0381bd18_o.png",
+      "id_image": "choker_545107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352307_0f9b99bfa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352307_e153ef7bc8_o.png",
+      "id_image": "choker_6196088"
+    }
+  ]
+}

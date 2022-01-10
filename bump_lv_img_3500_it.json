@@ -1,0 +1,172 @@
+{
+  "english": "bump",
+  "phat_am": "[bʌmp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng vạc kêu"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kêu (vạc); kêu như vạc"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự va mạnh, sự đụng mạnh; cú va mạnh, cú đụng mạnh"
+        },
+        {
+          "m_full_vn": "chỗ sưng bướu, chỗ sưng u lên (vì bị va mạnh)"
+        },
+        {
+          "m_full_vn": "cái bướu (biểu thị tài năng); tài năng, năng lực, khiếu",
+          "list_en_vn": [
+            {
+              "full_en": "the bump of mathematics",
+              "full_vn": "khiếu về toán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) sự đụng vào đuôi chiếc ca nô chạy trước (trong cuộc đua rượt bắt)"
+        },
+        {
+          "m_full_vn": "(hàng không) lỗ hổng không khí"
+        },
+        {
+          "m_full_vn": "(hàng không) sự nảy bật (của máy bay)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đâm vào, đâm sầm vào",
+          "list_en_vn": [
+            {
+              "full_en": "to bump against the door",
+              "full_vn": "đâm sầm vào cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xóc nảy lên, nảy xuống",
+          "list_one_mean": [
+            {
+              "id_full_en": "To bump into somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "Tình cờ gặp ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the lorry bumped along the rough mountain road",
+              "full_vn": "chiếc xe tải xóc nảy lên trên con đường núi gồ ghề"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "va, đụng",
+          "list_en_vn": [
+            {
+              "full_en": "to bump one's head against the door",
+              "full_vn": "va đầu vào cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẩy, vứt xuống"
+        },
+        {
+          "m_full_vn": "vọt lên, bật mạnh lên (quả bóng)"
+        },
+        {
+          "m_full_vn": "đánh đòn lưng tôm (nắm tay chân rồi quật đít vào tường, xuống sàn)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đụng phải đuôi ca nô chạy trước (trong cuộc đua rượt bắt)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (quân sự), (từ lóng) bắn phá"
+        },
+        {
+          "m_full_vn": "(từ lóng) cho ra rìa, tống cổ ra",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bump off",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) khử đi, giết (ai)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "va đánh rầm một cái",
+          "list_one_mean": [
+            {
+              "id_full_en": "things that go bump in the night",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếng động gây nỗi kinh hoàng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to run bump against the door",
+              "full_vn": "đâm đầu vào cửa đánh rầm một cái"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425978_80c083fb7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425978_0c030f5166_o.png",
+      "id_image": "bump_1655281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310971_5147478963_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310971_1e190aa1e2_o.png",
+      "id_image": "bump_2439674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355077_5853dffa98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355077_1825d7bce5_o.png",
+      "id_image": "bump_3410124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666039_c42e1b5d25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666039_461546f7b2_o.png",
+      "id_image": "bump_5235594"
+    }
+  ]
+}

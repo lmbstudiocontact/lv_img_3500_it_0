@@ -1,0 +1,47 @@
+{
+  "english": "aurora",
+  "phat_am": "[ɔ:'rɔ:rə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "Aurora nữ thần Rạng đông"
+        },
+        {
+          "m_full_vn": "ánh hồng lúc bình minh, ánh ban mai (trên bầu trời)"
+        },
+        {
+          "m_full_vn": "cực quang",
+          "list_en_vn": [
+            {
+              "full_en": "aurora borealis",
+              "full_vn": "bắc cực quang"
+            },
+            {
+              "full_en": "aurora australis",
+              "full_vn": "nam cực quang"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371202_e1b0ba6e45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371202_9e97b0e251_o.png",
+      "id_image": "aurora_2808437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326446_ffa53ea340_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326446_36e38db90e_o.png",
+      "id_image": "aurora_2834451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063450_f813fbb88c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063450_60a952e680_o.png",
+      "id_image": "aurora_721075"
+    }
+  ]
+}

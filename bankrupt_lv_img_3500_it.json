@@ -1,0 +1,69 @@
+{
+  "english": "bankrupt",
+  "phat_am": "['bæηkrʌpt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người vỡ nợ, người phá sản"
+        },
+        {
+          "m_full_vn": "(thông tục) người mắc nợ không trả được"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "vỡ nợ, phá sản",
+          "list_en_vn": [
+            {
+              "full_en": "to go bankrupt",
+              "full_vn": "bị vỡ nợ, phá sản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thiếu, không có, mất hết",
+          "list_en_vn": [
+            {
+              "full_en": "to be morally bankrupt",
+              "full_vn": "không có đạo đức"
+            },
+            {
+              "full_en": "to be bankrupt of one's honour",
+              "full_vn": "bị mất hết danh dự"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm vỡ nợ, làm phá sản"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053035_75137dc24e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053035_bd90901d5f_o.png",
+      "id_image": "bankrupt_2361659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431563_55d48bdfb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431563_947dbdec37_o.png",
+      "id_image": "bankrupt_2762484"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671354_a4bca02c22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671354_e45f74795c_o.png",
+      "id_image": "bankrupt_536856"
+    }
+  ]
+}

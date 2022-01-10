@@ -1,0 +1,45 @@
+{
+  "english": "capitalize",
+  "phat_am": "['kæpitəlaiz]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuyển thành tư bản"
+        },
+        {
+          "m_full_vn": "viết (cái gì) bằng chữ hoa, in (cái gì) bằng chữ hoa",
+          "list_one_mean": [
+            {
+              "id_full_en": "To capitalize on something",
+              "list_im": [
+                {
+                  "im_full_vn": "Lợi dụng cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "To capitalize on a girl's naivety",
+                      "full_vn": "Lợi dụng sự ngây thơ của một cô gái"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683544_b96b002509_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683544_e74defe804_o.png",
+      "id_image": "capitalize_2169789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328416_683985d9a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328416_2228886c25_o.png",
+      "id_image": "capitalize_2538082"
+    }
+  ]
+}

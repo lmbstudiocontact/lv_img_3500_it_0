@@ -1,0 +1,116 @@
+{
+  "english": "curtain",
+  "phat_am": "['kə:tn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "màn cửa",
+          "list_en_vn": [
+            {
+              "full_en": "to draw the curtain",
+              "full_vn": "kéo màn cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "màn (ở rạp hát)",
+          "list_en_vn": [
+            {
+              "full_en": "the curtain rises (is raised )",
+              "full_vn": "màn kéo lên"
+            },
+            {
+              "full_en": "the curtain falls (drops , is dropped )",
+              "full_vn": "màn hạ xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bức màn (khói, sương)",
+          "list_en_vn": [
+            {
+              "full_en": "a curtain of smoke",
+              "full_vn": "bức màn khói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) bức thành nối hai pháo đài"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cái che (như) miếng sắt che lỗ khoá...",
+          "list_one_mean": [
+            {
+              "id_full_en": "behind the curtain",
+              "list_im": [
+                {
+                  "im_full_vn": "ở hậu trường, không công khai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to draw a curtain over something",
+              "list_im": [
+                {
+                  "im_full_vn": "không đả động tới việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lift the curtain on",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu, mở màn"
+                },
+                {
+                  "im_full_vn": "công bố, đưa ra ánh sáng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the curtain",
+              "list_im": [
+                {
+                  "im_full_vn": "ra sân khấu sau những tràng vỗ tay hoan nghênh (diễn viên)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "che màn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to curtain off",
+              "list_im": [
+                {
+                  "im_full_vn": "ngăn cách bằng màn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "curtained windows",
+              "full_vn": "cửa sổ che màn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669039_2c2d52fd05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669039_331d09b926_o.png",
+      "id_image": "curtain_2433268"
+    }
+  ]
+}

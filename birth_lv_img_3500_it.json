@@ -1,0 +1,99 @@
+{
+  "english": "birth",
+  "phat_am": "[bə:θ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xuất hiện của hài nhi ra khỏi thân thể người mẹ; sự sinh đẻ; ca đẻ",
+          "list_en_vn": [
+            {
+              "full_en": "the father was present at the (moment of ) birth",
+              "full_vn": "người cha có mặt lúc đứa trẻ ra đời"
+            },
+            {
+              "full_en": "the baby weighed seven pounds at birth",
+              "full_vn": "đứa trẻ sinh ra nặng bảy pao"
+            },
+            {
+              "full_en": "date of birth and place of birth",
+              "full_vn": "ngày sinh và nơi sinh"
+            },
+            {
+              "full_en": "he has been blind from birth",
+              "full_vn": "nó bị mù từ khi sinh ra (bị mù bẩm sinh)"
+            },
+            {
+              "full_en": "there were three births at the hospital last night",
+              "full_vn": "đêm qua ở bệnh viện có ba ca đẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ra đời; ngày thành lập",
+          "list_en_vn": [
+            {
+              "full_en": "the birth of the Democratic Republic of Vietnam",
+              "full_vn": "sự ra đời của nước Việt nam dân chủ cộng hoà"
+            },
+            {
+              "full_en": "the birth of capitalism /socialism /a political party",
+              "full_vn": "sự ra đời của chủ nghĩa tư bản/chủ nghĩa xã hội/một chính đảng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dòng dõi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give birth to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "sinh ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Marx's ideas gave birth to communism",
+                      "full_vn": "tư tưởng của Marx đã sản sinh ra chủ nghĩa cộng sản"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Chinese by birth",
+              "full_vn": "dòng dõi người Trung quốc"
+            },
+            {
+              "full_en": "of noble birth",
+              "full_vn": "thuộc dòng dõi quý phái"
+            },
+            {
+              "full_en": "she is English by birth but French by marriage",
+              "full_vn": "cô ta gốc người Anh, nhưng lấy chồng người Pháp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303656_0d1bcaeda2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303656_d67a52766a_o.png",
+      "id_image": "birth_3636235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418653_489be490af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418653_4bb8027a0c_o.png",
+      "id_image": "birth_5260242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347867_576f84b29d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347867_ac87a89e23_o.png",
+      "id_image": "birth_859947"
+    }
+  ]
+}

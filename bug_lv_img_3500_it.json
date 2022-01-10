@@ -1,0 +1,111 @@
+{
+  "english": "bug",
+  "phat_am": "[bʌg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con rệp"
+        },
+        {
+          "m_full_vn": "(căn bệnh gây ra bởi) vi trùng hoặc siêu vi trùng truyền bệnh",
+          "list_en_vn": [
+            {
+              "full_en": "I don't believe you've caught a bug",
+              "full_vn": "tôi khôngtin rằng anh đã nhiễm bệnh"
+            },
+            {
+              "full_en": "there are a lot of bugs about in winter",
+              "full_vn": "mùa đông có lắm chứng bệnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) chỗ sai sót; lỗi (do lập trình sai)",
+          "list_en_vn": [
+            {
+              "full_en": "there's a bug in the system",
+              "full_vn": "hệ thống bị lỗi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) sự đam mê (công việc...)",
+          "list_en_vn": [
+            {
+              "full_en": "to get the bug ; to be bitten by the bug",
+              "full_vn": "trở nên đam mê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) máy ghi âm nhỏ (để nghe trộm)",
+          "list_one_mean": [
+            {
+              "id_full_en": "as snug as a bug in a rug",
+              "list_im": [
+                {
+                  "im_full_vn": "ấm cúng, đầm ấm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to search a workroom for bugs",
+              "full_vn": "lục soát phòng làm việc để tìm máy nghe trộm"
+            },
+            {
+              "full_en": "to plant a bug in somebody's bedroom",
+              "full_vn": "đặt máy nghe trộm trong phòng ngủ của ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đặt máy ghi âm để nghe trộm; nghe trộm",
+          "list_en_vn": [
+            {
+              "full_en": "I'm sure your house is bugged",
+              "full_vn": "Tôi bảo đảm nhà anh bị đặt máy nghe trộm"
+            },
+            {
+              "full_en": "to bug a tête-à-tête",
+              "full_vn": "nghe trộm hai người nào đó nói chuyện với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm khó chịu, làm phát cáu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049140_64902b0192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049140_36a2d9a44c_o.png",
+      "id_image": "bug_1018798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427298_e4d7ebb0d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427298_48733a96f9_o.png",
+      "id_image": "bug_1590014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049060_213f2c29df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049060_ae4d2f503d_o.png",
+      "id_image": "bug_1590034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312596_cd4173f6cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312596_cea157101d_o.png",
+      "id_image": "bug_269064"
+    }
+  ]
+}

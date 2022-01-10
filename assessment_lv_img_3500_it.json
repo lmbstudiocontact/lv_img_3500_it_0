@@ -1,0 +1,56 @@
+{
+  "english": "assessment",
+  "phat_am": "[ə'sesmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành động đánh giá",
+          "list_en_vn": [
+            {
+              "full_en": "what's your assessment of the situation ?",
+              "full_vn": "anh đánh giá tình hình thế nào?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số tiền ấn định phải trả",
+          "list_en_vn": [
+            {
+              "full_en": "a tax assessment",
+              "full_vn": "mức thuế ấn định"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303471_078c3314c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303471_016e1a052a_o.png",
+      "id_image": "assessment_2720560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040130_97ab915b93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040130_39a74eb6f3_o.png",
+      "id_image": "assessment_3063483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347612_7ffbe2fbbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347612_04ffd9979c_o.png",
+      "id_image": "assessment_3220728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658599_4ed59568f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658599_63b3d11c4c_o.png",
+      "id_image": "assessment_3772806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418298_008a6355c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418298_bd67107836_o.png",
+      "id_image": "assessment_4126709"
+    }
+  ]
+}

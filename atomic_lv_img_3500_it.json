@@ -1,0 +1,60 @@
+{
+  "english": "atomic",
+  "phat_am": "[ə'tɔmik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) nguyên tử",
+          "list_en_vn": [
+            {
+              "full_en": "atomic scientist",
+              "full_vn": "nhà bác học nguyên tử"
+            },
+            {
+              "full_en": "atomic weight",
+              "full_vn": "trọng lượng nguyên tử"
+            },
+            {
+              "full_en": "atomic warfare",
+              "full_vn": "chiến tranh nguyên tử"
+            },
+            {
+              "full_en": "atomic bomb",
+              "full_vn": "bom nguyên tử"
+            },
+            {
+              "full_en": "atomic theory",
+              "full_vn": "thuyết nguyên tử"
+            },
+            {
+              "full_en": "atomic number",
+              "full_vn": "số nguyên tử"
+            },
+            {
+              "full_en": "atomic energy",
+              "full_vn": "năng lượng nguyên tử"
+            },
+            {
+              "full_en": "atomic pile",
+              "full_vn": "kiểu lò phản ứng hạt nhân ban đầu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809655209_117ddeddd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809655209_ed393afe3f_o.png",
+      "id_image": "atomic_2020628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809300131_6bf7a8305d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809300131_bfc9d34319_o.png",
+      "id_image": "atomic_448045"
+    }
+  ]
+}

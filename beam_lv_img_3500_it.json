@@ -1,0 +1,124 @@
+{
+  "english": "beam",
+  "phat_am": "[bi:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kiến trúc) xà, rầm"
+        },
+        {
+          "m_full_vn": "đòn, cán (cân); bắp (cây); trục cuốn chỉ (máy dệt); gạc chính (sừng hươu)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) đòn cân bằng; con lắc"
+        },
+        {
+          "m_full_vn": "(hàng hải) sườn ngang của sàn tàu; sống neo"
+        },
+        {
+          "m_full_vn": "tín hiệu ra-đi-ô (cho máy bay)"
+        },
+        {
+          "m_full_vn": "tầm xa (của loa phóng thanh)"
+        },
+        {
+          "m_full_vn": "tia; chùm (ánh sáng)",
+          "list_en_vn": [
+            {
+              "full_en": "electron beam",
+              "full_vn": "chùm ê-lếch-tron"
+            },
+            {
+              "full_en": "sun beam",
+              "full_vn": "tia mặt trời, tia nắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vẻ tươi cười rạng rỡ",
+          "list_one_mean": [
+            {
+              "id_full_en": "on the beam",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng, chuẩn xác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "off the beam",
+              "list_im": [
+                {
+                  "im_full_vn": "sai, nhầm lẫn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kick the beam",
+              "list_im": [
+                {
+                  "im_full_vn": "nhẹ hơn, nhẹ bỗng lên (cán cân)"
+                },
+                {
+                  "im_full_vn": "bị thua"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the port beam",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) bên trái tàu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the starboard beam",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) bên phải tàu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chiếu rọi (tia sáng)"
+        },
+        {
+          "m_full_vn": "rạng rỡ, tươi cười"
+        },
+        {
+          "m_full_vn": "xác định vị trí của máy bay qua hệ thống rađa"
+        },
+        {
+          "m_full_vn": "( ra-đi-ô) phát đi (buổi phát thanh...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355987_2febe2de3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355987_3f85ea8b13_o.png",
+      "id_image": "beam_5672100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356032_2b6526af69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356032_b720b1570f_o.png",
+      "id_image": "beam_605594"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048560_d4f2b4a027_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048560_3e87da5321_o.png",
+      "id_image": "beam_605595"
+    }
+  ]
+}

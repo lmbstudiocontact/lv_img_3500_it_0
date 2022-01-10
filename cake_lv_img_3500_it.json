@@ -1,0 +1,129 @@
+{
+  "english": "cake",
+  "phat_am": "[keik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bánh ngọt"
+        },
+        {
+          "m_full_vn": "thức ăn đóng thành bánh",
+          "list_en_vn": [
+            {
+              "full_en": "fish cake",
+              "full_vn": "cá đóng bánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "miếng bánh",
+          "list_one_mean": [
+            {
+              "id_full_en": "cakes and ale",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc chè chén say sưa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go (sell ) like hot cakes",
+              "list_im": [
+                {
+                  "im_full_vn": "bán chạy như tôm tươi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's cake baked",
+              "list_im": [
+                {
+                  "im_full_vn": "sống sung túc, sống phong lưu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "piece of cake",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) việc ngon ơ, việc dễ làm"
+                },
+                {
+                  "im_full_vn": "việc thú vị"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the cake",
+              "list_im": [
+                {
+                  "im_full_vn": "chiếm giải, chiếm giải nhất; chiếm địa vị danh dự hơn tất cả mọi người"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you cannot have your cake and eat it",
+              "list_im": [
+                {
+                  "im_full_vn": "được cái nọ mất cái kia"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "cake of soap",
+              "full_vn": "một bánh xà phòng"
+            },
+            {
+              "full_en": "cake of tobacco",
+              "full_vn": "một bánh thuốc lá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng thành bánh, đóng bánh",
+          "list_en_vn": [
+            {
+              "full_en": "that sort of coal cakes easily",
+              "full_vn": "loại than ấy dễ đóng bánh"
+            },
+            {
+              "full_en": "trousers caked with mud",
+              "full_vn": "quần đóng kết những bùn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350562_293628747b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350562_fbd60f4864_o.png",
+      "id_image": "cake_170779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350547_096ddc1cf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350547_1dc6c2c446_o.png",
+      "id_image": "cake_190972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661709_1e051a00f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661709_da4e81e1bb_o.png",
+      "id_image": "cake_332977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350477_be6a0430ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350477_00d889621f_o.png",
+      "id_image": "cake_333423"
+    }
+  ]
+}

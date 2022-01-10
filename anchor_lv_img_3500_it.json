@@ -1,0 +1,133 @@
+{
+  "english": "anchor",
+  "phat_am": "['æηkə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) cái neo, mỏ neo",
+          "list_en_vn": [
+            {
+              "full_en": "to cast anchor ; to drop anchor",
+              "full_vn": "thả neo"
+            },
+            {
+              "full_en": "to weigh anchor",
+              "full_vn": "nhổ neo"
+            },
+            {
+              "full_en": "to bring a ship to anchor",
+              "full_vn": "dừng tàu và thả neo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) neo sắt, mấu neo"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nguồn tin cậy, nơi nương tựa",
+          "list_one_mean": [
+            {
+              "id_full_en": "at anchor",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ neo đậu (tàu)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we lay at anchor outside the harbour",
+                      "full_vn": "chúng tôi bỏ neo đậu bên ngoài cảng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come to anchor",
+              "list_im": [
+                {
+                  "im_full_vn": "thả neo; bỏ neo (tàu)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride at anchor",
+              "list_im": [
+                {
+                  "im_full_vn": "xem ride"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to slip anchor",
+              "list_im": [
+                {
+                  "im_full_vn": "xem slip"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to swallow the anchor",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải), (từ lóng) từ bỏ cuộc đời sống dưới nước"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) neo (tàu) lại"
+        },
+        {
+          "m_full_vn": "néo chặt, giữ chặt (vật gì bằng neo sắt)",
+          "list_en_vn": [
+            {
+              "full_en": "to anchor a tent to the ground",
+              "full_vn": "néo chặt cái lều xuống đất bằng neo sắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) níu chặt, bám chặt",
+          "list_en_vn": [
+            {
+              "full_en": "to anchor one's hope in (on )...",
+              "full_vn": "đặt hy vọng vào..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) bỏ neo, thả neo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357137_1013db129c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357137_f88d3328da_o.png",
+      "id_image": "anchor_448289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313161_ba58c64305_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313161_c4e8a06269_o.png",
+      "id_image": "anchor_801496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313116_71a0359e05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313116_812f3c37c4_o.png",
+      "id_image": "anchor_911013"
+    }
+  ]
+}

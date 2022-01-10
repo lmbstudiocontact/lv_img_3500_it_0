@@ -1,0 +1,98 @@
+{
+  "english": "brand",
+  "phat_am": "[brænd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhãn (hàng hoá)"
+        },
+        {
+          "m_full_vn": "loại hàng"
+        },
+        {
+          "m_full_vn": "dấu sắt nung (đóng vào vai tội nhân); vết dấu sắt nung"
+        },
+        {
+          "m_full_vn": "vết nhơ, vết nhục"
+        },
+        {
+          "m_full_vn": "khúc củi đang cháy dở"
+        },
+        {
+          "m_full_vn": "(thơ ca) cây đuốc"
+        },
+        {
+          "m_full_vn": "(thơ ca) thanh gươm, thanh kiếm"
+        },
+        {
+          "m_full_vn": "bệnh gỉ (cây)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to move a brand from the burning",
+              "list_im": [
+                {
+                  "im_full_vn": "cứu ra khỏi tình trạng bị huỷ diệt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng nhãn (hàng hoá)"
+        },
+        {
+          "m_full_vn": "đóng dấu bằng sắt nung (lên vai tội nhân); đốt bằng sắt nung"
+        },
+        {
+          "m_full_vn": "làm nhục, làm ô danh"
+        },
+        {
+          "m_full_vn": "khắc sâu (vào trí nhớ)"
+        },
+        {
+          "m_full_vn": "gọi (ai) là, quy (ai) là",
+          "list_en_vn": [
+            {
+              "full_en": "he was branded as a war criminal",
+              "full_vn": "hắn bị quy là tội phạm chiến tranh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054810_792920e839_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054810_efbfc02502_o.png",
+      "id_image": "brand_1622679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054795_9830eb4a23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054795_5627d5c717_o.png",
+      "id_image": "brand_1999234"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362712_204eaf5dda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362712_8dc5121947_o.png",
+      "id_image": "brand_2132232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433363_608763d7e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433363_a49abbd0f4_o.png",
+      "id_image": "brand_5823739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673104_2bd52041da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673104_dfa27d4237_o.png",
+      "id_image": "brand_741882"
+    }
+  ]
+}

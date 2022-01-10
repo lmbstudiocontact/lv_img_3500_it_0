@@ -1,0 +1,189 @@
+{
+  "english": "angle",
+  "phat_am": "['æηgl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "góc",
+          "list_en_vn": [
+            {
+              "full_en": "acute angle",
+              "full_vn": "góc nhọn"
+            },
+            {
+              "full_en": "obtuse angle",
+              "full_vn": "góc tù"
+            },
+            {
+              "full_en": "right angle",
+              "full_vn": "góc vuông"
+            },
+            {
+              "full_en": "angle of rotation",
+              "full_vn": "góc quay"
+            },
+            {
+              "full_en": "angle of repose",
+              "full_vn": "góc nghỉ"
+            },
+            {
+              "full_en": "angle of view",
+              "full_vn": "góc nhìn, góc ngắm"
+            },
+            {
+              "full_en": "angle of deflection",
+              "full_vn": "góc lệch"
+            },
+            {
+              "full_en": "angle of reflection",
+              "full_vn": "góc phản xạ"
+            },
+            {
+              "full_en": "angle of cut-off",
+              "full_vn": "góc cắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "góc (của một toà nhà hoặc một đồ vật)",
+          "list_en_vn": [
+            {
+              "full_en": "she hit her knee against the angle of the bed",
+              "full_vn": "cô ta va đầu gối vào góc giừơng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) quan điểm, góc độ",
+          "list_one_mean": [
+            {
+              "id_full_en": "at an angle",
+              "list_im": [
+                {
+                  "im_full_vn": "không thẳng đứng; nghiêng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the famous tower of Pisa leans at an angle",
+                      "full_vn": "tháp Pisa nổi tiếng hơi nghiêng sang một bên"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "try looking at the question from a different angle",
+              "full_vn": "hãy thử nhìn vấn đề từ một quan điểm khác (dưới một góc độ khác)"
+            },
+            {
+              "full_en": "seen from this angle , the woman in the picture is smiling",
+              "full_vn": "nhìn từ góc độ này, người đàn bà trong tranh lại đang mỉm cười"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "di chuyển hoặc đặt cái gì theo một tư thế nghiêng",
+          "list_en_vn": [
+            {
+              "full_en": "try angling the camera for a more interesting picture",
+              "full_vn": "hãy thử đặt nghiêng máy ảnh để có một bức ảnh thú vị hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to angle something at / to / towards somebody ) trình bày (thông tin....) từ một quan điểm riêng biệt; nhằm vào",
+          "list_en_vn": [
+            {
+              "full_en": "this programme is angled at young viewers",
+              "full_vn": "chương trình này nhằm vào các khán giả trẻ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) lưỡi câu",
+          "list_one_mean": [
+            {
+              "id_full_en": "brother of the angle",
+              "list_im": [
+                {
+                  "im_full_vn": "người câu cá"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "câu cá",
+          "list_en_vn": [
+            {
+              "full_en": "to go angling",
+              "full_vn": "đi câu (cá)"
+            },
+            {
+              "full_en": "angling for trout",
+              "full_vn": "câu cá hồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to angle for something ) cố giành được cái gì bằng cách nói bóng gió",
+          "list_en_vn": [
+            {
+              "full_en": "to angle for compliments , an invitation , a free ticket",
+              "full_vn": "cố moi cho được những lời khen, một giấy mời, một chiếc vé không mất tiền"
+            },
+            {
+              "full_en": "to angle for somebody's heart",
+              "full_vn": "cố tranh thủ tình cảm của ai, cố lấy lòng ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356482_0008e8299e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356482_28f06e8c68_o.png",
+      "id_image": "angle_2106621"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427293_641794703c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427293_6832e72e55_o.png",
+      "id_image": "angle_212186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049005_99579c323a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049005_a63edc651b_o.png",
+      "id_image": "angle_2245736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048985_c1465308a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048985_0afca842fc_o.png",
+      "id_image": "angle_2844273"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427263_65893314c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427263_08e87e5fcd_o.png",
+      "id_image": "angle_948502"
+    }
+  ]
+}

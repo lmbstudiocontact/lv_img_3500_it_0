@@ -1,0 +1,52 @@
+{
+  "english": "caper",
+  "phat_am": "['keipə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây bạch hoa"
+        },
+        {
+          "m_full_vn": "( số nhiều) nụ bạch hoa giầm (để chế nước sốt)"
+        },
+        {
+          "m_full_vn": "sự nhảy cỡn, sự nhảy lò cò",
+          "list_en_vn": [
+            {
+              "full_en": "to cut capers ; to cut a caper",
+              "full_vn": "nhảy cỡn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) hành vi dại dột; hành động kỳ cục"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy cỡn, nhảy lò cò"
+        },
+        {
+          "m_full_vn": "hành động dại dột; hành động kỳ cục"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328836_4cb53b61cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328836_eb3993fd33_o.png",
+      "id_image": "capers_6108931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373642_0c3c115e5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373642_572a85ea9e_o.png",
+      "id_image": "caper_1135504"
+    }
+  ]
+}

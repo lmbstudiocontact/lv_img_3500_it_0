@@ -1,0 +1,60 @@
+{
+  "english": "beer",
+  "phat_am": "[biə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rượu bia",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in beer",
+              "list_im": [
+                {
+                  "im_full_vn": "ngà ngà say"
+                }
+              ]
+            },
+            {
+              "id_full_en": "beer and skittles",
+              "list_im": [
+                {
+                  "im_full_vn": "những cái thú vị, những trò giải trí vui chơi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "life is not all beer and skittles",
+                      "full_vn": "đời không phải lúc nào cũng chỉ giải trí vui chơi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664744_c3ef590f36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664744_7704c898f6_o.png",
+      "id_image": "beer_129114"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046300_0f8a1034b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046300_0b60b9b06b_o.png",
+      "id_image": "beer_166899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309316_2abb6438f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309316_9e080b3959_o.png",
+      "id_image": "beer_590753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424448_26998cc7bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424448_45980d773a_o.png",
+      "id_image": "beer_705061"
+    }
+  ]
+}

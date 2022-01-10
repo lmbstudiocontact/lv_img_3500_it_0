@@ -1,0 +1,30 @@
+{
+  "english": "crater",
+  "phat_am": "['kreitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "miệng núi lửa",
+          "list_en_vn": [
+            {
+              "full_en": "crater lake",
+              "full_vn": "hồ trên miệng núi lửa đã tắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hố (bom, đạn đại bác...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678464_fabac390d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678464_bfee9a16fd_o.png",
+      "id_image": "crater_1703655"
+    }
+  ]
+}

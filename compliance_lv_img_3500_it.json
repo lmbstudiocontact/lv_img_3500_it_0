@@ -1,0 +1,45 @@
+{
+  "english": "compliance",
+  "phat_am": "[kəm'plaiəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bằng lòng, sự ưng thuận, sự chìu theo, sự làm đúng theo (một yêu cầu, một lệnh...)",
+          "list_en_vn": [
+            {
+              "full_en": "it was done in compliance with your wish",
+              "full_vn": "việc đó đã làm đúng theo ý muốn của anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phục tùng đê tiện, sự khúm núm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315946_9774c75e53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315946_ff64a178df_o.png",
+      "id_image": "compliance_2631401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052375_77c6bc4179_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052375_54670cc422_o.png",
+      "id_image": "compliance_4252343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052340_be6904f1ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052340_f3a6a18a6b_o.png",
+      "id_image": "compliance_5307833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360022_0b26f81461_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360022_76cb1f76aa_o.png",
+      "id_image": "compliance_5572107"
+    }
+  ]
+}

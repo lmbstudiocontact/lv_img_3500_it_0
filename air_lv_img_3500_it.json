@@ -1,0 +1,314 @@
+{
+  "english": "air",
+  "phat_am": "[eə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "không khí; bầu không khí; không gian, không trung",
+          "list_en_vn": [
+            {
+              "full_en": "pure air",
+              "full_vn": "không khí trong sạch"
+            },
+            {
+              "full_en": "fresh air",
+              "full_vn": "không khí mát mẻ"
+            },
+            {
+              "full_en": "in the open air",
+              "full_vn": "ở ngoài trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khí quyển của trái đất nơi máy bay bay",
+          "list_en_vn": [
+            {
+              "full_en": "to travel by air",
+              "full_vn": "đi bằng máy bay; đi bằng đường hàng không"
+            },
+            {
+              "full_en": "to send goods by air",
+              "full_vn": "gửi hàng hoá theo đường hàng không"
+            },
+            {
+              "full_en": "the site of the old fort is clearly visible from the air",
+              "full_vn": "từ trên không, có thể thấy rõ di tích pháo đài cổ"
+            },
+            {
+              "full_en": "air travel , transport , traffic , freight",
+              "full_vn": "đi du lịch, vận tải, giao thông, chuyên chở hàng hoá bằng máy bay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làn gió nhẹ"
+        },
+        {
+          "m_full_vn": "(âm nhạc) khúc ca, khúc nhạc, điệu ca, điệu nhạc"
+        },
+        {
+          "m_full_vn": "vẻ, dáng, dáng điệu; khí sắc, diện mạo; thái độ",
+          "list_en_vn": [
+            {
+              "full_en": "with a triumphant air",
+              "full_vn": "với vẻ đắc thắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) điệu bộ màu mè, vẻ ta đây",
+          "list_one_mean": [
+            {
+              "id_full_en": "to beat the air",
+              "list_im": [
+                {
+                  "im_full_vn": "mất công vô ích, phí công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to build castles in the air",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) castle"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a change of air",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) change"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clear the air",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) clear"
+                }
+              ]
+            },
+            {
+              "id_full_en": "command (mastery ) of the air",
+              "list_im": [
+                {
+                  "im_full_vn": "quyền bá chủ trên không"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to disappear (melt , vanish ) into thin air",
+              "list_im": [
+                {
+                  "im_full_vn": "tan vào không khí, tan biến đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fish in the air ; to plough the air",
+              "list_im": [
+                {
+                  "im_full_vn": "mất công vô ích, uổng công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody the air",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) cho ai thôi việc, thải ai ra"
+                },
+                {
+                  "im_full_vn": "cắt đứt quan hệ với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go up in the air",
+              "list_im": [
+                {
+                  "im_full_vn": "mất tự chủ, mất bình tĩnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hangdog air",
+              "list_im": [
+                {
+                  "im_full_vn": "vẻ hối lỗi"
+                },
+                {
+                  "im_full_vn": "vẻ tiu nghỉu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the air",
+              "list_im": [
+                {
+                  "im_full_vn": "hão huyền, viễn vông, ở đâu đâu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his plan is still in the air",
+                      "full_vn": "kế hoạch của hắn còn ở đâu đâu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "lan đi, lan khắp (tin đồn...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep somebody in the air",
+              "list_im": [
+                {
+                  "im_full_vn": "để ai ở trong một trạng thái hoài nghi chờ đợi không hay biết gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make (turn ) the air blue",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) blue"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on /off the air",
+              "list_im": [
+                {
+                  "im_full_vn": "đang phát/không phát trên truyền thanh hoặc truyền hình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this channel comes on the air every morning at 7 am",
+                      "full_vn": "sáng nào kênh này cũng phát đi lúc 7 giờ"
+                    },
+                    {
+                      "full_en": "we'll be off the air for the summer and returning for a new series in the autumn",
+                      "full_vn": "chúngtôi sẽ không phát trong mùa hè và đến mùa thu sẽ phát trở lại một đợt mới"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to saw the air",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) saw"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take air",
+              "list_im": [
+                {
+                  "im_full_vn": "lan đi, truyền đi, đồn đi (tin đồn...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the air",
+              "list_im": [
+                {
+                  "im_full_vn": "dạo mát, hóng gió"
+                },
+                {
+                  "im_full_vn": "(hàng không) cất cánh, bay lên"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) tẩu, chuồn, trốn cho mau"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) bị đuổi, bị thải"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tread on air",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) tread"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to give oneself airs and graces",
+              "full_vn": "làm bộ màu mè, làm duyên, làm dáng"
+            },
+            {
+              "full_en": "to give oneself airs ; to put on (assume ) airs",
+              "full_vn": "làm bộ, làm ra vẻ ta đây, lên mặt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hóng gió, phơi gió, phơi"
+        },
+        {
+          "m_full_vn": "làm thoáng khí, làm thoáng gió, làm thông gió",
+          "list_en_vn": [
+            {
+              "full_en": "to air oneself",
+              "full_vn": "hóng gió, dạo mát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phô bày, phô trương",
+          "list_en_vn": [
+            {
+              "full_en": "to air fine clothes",
+              "full_vn": "phô quần áo đẹp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộc lộ, thổ lộ",
+          "list_en_vn": [
+            {
+              "full_en": "to air one's feelings",
+              "full_vn": "thổ lộ tình cảm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362237_4f901138bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362237_d018cc21d8_o.png",
+      "id_image": "air_1924209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362217_4c7440036a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362217_4deb3463ee_o.png",
+      "id_image": "air_2358236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672504_1ddcedca63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672504_1ea686ea2a_o.png",
+      "id_image": "air_2750858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672464_da923a6fe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672464_d5227189eb_o.png",
+      "id_image": "air_4637027"
+    }
+  ]
+}

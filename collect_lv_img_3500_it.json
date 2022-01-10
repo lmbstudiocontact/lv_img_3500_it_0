@@ -1,0 +1,140 @@
+{
+  "english": "collect",
+  "phat_am": "[kə'lekt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quyên góp",
+          "list_en_vn": [
+            {
+              "full_en": "to collect money for the disaster fund",
+              "full_vn": "quyên tiền cho quỹ cứu trợ thiên tai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) đến lấy, đi lấy, thu lượm, thu thập, góp nhặt, sưu tầm",
+          "list_en_vn": [
+            {
+              "full_en": "to collect news",
+              "full_vn": "lượm tin"
+            },
+            {
+              "full_en": "to collect taxes",
+              "full_vn": "thu thuế"
+            },
+            {
+              "full_en": "to collect letters",
+              "full_vn": "lấy thư"
+            },
+            {
+              "full_en": "to collect stamps",
+              "full_vn": "sưu tầm tem"
+            },
+            {
+              "full_en": "the dustman collects the rubbish once a week",
+              "full_vn": "người hốt rác gom rác mỗi tuần một lần"
+            },
+            {
+              "full_en": "to collect one's child from school",
+              "full_vn": "đón con từ trường về"
+            },
+            {
+              "full_en": "to collect a suit from the cleaners",
+              "full_vn": "lấy bộ com lê từ hiệu giặt về"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tập trung (tư tưởng...)",
+          "list_en_vn": [
+            {
+              "full_en": "to collect oneself",
+              "full_vn": "trấn tĩnh, bình tĩnh lại"
+            },
+            {
+              "full_en": "to collect one's thoughts before an interview",
+              "full_vn": "tập trung tư tưởng trước một cuộc phỏng vấn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "suy ra, rút ra",
+          "list_en_vn": [
+            {
+              "full_en": "I collect from your words that ...",
+              "full_vn": "qua những lời anh nói tôi suy ra là..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tập hợp, tụ hợp lại"
+        },
+        {
+          "m_full_vn": "dồn lại, ứ lại, đọng lại",
+          "list_en_vn": [
+            {
+              "full_en": "rubbish collects",
+              "full_vn": "rác ứ lại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kinh cầu nguyện"
+        }
+      ]
+    },
+    {
+      "type": "tính từ & phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(điện thoại) do người nhận điện thoại trả tiền",
+          "list_en_vn": [
+            {
+              "full_en": "collect call",
+              "full_vn": "cú điện thoại do người được gọi trả tiền"
+            },
+            {
+              "full_en": "to call somebody collect",
+              "full_vn": "gọi điện thoại cho ai và người được gọi phải trả tiền"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677214_fb36587254_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677214_a300ae310b_o.png",
+      "id_image": "collection_4647471"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677174_144e1ff3b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677174_9a42e7fda1_o.png",
+      "id_image": "collection_4647508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437248_225415f9c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437248_020b5dda59_o.png",
+      "id_image": "collection_4647519"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367077_a8d38753c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367077_40d3b652f5_o.png",
+      "id_image": "collect_1151219"
+    }
+  ]
+}

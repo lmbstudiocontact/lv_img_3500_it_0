@@ -1,0 +1,73 @@
+{
+  "english": "ban",
+  "phat_am": "[bæn]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chính thức cấm (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "Crackers have been strictly banned in Vietnam",
+              "full_vn": "Pháo đã bị cấm đoán triệt để ở Việt Nam"
+            },
+            {
+              "full_en": "The Government has banned the use of chemical weapons",
+              "full_vn": "Chính phủ đã cấm sử dụng vũ khí hoá học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to ban somebody from something / doing something ) cấm ai làm điều gì",
+          "list_en_vn": [
+            {
+              "full_en": "Her parents banned her from leaving home in the night",
+              "full_vn": "Cha mẹ cô ta cấm cô ta ra khỏi nhà ban đêm"
+            },
+            {
+              "full_en": "He was banned from watching television",
+              "full_vn": "Nó bị cấm xem ti vi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lệnh cấm; sự cấm đoán",
+          "list_en_vn": [
+            {
+              "full_en": "to put a ban on the import of secondhand cars",
+              "full_vn": "ra lệnh cấm nhập khẩu xe hơi cũ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672369_67b03b022b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672369_f04745af70_o.png",
+      "id_image": "ban_1620446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361912_739a0fe153_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361912_701a498bd1_o.png",
+      "id_image": "ban_2762477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432663_eb9b51bed8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432663_406b491e6b_o.png",
+      "id_image": "ban_2762560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672379_6478f37ccc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672379_84bd1318dd_o.png",
+      "id_image": "ban_768384"
+    }
+  ]
+}

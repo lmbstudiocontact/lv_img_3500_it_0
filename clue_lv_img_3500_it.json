@@ -1,0 +1,30 @@
+{
+  "english": "clue",
+  "phat_am": "[klu:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đầu mối; manh mối",
+          "list_en_vn": [
+            {
+              "full_en": "to look for clues",
+              "full_vn": "lần đầu mối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dòng tư tưởng; mạch câu chuyện"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443163_8d99e58751_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443163_5df6838288_o.png",
+      "id_image": "clues_5411108"
+    }
+  ]
+}

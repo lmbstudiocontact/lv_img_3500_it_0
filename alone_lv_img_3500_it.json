@@ -1,0 +1,144 @@
+{
+  "english": "alone",
+  "phat_am": "[ə'loun]",
+  "list_type": [
+    {
+      "type": "phó từ & tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "một mình, trơ trọi, cô độc, đơn độc",
+          "list_en_vn": [
+            {
+              "full_en": "to sit alone",
+              "full_vn": "ngồi một mình"
+            },
+            {
+              "full_en": "to live all alone",
+              "full_vn": "sống trơ trọi một mình"
+            },
+            {
+              "full_en": "I don't like going out alone",
+              "full_vn": "tôi không thích đi ra ngoài một mình"
+            },
+            {
+              "full_en": "it will be difficult for one person alone",
+              "full_vn": "chỉ đơn độc một người thôi thì sẽ khó khăn lắm"
+            },
+            {
+              "full_en": "she raised her family quite alone",
+              "full_vn": "một mình chị ta nuôi cả gia đình"
+            },
+            {
+              "full_en": "I prefer to work on it alone",
+              "full_vn": "tôi thích làm việc đó một mình"
+            },
+            {
+              "full_en": "I'm not alone in this opinion",
+              "full_vn": "không phải chỉ riêng tôi có ý kiến này"
+            },
+            {
+              "full_en": "he is not alone in believing that it may lead to war",
+              "full_vn": "không phải chỉ mỗi mình anh ta tin rằng có thể xảy ra chiến tranh; anh ta đâu phải là người duy nhất tin rằng có thể xảy ra chiến tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đi theo một danh từ hoặc đại từ) riêng, chỉ riêng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to leave /let somebody /something alone",
+              "list_im": [
+                {
+                  "im_full_vn": "không dính dáng hoặc can thiệp vào ai/cái gì; để mặc; để cho ai yên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she's asked to be left alone but the press keep pestering her",
+                      "full_vn": "chị ấy yêu cầu để cho yên, nhưng báo chí cứ quấy rầy chị ấy"
+                    },
+                    {
+                      "full_en": "I've told you before - leave my things alone",
+                      "full_vn": "tôi đã nói với anh rồi - đừng mó vào đồ đạc của tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave /let well alone",
+              "list_im": [
+                {
+                  "im_full_vn": "xem well"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go it alone",
+              "list_im": [
+                {
+                  "im_full_vn": "đi một mình, làm một mình, đơn thương độc mã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "let alone",
+              "list_im": [
+                {
+                  "im_full_vn": "không kể đến, chưa nói đến, huống chi, huống hồ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there isn't enough room for us , let alone six dogs and a cat",
+                      "full_vn": "không đủ cho chúng tôi nữa, chứ đừng nói/đó là chưa kể đến sáu con chó và một con mèo"
+                    },
+                    {
+                      "full_en": "I haven't decided on the menu yet , let alone bought the food",
+                      "full_vn": "tôi chưa quyết định ăn món gì, chứ còn nói gì đến việc mua thức ăn (ăn món gì tôi còn chưa quyết định, huống hồ là mua thức ăn)"
+                    },
+                    {
+                      "full_en": "I don't like to read such books , let alone my father",
+                      "full_vn": "tôi còn không thích đọc những quyển sách như vậy, huống chi cha tôi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the shoes alone cost 500 francs",
+              "full_vn": "riêng đôi giày đã là 500 frăng"
+            },
+            {
+              "full_en": "time alone will tell",
+              "full_vn": "chỉ có thời gian mới trả lời được"
+            },
+            {
+              "full_en": "he will be remembered for that one book alone",
+              "full_vn": "chỉ riêng một cuốn sách ấy thôi cũng đủ cho người ta nhớ anh ấy mãi"
+            },
+            {
+              "full_en": "you alone can help me",
+              "full_vn": "chỉ có mỗi mình anh là có thể giúp tôi; chỉ có anh là người có thể giúp tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670339_73e5db677d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670339_a8cf681995_o.png",
+      "id_image": "alone_3590361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670314_4c786941b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670314_664aeb56e0_o.png",
+      "id_image": "alone_5773070"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430483_ecb9580040_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430483_297d890752_o.png",
+      "id_image": "alone_6134538"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "decrease",
+  "phat_am": "['di:kri:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự giảm đi, sự giảm sút",
+          "list_en_vn": [
+            {
+              "full_en": "the decrease in population",
+              "full_vn": "sự giảm số dân"
+            },
+            {
+              "full_en": "a decrease of income",
+              "full_vn": "sự giảm thu nhập"
+            },
+            {
+              "full_en": "to be on the decrease",
+              "full_vn": "đang trên đà giảm sút"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giảm bớt, làm suy giảm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043675_7914b8dc11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043675_a5f94d813a_o.png",
+      "id_image": "decrease_1011587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306636_fac3b3121b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306636_441875d936_o.png",
+      "id_image": "decrease_267983"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043665_a99e221a48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043665_0bbf3bcb07_o.png",
+      "id_image": "decrease_5260144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306571_4a328ba3aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306571_0c37a9f4f3_o.png",
+      "id_image": "decrease_6315561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043610_b9545ffeb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043610_d017698e10_o.png",
+      "id_image": "decrease_6344119"
+    }
+  ]
+}

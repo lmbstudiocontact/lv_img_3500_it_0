@@ -1,0 +1,48 @@
+{
+  "english": "apology",
+  "phat_am": "[ə'pɔlədʒi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( apology to somebody for something ) lời tạ lỗi; lời xin lỗi",
+          "list_en_vn": [
+            {
+              "full_en": "to offer /make /accept an apology",
+              "full_vn": "đưa ra/thực hiện/chấp nhận lời xin lỗi"
+            },
+            {
+              "full_en": "I made my apologies (to the host ) and left early",
+              "full_vn": "Tôi đã tạ lỗi (chủ nhà) và đi sớm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) ( an apology for something ) sự thay thế cho cái kém hơn; cái tồi; vật tồi",
+          "list_en_vn": [
+            {
+              "full_en": "Please excuse this wretched apology for a meal",
+              "full_vn": "Xin hãy thứ lỗi vì bữa ăn không ra gì này (cái tạm gọi là bữa ăn này)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời biện hộ hoặc bảo vệ (về đức tin...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664464_7772f46a43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664464_d24d4be798_o.png",
+      "id_image": "apology_3079134"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353317_984ca35a94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353317_211434356e_o.png",
+      "id_image": "apology_5201437"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "catalogue",
+  "phat_am": "['kætəlɔg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(sách hoặc sách nhỏ, bên trong có) một danh sách đầy đủ các vấn đề xếp theo một trật tự riêng biệt và mỗi mục đều có mô tả; bảng mục lục; danh mục liệt kê",
+          "list_en_vn": [
+            {
+              "full_en": "a library catalogue",
+              "full_vn": "một danh mục liệt kê của thư viện"
+            },
+            {
+              "full_en": "an exhibition catalogue",
+              "full_vn": "một danh mục triển lãm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng loạt",
+          "list_en_vn": [
+            {
+              "full_en": "a catalogue of disasters",
+              "full_vn": "hàng loạt tai hoạ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghi vào mục lục"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365377_af2b3278c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365377_be8eaf577c_o.png",
+      "id_image": "catalogue_1131465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435528_38d34b2315_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435528_7940acb59d_o.png",
+      "id_image": "catalogue_3814138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057105_42db014170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057105_baf8883bf7_o.png",
+      "id_image": "catalogue_4287223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675284_7fc43a7808_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675284_216187098c_o.png",
+      "id_image": "catalogue_5240931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675434_79ef5179bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675434_5fb2efaf28_o.png",
+      "id_image": "catalogue_741897"
+    }
+  ]
+}

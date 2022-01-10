@@ -1,0 +1,180 @@
+{
+  "english": "bridge",
+  "phat_am": "[bridʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bài brit (môn chơi)"
+        },
+        {
+          "m_full_vn": "cái cầu",
+          "list_en_vn": [
+            {
+              "full_en": "a bridge across the stream",
+              "full_vn": "một cái cầu bắc qua suối"
+            },
+            {
+              "full_en": "a railway bridge",
+              "full_vn": "cầu xe lửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sống mũi"
+        },
+        {
+          "m_full_vn": "cầu ngựa (mảnh gỗ di động mà trên đó có căng dây đàn viôlông)"
+        },
+        {
+          "m_full_vn": "bộ phận trong cặp kính nằm trên mũi; cầu kính"
+        },
+        {
+          "m_full_vn": "thiết bị để giữ răng giả (kẹp chặt vào các răng nguyên ở hai bên); cầu răng giả"
+        },
+        {
+          "m_full_vn": "(vật lý) cầu",
+          "list_en_vn": [
+            {
+              "full_en": "resistance bridge",
+              "full_vn": "cầu tần cao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) đài chỉ huy của thuyền trưởng"
+        },
+        {
+          "m_full_vn": "vật tạo ra sự liên kết hoặc tiếp xúc giữa hai hoặc nhiều vật; cầu nối",
+          "list_one_mean": [
+            {
+              "id_full_en": "bridge of gold ; golden bridge",
+              "list_im": [
+                {
+                  "im_full_vn": "đường rút lui mở ra cho kẻ địch thua trận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn one's bridge",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) burn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cross one's bridges when one comes to them",
+              "list_im": [
+                {
+                  "im_full_vn": "xem cross"
+                }
+              ]
+            },
+            {
+              "id_full_en": "much water has flowed under the bridge",
+              "list_im": [
+                {
+                  "im_full_vn": "bao nhiêu nước đã trôi qua cầu, bao nhiêu chuyện đã xảy ra và tình hình bây giờ đã thay đổi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "water under the bridge",
+              "list_im": [
+                {
+                  "im_full_vn": "nước đã trôi qua cầu, chuyện đã qua và nhắc lại cũng bằng thừa"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "cultural exchanges are a way of building bridges between nations",
+              "full_vn": "giao lưu văn hoá là một cách xây dựng cầu nối giữa các dân tộc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xây cầu qua (sông...)",
+          "list_en_vn": [
+            {
+              "full_en": "to bridge a river /canal /ravine",
+              "full_vn": "bắc cầu qua sông/kênh/khe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vắt ngang",
+          "list_en_vn": [
+            {
+              "full_en": "the rainbow bridges the sky",
+              "full_vn": "cầu vồng vắt ngang bầu trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vượt qua, khắc phục",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bridge the gap",
+              "list_im": [
+                {
+                  "im_full_vn": "lấp một chỗ lúng túng hoặc một khoảng trống; giảm khoảng cách giữa các nhóm đối nghịch nhau",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to bridge a gap in the conversation",
+                      "full_vn": "lấp chỗ trống trong câu chuyện"
+                    },
+                    {
+                      "full_en": "a snack in the afternoon bridges the gap between lunch and supper",
+                      "full_vn": "bữa quà chiều lấp quãng trống giữa bữa ăn trưa và bữa ăn trống"
+                    },
+                    {
+                      "full_en": "how can we bridge the gap between rich and poor ?",
+                      "full_vn": "làm thế nào giảm được khoảng cách giữa người giàu và người nghèo?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to bridge over the difficulties",
+              "full_vn": "vượt qua những khó khăn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316256_7bfc96a1b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316256_74dd357abc_o.png",
+      "id_image": "bridge_172757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670854_db707dea6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670854_429ef612d4_o.png",
+      "id_image": "bridge_1742466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360477_3ee4276b00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360477_da2378434f_o.png",
+      "id_image": "bridge_183375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316226_0fb9e72558_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316226_169532bb88_o.png",
+      "id_image": "bridge_3722837"
+    }
+  ]
+}

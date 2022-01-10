@@ -1,0 +1,251 @@
+{
+  "english": "blood",
+  "phat_am": "[blʌd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máu, huyết"
+        },
+        {
+          "m_full_vn": "nhựa (cây); nước ngọt (hoa quả...)"
+        },
+        {
+          "m_full_vn": "sự tàn sát, sự chém giết, sự đổ máu",
+          "list_en_vn": [
+            {
+              "full_en": "to thirst for blood",
+              "full_vn": "khát máu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính khí",
+          "list_en_vn": [
+            {
+              "full_en": "in warm blood",
+              "full_vn": "nổi nóng, nổi giận"
+            },
+            {
+              "full_en": "bad blood",
+              "full_vn": "ác ý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giống nòi, dòng dõi, họ hàng, gia đình",
+          "list_en_vn": [
+            {
+              "full_en": "to be the same flesh and blood",
+              "full_vn": "cùng một dòng họ, cùng một dòng máu"
+            },
+            {
+              "full_en": "to be near in blood",
+              "full_vn": "có họ gần"
+            },
+            {
+              "full_en": "royal blood",
+              "full_vn": "hoàng gia"
+            },
+            {
+              "full_en": "fresh blood",
+              "full_vn": "số người mới nhập (vào một gia đình, một xã, một hội)"
+            },
+            {
+              "full_en": "bit of blood",
+              "full_vn": "ngựa thuần chủng"
+            },
+            {
+              "full_en": "dauntlessness runs in the blood of that family",
+              "full_vn": "tinh thần bất khuất là truyền thống của gia đình ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người lịch sự, người ăn diện ( (thường) young blood )",
+          "list_one_mean": [
+            {
+              "id_full_en": "blood and iron",
+              "list_im": [
+                {
+                  "im_full_vn": "chính sách vũ lực tàn bạo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "blood is thicker than water",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) một giọt máu đào hơn ao nước lã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to breed (make , stir up ) bad blood between persons",
+              "list_im": [
+                {
+                  "im_full_vn": "gây sự bất hoà giữa người nọ với người kia"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drown in blood",
+              "list_im": [
+                {
+                  "im_full_vn": "nhận chìm trong máu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to freeze someone's blood",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) freeze"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get (have ) one's blood up",
+              "list_im": [
+                {
+                  "im_full_vn": "nổi nóng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get someone's blood up",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai nổi nóng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in cold blood",
+              "list_im": [
+                {
+                  "im_full_vn": "chủ tâm có suy tính trước"
+                },
+                {
+                  "im_full_vn": "nhẫn tâm, lạnh lùng, không gớm tay (khi giết người)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make one's blood boil",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) boil"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make someone's blood run cold",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) cold"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you cannot get (take ) blood (out of ) stone",
+              "list_im": [
+                {
+                  "im_full_vn": "không thể nào làm mủi lòng kẻ nhẫn tâm được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be out for someone's blood",
+              "list_im": [
+                {
+                  "im_full_vn": "hạ nhục ai, bôi nhọ ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "blood and thunder",
+              "list_im": [
+                {
+                  "im_full_vn": "kịch tính (của một câu chuyện, sự kiện...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "someone's blood is up",
+              "list_im": [
+                {
+                  "im_full_vn": "ai đó đang sôi máu, đang tím gan"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have someone's blood on one's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu trách nhiệm về cái chết của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to spill blood",
+              "list_im": [
+                {
+                  "im_full_vn": "gây đổ máu, gây tang tóc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stir one's blood",
+              "list_im": [
+                {
+                  "im_full_vn": "cổ vũ ai, kích thích ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sweat blood",
+              "list_im": [
+                {
+                  "im_full_vn": "làm lụng thật vất vả; đổ mồ hôi sôi nước mắt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trích máu"
+        },
+        {
+          "m_full_vn": "(săn bắn) luyện cho (chó săn) thích máu"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) xúi giục, kích động (ai)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328971_bf2ec68213_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328971_6d1130c271_o.png",
+      "id_image": "blood_1548345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684019_a57705b5e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684019_fac96838e0_o.png",
+      "id_image": "blood_205916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373667_4a17d52d48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373667_af5f6b3d5e_o.png",
+      "id_image": "blood_2904539"
+    }
+  ]
+}

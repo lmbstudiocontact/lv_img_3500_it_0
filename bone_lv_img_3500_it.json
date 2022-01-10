@@ -1,0 +1,231 @@
+{
+  "english": "bone",
+  "phat_am": "[boun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xương",
+          "list_en_vn": [
+            {
+              "full_en": "frozen to the bone",
+              "full_vn": "rét thấu xương"
+            },
+            {
+              "full_en": "to be nothing but skin and bone",
+              "full_vn": "gầy giơ xương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chất xương; chất ngà; chất ngà răng; chất sừng cá voi"
+        },
+        {
+          "m_full_vn": "đồ bằng xương; ( số nhiều) con súc sắc, quân cờ..."
+        },
+        {
+          "m_full_vn": "( số nhiều) hài cốt"
+        },
+        {
+          "m_full_vn": "( số nhiều) bộ xương; thân thể",
+          "list_en_vn": [
+            {
+              "full_en": "my old bones",
+              "full_vn": "cái tấm thân già này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái gây tranh chấp, cái gây bất hoà",
+          "list_en_vn": [
+            {
+              "full_en": "bone of contention",
+              "full_vn": "nguyên nhân tranh chấp, nguyên nhân bất hoà"
+            },
+            {
+              "full_en": "to have a bone to pick with somebody",
+              "full_vn": "có vấn đề tranh chấp với ai; có vấn đề thanh toán với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đồng đô-la",
+          "list_one_mean": [
+            {
+              "id_full_en": "the bare bones",
+              "list_im": [
+                {
+                  "im_full_vn": "cốt lõi của vấn đề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to chill sb to the bone",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho rét thấu xương"
+                }
+              ]
+            },
+            {
+              "id_full_en": "close to the bone",
+              "list_im": [
+                {
+                  "im_full_vn": "thiếu tế nhị, cợt nhã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be nothing but skin and bone",
+              "list_im": [
+                {
+                  "im_full_vn": "tiều tụy thảm thương, chỉ còn là da bọc xương"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work one's fingers to the bone",
+              "list_im": [
+                {
+                  "im_full_vn": "làm việc rất hăng hái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on one's bones",
+              "list_im": [
+                {
+                  "im_full_vn": "túng quẫn, đi đến chỗ túng quẫn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be bred in the bones",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn vào tận xương tuỷ, không tẩy trừ được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "what is bred in the bone will not go (come ) out of the flesh",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) quen nết đánh chết không chừa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast in a bone between ...",
+              "list_im": [
+                {
+                  "im_full_vn": "gây mối bất hoà giữa..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut price to the bone",
+              "list_im": [
+                {
+                  "im_full_vn": "giảm giá hàng tới mức tối thiểu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel in one's bones",
+              "list_im": [
+                {
+                  "im_full_vn": "cảm thấy chắc chắn, tin hoàn toàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a bone in one's arm (leg )",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) mệt nhừ người không muốn nhấc tay (không buồn cất bướcnữa)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a bone in one's throat",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) mệt không muốn nói nữa; không muốn mở miệng nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep the bone green",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ sức khoẻ tốt; giữ được trẻ lâu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make no bones about (of )",
+              "list_im": [
+                {
+                  "im_full_vn": "không do dự, không ngập ngừng; không nghi ngại gì; không giấu giếm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make old bones",
+              "list_im": [
+                {
+                  "im_full_vn": "sống dai, sống lâu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gỡ xương (ở cá, ở thịt)"
+        },
+        {
+          "m_full_vn": "(từ lóng) ăn cắp, xoáy",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bone up",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) học gạo (ôn đi, ôn lại)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061670_90f6995b0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061670_4fd5e49dc1_o.png",
+      "id_image": "bones_1488108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324671_157082b219_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324671_1196d35a15_o.png",
+      "id_image": "bones_1732469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324631_0c9c8a4dab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324631_8d97611875_o.png",
+      "id_image": "bones_2188047"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369617_5b22a8cdce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369617_83ae3ecfc7_o.png",
+      "id_image": "bone_1123917"
+    }
+  ]
+}

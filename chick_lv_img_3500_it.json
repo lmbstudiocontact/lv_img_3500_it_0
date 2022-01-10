@@ -1,0 +1,66 @@
+{
+  "english": "chick",
+  "phat_am": "[t∫ik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gà con; chim con"
+        },
+        {
+          "m_full_vn": "trẻ nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "the chicks",
+              "full_vn": "con cái trong nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) người đàn bà trẻ; cô gái",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have neither chick nor child",
+              "list_im": [
+                {
+                  "im_full_vn": "không có con"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one chick keeps a hen busy",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) hai vợ chồng son thêm một con thành bốn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047025_8bcd0e2dcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047025_ec8b7e1523_o.png",
+      "id_image": "chick_183982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354297_8380be3c2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354297_4fb96a386b_o.png",
+      "id_image": "chick_2632851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046995_e0b1d6084d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046995_706e3ab18e_o.png",
+      "id_image": "chick_2640161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046970_1ae42ec860_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046970_7a8d389487_o.png",
+      "id_image": "chick_3408366"
+    }
+  ]
+}

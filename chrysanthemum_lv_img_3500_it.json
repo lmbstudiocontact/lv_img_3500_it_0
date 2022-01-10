@@ -1,0 +1,40 @@
+{
+  "english": "chrysanthemum",
+  "phat_am": "[kri'sænθəməm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây hoa cúc"
+        },
+        {
+          "m_full_vn": "hoa cúc",
+          "list_en_vn": [
+            {
+              "full_en": "land of the chrysanthemum",
+              "full_vn": "nước Nhật bản"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044265_708e3a4d88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044265_99809d2821_o.png",
+      "id_image": "chrysanthemum_2448672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662574_8c8072a502_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662574_c0995cc577_o.png",
+      "id_image": "chrysanthemum_4334560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307271_ceabc3caa2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307271_b63127512e_o.png",
+      "id_image": "chrysanthemum_6080510"
+    }
+  ]
+}

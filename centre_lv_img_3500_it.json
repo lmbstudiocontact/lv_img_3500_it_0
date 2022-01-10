@@ -1,0 +1,130 @@
+{
+  "english": "centre",
+  "phat_am": "['sentə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điểm có khoảng cách đều nhau với tất cả các cạnh của cái gì; điểm hoặc bộ phận chính giữa của cái gì; tâm; trung tâm",
+          "list_en_vn": [
+            {
+              "full_en": "the centre of a circle",
+              "full_vn": "tâm vòng tròn"
+            },
+            {
+              "full_en": "the centre of London",
+              "full_vn": "trung tâm của Luân Đôn thương nghiệp"
+            },
+            {
+              "full_en": "a town centre",
+              "full_vn": "trung tâm của thành phố"
+            },
+            {
+              "full_en": "centre of gravity",
+              "full_vn": "trọng tâm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điểm mà sự quan tâm của mọi người đều hướng vào",
+          "list_en_vn": [
+            {
+              "full_en": "children like to be the centre of attention",
+              "full_vn": "trẻ con thích được làm trung tâm của sự chú ý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nơi chính quyền được tổ chức",
+          "list_en_vn": [
+            {
+              "full_en": "a centre of power",
+              "full_vn": "một trung tâm quyền lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nơi tập trung một số hoạt động hoặc phương tiện thuận lợi",
+          "list_en_vn": [
+            {
+              "full_en": "shopping /sports /leisure centre",
+              "full_vn": "trung tâm buôn bán/thể thao/giải trí"
+            },
+            {
+              "full_en": "a centre of industry , commerce , the steel trade",
+              "full_vn": "trung tâm thương mại, công nghiệp, buôn bán thép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) trung phong (bóng đá)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cú đá hoặc đánh từ biên vào giữa"
+        },
+        {
+          "m_full_vn": "(chính trị) đảng hoặc lập trường chính trị ôn hoà (ở giữa cực tả và cực hữu); phái giữa"
+        },
+        {
+          "m_full_vn": "(quân sự) đạo trung quân"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) mẫu, dưỡng (dùng trong luyện kim)"
+        },
+        {
+          "m_full_vn": "(kiến trúc) khung tò vò, khung bán nguyệt (bằng gỗ, dùng khi xây dựng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "left , right and centre",
+              "list_im": [
+                {
+                  "im_full_vn": "xem left"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt cái gì vào giữa; đặt cái gì vào trung tâm",
+          "list_en_vn": [
+            {
+              "full_en": "to centre the teapot on the table",
+              "full_vn": "đặt bình trà vào giữa bàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) đá hoặc đánh (quả bóng) từ biên vào giữa",
+          "list_one_mean": [
+            {
+              "id_full_en": "to centre (something ) on /upon /round somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy ai/cái gì làm trung tâm, là mối quan tâm hoặc đề tài chính; tập trung vào ai/cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431598_1af48c55e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431598_370df73f79_o.png",
+      "id_image": "centre_168654"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671324_38a2610054_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671324_300f8d91d9_o.png",
+      "id_image": "centre_2994355"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "english": "assess",
+  "phat_am": "[ə'ses]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quyết định hoặc ấn định số lượng của cái gì; ước định",
+          "list_en_vn": [
+            {
+              "full_en": "to assess somebody's taxes /income",
+              "full_vn": "ấn định thuế/thu nhập của ai"
+            },
+            {
+              "full_en": "to assess the damage at 5000 francs",
+              "full_vn": "ước định thiệt hại là 5000 frăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyết định hoặc ấn định giá trị của cái gì; đánh giá; định giá",
+          "list_en_vn": [
+            {
+              "full_en": "they have their house assessed by a valuer",
+              "full_vn": "họ nhờ một người định giá ngôi nhà của họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ước lượng chất lượng cái gì; đánh giá",
+          "list_en_vn": [
+            {
+              "full_en": "it's difficult to assess the impact of the President's speech",
+              "full_vn": "thật khó đánh giá được tác động của bài diễn văn của Tổng thống"
+            },
+            {
+              "full_en": "I assessed your chances as extremely low",
+              "full_vn": "tôi đánh giá cơ may của anh hết sức thấp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303531_46e2ea9756_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303531_f5b5ab0402_o.png",
+      "id_image": "assess_6159181"
+    }
+  ]
+}

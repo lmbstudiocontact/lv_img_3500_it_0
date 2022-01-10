@@ -1,0 +1,43 @@
+{
+  "english": "cultivation",
+  "phat_am": "[,kʌlti'vei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cày cấy, sự trồng trọt",
+          "list_en_vn": [
+            {
+              "full_en": "land under cultivation",
+              "full_vn": "đất đai đang được trồng trọt"
+            },
+            {
+              "full_en": "extensive cultivation",
+              "full_vn": "quảng canh"
+            },
+            {
+              "full_en": "intensive cultivation",
+              "full_vn": "thâm canh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự dạy dỗ, sự mở mang, sự giáo hoá; sự trau dồi, sự tu dưỡng, sự nuôi dưỡng, sự bồi dưỡng (tình cảm...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316241_12e9d795b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316241_db2f46bc8b_o.png",
+      "id_image": "cultivation_4496263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316196_1ccd757c7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316196_a3835cd83d_o.png",
+      "id_image": "cultivation_5264797"
+    }
+  ]
+}

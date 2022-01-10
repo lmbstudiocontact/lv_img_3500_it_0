@@ -1,0 +1,53 @@
+{
+  "english": "anniversary",
+  "phat_am": "[,æni'və:səri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngày kỷ niệm; lễ kỷ niệm",
+          "list_en_vn": [
+            {
+              "full_en": "to celebrate an anniversary",
+              "full_vn": "làm lễ kỷ niệm"
+            },
+            {
+              "full_en": "anniversary of one's birth",
+              "full_vn": "kỷ niệm ngày sinh"
+            },
+            {
+              "full_en": "anniversary of someone's death",
+              "full_vn": "ngày giỗ của ai"
+            },
+            {
+              "full_en": "the hundredth anniversary of the composer's death",
+              "full_vn": "lễ kỷ niệm lần thứ một trăm ngày mất của nhà soạn nhạc"
+            },
+            {
+              "full_en": "our wedding anniversary",
+              "full_vn": "lễ kỷ niệm ngày cưới của chúng tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666769_45ed934d80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666769_b21490de5a_o.png",
+      "id_image": "anniversary_3316672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355897_8e2634589d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355897_5fa08176d7_o.png",
+      "id_image": "anniversary_4199010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048480_1432398e46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048480_4a503d241d_o.png",
+      "id_image": "anniversary_769676"
+    }
+  ]
+}

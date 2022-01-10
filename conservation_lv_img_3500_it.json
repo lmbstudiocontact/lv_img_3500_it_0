@@ -1,0 +1,58 @@
+{
+  "english": "conservation",
+  "phat_am": "[,kɔnsə:'vei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bảo tồn; sự bảo toàn",
+          "list_en_vn": [
+            {
+              "full_en": "the conservation of forests , water resources , old buildings",
+              "full_vn": "sự bảo tồn rừng, nguồn nước, các toà nhà cổ"
+            },
+            {
+              "full_en": "wildlife conservation",
+              "full_vn": "sự bảo tồn động vật hoang dã"
+            },
+            {
+              "full_en": "the conservation of energy",
+              "full_vn": "sự bảo toàn năng lượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bảo tồn môi trường thiên nhiên"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425403_f94d43abec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425403_c9441714db_o.png",
+      "id_image": "conservation_2191418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665554_e919b58bd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665554_4fa142ccf4_o.png",
+      "id_image": "conservation_3906464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425363_119e363a68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425363_1aea7b9d38_o.png",
+      "id_image": "conservation_4127086"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310286_6b1068a3e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310286_1c059581ba_o.png",
+      "id_image": "conservation_5705943"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310416_ea71cb2f7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310416_69757831fc_o.png",
+      "id_image": "conservation_757017"
+    }
+  ]
+}

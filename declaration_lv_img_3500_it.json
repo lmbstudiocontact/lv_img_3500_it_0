@@ -1,0 +1,70 @@
+{
+  "english": "declaration",
+  "phat_am": "[,deklə'rei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tuyên bố; lời tuyên bố",
+          "list_en_vn": [
+            {
+              "full_en": "to make a declaration",
+              "full_vn": "tuyên bố"
+            },
+            {
+              "full_en": "a declaration of war",
+              "full_vn": "sự tuyên chiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản tuyên ngôn",
+          "list_en_vn": [
+            {
+              "full_en": "the Declaration of human rights",
+              "full_vn": "bản tuyên ngôn nhân quyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự công bố",
+          "list_en_vn": [
+            {
+              "full_en": "the declaration of the poll",
+              "full_vn": "sự công bố kết quả bầu cử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp); (pháp lý) sự khai, lời khai; tờ khai"
+        },
+        {
+          "m_full_vn": "(đánh bài) sự xướng lên"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351457_643f52faee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351457_ec81f74119_o.png",
+      "id_image": "declaration_2463834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044280_d37d684c83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044280_98c6604fb9_o.png",
+      "id_image": "declaration_2688839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307311_f833680a60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307311_7c3b2dcfdf_o.png",
+      "id_image": "declaration_3530058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307286_a741fe1185_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307286_477db535d6_o.png",
+      "id_image": "declaration_3842673"
+    }
+  ]
+}

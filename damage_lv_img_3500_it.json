@@ -1,0 +1,80 @@
+{
+  "english": "damage",
+  "phat_am": "['dæmidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( damage to something ) sự thiệt hại; sự hư hại",
+          "list_en_vn": [
+            {
+              "full_en": "the accident did a lot of damage to the car",
+              "full_vn": "tai nạn khiến chiếc xe bị hư hại nặng"
+            },
+            {
+              "full_en": "storm damage to crops",
+              "full_vn": "thiệt hại do bão gây ra cho mùa màng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( damages ) tiền bồi thường thiệt hại",
+          "list_en_vn": [
+            {
+              "full_en": "to bring an action of damages against somebody",
+              "full_vn": "kiện ai đòi bồi thường thiệt hại"
+            },
+            {
+              "full_en": "the court awarded 5000 dollars in damages to the injured man",
+              "full_vn": "toà án quyết định phạt 5000 đô la bồi thường cho người bị thương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) giá tiền",
+          "list_en_vn": [
+            {
+              "full_en": "what's the damage ?",
+              "full_vn": "giá bao nhiêu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm hư hại, làm hỏng, gây thiệt hại, gây tổn hại",
+          "list_en_vn": [
+            {
+              "full_en": "to damage a car /fence",
+              "full_vn": "làm hỏng xe/hàng rào"
+            },
+            {
+              "full_en": "to damage someone's reputation /career",
+              "full_vn": "làm tổn thương danh tiếng/sự nghiệp của ai"
+            },
+            {
+              "full_en": "to damage relations between two countries",
+              "full_vn": "làm tổn hại quan hệ giữa hai nước"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311486_05064cc513_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311486_2d21673d81_o.png",
+      "id_image": "damage_2557075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426388_8124ec5487_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426388_12bbe7fc18_o.png",
+      "id_image": "damage_2752079"
+    }
+  ]
+}

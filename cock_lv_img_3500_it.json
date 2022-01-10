@@ -1,0 +1,199 @@
+{
+  "english": "cock",
+  "phat_am": "[kɔk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con gà trống",
+          "list_en_vn": [
+            {
+              "full_en": "fighting cock",
+              "full_vn": "gà chọi"
+            },
+            {
+              "full_en": "cock of the wood",
+              "full_vn": "gà rừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chim trống (ở những danh từ ghép)",
+          "list_en_vn": [
+            {
+              "full_en": "cock robin",
+              "full_vn": "chim cổ đỏ trống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người đứng đầu; người có vai vế nhất; đầu sỏ",
+          "list_en_vn": [
+            {
+              "full_en": "cock of the walk",
+              "full_vn": "người vai vế nhất"
+            },
+            {
+              "full_en": "cock of the school",
+              "full_vn": "học sinh ngang bướng nhất trường, đầu sỏ ở trường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chong chóng chỉ hướng gió ( (cũng) weathercock )"
+        },
+        {
+          "m_full_vn": "vòi nước"
+        },
+        {
+          "m_full_vn": "kim (của cái cân)"
+        },
+        {
+          "m_full_vn": "cò súng",
+          "list_en_vn": [
+            {
+              "full_en": "at full cock",
+              "full_vn": "sẵn sàng nổ cò (súng)"
+            },
+            {
+              "full_en": "at half cock",
+              "full_vn": "gần sẵn sàng nổ cò (súng)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thô tục) cái buồi, con cặc"
+        },
+        {
+          "m_full_vn": "mép mũ vểnh lên; đầu mũ hếch lên"
+        },
+        {
+          "m_full_vn": "cái liếc, cái nháy mắt",
+          "list_one_mean": [
+            {
+              "id_full_en": "as proud as a cock on his own dunghill",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) chó cậy gần nhà, gà cậy gần chuồng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "old cock",
+              "list_im": [
+                {
+                  "im_full_vn": "cố nội, ông tổ (gọi người thân)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that cock won't fight",
+              "list_im": [
+                {
+                  "im_full_vn": "cái mẹo đó không ăn thua; kế hoạch đó không ăn thua; lý lẽ đó không nước gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "cock-and-bull story",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyện bịa đặt, chuyện vẽ vời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live like fighting cocks",
+              "list_im": [
+                {
+                  "im_full_vn": "thích ăn món ngon vật lạ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to look at somebody with a cock in one's eye",
+              "full_vn": "liếc nhìn ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lên cò súng"
+        },
+        {
+          "m_full_vn": "vểnh lên, hếch lên, dựng lên",
+          "list_en_vn": [
+            {
+              "full_en": "to cock one's ears",
+              "full_vn": "vểnh tay lên (để nghe)"
+            },
+            {
+              "full_en": "to cock one's nose",
+              "full_vn": "hếch mũi lên (tỏ vẻ khinh bỉ)"
+            },
+            {
+              "full_en": "to cock one's hat",
+              "full_vn": "đội mũ lệch, vểnh mép mũ lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nháy nháy ai; liếc nhìn ai",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cock a snook",
+              "list_im": [
+                {
+                  "im_full_vn": "hếch mũi ra vẻ xem thường"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vểnh lên"
+        },
+        {
+          "m_full_vn": "vênh váo ra vẻ thách thức"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đống rơm (cỏ khô... ở cánh đồng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441303_30184cc75d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441303_063e90798b_o.png",
+      "id_image": "cock_2281152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441393_1ee0d74c21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441393_e5d3653bb5_o.png",
+      "id_image": "cock_311564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326346_c483797b8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326346_1a07b849ed_o.png",
+      "id_image": "cock_3638425"
+    }
+  ]
+}

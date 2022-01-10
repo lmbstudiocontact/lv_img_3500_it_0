@@ -1,0 +1,92 @@
+{
+  "english": "bench",
+  "phat_am": "[bent∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghế dài",
+          "list_en_vn": [
+            {
+              "full_en": "park benches",
+              "full_vn": "ghế ở công viên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bàn (của thợ mộc, thợ đóng giày)"
+        },
+        {
+          "m_full_vn": "ghế ngồi của quan toà; toà án",
+          "list_en_vn": [
+            {
+              "full_en": "to be raised to the bench",
+              "full_vn": "được bổ nhiệm làm quan toà; được phong làm giám mục"
+            },
+            {
+              "full_en": "to be on the bench",
+              "full_vn": "làm quan toà; làm giám mục"
+            },
+            {
+              "full_en": "the bench and the bar",
+              "full_vn": "quan toà và luật sư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ghế ngồi ở nghị viện Anh (của từng nhóm)",
+          "list_en_vn": [
+            {
+              "full_en": "bishops' bench",
+              "full_vn": "ghế ngồi của các giám mục (trong nghị viện Anh)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc trưng bày, cuộc triển lãm (chó)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trưng bày, triển lãm (chó)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307916_0ba71d541a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307916_7b809ed2a4_o.png",
+      "id_image": "bench_1278111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307901_2cd5cef366_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307901_7025430344_o.png",
+      "id_image": "bench_1311992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044935_6524dcf48a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044935_608ee27d3c_o.png",
+      "id_image": "bench_224549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663129_d52f063eea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663129_1308f4db7c_o.png",
+      "id_image": "bench_2259521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307836_3208ca7b87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307836_1f2a3d431b_o.png",
+      "id_image": "bench_2278379"
+    }
+  ]
+}

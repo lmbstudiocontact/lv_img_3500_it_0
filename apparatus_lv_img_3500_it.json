@@ -1,0 +1,58 @@
+{
+  "english": "apparatus",
+  "phat_am": "[,æpə'reitəsiz]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều apparatuses",
+      "list_m": [
+        {
+          "m_full_vn": "bộ dụng cụ dùng trong các thí nghiệm khoa học",
+          "list_en_vn": [
+            {
+              "full_en": "laboratory apparatus",
+              "full_vn": "dụng cụ phòng thí nghiệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dụng cụ dùng trong môn điền kinh",
+          "list_en_vn": [
+            {
+              "full_en": "the vaulting horse is a difficult piece of apparatus to master",
+              "full_vn": "ngựa gỗ để tập nhảy là một dụng cụ khó làm chủ"
+            },
+            {
+              "full_en": "firemen needed breathing apparatus to enter the burning house",
+              "full_vn": "lính cứu hoả cần dụng cụ thở để xông vào ngôi nhà đang cháy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) hệ thống các bộ phận trong cơ thể; bộ máy",
+          "list_en_vn": [
+            {
+              "full_en": "the digestive apparatus",
+              "full_vn": "bộ máy tiêu hoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơ cấu phức tạp của một tổ chức",
+          "list_en_vn": [
+            {
+              "full_en": "the whole apparatus of government",
+              "full_vn": "toàn bộ cơ cấu bộ máy cai trị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353262_49dd7d66dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353262_e569bc7b51_o.png",
+      "id_image": "apparatus_3739691"
+    }
+  ]
+}

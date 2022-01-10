@@ -1,0 +1,30 @@
+{
+  "english": "anthem",
+  "phat_am": "['ænθəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bài hát ca ngợi; bài hát vui",
+          "list_en_vn": [
+            {
+              "full_en": "national anthem",
+              "full_vn": "bài quốc ca"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) bài thánh ca"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425473_fe2953dc96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425473_314c4f4360_o.png",
+      "id_image": "anthem_3967494"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "english": "destroy",
+  "phat_am": "[di'strɔi]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phá, phá hoại, phá huỷ, tàn phá, tiêu diệt"
+        },
+        {
+          "m_full_vn": "làm mất hiệu lực, triệt phá",
+          "list_en_vn": [
+            {
+              "full_en": "to destroy oneself",
+              "full_vn": "tự sát"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682869_9c315e683e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682869_c2e7a41615_o.png",
+      "id_image": "destroy_2752076"
+    }
+  ]
+}

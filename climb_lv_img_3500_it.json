@@ -1,0 +1,89 @@
+{
+  "english": "climb",
+  "phat_am": "[klaim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự leo trèo"
+        },
+        {
+          "m_full_vn": "vật trèo qua; vật phải trèo lên"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "leo, trèo, leo trèo"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lên, lên cao",
+          "list_en_vn": [
+            {
+              "full_en": "the aeroplane climbed slowly",
+              "full_vn": "máy bay từ từ lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) leo (cây)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) leo lên tới, trèo lên tới",
+          "list_one_mean": [
+            {
+              "id_full_en": "to climb down",
+              "list_im": [
+                {
+                  "im_full_vn": "trèo xuống, tụt xuống"
+                },
+                {
+                  "im_full_vn": "thoái bộ, thụt lùi, lùi lại"
+                },
+                {
+                  "im_full_vn": "chịu thua, nhượng bộ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to climb to a position",
+              "full_vn": "leo lên tới một địa vị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687154_a8658d1d19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687154_2c5b432253_o.png",
+      "id_image": "climb_2640185"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447113_62917b317d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447113_b91ee06504_o.png",
+      "id_image": "climb_2808463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447083_ef00ec0ba7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447083_c67af9480c_o.png",
+      "id_image": "climb_5235867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447048_558213de1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447048_cddda6ff0f_o.png",
+      "id_image": "climb_6381773"
+    }
+  ]
+}

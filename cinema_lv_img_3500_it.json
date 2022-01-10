@@ -1,0 +1,58 @@
+{
+  "english": "cinema",
+  "phat_am": "['sinimə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rạp xi nê; rạp chiếu bóng (cũng) movie house ; movie theatre",
+          "list_en_vn": [
+            {
+              "full_en": "to go to the cinema",
+              "full_vn": "đi xem xinê, đi xem phim"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the cinema ) phim ảnh với tư cách là một hình thức nghệ thuật hoặc một ngành công nghiệp; điện ảnh (cũng) the movies",
+          "list_en_vn": [
+            {
+              "full_en": "she's interested in cinema",
+              "full_vn": "cô ấy quan tâm đến điện ảnh"
+            },
+            {
+              "full_en": "to work in the cinema",
+              "full_vn": "làm việc trong ngành điện ảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghệ thuật điện ảnh; kỹ thuật điện ảnh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421843_5ebbee368b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421843_6b3c004fd0_o.png",
+      "id_image": "cinema_2217602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662049_3857d586e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662049_6fe175480b_o.png",
+      "id_image": "cinema_3351573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661999_22fa93b6d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661999_b1d90cb7dc_o.png",
+      "id_image": "cinema_3936956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350847_68a9c30441_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350847_749ce584eb_o.png",
+      "id_image": "cinema_860157"
+    }
+  ]
+}

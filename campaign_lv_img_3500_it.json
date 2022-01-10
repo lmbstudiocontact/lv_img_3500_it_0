@@ -1,0 +1,89 @@
+{
+  "english": "campaign",
+  "phat_am": "[kæm'pein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chiến dịch",
+          "list_en_vn": [
+            {
+              "full_en": "the Dienbienphu campaign",
+              "full_vn": "chiến dịch Điện biên phủ"
+            },
+            {
+              "full_en": "a political campaign",
+              "full_vn": "chiến dịch chính trị"
+            },
+            {
+              "full_en": "to enter upon a campaign",
+              "full_vn": "mở chiến dịch"
+            },
+            {
+              "full_en": "to serve a campaign",
+              "full_vn": "tham gia chiến dịch; phục vụ chiến dịch"
+            },
+            {
+              "full_en": "advertising campaign",
+              "full_vn": "chiến dịch quảng cáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc vận động",
+          "list_en_vn": [
+            {
+              "full_en": "electoral campaign",
+              "full_vn": "cuộc vận động bầu cử"
+            },
+            {
+              "full_en": "a campaign to raise funds",
+              "full_vn": "cuộc vận động góp vốn"
+            },
+            {
+              "full_en": "a campaign to raise money for the flood victims",
+              "full_vn": "cuộc vận động quyên tiền cho các nạn nhân lũ lụt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to campaign for / against somebody / something ) tham gia hoặc lãnh đạo một chiến dịch, một cuộc vận động",
+          "list_en_vn": [
+            {
+              "full_en": "she spent her life campaigning for women's rights",
+              "full_vn": "suốt đời bà ấy tham gia vận động cho quyền của phụ nữ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041545_521c80c4f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041545_4fac11dfd3_o.png",
+      "id_image": "campaign_1666049"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660044_bfeed31cb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660044_8fdd6d3969_o.png",
+      "id_image": "campaign_1999239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304681_4dfec0bbdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304681_221687c5eb_o.png",
+      "id_image": "campaign_5175207"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419638_f83304dfd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419638_6e97545fc0_o.png",
+      "id_image": "campaign_5605843"
+    }
+  ]
+}

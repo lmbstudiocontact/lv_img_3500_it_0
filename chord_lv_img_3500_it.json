@@ -1,0 +1,62 @@
+{
+  "english": "chord",
+  "phat_am": "[kɔ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thơ ca) dây (đàn hạc)"
+        },
+        {
+          "m_full_vn": "(toán học) dây cung"
+        },
+        {
+          "m_full_vn": "(giải phẫu) dây, thừng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to strike (touch ) a deep chord in the heart of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh đúng vào tình cảm của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to touch the right chord",
+              "list_im": [
+                {
+                  "im_full_vn": "gãi đúng vào chỗ ngứa; chạm đúng nọc; nói đúng tâm lý"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "vocal chords",
+              "full_vn": "dây thanh âm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(âm nhạc) hợp âm"
+        },
+        {
+          "m_full_vn": "(hội họa) sự điều hợp (màu sắc)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044585_86637065ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044585_60c96e0042_o.png",
+      "id_image": "chord_3355143"
+    }
+  ]
+}

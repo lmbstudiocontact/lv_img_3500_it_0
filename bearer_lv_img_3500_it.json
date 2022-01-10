@@ -1,0 +1,47 @@
+{
+  "english": "bearer",
+  "phat_am": "['beərə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đem thư hoặc thông báo tới",
+          "list_en_vn": [
+            {
+              "full_en": "I'm the bearer of good news",
+              "full_vn": "Tôi là người đem tin vui đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người được thuê để khiêng đồ (trong một chuyến đi chẳng hạn); người khuân vác"
+        },
+        {
+          "m_full_vn": "người giúp khiêng quan tài; người đạo tỳ"
+        },
+        {
+          "m_full_vn": "người có séc được chi trả theo yêu cầu",
+          "list_en_vn": [
+            {
+              "full_en": "this cheque is payable to the bearer",
+              "full_vn": "séc này có thể được chi trả cho người cầm séc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048030_c093d52e3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048030_8a9c3f967a_o.png",
+      "id_image": "bearer_1347435"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355447_d123b0ddbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355447_dd1ba7558a_o.png",
+      "id_image": "bearer_6413521"
+    }
+  ]
+}

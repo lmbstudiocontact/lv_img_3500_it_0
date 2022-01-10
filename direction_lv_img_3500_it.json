@@ -1,0 +1,81 @@
+{
+  "english": "direction",
+  "phat_am": "[di'rek∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự điều khiển, sự chỉ huy, sự cai quản",
+          "list_en_vn": [
+            {
+              "full_en": "to assume the direction of an affair",
+              "full_vn": "nắm quyền điều khiển một công việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) lời chỉ bảo, lời hướng dẫn, chỉ thị, huấn thị",
+          "list_en_vn": [
+            {
+              "full_en": "directions for use",
+              "full_vn": "lời hướng dẫn cách dùng"
+            },
+            {
+              "full_en": "to give directions",
+              "full_vn": "ra chỉ thị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phương hướng, chiều, phía, ngả",
+          "list_en_vn": [
+            {
+              "full_en": "in the direction of ...",
+              "full_vn": "về hướng (phía...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt, phương diện",
+          "list_en_vn": [
+            {
+              "full_en": "improvement in many directions",
+              "full_vn": "sự cải tiến về nhiều mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(như) directorate"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435293_6ddd9a15d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435293_486d146d01_o.png",
+      "id_image": "direction_1412261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056800_68a0143b06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056800_05f8854cec_o.png",
+      "id_image": "direction_1864020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364887_c3536dac4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364887_a2263a094d_o.png",
+      "id_image": "direction_1900180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435193_f58f8ec43c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435193_6ff425d072_o.png",
+      "id_image": "direction_2373764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056670_ef94b931ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056670_2680b3dc4c_o.png",
+      "id_image": "direction_3380706"
+    }
+  ]
+}

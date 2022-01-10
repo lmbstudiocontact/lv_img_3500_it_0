@@ -1,0 +1,41 @@
+{
+  "english": "acrobatic",
+  "phat_am": "[,ækrə'bætik ]",
+  "list_type": [
+    {
+      "list_m": [
+        {
+          "m_full_vn": "của hoặc giống như một người biểu diễn nhào lộn",
+          "list_en_vn": [
+            {
+              "full_en": "acrobatic feats /skills",
+              "full_vn": "ngón/tài nhào lộn điêu luyện"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367987_bcf7ffceba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367987_c427becd55_o.png",
+      "id_image": "acrobatics_1722292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678199_1d59e06558_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678199_26f0a37824_o.png",
+      "id_image": "acrobatics_5257715"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323161_a06683ddd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323161_006000d8b5_o.png",
+      "id_image": "acrobatic_1425377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368012_d45017c892_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368012_b879d3588f_o.png",
+      "id_image": "acrobatic_4576034"
+    }
+  ]
+}

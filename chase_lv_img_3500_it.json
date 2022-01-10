@@ -1,0 +1,133 @@
+{
+  "english": "chase",
+  "phat_am": "[t∫eis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự theo đuổi, sự đuổi theo, sự săn đuổi",
+          "list_en_vn": [
+            {
+              "full_en": "in chase of",
+              "full_vn": "theo đuổi"
+            },
+            {
+              "full_en": "to give chase",
+              "full_vn": "đuổi theo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "the chase sự săn bắn",
+          "list_en_vn": [
+            {
+              "full_en": "a keen follower of the chase",
+              "full_vn": "người thích đi săn bắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khu vực săn bắn ( (cũng) chace )"
+        },
+        {
+          "m_full_vn": "thú bị săn đuổi; tàu bị đuổi bắt"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "săn, săn đuổi"
+        },
+        {
+          "m_full_vn": "đuổi, xua đuổi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to chase oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) chuồn, tẩu thoát",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "go chase yourself !",
+                      "full_vn": "hãy chuồn cho mau!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to chase all fears",
+              "full_vn": "xua đuổi hết mọi sợ hãi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngành in) khuôn"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rãnh (để đặt ống dẫn nước)"
+        },
+        {
+          "m_full_vn": "phần đầu đại bác (bao gồm nòng súng)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chạm, trổ, khắc (kim loại)"
+        },
+        {
+          "m_full_vn": "gắn, đính",
+          "list_en_vn": [
+            {
+              "full_en": "to chase a diamond in gold",
+              "full_vn": "gắn hột kim cương vào vàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiện, ren (răng, đinh ốc)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427778_7e92fbbd3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427778_bf02b9551b_o.png",
+      "id_image": "chase_2650033"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356942_833df124d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356942_3e31497885_o.png",
+      "id_image": "chase_3317174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312886_46bfa29352_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312886_fb2a5273d5_o.png",
+      "id_image": "chase_5773018"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312846_845ce86458_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312846_94da2b0a03_o.png",
+      "id_image": "chase_5906164"
+    }
+  ]
+}

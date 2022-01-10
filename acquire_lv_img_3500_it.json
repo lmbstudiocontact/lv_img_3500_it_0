@@ -1,0 +1,59 @@
+{
+  "english": "acquire",
+  "phat_am": "[ə'kwaiə]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "được, giành được, thu được, đạt được, kiếm được",
+          "list_en_vn": [
+            {
+              "full_en": "to acquire a good reputation",
+              "full_vn": "được tiếng tốt"
+            },
+            {
+              "full_en": "acquired characteristic",
+              "full_vn": "(sinh vật học) tính chất thu được"
+            },
+            {
+              "full_en": "an acquired taste",
+              "full_vn": "sở thích do quen mà có"
+            },
+            {
+              "full_en": "acquired immuno-deficiency syndrome",
+              "full_vn": "hội chứng khiếm khuyết miễn dịch mắc phải (bệnh AIDS hay SIDA)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323336_1813646de0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323336_624f0b28f8_o.png",
+      "id_image": "acquire_1622673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060045_1448224027_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060045_20733fc5c8_o.png",
+      "id_image": "acquire_5155895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678469_a1e6f654b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678469_c5b4d51136_o.png",
+      "id_image": "acquisition_3335554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323196_72b7a91def_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323196_60bb590556_o.png",
+      "id_image": "acquisition_4597437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059950_70b0bceb07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059950_c4984db56b_o.png",
+      "id_image": "acquisition_5024694"
+    }
+  ]
+}

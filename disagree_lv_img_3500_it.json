@@ -1,0 +1,69 @@
+{
+  "english": "disagree",
+  "phat_am": "[,disə'gri:]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khác, không giống, không khớp",
+          "list_en_vn": [
+            {
+              "full_en": "the accounts disagree",
+              "full_vn": "những câu chuyện kể lại không khớp nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không hợp, không thích hợp",
+          "list_en_vn": [
+            {
+              "full_en": "the climate disagrees with him",
+              "full_vn": "khí hậu không hợp với anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất đồng, không đồng ý",
+          "list_en_vn": [
+            {
+              "full_en": "to disagree with someone on something",
+              "full_vn": "không đồng ý với ai về cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất hoà",
+          "list_en_vn": [
+            {
+              "full_en": "to disagree with someone",
+              "full_vn": "bất hoà với ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055535_9348b88c60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055535_084446c670_o.png",
+      "id_image": "disagree_1989982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673769_ab632c399a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673769_86bf3d781e_o.png",
+      "id_image": "disagree_4150681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055470_646c5758a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055470_6e4a709522_o.png",
+      "id_image": "disagree_4150787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434103_3d29a140db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434103_f88c412217_o.png",
+      "id_image": "disagree_5226303"
+    }
+  ]
+}

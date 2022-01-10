@@ -1,0 +1,66 @@
+{
+  "english": "college",
+  "phat_am": "['kɔlidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trường cao đẳng hoặc trường chuyên nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "a college of further education",
+              "full_vn": "trường cao đẳng bổ túc"
+            },
+            {
+              "full_en": "the Royal College of Art",
+              "full_vn": "Trường cao đẳng nghệ thuật hoàng gia"
+            },
+            {
+              "full_en": "she's at college",
+              "full_vn": "cô ấy đang học ở trường cao đẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất kỳ một trong số những trường trung học độc lập nằm trong một số trường đại học nào đó (mỗi trường này có giảng viên, học sinh và nhà cửa riêng)",
+          "list_en_vn": [
+            {
+              "full_en": "the Oxford and Cambridge colleges",
+              "full_vn": "trường trung học Oxford và trường trung học Cambridge"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) trường đại học, hoặc một bộ phận của một trường đại học, có những khoá học cho sinh viên đại học chưa tốt nghiệp"
+        },
+        {
+          "m_full_vn": "toà nhà hoặc những toà nhà của trường đại học; ký túc xá"
+        },
+        {
+          "m_full_vn": "toàn thể cán bộ nhân viên và/hoặc học sinh của một trường cao đẳng"
+        },
+        {
+          "m_full_vn": "nhóm người cùng nghề được tổ chức lại với những mục đích, nhiệm vụ hoặc đặc quyền riêng biệt; hội; đoàn",
+          "list_en_vn": [
+            {
+              "full_en": "The Royal College of Surgeons",
+              "full_vn": "Hội phẫu thuật hoàng gia"
+            },
+            {
+              "full_en": "The College of Cardinals",
+              "full_vn": "Đoàn giáo chủ áo đỏ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676749_b10e0418b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676749_a7c9544c10_o.png",
+      "id_image": "college_5352118"
+    }
+  ]
+}

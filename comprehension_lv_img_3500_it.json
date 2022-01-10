@@ -1,0 +1,36 @@
+{
+  "english": "comprehension",
+  "phat_am": "[,kɔmpri'hen∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hiểu, sự lĩnh hội, sự nhận thức",
+          "list_en_vn": [
+            {
+              "full_en": "it's beyond my comprehension",
+              "full_vn": "cái đó tôi không hiểu nổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bao gồm, sự bao hàm",
+          "list_en_vn": [
+            {
+              "full_en": "a term of wide comprehension",
+              "full_vn": "một thuật ngữ bao hàm nhiều khái niệm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314911_bb0b9b840c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314911_2220fbeb36_o.png",
+      "id_image": "comprehension_4953703"
+    }
+  ]
+}

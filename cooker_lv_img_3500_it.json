@@ -1,0 +1,64 @@
+{
+  "english": "cooker",
+  "phat_am": "['kukə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trang bị nhà bếp cho việc nấu nướng gồm có lò và mặt bếp ở trên và có vỉ nướng nữa; bếp",
+          "list_en_vn": [
+            {
+              "full_en": "electric cooker",
+              "full_vn": "bếp điện"
+            },
+            {
+              "full_en": "gas cooker",
+              "full_vn": "bếp ga"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loại quả phải nấu thì ăn mới ngon",
+          "list_en_vn": [
+            {
+              "full_en": "these apples are good cookers",
+              "full_vn": "táo này nấu ăn ngon"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) người giả mạo, người khai gian",
+          "list_en_vn": [
+            {
+              "full_en": "cooker of accounts",
+              "full_vn": "người giả mạo sổ sách, người chữa sổ sách, người khai gian (để tham ô biển lận)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305076_a27a42fc7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305076_7fc2ea755e_o.png",
+      "id_image": "cooker_170970"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305041_c30687860c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305041_3886a88d1b_o.png",
+      "id_image": "cooker_4405769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660444_5a0dc0063c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660444_dfdd567a6d_o.png",
+      "id_image": "cooker_4975302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660479_8c569b28ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660479_9c786d5b19_o.png",
+      "id_image": "cooker_675834"
+    }
+  ]
+}

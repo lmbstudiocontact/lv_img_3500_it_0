@@ -1,0 +1,80 @@
+{
+  "english": "axis",
+  "phat_am": "['æksis]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều axes",
+      "list_m": [
+        {
+          "m_full_vn": "trục",
+          "list_en_vn": [
+            {
+              "full_en": "earth's axis",
+              "full_vn": "trục quả đất"
+            },
+            {
+              "full_en": "geometrical axis",
+              "full_vn": "trục hình học"
+            },
+            {
+              "full_en": "magnetic axis",
+              "full_vn": "trục từ"
+            },
+            {
+              "full_en": "rotation axis",
+              "full_vn": "trục quay"
+            },
+            {
+              "full_en": "symmetry axis",
+              "full_vn": "trục đối xứng"
+            },
+            {
+              "full_en": "visual axis",
+              "full_vn": "trục nhìn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) tia xuyên"
+        },
+        {
+          "m_full_vn": "(chính trị) trục Béc-lin, Rô-ma, Tô-ki-ô (khối liên minh)"
+        },
+        {
+          "m_full_vn": "( định ngữ) (thuộc) trục Béc-lin, Rô-ma, Tô-ki-ô",
+          "list_en_vn": [
+            {
+              "full_en": "axis powers",
+              "full_vn": "các cường quốc trong trục Béc-lin, Rô-ma, Tô-ki-ô"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) hươu sao ( (cũng) axis deer )"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060195_d38e977c76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060195_c4b9bcf0e7_o.png",
+      "id_image": "axis_1606455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368332_e50c94740e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368332_3780bd3550_o.png",
+      "id_image": "axis_191104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060135_b25562c8cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060135_d52e2d57b8_o.png",
+      "id_image": "axis_3330661"
+    }
+  ]
+}

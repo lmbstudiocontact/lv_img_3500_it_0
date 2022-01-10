@@ -1,0 +1,49 @@
+{
+  "english": "consensus",
+  "phat_am": "[kən'sensəs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đồng lòng, sự đồng tâm, sự nhất trí",
+          "list_en_vn": [
+            {
+              "full_en": "the two parties have reached a consensus",
+              "full_vn": "hai đảng đó đã được một sự nhất trí"
+            },
+            {
+              "full_en": "there is broad consensus (of opinion ) in the country on this issue",
+              "full_vn": "có sự đồng lòng rộng rãi trong cả nước về vấn đề này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) sự liên ứng",
+          "list_one_mean": [
+            {
+              "id_full_en": "consensus politics",
+              "list_im": [
+                {
+                  "im_full_vn": "nền chính trị nhất trí (áp dụng các chính sách mà dự kiến là sẽ được ủng hộ của hầu hết các chính đảng)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354777_07b5612c73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354777_335d37d67e_o.png",
+      "id_image": "consensus_1349750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354742_7b90dedf73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354742_039af6f9d6_o.png",
+      "id_image": "consensus_2191453"
+    }
+  ]
+}

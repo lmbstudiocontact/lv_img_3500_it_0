@@ -1,0 +1,93 @@
+{
+  "english": "awkward",
+  "phat_am": "['ɔ:kwəd]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "vụng về"
+        },
+        {
+          "m_full_vn": "lúng túng, ngượng nghịu",
+          "list_en_vn": [
+            {
+              "full_en": "to feel awkward",
+              "full_vn": "cảm thấy lúng túng ngượng nghịu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất tiện; khó khăn, nguy hiểm",
+          "list_en_vn": [
+            {
+              "full_en": "an awkward door",
+              "full_vn": "một cái cửa bất tiện"
+            },
+            {
+              "full_en": "an awkward turning",
+              "full_vn": "một chỗ ngoặt nguy hiểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khó xử, rầy rà, rắc rối",
+          "list_one_mean": [
+            {
+              "id_full_en": "awkward age",
+              "list_im": [
+                {
+                  "im_full_vn": "tuổi mới lớn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "awkward customer",
+              "list_im": [
+                {
+                  "im_full_vn": "người nguy hiểm; con vật nguy hiểm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "awkward squad",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) squad"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be in an awkward situation",
+              "full_vn": "ở trong một tình thế khó xử"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438738_9c0b64b7a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438738_f7c18e796c_o.png",
+      "id_image": "awkward_1128916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323596_806d082535_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323596_b538284ac9_o.png",
+      "id_image": "awkward_2341942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368617_33336e2ef1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368617_eac259f93f_o.png",
+      "id_image": "awkward_520437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060400_640b93b4e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060400_cd408c89e9_o.png",
+      "id_image": "awkward_6000710"
+    }
+  ]
+}

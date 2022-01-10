@@ -1,0 +1,84 @@
+{
+  "english": "danger",
+  "phat_am": "['deindʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nguy hiểm, mối hiểm nghèo",
+          "list_en_vn": [
+            {
+              "full_en": "to be in danger",
+              "full_vn": "bị nạn, lâm vào cảnh nguy hiểm"
+            },
+            {
+              "full_en": "to be out of danger",
+              "full_vn": "thoát nạn, thoát khỏi cảnh nguy hiểm"
+            },
+            {
+              "full_en": "in danger of one's life",
+              "full_vn": "nguy hiểm đến tính mạng"
+            },
+            {
+              "full_en": "to keep out of danger",
+              "full_vn": "đứng ở ngoài vòng nguy hiểm, tránh được sự nguy hiểm"
+            },
+            {
+              "full_en": "danger money",
+              "full_vn": "trợ cấp dành cho công việc nguy hiểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguy cơ, mối đe doạ",
+          "list_en_vn": [
+            {
+              "full_en": "a danger to peace",
+              "full_vn": "mối đe doạ cho hoà bình"
+            },
+            {
+              "full_en": "the imperialist war",
+              "full_vn": "nguy cơ chiến tranh đế quốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) tín hiệu báo nguy",
+          "list_one_mean": [
+            {
+              "id_full_en": "on the danger list",
+              "list_im": [
+                {
+                  "im_full_vn": "gần chết do bạo bệnh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047580_d92caca7d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047580_a7343f29fd_o.png",
+      "id_image": "danger_1685842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310721_aa48290a38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310721_b9284f14c9_o.png",
+      "id_image": "danger_2333681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354947_2726fbceaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354947_1ac8bb33fd_o.png",
+      "id_image": "danger_488557"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354892_38fbd2e646_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354892_fe56f6fc69_o.png",
+      "id_image": "danger_5570598"
+    }
+  ]
+}

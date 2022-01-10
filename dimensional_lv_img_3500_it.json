@@ -1,0 +1,34 @@
+{
+  "english": "dimensional",
+  "phat_am": "[di'men∫ənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về kích thước, thuộc về kích cỡ"
+        },
+        {
+          "m_full_vn": "(toán học) (thuộc) thứ nguyên",
+          "list_en_vn": [
+            {
+              "full_en": "dimensional analysis",
+              "full_vn": "phân tích thứ nguyên"
+            },
+            {
+              "full_en": "dimensional unit",
+              "full_vn": "đơn vị thứ nguyên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058215_cf64506b7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058215_970642bdaf_o.png",
+      "id_image": "dimensional_4335009"
+    }
+  ]
+}

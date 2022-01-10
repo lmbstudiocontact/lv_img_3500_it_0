@@ -1,0 +1,55 @@
+{
+  "english": "bullet",
+  "phat_am": "['bulit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đạn (súng trường, súng lục)",
+          "list_en_vn": [
+            {
+              "full_en": "dumdum bullet",
+              "full_vn": "đạn đum đum"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (quân sự), (từ lóng) hạt đậu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bite the bullet",
+              "list_im": [
+                {
+                  "im_full_vn": "xem bite"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311381_1326a689d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311381_3c5d16a0b2_o.png",
+      "id_image": "bullet_1461908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048025_0b3d36fd18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048025_210e7d7155_o.png",
+      "id_image": "bullet_1461915"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311416_1e1b178ef9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311416_e5a12ca357_o.png",
+      "id_image": "bullet_224679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311396_719e9b35a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311396_387c799fee_o.png",
+      "id_image": "bullet_427199"
+    }
+  ]
+}

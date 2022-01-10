@@ -1,0 +1,55 @@
+{
+  "english": "difficulty",
+  "phat_am": "['difikəlti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( difficulty in something ; difficulty in doing something ) sự khó khăn; nỗi khó khăn; nỗi gay go; điều cản trở; điều trở ngại",
+          "list_en_vn": [
+            {
+              "full_en": "to overcome financial difficulty",
+              "full_vn": "vượt qua/khắc phục khó khăn về tài chính"
+            },
+            {
+              "full_en": "she got the door open , but only with some difficulty",
+              "full_vn": "bà ta mở được cửa ra, nhưng khá vất vả"
+            },
+            {
+              "full_en": "I'd the greatest difficulty in persuading her",
+              "full_vn": "Tôi gặp phải khó khăn rất lớn trong việc thuyết phục bà ấy"
+            },
+            {
+              "full_en": "the difficulties of French grammar",
+              "full_vn": "những khó khăn trong ngữ pháp tiếng Pháp"
+            },
+            {
+              "full_en": "she met with many difficulties when immigrating in France",
+              "full_vn": "bà ta gặp nhiều trở ngại khi nhập cư vào nước Pháp"
+            },
+            {
+              "full_en": "we got into difficulty /difficulties with the rent",
+              "full_vn": "chúng ta lâm vào cảnh khó khăn về tiền thuê nhà"
+            },
+            {
+              "full_en": "to be in difficulties",
+              "full_vn": "lâm vào cảnh túng quẫn"
+            },
+            {
+              "full_en": "I want to marry her , but her parents are making /creating difficulties",
+              "full_vn": "Tôi muốn cưới cô ấy, nhưng bố mẹ cô ấy lại gây khó dễ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367042_b091faf67a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367042_41bdff4e91_o.png",
+      "id_image": "difficulty_4516936"
+    }
+  ]
+}

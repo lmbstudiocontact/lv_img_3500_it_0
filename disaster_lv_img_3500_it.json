@@ -1,0 +1,54 @@
+{
+  "english": "disaster",
+  "phat_am": "[di'zɑ:stə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tai hoạ, thảm hoạ, tai ách",
+          "list_en_vn": [
+            {
+              "full_en": "to court (invite ) disaster",
+              "full_vn": "chuốc lấy tai hoạ"
+            },
+            {
+              "full_en": "disaster area",
+              "full_vn": "vùng đất thường bị tai hoạ giáng xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều bất hạnh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055045_d5dc3cb7b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055045_5f6063fa58_o.png",
+      "id_image": "disaster_1969091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673264_c35bd53b46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673264_2d2d59e321_o.png",
+      "id_image": "disaster_1998538"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433623_45d0c7dce9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433623_fbafd8aef2_o.png",
+      "id_image": "disaster_2036988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673199_934b3e5cb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673199_7e1acfc332_o.png",
+      "id_image": "disaster_4643190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433563_ddf691aa9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433563_821a01e685_o.png",
+      "id_image": "disaster_6367406"
+    }
+  ]
+}

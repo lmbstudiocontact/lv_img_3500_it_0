@@ -1,0 +1,68 @@
+{
+  "english": "contagious",
+  "phat_am": "[kən'teidʒəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) dễ lây qua tiếp xúc; hay lây; truyền nhiễm",
+          "list_en_vn": [
+            {
+              "full_en": "a contagious disease",
+              "full_vn": "bệnh lây"
+            },
+            {
+              "full_en": "scarlet fever is highly contagious",
+              "full_vn": "bệnh sốt hồng nhiệt lây rất nhanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) dễ truyền từ người này sang người kia; dễ lây",
+          "list_en_vn": [
+            {
+              "full_en": "contagious laughter /enthusiasm",
+              "full_vn": "tiếng cười/lòng nhiệt tình dễ lây lan"
+            },
+            {
+              "full_en": "contagious gloom",
+              "full_vn": "nỗi buồn lây"
+            },
+            {
+              "full_en": "yawning is contagious",
+              "full_vn": "ngáp dễ lây"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663244_eb18b63f24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663244_739bf067f6_o.png",
+      "id_image": "contagious_2688364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307971_6177fb3c6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307971_e3d5262846_o.png",
+      "id_image": "contagious_2688379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663174_d0ae91e816_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663174_a86c8b1ec4_o.png",
+      "id_image": "contagious_2720270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423068_fe6c5d5dd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423068_8859dffa49_o.png",
+      "id_image": "contagious_2927196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307856_e0e57e4afa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307856_724e95394e_o.png",
+      "id_image": "contagious_3182061"
+    }
+  ]
+}

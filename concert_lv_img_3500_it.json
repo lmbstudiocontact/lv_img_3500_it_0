@@ -1,0 +1,53 @@
+{
+  "english": "concert",
+  "phat_am": "['kɔnsət]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phối hợp, sự hoà hợp",
+          "list_en_vn": [
+            {
+              "full_en": "to act in concert with",
+              "full_vn": "hành động phối hợp với"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "buổi hoà nhạc"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dự tính, sắp đặt; bàn định, bàn tính; phối hợp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668444_fdc32f7b41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668444_f05bbb2453_o.png",
+      "id_image": "concert_1784526"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357772_169892415e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357772_eeee015563_o.png",
+      "id_image": "concert_3126472"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428508_9a3898931d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428508_fa18a3efd0_o.png",
+      "id_image": "concert_3994036"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050165_6917b905f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050165_af9f04bf3c_o.png",
+      "id_image": "concert_6060714"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "english": "dig",
+  "phat_am": "[dig]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đào, sự bới, sự xới, sự cuốc (đất)"
+        },
+        {
+          "m_full_vn": "sự thúc; cú thúc",
+          "list_en_vn": [
+            {
+              "full_en": "to give someone a dig in the ribs",
+              "full_vn": "thúc vào sườn ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chỉ trích cay độc",
+          "list_en_vn": [
+            {
+              "full_en": "a dig at someone",
+              "full_vn": "sự chỉ trích ai cay độc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(khảo cổ học) (thông tục) sự khai quật"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) sinh viên học gạo"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ dug",
+      "list_m": [
+        {
+          "m_full_vn": "đào bới, xới, cuốc (đất...)",
+          "list_en_vn": [
+            {
+              "full_en": "to dig a hole",
+              "full_vn": "đào một cái lỗ"
+            },
+            {
+              "full_en": "to dig potatoes",
+              "full_vn": "bới khoai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thúc, ấn sâu, thọc sâu",
+          "list_en_vn": [
+            {
+              "full_en": "to dig a stick into the sand",
+              "full_vn": "ấn sâu cái gậy xuống cát"
+            },
+            {
+              "full_en": "to dig somebody in the ribs",
+              "full_vn": "thúc vào sườn ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "moi ra, tìm ra",
+          "list_en_vn": [
+            {
+              "full_en": "to dig the truth out of somebody",
+              "full_vn": "moi sự thật ở ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) chú ý tới"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) hiểu rõ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đào bới, xới, cuốc",
+          "list_en_vn": [
+            {
+              "full_en": "to dig for gold",
+              "full_vn": "đào tìm vàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) + into ), for moi móc, tìm tòi, nghiên cứu",
+          "list_en_vn": [
+            {
+              "full_en": "to dig for information",
+              "full_vn": "moi móc tin tức"
+            },
+            {
+              "full_en": "to dig into an author",
+              "full_vn": "nghiên cứu tìm tòi ở một tác giả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) học gạo",
+          "list_one_mean": [
+            {
+              "id_full_en": "to dig down",
+              "list_im": [
+                {
+                  "im_full_vn": "đào (chân tường...) cho đổ xuống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dig for",
+              "list_im": [
+                {
+                  "im_full_vn": "moi móc, tìm tòi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dig from",
+              "list_im": [
+                {
+                  "im_full_vn": "đào lên, moi lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dig in (into )",
+              "list_im": [
+                {
+                  "im_full_vn": "thúc, ấn sâu, thọc (cái thúc ngựa, đầu mũi kiếm...)"
+                },
+                {
+                  "im_full_vn": "chôn vùi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to dig oneself in",
+                      "full_vn": "ẩn mình (bằng cách đào hầm trú ẩn...)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dig out",
+              "list_im": [
+                {
+                  "im_full_vn": "đào ra, moi ra, khai quật; tìm ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to dig out a secret",
+                      "full_vn": "moi ra được một điều bí mật"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dig up",
+              "list_im": [
+                {
+                  "im_full_vn": "xới (đất); đào lên, bới lên (khoai...)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) nhận, lĩnh (tiền)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dig a pit for someone",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) pit"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322021_faefbc4ea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322021_c0c5550ce3_o.png",
+      "id_image": "dig_1406304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321991_ec43487cc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321991_0434fb2786_o.png",
+      "id_image": "dig_5826051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058680_2018bc7d04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058680_959ebcca48_o.png",
+      "id_image": "dig_6041525"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "english": "beneficiary",
+  "phat_am": "[,beni'fi∫əri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người được hưởng tài sản, lợi lộc (phát sinh từ hợp đồng bảo hiểm hoặc di chúc chẳng hạn)",
+          "list_en_vn": [
+            {
+              "full_en": "I'm the beneficiary of your generosity",
+              "full_vn": "Tôi là người được anh đối xử hào hiệp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351867_fd41ff6b8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351867_c72e772b7a_o.png",
+      "id_image": "beneficiary_6000659"
+    }
+  ]
+}

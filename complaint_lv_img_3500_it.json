@@ -1,0 +1,98 @@
+{
+  "english": "complaint",
+  "phat_am": "[kəm'pleint]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự than phiền, sự phàn nàn, sự kêu ca",
+          "list_en_vn": [
+            {
+              "full_en": "The roadworks caused much complaint among local residents",
+              "full_vn": "Công trình làm đường khiến dân địa phương kêu ca rất nhiều"
+            },
+            {
+              "full_en": "You've no cause /grounds for complaint",
+              "full_vn": "Anh chẳng có lý do gì để phàn nàn cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lý do để bất mãn",
+          "list_en_vn": [
+            {
+              "full_en": "I've a number of complaints about the hotel room you've given me",
+              "full_vn": "Tôi có một vài điều phàn nàn về căn phòng khách sạn mà các ông dành cho tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "căn bệnh; chứng bệnh",
+          "list_en_vn": [
+            {
+              "full_en": "to suffer from a heart complaint",
+              "full_vn": "đau tim"
+            },
+            {
+              "full_en": "childhood complaints",
+              "full_vn": "các bệnh trẻ em"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đơn kiện",
+          "list_en_vn": [
+            {
+              "full_en": "to submit /lodge a complaint against somebody",
+              "full_vn": "kiện ai"
+            },
+            {
+              "full_en": "She lodges a complaint about the noise",
+              "full_vn": "Bà ấy thưa kiện về tiếng ồn"
+            },
+            {
+              "full_en": "We've received a lot of complaints of bad workmanship",
+              "full_vn": "Chúng tôi đã nhận được nhiều đơn than phiền về tay nghề kém"
+            },
+            {
+              "full_en": "Management ignored our complaints that washing facilities were inadequate",
+              "full_vn": "Ban giám đốc chẳng màng đến lời kêu ca của chúng tôi về các phương tiện tắm rửa không đầy đủ"
+            },
+            {
+              "full_en": "To follow the complaints procedure",
+              "full_vn": "Theo thủ tục tố tụng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316331_5c371ae085_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316331_389353ecd2_o.png",
+      "id_image": "complaint_1076362"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316326_242b794dca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316326_c86a5c1912_o.png",
+      "id_image": "complaint_1484573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360507_91367cf51d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360507_3607ffd903_o.png",
+      "id_image": "complaint_2036937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052690_bd754a1e5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052690_da59497825_o.png",
+      "id_image": "complaint_2720490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360462_bbae24daa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360462_5e0897a40a_o.png",
+      "id_image": "complaint_5823750"
+    }
+  ]
+}

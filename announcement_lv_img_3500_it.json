@@ -1,0 +1,46 @@
+{
+  "english": "announcement",
+  "phat_am": "[ə'naunsmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cáo thị; thông cáo",
+          "list_en_vn": [
+            {
+              "full_en": "announcements of births , marriages and deaths appear in some newspapers",
+              "full_vn": "thông báo về sự ra đời, hôn nhân và sự qua đời được đăng trên một số nhật báo"
+            },
+            {
+              "full_en": "the announcement of the royal birth was broadcast to the nation",
+              "full_vn": "thông cáo về sự ra đời của hoàng tử đã được phát thanh đi toàn quốc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666674_0601d919c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666674_c4e634eff6_o.png",
+      "id_image": "announcement_1924443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666654_9ee841982b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666654_e62bacf2e6_o.png",
+      "id_image": "announcement_2649723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426543_205e05c132_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426543_94c440c1cd_o.png",
+      "id_image": "announcement_538310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048275_7dfa600f67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048275_5847d7ddfc_o.png",
+      "id_image": "announcement_6334837"
+    }
+  ]
+}

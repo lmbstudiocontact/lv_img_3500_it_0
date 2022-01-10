@@ -1,0 +1,159 @@
+{
+  "english": "class",
+  "phat_am": "[klɑ:s ; klæs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giai cấp; tầng lớp",
+          "list_en_vn": [
+            {
+              "full_en": "the working class",
+              "full_vn": "giai cấp công nhân"
+            },
+            {
+              "full_en": "the peasant class",
+              "full_vn": "giai cấp nông dân"
+            },
+            {
+              "full_en": "the middle /upper class",
+              "full_vn": "tầng lớp trung lưu/thượng lưu"
+            },
+            {
+              "full_en": "class differences , distinctions , divisions",
+              "full_vn": "những sự khác biệt, phân biệt, phân chia giai cấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hạng, loại",
+          "list_en_vn": [
+            {
+              "full_en": "to travel first class",
+              "full_vn": "đi vé hạng nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) lớp",
+          "list_en_vn": [
+            {
+              "full_en": "scientists divide animals and plants into classes",
+              "full_vn": "các nhà khoa học phân chia đông vật và thực vật thành các lớp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm học sinh cùng học với nhau; lớp",
+          "list_en_vn": [
+            {
+              "full_en": "first-year class",
+              "full_vn": "lớp năm thứ nhất"
+            },
+            {
+              "full_en": "second-year class",
+              "full_vn": "lớp năm thứ hai"
+            },
+            {
+              "full_en": "we were in the same class at school",
+              "full_vn": "chúng tôi học cùng một lớp ở trường"
+            },
+            {
+              "full_en": "Form 4 is /are a difficult class to teach",
+              "full_vn": "Lớp 4 là một lớp khó dạy"
+            },
+            {
+              "full_en": "the top of the class",
+              "full_vn": "học sinh nhất lớp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giờ học; buổi học",
+          "list_en_vn": [
+            {
+              "full_en": "what time does the class begin ?",
+              "full_vn": "giờ học bắt đầu lúc nào?"
+            },
+            {
+              "full_en": "I've a maths class at 9 o'clock",
+              "full_vn": "Tôi có giờ toán vào lúc 9 giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) nhóm học sinh hoặc sinh viên tốt nghiệp cùng một trường/khoá nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "the class of '82",
+              "full_vn": "khoá tốt nghiệp năm 82"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính ưu tú, tính tuyệt vời"
+        },
+        {
+          "m_full_vn": "sự thanh nhã, sự thanh cao",
+          "list_one_mean": [
+            {
+              "id_full_en": "class prize",
+              "list_im": [
+                {
+                  "im_full_vn": "phần thưởng hạng ưu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in a class by itself",
+              "list_im": [
+                {
+                  "im_full_vn": "khác biệt, khác đời; tốt hơn cả, hay hơn cả, đẹp hơn cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it is no class",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) cái này chẳng dùng làm gì được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a class",
+              "list_im": [
+                {
+                  "im_full_vn": "giành được vinh dự"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349397_e5a9fe7dc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349397_c7ac585002_o.png",
+      "id_image": "class_1058534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660594_f987a27659_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660594_451107c706_o.png",
+      "id_image": "class_1058537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660554_810220c7e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660554_dd4669ab7e_o.png",
+      "id_image": "class_4861747"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305181_1d83a85e3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305181_9911f535ea_o.png",
+      "id_image": "class_508064"
+    }
+  ]
+}

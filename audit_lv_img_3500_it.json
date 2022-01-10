@@ -1,0 +1,61 @@
+{
+  "english": "audit",
+  "phat_am": "['ɔ:dit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kiểm tra sổ sách, kiểm toán",
+          "list_en_vn": [
+            {
+              "full_en": "audit ale",
+              "full_vn": "bia đặc biệt trong ngày kiểm tra sổ sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thanh toán các khoản đáo hạn giữa tá điền và địa chủ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiểm tra sổ sách; kiểm toán"
+        },
+        {
+          "m_full_vn": "học (một lớp nào đó) mà không cần lấy bằng hoặc không được cấp bằng; học dự thính"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371807_cb88ff1152_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371807_927267fa44_o.png",
+      "id_image": "audit_1728376"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442093_7fd28a5df7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442093_b208825f19_o.png",
+      "id_image": "audit_4307996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063900_431db0638b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063900_43cea99988_o.png",
+      "id_image": "audit_4308038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063865_399a39f5c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063865_aeb98b8258_o.png",
+      "id_image": "audit_4308084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682079_321641157c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682079_f16972336e_o.png",
+      "id_image": "audit_4308089"
+    }
+  ]
+}

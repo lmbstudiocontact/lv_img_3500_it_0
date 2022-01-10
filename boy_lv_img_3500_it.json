@@ -1,0 +1,122 @@
+{
+  "english": "boy",
+  "phat_am": "[bɔi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con trai, thiếu niên; con trai (con đẻ ra)"
+        },
+        {
+          "m_full_vn": "học trò trai, học sinh nam"
+        },
+        {
+          "m_full_vn": "người đầy tớ trai"
+        },
+        {
+          "m_full_vn": "(thân mật) bạn thân",
+          "list_en_vn": [
+            {
+              "full_en": "my boy",
+              "full_vn": "bạn tri kỷ của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người vẫn giữ được tính hồn nhiên của tuổi thiếu niên"
+        },
+        {
+          "m_full_vn": "( the boy ) (từ lóng) rượu sâm banh",
+          "list_one_mean": [
+            {
+              "id_full_en": "big boy",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bạn thân, bạn tri kỷ"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) ông chủ, ông trùm"
+                },
+                {
+                  "im_full_vn": "(quân sự), (từ lóng) pháo, đại bác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "fly boy",
+              "list_im": [
+                {
+                  "im_full_vn": "người lái máy bay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "backroom boy",
+              "list_im": [
+                {
+                  "im_full_vn": "nhà nghiên cứu ít được công chúng biết đến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sb's blue-eyed boy",
+              "list_im": [
+                {
+                  "im_full_vn": "con cưng của ai (nghĩa bóng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the boy in blue",
+              "list_im": [
+                {
+                  "im_full_vn": "người đôi lúc xử sự chẳng khác gì trẻ con"
+                }
+              ]
+            },
+            {
+              "id_full_en": "jobs for the boys",
+              "list_im": [
+                {
+                  "im_full_vn": "công việc ưu tiên dành cho bạn bè thân hữu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sort out the men from the boys",
+              "list_im": [
+                {
+                  "im_full_vn": "phân biệt rõ ai hơn ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the bottle of the boy",
+              "full_vn": "một chai sâm banh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056415_51aa03a5bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056415_8986049395_o.png",
+      "id_image": "boy_421598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434913_42416101ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434913_4d74369770_o.png",
+      "id_image": "boy_421600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674649_c377aa0d3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674649_7b2c79c5f4_o.png",
+      "id_image": "boy_435043"
+    }
+  ]
+}

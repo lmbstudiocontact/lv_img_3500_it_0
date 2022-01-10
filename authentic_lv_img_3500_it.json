@@ -1,0 +1,41 @@
+{
+  "english": "authentic",
+  "phat_am": "[ɔ:'θentik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đích thực; xác thực",
+          "list_en_vn": [
+            {
+              "full_en": "an authentic document , signature , painting",
+              "full_vn": "tài liệu, chữ ký, bức tranh đích thực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáng tin cậy; chắc chắn",
+          "list_en_vn": [
+            {
+              "full_en": "an authentic statement",
+              "full_vn": "lời tuyên bố đáng tin cậy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063330_881cda17d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063330_d625d444e5_o.png",
+      "id_image": "authentic_1999223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441318_7c53570e25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441318_192c74eeac_o.png",
+      "id_image": "authentic_5966666"
+    }
+  ]
+}

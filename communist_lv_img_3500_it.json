@@ -1,0 +1,40 @@
+{
+  "english": "communist",
+  "phat_am": "[,kɔmju'nistik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người cộng sản"
+        }
+      ]
+    },
+    {
+      "type": "tính từ + Cách viết khác : ( communistic )",
+      "list_m": [
+        {
+          "m_full_vn": "cộng sản",
+          "list_en_vn": [
+            {
+              "full_en": "Communist party",
+              "full_vn": "đảng cộng sản"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432988_a2ff3d04a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432988_a6981fcc95_o.png",
+      "id_image": "communist_1868224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672584_1a2f08b7f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672584_5f6a6ab131_o.png",
+      "id_image": "communist_5822341"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "english": "advance",
+  "phat_am": "[əd'vɑ:ns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chuyển động lên phía trước; sự tiến lên",
+          "list_en_vn": [
+            {
+              "full_en": "the enemy's advance was halted",
+              "full_vn": "bước tiến của quân địch bị chận lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tiến bộ",
+          "list_en_vn": [
+            {
+              "full_en": "the continued advance of civilization",
+              "full_vn": "sự tiến bộ không ngừng của nền văn minh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( advance in something ) sự cải tiến",
+          "list_en_vn": [
+            {
+              "full_en": "recent advances in medical science",
+              "full_vn": "những bước tiến gần đây trong y học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( advance on something ) sự tăng giá hoặc khối lượng",
+          "list_en_vn": [
+            {
+              "full_en": "'Any advance on 100 dollars ? ' called the auctioneer",
+              "full_vn": "'Có ai trả cao hơn 100 đô la hay không? ', người bán đấu giá xướng lên"
+            },
+            {
+              "full_en": "share prices showed significant advances today",
+              "full_vn": "giá cổ phần cho thấy những bước tiến đáng kể thời nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền trả trước thời hạn, hoặc trả cho công việc mới chỉ hoàn thành từng phần; tiền tạm ứng; tiền vay",
+          "list_en_vn": [
+            {
+              "full_en": "the bank gave /made her an advance of 2000 dollars",
+              "full_vn": "ngân hàng trả trước cho cô ta 2000 đô la"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) lời tán tỉnh",
+          "list_en_vn": [
+            {
+              "full_en": "to make advances to a pretty girl",
+              "full_vn": "theo tán tỉnh một cô gái đẹp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) sự sớm pha"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuyển hoặc đặt ai/cái gì lên phía trước",
+          "list_en_vn": [
+            {
+              "full_en": "the general advanced his troops at night",
+              "full_vn": "vị tướng điều quân lên phía trước trong đêm"
+            },
+            {
+              "full_en": "he advanced his queen to threaten his opponent's king",
+              "full_vn": "anh ta đi quân hậu lên trước để doạ quân vua của đối phương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giúp sự tiến bộ của ai; thúc đẩy (một kế hoạch)",
+          "list_en_vn": [
+            {
+              "full_en": "such conduct is unlikely to advance your interests",
+              "full_vn": "xử sự như vậy thật khó mà nâng quyền lợi của anh lên được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm hoặc đưa ra (một yêu sách, gợi ý...)",
+          "list_en_vn": [
+            {
+              "full_en": "to advance an opinion",
+              "full_vn": "đưa ra một ý kiến"
+            },
+            {
+              "full_en": "scientists have advanced a new theory to explain this phenomenon",
+              "full_vn": "các nhà khoa học đã đề ra một lý thuyết mới để giải thích hiện tượng này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to advance something to somebody ) trả (tiền) trước thời hạn phải trả; cho vay (tiền)",
+          "list_en_vn": [
+            {
+              "full_en": "the bank advanced me 2000 dollars",
+              "full_vn": "ngân hàng trả trước cho tôi 2000 đô la"
+            },
+            {
+              "full_en": "he asked his employer to advance him a month's salary",
+              "full_vn": "anh ta xin ông chủ ứng trước cho một tháng lương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa (một sự kiện) lên một thời điểm sớm hơn",
+          "list_en_vn": [
+            {
+              "full_en": "the date of the meeting was advanced from 10 to 3 June",
+              "full_vn": "ngày họp được chuyển từ mồng 10 lên mồng 3 tháng 6"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tăng (giá)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có tiến bộ",
+          "list_en_vn": [
+            {
+              "full_en": "to advance in one's career",
+              "full_vn": "thăng tiến trong sự nghiệp của mình"
+            },
+            {
+              "full_en": "has civilization advanced during this century ?",
+              "full_vn": "trong thế kỷ này nền văn minh có tiến bộ hơn không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to advance on / towards somebody / something ) tiến lên phía trước",
+          "list_en_vn": [
+            {
+              "full_en": "the mob advanced towards /on us shouting angrily",
+              "full_vn": "đám đông tiến về phía chúng tôi la hét giận dữ"
+            },
+            {
+              "full_en": "our troops have advanced two miles",
+              "full_vn": "quân ta đã tiến được hai dặm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về giá) tăng lên",
+          "list_en_vn": [
+            {
+              "full_en": "property values continue to advance rapidly",
+              "full_vn": "giá trị tài sản tiếp tục tăng lên nhanh chóng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi trước người khác",
+          "list_en_vn": [
+            {
+              "full_en": "advance party",
+              "full_vn": "nhóm đi trước, nhóm tiền trạm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm hoặc cung cấp trước",
+          "list_en_vn": [
+            {
+              "full_en": "to give somebody advance warning /notice of something",
+              "full_vn": "báo trước cho ai biết điều gì"
+            },
+            {
+              "full_en": "to make an advance booking",
+              "full_vn": "đăng ký trước (giữ trước một buồng khách sạn, một chỗ trong nhà hát... trước lúc cần đến)"
+            },
+            {
+              "full_en": "an advance copy of a new book",
+              "full_vn": "một ấn bản của quyển sách mới được đưa trước (cung cấp cho tác giả trươc khi xuất bản)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056690_b3b012e7db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056690_b601faa579_o.png",
+      "id_image": "advance_3775997"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675024_16de3b7572_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675024_ba3ce2b68c_o.png",
+      "id_image": "advantage_1622582"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364762_86cf567855_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364762_e3e2cae3ef_o.png",
+      "id_image": "advantage_5999981"
+    }
+  ]
+}

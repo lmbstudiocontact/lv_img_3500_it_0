@@ -1,0 +1,131 @@
+{
+  "english": "buck",
+  "phat_am": "[bʌk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hươu đực, hoẵng đực, nai đực; thỏ đực"
+        },
+        {
+          "m_full_vn": "người diện sang, công tử bột"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đồng đô la",
+          "list_one_mean": [
+            {
+              "id_full_en": "old buck",
+              "list_im": [
+                {
+                  "im_full_vn": "(thân mật) bạn già, bạn thân"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy chụm bốn vó, nhảy cong người lên (ngựa)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to buck someone off",
+              "list_im": [
+                {
+                  "im_full_vn": "nhảy chụm bốn vó hất ngã ai (ngựa)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ"
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) làm phấn khởi, động viên",
+          "list_en_vn": [
+            {
+              "full_en": "to feel greatly bucked up",
+              "full_vn": "cảm thấy hết sức phấn chấn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái lờ (bắt lươn)"
+        },
+        {
+          "m_full_vn": "chuyện ba hoa khoác lác"
+        },
+        {
+          "m_full_vn": "cái giá đỡ, cái chống (để cưa ngang súc gỗ)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) vật nhắc đến lượt chia bài"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói ba hoa, khoác lác",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pass the buck to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) đổ trách nhiệm cho ai"
+                },
+                {
+                  "im_full_vn": "lừa ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (tiếng địa phương) nước giặt quần áo; nước nấu quần áo"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giặt; nấu (quần áo)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050145_86d80c7daf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050145_6a5bbda09a_o.png",
+      "id_image": "buck_1079427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668404_4d800b8ff9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668404_45beaa3099_o.png",
+      "id_image": "buck_184083"
+    }
+  ]
+}

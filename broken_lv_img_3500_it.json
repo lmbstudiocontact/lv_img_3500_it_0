@@ -1,0 +1,131 @@
+{
+  "english": "broken",
+  "phat_am": "['broukən]",
+  "list_type": [
+    {
+      "type": "động tính từ quá khứ của break"
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị gãy, bị vỡ"
+        },
+        {
+          "m_full_vn": "vụn",
+          "list_en_vn": [
+            {
+              "full_en": "broken bread",
+              "full_vn": "bánh mì vụn"
+            },
+            {
+              "full_en": "broken meat",
+              "full_vn": "thịt vụn; thịt thừa"
+            },
+            {
+              "full_en": "broken tea",
+              "full_vn": "chè vụn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đứt quãng, chập chờn, thất thường",
+          "list_en_vn": [
+            {
+              "full_en": "broken words",
+              "full_vn": "lời nói đứt quãng"
+            },
+            {
+              "full_en": "broken sleep",
+              "full_vn": "giấc ngủ chập chờn"
+            },
+            {
+              "full_en": "broken weather",
+              "full_vn": "thời tiết thất thường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhấp nhô, gập ghềnh",
+          "list_en_vn": [
+            {
+              "full_en": "broken ground",
+              "full_vn": "đất nhấp nhô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "suy nhược, ốm yếu, quỵ",
+          "list_en_vn": [
+            {
+              "full_en": "broken health",
+              "full_vn": "sức khoẻ suy nhược"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuyệt vọng, đau khổ",
+          "list_en_vn": [
+            {
+              "full_en": "broken man",
+              "full_vn": "người đau khổ tuyệt vọng"
+            },
+            {
+              "full_en": "broken heart",
+              "full_vn": "lòng đau dớn; sự đau lòng"
+            },
+            {
+              "full_en": "to die of a broken heart",
+              "full_vn": "chết vì đau buồn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói sai",
+          "list_en_vn": [
+            {
+              "full_en": "broken English",
+              "full_vn": "tiếng Anh nói sai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không được tôn trọng, không được thực hiện",
+          "list_en_vn": [
+            {
+              "full_en": "broken promise",
+              "full_vn": "lời hứa không được tôn trọng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430033_c5a36663de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430033_d6a68fc17f_o.png",
+      "id_image": "broken_1656426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315101_1f3518590e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315101_35f0a371ba_o.png",
+      "id_image": "broken_1719145"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429973_a92aaa9e9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429973_d7dfc0ce2e_o.png",
+      "id_image": "broken_4772164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051565_a4d5a559ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051565_a6252eeaff_o.png",
+      "id_image": "broken_6267452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051695_9c247e3e93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051695_e212fa224f_o.png",
+      "id_image": "broken_977873"
+    }
+  ]
+}

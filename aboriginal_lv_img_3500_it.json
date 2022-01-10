@@ -1,0 +1,60 @@
+{
+  "english": "aboriginal",
+  "phat_am": "[,æbə'ridʒənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thổ dân; (thuộc) thổ sản, (thuộc) đặc sản",
+          "list_en_vn": [
+            {
+              "full_en": "the aboriginal inhabitants of a country",
+              "full_vn": "thổ dân của một nước"
+            },
+            {
+              "full_en": "tea is an aboriginal product of Phutho",
+              "full_vn": "chè là một đặc sản của Phú thọ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ban sơ, nguyên thuỷ, cổ sơ"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thổ dân"
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) thổ sản"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372227_a48d3588e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372227_281a6fb512_o.png",
+      "id_image": "aboriginal_1410750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372167_cc1403f8a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372167_383e487440_o.png",
+      "id_image": "aboriginal_3810013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064155_b4883d6779_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064155_eb79c94daf_o.png",
+      "id_image": "aboriginal_4149221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372072_1182272278_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372072_c24e287173_o.png",
+      "id_image": "aboriginal_6254612"
+    }
+  ]
+}

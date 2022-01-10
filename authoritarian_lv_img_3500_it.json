@@ -1,0 +1,35 @@
+{
+  "english": "authoritarian",
+  "phat_am": "[ɔ:,θɔri'teəriən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "độc tài; độc đoán",
+          "list_en_vn": [
+            {
+              "full_en": "an authoritarian government , regime",
+              "full_vn": "chính phủ, chế độ độc tài"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kẻ độc đoán; kẻ độc tài"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326181_018d6a8f6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326181_65c607558b_o.png",
+      "id_image": "authoritarian_5101281"
+    }
+  ]
+}

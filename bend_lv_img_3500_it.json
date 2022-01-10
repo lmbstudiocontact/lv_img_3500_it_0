@@ -1,0 +1,107 @@
+{
+  "english": "bend",
+  "phat_am": "[bent∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ uốn, chỗ cong; chỗ rẽ",
+          "list_en_vn": [
+            {
+              "full_en": "a bend in the road",
+              "full_vn": "chỗ đường cong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khủyu (tay, chân)"
+        },
+        {
+          "m_full_vn": "(hàng hải) chỗ nối (hai đầu dây); chỗ thắt nút",
+          "list_one_mean": [
+            {
+              "id_full_en": "the bends",
+              "list_im": [
+                {
+                  "im_full_vn": "bệnh khí ép, bệnh thợ lặn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cúi xuống; cong xuống; uốn cong, làm cong",
+          "list_en_vn": [
+            {
+              "full_en": "to bend the knees",
+              "full_vn": "cong đầu gối"
+            },
+            {
+              "full_en": "to be bent with age",
+              "full_vn": "còng lưng vì tuổi gia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rẽ, hướng; hướng về, dồn về",
+          "list_en_vn": [
+            {
+              "full_en": "the road bends to the left here",
+              "full_vn": "ở chỗ này con đường rẽ về tay trái"
+            },
+            {
+              "full_en": "to bend one's steps towards home",
+              "full_vn": "hướng bước về nhà"
+            },
+            {
+              "full_en": "to bend all one's energies to that one aim",
+              "full_vn": "hướng (dồn) tất cả nghị lực cho mục đích duy nhất ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khuất phục, bắt phải theo",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be bent on",
+              "list_im": [
+                {
+                  "im_full_vn": "nhất quyết"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to bend someone to one's will",
+              "full_vn": "bắt ai phải theo ý muốn của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351962_c4a3d31623_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351962_44f5eb940c_o.png",
+      "id_image": "bending_1055057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307806_867883d40e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307806_bb4ab4be4e_o.png",
+      "id_image": "bending_1055085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351912_cba33dcb4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351912_e0bb7dd578_o.png",
+      "id_image": "bending_2450532"
+    }
+  ]
+}

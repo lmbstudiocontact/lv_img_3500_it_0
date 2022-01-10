@@ -1,0 +1,40 @@
+{
+  "english": "aperture",
+  "phat_am": "['æpət∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lỗ hổng, kẽ hở"
+        },
+        {
+          "m_full_vn": "lỗ ống kính (máy ảnh); độ mở",
+          "list_en_vn": [
+            {
+              "full_en": "relative aperture",
+              "full_vn": "độ mở tương đối"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046200_8eda132bda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046200_f3d16ecbce_o.png",
+      "id_image": "aperture_1083130"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664499_351e577d56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664499_645a8e4b26_o.png",
+      "id_image": "aperture_5982565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353487_770ccdb2cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353487_f60aee2b4d_o.png",
+      "id_image": "aperture_964000"
+    }
+  ]
+}

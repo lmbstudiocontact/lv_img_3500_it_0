@@ -1,0 +1,45 @@
+{
+  "english": "amnesty",
+  "phat_am": "['æmnəsti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tha tội (nhất là những tội chống lại Nhà nước); sự ân xá",
+          "list_en_vn": [
+            {
+              "full_en": "an amnesty has been declared",
+              "full_vn": "lệnh ân xá đã được tuyên bố"
+            },
+            {
+              "full_en": "the rebels returned home under a general amnesty",
+              "full_vn": "những người nổi loạn đã trở về nhà do có lệnh tổng ân xá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ân xá",
+          "list_en_vn": [
+            {
+              "full_en": "to amnesty the political prisoners",
+              "full_vn": "ân xá các chính trị phạm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429068_b282cf0f56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429068_5be1f0d381_o.png",
+      "id_image": "amnesty_2061484"
+    }
+  ]
+}

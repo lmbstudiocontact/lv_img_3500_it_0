@@ -1,0 +1,43 @@
+{
+  "english": "cutter",
+  "phat_am": "['kʌtə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người cắt; vật để cắt, máy cắt, máy băm"
+        },
+        {
+          "m_full_vn": "thuyền một cột buồm"
+        },
+        {
+          "m_full_vn": "xuồng ca nô (của một tàu chiến)",
+          "list_en_vn": [
+            {
+              "full_en": "revenue cutter",
+              "full_vn": "tàu hải quan (ở bờ biển chuyên bắt hàng lậu)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667809_d5bb250c0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667809_8c3425b56b_o.png",
+      "id_image": "cutter_1230717"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667794_7154445632_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667794_881906d7b9_o.png",
+      "id_image": "cutter_1845998"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427848_21f1f9ec1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427848_e7431f84a3_o.png",
+      "id_image": "cutter_939543"
+    }
+  ]
+}

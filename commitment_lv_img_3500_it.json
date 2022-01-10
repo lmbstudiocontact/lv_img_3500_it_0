@@ -1,0 +1,65 @@
+{
+  "english": "commitment",
+  "phat_am": "[kə'mitmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( commitment to something ) sự giao phó, đưa hoặc chuyển",
+          "list_en_vn": [
+            {
+              "full_en": "the commitment of orphans to an orphanage",
+              "full_vn": "việc đưa trẻ mồ côi vào trại mồ côi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tống giam; trát tống giam"
+        },
+        {
+          "m_full_vn": "sự chuyển một dự luật cho một tiểu ban nghị viện xem xét"
+        },
+        {
+          "m_full_vn": "( commitment to something / to do something ) lời cam kết",
+          "list_en_vn": [
+            {
+              "full_en": "a commitment to join capital in a company",
+              "full_vn": "lời cam kết góp vốn vào công ty"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tận tụy; sự tận tâm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318651_bb46522fc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318651_e7e7a55b14_o.png",
+      "id_image": "commitment_3317569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055210_757ca578c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055210_94c0acafd3_o.png",
+      "id_image": "commitment_4371081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055185_6bebd1e0b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055185_8f11af09d8_o.png",
+      "id_image": "commitment_4576938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318566_53523eae24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318566_66d327595a_o.png",
+      "id_image": "commitment_4729303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363082_d0d6a10984_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363082_d29f111afe_o.png",
+      "id_image": "commitment_5267623"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "english": "active",
+  "phat_am": "['æktiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tích cực, hoạt động; nhanh nhẹn, linh lợi",
+          "list_en_vn": [
+            {
+              "full_en": "an active volcano",
+              "full_vn": "núi lửa còn hoạt động"
+            },
+            {
+              "full_en": "an active brain",
+              "full_vn": "đầu óc linh lợi"
+            },
+            {
+              "full_en": "to take an active part in the revolutionary movement",
+              "full_vn": "tham gia tích cực phong trào cách mạng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thiết thực, thực sự",
+          "list_en_vn": [
+            {
+              "full_en": "it's no use talking , he wants active help",
+              "full_vn": "nói mồm chẳng có ích gì, anh ấy cần sự giúp đỡ thiết thực cơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) chủ động",
+          "list_en_vn": [
+            {
+              "full_en": "the active voice",
+              "full_vn": "dạng chủ động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) phục vụ suốt ngày trong quân ngũ (nhất là trong chiến tranh); tại ngũ",
+          "list_en_vn": [
+            {
+              "full_en": "to be on active service /duty",
+              "full_vn": "đang tại ngũ"
+            },
+            {
+              "full_en": "to be called up for the active service",
+              "full_vn": "được gọi nhập ngũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) hoạt động; phóng xạ"
+        },
+        {
+          "m_full_vn": "hoạt động, hiệu nghiệm, công hiệu, có hiệu lực",
+          "list_en_vn": [
+            {
+              "full_en": "active valence",
+              "full_vn": "hoá trị hiệu lực"
+            },
+            {
+              "full_en": "active remedies",
+              "full_vn": "những phương thuốc công hiệu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437913_5700559733_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437913_a7216ac457_o.png",
+      "id_image": "active_1827264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367622_52ef0b4e32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367622_534645d83e_o.png",
+      "id_image": "active_2201859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322616_95cf8c63cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322616_1cca3f219d_o.png",
+      "id_image": "active_3590640"
+    }
+  ]
+}

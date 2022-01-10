@@ -1,0 +1,53 @@
+{
+  "english": "container",
+  "phat_am": "[kən'teinə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái đựng, cái chứa (chai, lọ, bình, thành, hộp...)"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) thùng đựng hàng, hộp đựng hàng"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) công-te-nơ",
+          "list_en_vn": [
+            {
+              "full_en": "isotope container",
+              "full_vn": "công-te-nơ đồng vị phóng xạ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307826_4f9efdcfb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307826_691b9a1f12_o.png",
+      "id_image": "container_1580227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351942_0267cb6785_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351942_7abf3f42e9_o.png",
+      "id_image": "container_1738098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351897_efe2c3147f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351897_37ec6448c3_o.png",
+      "id_image": "container_1740635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422913_97bdf20d91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422913_c5fa8e744f_o.png",
+      "id_image": "container_2928758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351992_6172fff15e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351992_685e8b3686_o.png",
+      "id_image": "container_883694"
+    }
+  ]
+}

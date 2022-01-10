@@ -1,0 +1,45 @@
+{
+  "english": "cape",
+  "phat_am": "[keip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "áo choàng không tay"
+        },
+        {
+          "m_full_vn": "mũi đất (nhô ra biển)",
+          "list_en_vn": [
+            {
+              "full_en": "the cape of Good Hope",
+              "full_vn": "mũi Hảo vọng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373797_978ea23595_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373797_0e562e1d2a_o.png",
+      "id_image": "cape_1053042"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065855_2078476896_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065855_220d939fdc_o.png",
+      "id_image": "cape_1352482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443913_b0b8005ff4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443913_82153e4b41_o.png",
+      "id_image": "cape_1403046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328936_fbd0317aac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328936_9ee9c1b424_o.png",
+      "id_image": "cape_3460387"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "english": "choice",
+  "phat_am": "[t∫ɔis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( choice between A and B ) sự lựa chọn giữa hai hoặc nhiều khả năng",
+          "list_en_vn": [
+            {
+              "full_en": "to make a choice",
+              "full_vn": "lựa chọn"
+            },
+            {
+              "full_en": "we are faced with a difficult choice",
+              "full_vn": "chúng tôi đứng trước sự lựa chọn khó khăn"
+            },
+            {
+              "full_en": "what influenced you most in your choice of career ?",
+              "full_vn": "cái gì tác động nhiều nhất đến việc chọn nghề của anh?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyền hoặc khả năng chọn lựa",
+          "list_en_vn": [
+            {
+              "full_en": "he had no choice but to resign",
+              "full_vn": "ông ấy không còn sự lựa chọn nào ngoài việc từ chức (ông ấy không còn cách nào khác hơn là phải từ chức)"
+            },
+            {
+              "full_en": "If I had the choice , I would take the next Saturday off",
+              "full_vn": "Nếu tôi được quyền lựa chọn, tôi sẽ nghỉ ngày thừ bảy tới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người/vật được chọn",
+          "list_en_vn": [
+            {
+              "full_en": "she wouldn't be our choice as chairwoman",
+              "full_vn": "bà ta sẽ không phải là người mà chúng tôi chọn làm chủ tịch"
+            },
+            {
+              "full_en": "I don't like his choice of friends",
+              "full_vn": "Tôi chẳng thích cái kiểu chọn bạn của nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "các thứ để chọn",
+          "list_one_mean": [
+            {
+              "id_full_en": "hobson's choice",
+              "list_im": [
+                {
+                  "im_full_vn": "sự bất đắc dĩ phải chọn (vì không còn cách nào khác hơn)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be spoilt for choice",
+              "list_im": [
+                {
+                  "im_full_vn": "xem spoil"
+                }
+              ]
+            },
+            {
+              "id_full_en": "of one's choice",
+              "list_im": [
+                {
+                  "im_full_vn": "do mình tự chọn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "first prize in the competition will be a hearty meal at the restaurant of the winner's choice",
+                      "full_vn": "giải nhất của cuộc thi là một bữa ăn thịnh soạn tại nhà hàng do người thắng cuộc tự chọn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of /from choice",
+              "list_im": [
+                {
+                  "im_full_vn": "do sự lựa chọn; tự nguyện",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "did you help them from choice or under the orders of the king ?",
+                      "full_vn": "ông tự nguyện giúp họ hay là theo lệnh của nhà vua?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "you pays your money and you takes your choice",
+              "list_im": [
+                {
+                  "im_full_vn": "xem pay"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a large choice of hats",
+              "full_vn": "nhiều mũ để chọn"
+            },
+            {
+              "full_en": "there's not much choice in the shops",
+              "full_vn": "cửa hàng chẳng có nhiều thứ để chọn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nói về rau quả) có chất lượng tốt; ngon"
+        },
+        {
+          "m_full_vn": "có chọn lọc kỹ lưỡng",
+          "list_en_vn": [
+            {
+              "full_en": "he used some pretty choice language !",
+              "full_vn": "ông ấy dùng ngôn ngữ khá chọn lọc!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663664_c114ae59dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663664_11042ef5a1_o.png",
+      "id_image": "choices_5778306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045360_ca5f70881d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045360_8b8cb7fc75_o.png",
+      "id_image": "choices_5998622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352612_0b8d2f56f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352612_253db864a2_o.png",
+      "id_image": "choice_1356586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423668_d67ce7c5ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423668_7a00c1c146_o.png",
+      "id_image": "choice_3899178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423703_252bebab1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423703_af3cc00e51_o.png",
+      "id_image": "choice_751782"
+    }
+  ]
+}

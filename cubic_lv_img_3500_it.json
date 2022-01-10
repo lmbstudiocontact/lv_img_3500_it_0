@@ -1,0 +1,44 @@
+{
+  "english": "cubic",
+  "phat_am": "['kju:bikəl]",
+  "list_type": [
+    {
+      "type": "tính từ + Cách viết khác : ( cubical )",
+      "list_m": [
+        {
+          "m_full_vn": "có hình khối, có hình lập phương",
+          "list_en_vn": [
+            {
+              "full_en": "a cubic meter of water",
+              "full_vn": "một mét khối nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) bậc ba",
+          "list_en_vn": [
+            {
+              "full_en": "cubic equation",
+              "full_vn": "phương trình bậc ba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) đường bậc ba, đường cubic"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431553_67c3b6884b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431553_635c23fae0_o.png",
+      "id_image": "cubic_1533916"
+    }
+  ]
+}

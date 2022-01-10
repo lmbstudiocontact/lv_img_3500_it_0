@@ -1,0 +1,66 @@
+{
+  "english": "bud",
+  "phat_am": "[bʌd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "núm nhỏ nở ra hoa, cành hoặc chùm lá; nụ; chồi; lộc",
+          "list_en_vn": [
+            {
+              "full_en": "buds appear on the trees in spring",
+              "full_vn": "mùa xuân cây cối nở lộc đâm chồi"
+            },
+            {
+              "full_en": "the trees and hedgerows are in bud",
+              "full_vn": "cây cối và hàng rào cây đang đâm chồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoa hoặc lá chưa nở hoàn toàn; hoa mới hé"
+        },
+        {
+          "m_full_vn": "(thông tục) cô gái mới dậy thì",
+          "list_one_mean": [
+            {
+              "id_full_en": "to nip in the bud",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) nip"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nảy chồi; ra nụ; ra lộc"
+        },
+        {
+          "m_full_vn": "hé nở (hoa)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) bắt đầu nảy nở (tài năng...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357472_7b6a85446a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357472_3b1f5fc534_o.png",
+      "id_image": "bud_3442558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313416_5243dd3b88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313416_013dee8f2a_o.png",
+      "id_image": "bud_3486590"
+    }
+  ]
+}

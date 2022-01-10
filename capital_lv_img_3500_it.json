@@ -1,0 +1,163 @@
+{
+  "english": "capital",
+  "phat_am": "['kæpitl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thủ đô; thủ phủ",
+          "list_en_vn": [
+            {
+              "full_en": "Hanoi is the capital of Vietnam",
+              "full_vn": "Hà Nội là thủ đô của Việt Nam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chữ viết hoa (cũng) capital letter",
+          "list_en_vn": [
+            {
+              "full_en": "To write one's name in block capitals",
+              "full_vn": "Viết tên mình bằng chữ in hoa"
+            },
+            {
+              "full_en": "In this sentence , the word RED is in capitals",
+              "full_vn": "Trong câu này, chữ RED viết hoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vốn; tư bản",
+          "list_en_vn": [
+            {
+              "full_en": "Floating /working capital",
+              "full_vn": "Vốn luân chuyển, vốn lưu động"
+            },
+            {
+              "full_en": "Fixed capital",
+              "full_vn": "Tư bản bất biến; vốn cố định"
+            },
+            {
+              "full_en": "Capital expenditure",
+              "full_vn": "Chi phí xây dựng, mua sắm trang thiết bị"
+            },
+            {
+              "full_en": "Capital gain",
+              "full_vn": "Lợi nhuận thu được từ việc bán tài sản"
+            },
+            {
+              "full_en": "Capital goods",
+              "full_vn": "Của cải dùng để tạo ra những của cải khác, tư bản phẩm"
+            },
+            {
+              "full_en": "Capital levy",
+              "full_vn": "Thuế vốn"
+            },
+            {
+              "full_en": "Capital transfer",
+              "full_vn": "Sự chuyển dịch tài sản"
+            },
+            {
+              "full_en": "Capital sum",
+              "full_vn": "Số tiền được thanh toán gộp một lần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kiến trúc) đầu cột",
+          "list_one_mean": [
+            {
+              "id_full_en": "To make capital out of something",
+              "list_im": [
+                {
+                  "im_full_vn": "Kiếm lợi ở...; lợi dụng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "quan hệ đến sinh mạng",
+          "list_en_vn": [
+            {
+              "full_en": "Capital offence",
+              "full_vn": "Tội tử hình"
+            },
+            {
+              "full_en": "Capital punishment",
+              "full_vn": "Hình phạt tước đoạt sinh mạng; án tử hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chính yếu; trên hết",
+          "list_en_vn": [
+            {
+              "full_en": "Capital city",
+              "full_vn": "Thủ đô"
+            },
+            {
+              "full_en": "Of capital importance",
+              "full_vn": "Vô cùng quan trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về chữ) viết hoa",
+          "list_en_vn": [
+            {
+              "full_en": "Paris is spelt with a capital ' P'",
+              "full_vn": "Paris được viết bằng chữ \" P\" hoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuyệt diệu; xuất sắc",
+          "list_en_vn": [
+            {
+              "full_en": "What a capital idea !",
+              "full_vn": "ý kiến mới tuyệt diệu làm sao!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vô cùng tai hại",
+          "list_en_vn": [
+            {
+              "full_en": "A capital error",
+              "full_vn": "Một sự lầm lẫn vô cùng tai hại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443783_bef39af277_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443783_6c89825611_o.png",
+      "id_image": "capital_1622590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328761_e3ab683a7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328761_bd9f5baa69_o.png",
+      "id_image": "capital_1900189"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683804_f391dd1b84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683804_9a8b179e7a_o.png",
+      "id_image": "capital_2590457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443663_e13c99cddf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443663_d4eedbccc2_o.png",
+      "id_image": "capital_4327409"
+    }
+  ]
+}

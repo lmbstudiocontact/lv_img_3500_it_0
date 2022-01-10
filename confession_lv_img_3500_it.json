@@ -1,0 +1,49 @@
+{
+  "english": "confession",
+  "phat_am": "[kən'fe∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thú tội, sự thú nhận",
+          "list_en_vn": [
+            {
+              "full_en": "to make a full confession of one's crimes",
+              "full_vn": "thú nhận toàn bộ tội lỗi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) sự xưng tội",
+          "list_en_vn": [
+            {
+              "full_en": "the priest will hear confessions in French and English",
+              "full_vn": "linh mục sẽ nghe xưng tội bằng tiếng Pháp và tiếng Anh"
+            },
+            {
+              "full_en": "I always go to confession on Fridays",
+              "full_vn": "Tôi luôn luôn đi xưng tội vào những ngày thứ sáu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tuyên bố tín ngưỡng, nguyên tắc tôn giáo của mình...",
+          "list_en_vn": [
+            {
+              "full_en": "a confession of faith",
+              "full_vn": "sự tuyên bố đức tin"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049210_d3e1d4016b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049210_79f08a74db_o.png",
+      "id_image": "confession_4207665"
+    }
+  ]
+}

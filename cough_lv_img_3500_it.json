@@ -1,0 +1,106 @@
+{
+  "english": "cough",
+  "phat_am": "[kɔf]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chứng ho; sự ho; tiếng ho",
+          "list_one_mean": [
+            {
+              "id_full_en": "churchyard cough",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) churchyard"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give a [slight ] cough",
+              "list_im": [
+                {
+                  "im_full_vn": "đằng hắng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have a bad cough",
+              "full_vn": "bị ho nặng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ho",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cough down",
+              "list_im": [
+                {
+                  "im_full_vn": "ho ầm lên để át lời (ai)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to cough the speaker down",
+                      "full_vn": "ho ầm lên để cho diễn giả phải im đi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cough out (up )",
+              "list_im": [
+                {
+                  "im_full_vn": "vừa nói, vừa ho; ho mà khạc ra"
+                },
+                {
+                  "im_full_vn": "(từ lóng) phun ra, nhả ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to cough out (up ) money",
+                      "full_vn": "nhả tiền ra"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443283_693ef0c149_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443283_c14f4fa44e_o.png",
+      "id_image": "cough_2746423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328156_560cb6b0c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328156_fd326f96f5_o.png",
+      "id_image": "cough_2746661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683254_25581bc045_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683254_5862fac739_o.png",
+      "id_image": "cough_2855034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443168_22d56e35ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443168_5ab1b41209_o.png",
+      "id_image": "cough_4171466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683169_a2a9ec55a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683169_ace21bc727_o.png",
+      "id_image": "cough_4310528"
+    }
+  ]
+}

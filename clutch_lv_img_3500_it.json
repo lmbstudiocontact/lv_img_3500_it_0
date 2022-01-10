@@ -1,0 +1,99 @@
+{
+  "english": "clutch",
+  "phat_am": "[klʌt∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ổ trứng ấp"
+        },
+        {
+          "m_full_vn": "ổ gà con"
+        },
+        {
+          "m_full_vn": "sự giật lấy, sự chộp lấy",
+          "list_en_vn": [
+            {
+              "full_en": "to make a clutch at something",
+              "full_vn": "giật lấy cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nắm chặt, sự giữ chặt"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) vuốt, nanh vuốt",
+          "list_en_vn": [
+            {
+              "full_en": "to get into someone's clutches",
+              "full_vn": "mắc vào nanh vuốt ai; mắc vào tay ai"
+            },
+            {
+              "full_en": "to get out of someone's clutches",
+              "full_vn": "thoát khỏi nanh vuốt của ai"
+            },
+            {
+              "full_en": "to be in the clutch of fate",
+              "full_vn": "do số mệnh định đoạt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) khớp; khớp ly hợp",
+          "list_en_vn": [
+            {
+              "full_en": "cone clutch",
+              "full_vn": "khớp ly hợp, côn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giật, chộp, bắt lấy"
+        },
+        {
+          "m_full_vn": "bám chặt, nắm chặt, giữ chặt",
+          "list_one_mean": [
+            {
+              "id_full_en": "a drowning man will clutch at a straw",
+              "list_im": [
+                {
+                  "im_full_vn": "sắp chết đuối thì vớ được cọng rơm cũng bám lấy"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to clutch at something",
+              "full_vn": "nắm chặt cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442938_b1a077ccc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442938_cea42b38f7_o.png",
+      "id_image": "clutch_1336422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372592_95a240b45e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372592_cca658547e_o.png",
+      "id_image": "clutch_1352306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442993_6771db637b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442993_dab5661288_o.png",
+      "id_image": "clutch_659336"
+    }
+  ]
+}

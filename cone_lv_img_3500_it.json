@@ -1,0 +1,75 @@
+{
+  "english": "cone",
+  "phat_am": "[koun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình nón; vật hình nón"
+        },
+        {
+          "m_full_vn": "(thực vật học) nón"
+        },
+        {
+          "m_full_vn": "(động vật học) ốc nón"
+        },
+        {
+          "m_full_vn": "(hàng hải) tín hiệu báo bão (hình nón)"
+        },
+        {
+          "m_full_vn": "( số nhiều) bột áo (bột mịn để xoa bột bánh mì đã nhào)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm thành hình nón",
+          "list_en_vn": [
+            {
+              "full_en": "to be coned",
+              "full_vn": "bị đèn pha chiếu chụm vào; bị đèn pha phát hiện (máy bay)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có hình nón"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667909_56e04c42ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667909_52de9eea7b_o.png",
+      "id_image": "cone_227939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667864_e68d78e22f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667864_a60a6d2313_o.png",
+      "id_image": "cone_232992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049475_cd82a1b99c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049475_d8cd1059c8_o.png",
+      "id_image": "cone_4110511"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427783_32beddde7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427783_dc3d4d7af1_o.png",
+      "id_image": "cone_5784086"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049505_68fc791cbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049505_163050b824_o.png",
+      "id_image": "cone_605581"
+    }
+  ]
+}

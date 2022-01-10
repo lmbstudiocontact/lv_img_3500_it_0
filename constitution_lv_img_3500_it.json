@@ -1,0 +1,78 @@
+{
+  "english": "constitution",
+  "phat_am": "[,kɔnsti'tju:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(pháp lý) hiến pháp",
+          "list_en_vn": [
+            {
+              "full_en": "Britain has an unwritten constitution , and the United States has a written constitution",
+              "full_vn": "Nước Anh có một hiến pháp không thành văn, còn Hoa Kỳ thì có một hiến pháp thành văn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thể tạng, thể chất",
+          "list_en_vn": [
+            {
+              "full_en": "to have a robust /strong constitution",
+              "full_vn": "có thể chất khoẻ"
+            },
+            {
+              "full_en": "to have a delicate /weak constitution",
+              "full_vn": "có thể chất yếu ớt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thiết lập; sự thành lập",
+          "list_en_vn": [
+            {
+              "full_en": "the constitution of a cabinet",
+              "full_vn": "sự thành lập một nội các"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cấu tạo; kết cấu",
+          "list_en_vn": [
+            {
+              "full_en": "the constitution of the solar spectrum",
+              "full_vn": "kết cấu của quang phổ mặt trời"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664679_bb3449303c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664679_4d162c396c_o.png",
+      "id_image": "constitution_1887143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353507_7829aeff54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353507_9964d439f3_o.png",
+      "id_image": "constitution_3571054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309246_29306561b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309246_a5f961ee68_o.png",
+      "id_image": "constitution_4507387"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424398_040188f49d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424398_61ff3668f8_o.png",
+      "id_image": "constitution_4624200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353412_708163a5cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353412_d55175e6d6_o.png",
+      "id_image": "constitution_4934495"
+    }
+  ]
+}

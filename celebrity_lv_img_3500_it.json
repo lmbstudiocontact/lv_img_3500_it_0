@@ -1,0 +1,40 @@
+{
+  "english": "celebrity",
+  "phat_am": "[si'lebriti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nổi danh, sự nổi tiếng, danh tiếng"
+        },
+        {
+          "m_full_vn": "nhân vật có danh tiếng, người nổi danh",
+          "list_en_vn": [
+            {
+              "full_en": "celebrities of stage and screen",
+              "full_vn": "những người nổi tiếng trên sân khấu và màn ảnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432818_cbdc46af05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432818_c9c013368a_o.png",
+      "id_image": "celebrity_1999341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317651_0a31812baf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317651_36c9b3d1a1_o.png",
+      "id_image": "celebrity_2132490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054215_c8a483cec5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054215_cbc5281cf8_o.png",
+      "id_image": "celebrity_879498"
+    }
+  ]
+}

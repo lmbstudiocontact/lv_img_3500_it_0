@@ -1,0 +1,93 @@
+{
+  "english": "backward",
+  "phat_am": "['bækwəd]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "về phía sau, giật lùi"
+        },
+        {
+          "m_full_vn": "chậm tiến, lạc hậu",
+          "list_en_vn": [
+            {
+              "full_en": "a backward country",
+              "full_vn": "nước lạc hậu"
+            },
+            {
+              "full_en": "a backward child",
+              "full_vn": "đứa trẻ chậm tiêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "muộn, chậm trễ",
+          "list_en_vn": [
+            {
+              "full_en": "a backward harvest",
+              "full_vn": "mùa gặt muộn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngần ngại",
+          "list_en_vn": [
+            {
+              "full_en": "to be backward in doing something",
+              "full_vn": "ngần ngại làm việc gì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ ( (cũng) backwards )",
+      "list_m": [
+        {
+          "m_full_vn": "về phía sau, lùi",
+          "list_en_vn": [
+            {
+              "full_en": "to look backward",
+              "full_vn": "nhìn về phía sau; nhìn về quá khứ"
+            },
+            {
+              "full_en": "to walk backward",
+              "full_vn": "đi lùi"
+            },
+            {
+              "full_en": "his work is going backward",
+              "full_vn": "công việc của hắn ta thụt lùi không tiến lên được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngược",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lean over backwards to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "đem hết sức mình làm việc gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to stroke the cat backward",
+              "full_vn": "vuốt ngược lông con mèo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321621_0d3075076d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321621_2e4a940bd3_o.png",
+      "id_image": "backward_6040174"
+    }
+  ]
+}

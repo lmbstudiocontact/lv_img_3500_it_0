@@ -1,0 +1,47 @@
+{
+  "english": "comparative",
+  "phat_am": "[kəm'pærətiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "so sánh",
+          "list_en_vn": [
+            {
+              "full_en": "the comparative method of studying",
+              "full_vn": "phương pháp nghiên cứu so sánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tương đối",
+          "list_en_vn": [
+            {
+              "full_en": "to live in comparative comfort",
+              "full_vn": "sống tương đối sung túc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) cấp so sánh"
+        },
+        {
+          "m_full_vn": "từ ở cấp so sánh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672144_5ce4b5475e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672144_6edc5942d4_o.png",
+      "id_image": "comparative_5835524"
+    }
+  ]
+}

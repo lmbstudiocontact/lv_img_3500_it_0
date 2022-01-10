@@ -1,0 +1,71 @@
+{
+  "english": "clog",
+  "phat_am": "[klɔg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái còng (buộc vào chân ngựa... cho khỏi chạy)"
+        },
+        {
+          "m_full_vn": "sự cản trở; điều trở ngại, vật chướng ngại"
+        },
+        {
+          "m_full_vn": "chiếc guốc",
+          "list_en_vn": [
+            {
+              "full_en": "clog-dance",
+              "full_vn": "điệu nhảy mà người biểu diễn mang guốc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "còng chân (ngựa)"
+        },
+        {
+          "m_full_vn": "cản trở; làm trở ngại"
+        },
+        {
+          "m_full_vn": "bít kín, lấp lại, làm kẹt, làm tắc",
+          "list_en_vn": [
+            {
+              "full_en": "the pipe was clogged with dirt",
+              "full_vn": "ống dẫn bị tắc vì cáu bẩn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị bít lại, bị kẹt, bị tắc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375232_e60a997502_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375232_d73a184307_o.png",
+      "id_image": "clog_5799269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330466_19abc18a99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330466_14c19f5b56_o.png",
+      "id_image": "clog_5955987"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375282_b455ee265c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375282_7fda943425_o.png",
+      "id_image": "clog_805277"
+    }
+  ]
+}

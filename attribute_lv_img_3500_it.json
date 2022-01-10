@@ -1,0 +1,45 @@
+{
+  "english": "attribute",
+  "phat_am": "[ə'tribju:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc tính"
+        },
+        {
+          "m_full_vn": "vật tượng trưng"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) thuộc ngữ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho là do, quy cho",
+          "list_en_vn": [
+            {
+              "full_en": "to attribute one's success to hard work",
+              "full_vn": "cho thành công là do sự cần cù"
+            },
+            {
+              "full_en": "to attribute a crime to somebody",
+              "full_vn": "quy tội cho ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442858_67eab16ab3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442858_6cd1a2017f_o.png",
+      "id_image": "attribute_1441343"
+    }
+  ]
+}

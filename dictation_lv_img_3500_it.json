@@ -1,0 +1,48 @@
+{
+  "english": "dictation",
+  "phat_am": "[dik'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đọc cho viết, sự đọc chính tả",
+          "list_en_vn": [
+            {
+              "full_en": "to give dictation",
+              "full_vn": "đọc chính tả"
+            },
+            {
+              "full_en": "to take dictation",
+              "full_vn": "chép chính tả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bài chính tả"
+        },
+        {
+          "m_full_vn": "sự sai khiến, sự ra lệnh",
+          "list_en_vn": [
+            {
+              "full_en": "to do something at somebody's dictation",
+              "full_vn": "làm việc gì theo sự sai khiến của ai, làm việc gì theo lệnh của ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438248_237bdec0f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438248_419b742c51_o.png",
+      "id_image": "dictation_5365912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323131_27b6194382_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323131_527b0b7133_o.png",
+      "id_image": "dictation_6305563"
+    }
+  ]
+}

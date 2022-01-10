@@ -1,0 +1,30 @@
+{
+  "english": "attractive",
+  "phat_am": "[ə'træktiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hút",
+          "list_en_vn": [
+            {
+              "full_en": "attractive force",
+              "full_vn": "lực hút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thu hút, hấp dẫn, lôi cuốn, quyến rũ; có duyên"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327871_c6bcdd74c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327871_4afabcd227_o.png",
+      "id_image": "attractive_272473"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "borrow",
+  "phat_am": "['bɔrou]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vay, mượn",
+          "list_en_vn": [
+            {
+              "full_en": "to borrow at interest",
+              "full_vn": "vay lãi"
+            },
+            {
+              "full_en": "to borrow a sum of money from sb",
+              "full_vn": "mượn ai một số tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "theo, mượn",
+          "list_en_vn": [
+            {
+              "full_en": "to borrow an idea",
+              "full_vn": "theo ý kiến, mượn ý kiến"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366917_255a696ef7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366917_d1f91482b5_o.png",
+      "id_image": "borrow_2112455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321956_02294dbdba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321956_889c12be18_o.png",
+      "id_image": "borrow_2361932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321911_29388eb55a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321911_82c33f3b1d_o.png",
+      "id_image": "borrow_2417791"
+    }
+  ]
+}

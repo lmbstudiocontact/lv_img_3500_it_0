@@ -1,0 +1,46 @@
+{
+  "english": "anonymous",
+  "phat_am": "[ə'nɔniməs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "giấu tên, ẩn danh, nặc danh",
+          "list_en_vn": [
+            {
+              "full_en": "to remain anonymous",
+              "full_vn": "giấu tên"
+            },
+            {
+              "full_en": "an anonymous letter",
+              "full_vn": "lá thư nặc danh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311011_0df03e9d8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311011_7a77268740_o.png",
+      "id_image": "anonymous_1534082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310981_41d52242d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310981_2fb3b92730_o.png",
+      "id_image": "anonymous_1590041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355072_8c795184a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355072_e475b0153a_o.png",
+      "id_image": "anonymous_1685696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426008_805bd3e63f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426008_f58d00dbc2_o.png",
+      "id_image": "anonymous_892694"
+    }
+  ]
+}

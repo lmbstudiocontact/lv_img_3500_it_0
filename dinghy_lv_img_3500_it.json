@@ -1,0 +1,40 @@
+{
+  "english": "dinghy",
+  "phat_am": "['diηgi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bất cứ loại thuyền nhỏ không mui nào; xuồng",
+          "list_en_vn": [
+            {
+              "full_en": "A sailing dinghy",
+              "full_vn": "Xuồng chạy buồm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuyền cao su bơm hơi (nhất là để cấp cứu hành khách bị tai nạn tàu thủy hoặc máy bay); xuồng hơi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676209_3b7201bfe3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676209_38cbdd6139_o.png",
+      "id_image": "dinghy_2485114"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676239_e2ab889f8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676239_844c4cb92a_o.png",
+      "id_image": "dinghy_305470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057855_11b6310c54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057855_a5c4b49971_o.png",
+      "id_image": "dinghy_4736249"
+    }
+  ]
+}

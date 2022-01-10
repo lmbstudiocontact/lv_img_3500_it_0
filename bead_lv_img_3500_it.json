@@ -1,0 +1,105 @@
+{
+  "english": "bead",
+  "phat_am": "[bi:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hạt hột (của chuỗi hạt)",
+          "list_en_vn": [
+            {
+              "full_en": "a string of beads",
+              "full_vn": "một chuỗi hạt"
+            },
+            {
+              "full_en": "to tell one's beads",
+              "full_vn": "lần tràng hạt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giọt, hạt",
+          "list_en_vn": [
+            {
+              "full_en": "beads of dew",
+              "full_vn": "giọt sương"
+            },
+            {
+              "full_en": "beads of perspiration",
+              "full_vn": "giọt mồ hôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bọt (rượu...)"
+        },
+        {
+          "m_full_vn": "(quân sự) đầu ruồi (súng)"
+        },
+        {
+          "m_full_vn": "(kiến trúc) đường gân nổi hình chuỗi hạt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to draw a bead on",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) nhắm bắn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xâu thành chuỗi"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lấm tấm vài giọt",
+          "list_en_vn": [
+            {
+              "full_en": "the sweat beaded on his brows",
+              "full_vn": "trán nó lấm tấm mồ hôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312146_8f2968db20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312146_380738c72e_o.png",
+      "id_image": "beads_2142829"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356162_2bea1b5b25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356162_e092d8598b_o.png",
+      "id_image": "beads_2458064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426938_6fa0d7a033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426938_9348b2f8fc_o.png",
+      "id_image": "beads_4659102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427018_541c13c37d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427018_1cb7f693d3_o.png",
+      "id_image": "beads_595776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427038_c5d3b1348e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427038_f219cf3419_o.png",
+      "id_image": "bead_2472664"
+    }
+  ]
+}

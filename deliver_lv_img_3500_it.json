@@ -1,0 +1,192 @@
+{
+  "english": "deliver",
+  "phat_am": "[di'livə]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to deliver something to somebody / something ) phân phát; giao",
+          "list_en_vn": [
+            {
+              "full_en": "we deliver (your order ) to your door !",
+              "full_vn": "chúng tôi giao (hàng ông đặt) đến tận cửa nhà ông!"
+            },
+            {
+              "full_en": "a courier delivered the parcels (to our office )",
+              "full_vn": "một người đưa thư đã phát các gói (đến văn phòng của chúng tôi)"
+            },
+            {
+              "full_en": "did you deliver my message to my father ?",
+              "full_vn": "anh giao thư của tôi cho cha tôi chưa?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đọc, phát biểu, giãi bày, bày tỏ",
+          "list_en_vn": [
+            {
+              "full_en": "to deliver a speech",
+              "full_vn": "đọc một bài diễn văn"
+            },
+            {
+              "full_en": "to deliver oneself of an opinion ; to deliver oneself of a judgement",
+              "full_vn": "giãi bày ý kiến; đưa ra lời tuyên án"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giáng, ném, phóng, bắn ra; mở (cuộc tấn công)",
+          "list_en_vn": [
+            {
+              "full_en": "to deliver an assault on the enemy",
+              "full_vn": "mở cuộc tấn công quân địch"
+            },
+            {
+              "full_en": "in cricket , the ball is delivered over arm",
+              "full_vn": "trong môn cricket, quả bóng được ném qua vai"
+            },
+            {
+              "full_en": "the missile is delivered from underground",
+              "full_vn": "tên lửa được phóng đi từ dưới hầm ngầm"
+            },
+            {
+              "full_en": "to deliver a blow to the jaw",
+              "full_vn": "giáng một đòn vào quai hàm"
+            },
+            {
+              "full_en": "the teacher delivered sharp rebuke to the class",
+              "full_vn": "thầy giáo mắng cả lớp một trận gay gắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to deliver somebody from something ) cứu ai ra khỏi cái gì; giải thoát"
+        },
+        {
+          "m_full_vn": "thực hiện (một mức độ thành tựu nào đó)",
+          "list_en_vn": [
+            {
+              "full_en": "the new model delivers speed and fuel economy",
+              "full_vn": "kiểu mới này đạt tốc độ cao và tiết kiệm nhiên liệu"
+            },
+            {
+              "full_en": "if you can't deliver improved sales figures , you're fired",
+              "full_vn": "nếu không đạt được doanh số khá hơn thì anh sẽ bị sa thải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giúp một người mẹ sinh đẻ; đỡ đẻ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be delivered of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "sinh (con); đẻ ( (nghĩa đen) & (nghĩa bóng))",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be delivered of a child",
+                      "full_vn": "sinh một đứa con"
+                    },
+                    {
+                      "full_en": "to be delivered of a poem",
+                      "full_vn": "rặn ra được một bài thơ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to deliver over",
+              "list_im": [
+                {
+                  "im_full_vn": "giao trả, chuyển giao, chuyển nhượng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to deliver over an estate to one's son",
+                      "full_vn": "chuyển nhượng tài sản cho con trai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to deliver up",
+              "list_im": [
+                {
+                  "im_full_vn": "trả lại, giao nộp",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to deliver oneself up",
+                      "full_vn": "đầu hàng"
+                    },
+                    {
+                      "full_en": "to deliver something up to somebody",
+                      "full_vn": "nộp cái gì cho ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come up with the goods ; to deliver the goods",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) thực hiện điều cam kết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to deliver on something",
+              "list_im": [
+                {
+                  "im_full_vn": "đem lại cái gì đã được mong đợi hoặc hứa hẹn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they promise to finish the job in June , but can they deliver (on that )?",
+                      "full_vn": "họ hứa sẽ làm xong công việc vào tháng sáu, nhưng liệu họ có giữ được lời hứa không?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "her baby was delivered by her own doctor",
+              "full_vn": "chính ông bác sĩ riêng của bà ấy đã đỡ đẻ cho bà ấy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071440_7d0673a016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071440_c88c43f20a_o.png",
+      "id_image": "deliver_1783671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449448_4a898198d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449448_d4a32249af_o.png",
+      "id_image": "deliver_3396271"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071530_3c9f21335e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071530_0588912e65_o.png",
+      "id_image": "deliver_384030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689604_d326c8bd64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689604_086fbe0dbd_o.png",
+      "id_image": "deliver_384048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379287_0d95fa9a84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379287_b3b128b2a2_o.png",
+      "id_image": "deliver_4108804"
+    }
+  ]
+}

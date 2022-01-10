@@ -1,0 +1,63 @@
+{
+  "english": "bully",
+  "phat_am": "['buli]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kẻ hay bắt nạt (ở trường học)",
+          "list_en_vn": [
+            {
+              "full_en": "to play the bully",
+              "full_vn": "hách dịch, hay bắt nạt kẻ khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(môn côn cầu) việc hai bên thi đấu đập gậy vào nhau ba lần trước khi giao bóng"
+        },
+        {
+          "m_full_vn": "như bully beef"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(cố sức) ép buộc ai làm cái gì bằng cách hăm doạ người ấy; ức hiếp; bắt nạt",
+          "list_en_vn": [
+            {
+              "full_en": "to bully someone into doing something",
+              "full_vn": "đe doạ ai buộc phải làm gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(môn côn cầu) đập gậy vào nhau ba lần trước khi giao bóng"
+        }
+      ]
+    },
+    {
+      "type": "thán từ"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311116_a9d218c0b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311116_db9a5a2a6b_o.png",
+      "id_image": "bullying_2284974"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355232_3bcdb04580_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355232_5e83c8a838_o.png",
+      "id_image": "bullying_2534566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426013_5d94658b15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426013_d669f17a61_o.png",
+      "id_image": "bullying_3387037"
+    }
+  ]
+}

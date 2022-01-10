@@ -1,0 +1,118 @@
+{
+  "english": "build",
+  "phat_am": "[bilt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xây dựng"
+        },
+        {
+          "m_full_vn": "kiểu kiến trúc"
+        },
+        {
+          "m_full_vn": "khổ người tầm vóc",
+          "list_en_vn": [
+            {
+              "full_en": "man of strong build",
+              "full_vn": "người có tầm vóc khoẻ"
+            },
+            {
+              "full_en": "to be of the same build",
+              "full_vn": "cùng tầm vóc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "(bất qui tắc) động từ built",
+      "list_m": [
+        {
+          "m_full_vn": "xây dựng, xây cất; dựng nên, lập nên, làm nên",
+          "list_one_mean": [
+            {
+              "id_full_en": "to build into",
+              "list_im": [
+                {
+                  "im_full_vn": "xây gắn vào, gắn vào (tường)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to build on (upon )",
+              "list_im": [
+                {
+                  "im_full_vn": "dựa vào, tin cậy vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to build on somebody's promises",
+                      "full_vn": "dựa vào lời hứa của ai"
+                    },
+                    {
+                      "full_en": "I build on you",
+                      "full_vn": "tôi tin cậy vào anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to build up",
+              "list_im": [
+                {
+                  "im_full_vn": "xây lấp đi, xây bít đi, xây kín đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "those doors were build up",
+                      "full_vn": "những cửa ra vào kia bị xây bít lại"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "xây dựng dần dần nên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to build up a reputation",
+                      "full_vn": "xây dựng dần tiếng tăm"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tập họp lại, gom lại, tích lại (những cái cần để làm việc gì)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to build a railway",
+              "full_vn": "xây dựng đường xe lửa"
+            },
+            {
+              "full_en": "to build a new society",
+              "full_vn": "xây dựng một xã hội mới"
+            },
+            {
+              "full_en": "birds build nests",
+              "full_vn": "chim làm tổ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427033_8dc6db01d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427033_fd8232aa04_o.png",
+      "id_image": "build_1732626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048820_be96bd0422_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048820_988c3ef52d_o.png",
+      "id_image": "build_603883"
+    }
+  ]
+}

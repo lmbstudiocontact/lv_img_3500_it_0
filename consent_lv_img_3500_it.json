@@ -1,0 +1,101 @@
+{
+  "english": "consent",
+  "phat_am": "[kən'sent]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đồng ý; sự ưng thuận; sự cho phép",
+          "list_one_mean": [
+            {
+              "id_full_en": "age of consent",
+              "list_im": [
+                {
+                  "im_full_vn": "tuổi kết hôn, tuổi cập kê"
+                }
+              ]
+            },
+            {
+              "id_full_en": "silence gives /implies consent",
+              "list_im": [
+                {
+                  "im_full_vn": "im lặng có nghĩa là đồng ý"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she was chosen as leader by general /common consent",
+              "full_vn": "bà ta được mọi người nhất trí chọn làm lãnh đạo"
+            },
+            {
+              "full_en": "by mutual consent",
+              "full_vn": "do hai bên bằng lòng"
+            },
+            {
+              "full_en": "with one consent",
+              "full_vn": "được toàn thể tán thành"
+            },
+            {
+              "full_en": "her parents refused their consent to the marriage",
+              "full_vn": "cha mẹ cô ta không đồng ý với cuộc hôn nhân đó"
+            },
+            {
+              "full_en": "he gave his consent for the project to get under way",
+              "full_vn": "ông ta đã cho phép dự án đó được triển khai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to consent to something ) bằng lòng; ưng thuận",
+          "list_en_vn": [
+            {
+              "full_en": "to consent to a plan",
+              "full_vn": "tán thành một kế hoạch"
+            },
+            {
+              "full_en": "she made the proposal and I readily consented to it",
+              "full_vn": "cô ta đề nghị và tôi sẵn sàng đồng ý"
+            },
+            {
+              "full_en": "she won't consent to him staying out late /to his staying out late",
+              "full_vn": "cô ấy sẽ không đồng ý cho cô ta đi chơi về muộn"
+            },
+            {
+              "full_en": "they finally consented to go with us",
+              "full_vn": "cuối cùng họ đồng ý đi với chúng tôi"
+            },
+            {
+              "full_en": "sex between consenting adults",
+              "full_vn": "tình dục giữa những người thông dâm thành niên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354707_12e28239ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354707_f3ea7c631b_o.png",
+      "id_image": "consent_1076357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047325_d4d331bd77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047325_cd7ae5e8b7_o.png",
+      "id_image": "consent_2720491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354647_5302ceed25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354647_c079b32a6f_o.png",
+      "id_image": "consent_4412631"
+    }
+  ]
+}

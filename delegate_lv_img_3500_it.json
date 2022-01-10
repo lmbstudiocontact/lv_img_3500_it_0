@@ -1,0 +1,65 @@
+{
+  "english": "delegate",
+  "phat_am": "['deligit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đại biểu, người đại diện"
+        },
+        {
+          "m_full_vn": "người được uỷ nhiệm"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cử làm đại biểu"
+        },
+        {
+          "m_full_vn": "uỷ quyền, uỷ thác, giao phó",
+          "list_en_vn": [
+            {
+              "full_en": "to delegate a person to perform a duty",
+              "full_vn": "uỷ quyền cho ai làm một nhiệm vụ"
+            },
+            {
+              "full_en": "to delegate a task to someone",
+              "full_vn": "giao nhiệm vụ cho ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349772_e129f6c3d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349772_6891a1fd73_o.png",
+      "id_image": "delegate_2473026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661014_af5a7b1bd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661014_d3883124f7_o.png",
+      "id_image": "delegate_2753112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305531_5edae2d93b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305531_26332d3d68_o.png",
+      "id_image": "delegate_3317632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305501_bc1e92a492_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305501_eee9dbc750_o.png",
+      "id_image": "delegate_4176940"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660964_3858e5b5fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660964_edc6e8f6d6_o.png",
+      "id_image": "delegate_4805747"
+    }
+  ]
+}

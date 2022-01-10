@@ -1,0 +1,138 @@
+{
+  "english": "apply",
+  "phat_am": "[ə'plai]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to apply something to something ) đặt hoặc phết cái gì vào cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to apply plaster to the wound",
+              "full_vn": "đắp thuốc vào vết thương"
+            },
+            {
+              "full_en": "to apply ointment sparingly",
+              "full_vn": "bôi thuốc mỡ một cách dè xẻn"
+            },
+            {
+              "full_en": "to apply the glue to both surfaces",
+              "full_vn": "phết hồ dán lên cả hai mặt"
+            },
+            {
+              "full_en": "to apply one's ear to the wall",
+              "full_vn": "áp tai vào tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gây ra (một lực...) để tác động cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to apply the brakes hard",
+              "full_vn": "bóp phanh mạnh; đạp phanh mạnh"
+            },
+            {
+              "full_en": "to apply force , pressure , heat",
+              "full_vn": "gây ra một lực, sức ép, sức nóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ứng dụng, áp dụng",
+          "list_en_vn": [
+            {
+              "full_en": "to apply a new method",
+              "full_vn": "áp dụng một phương pháp mới"
+            },
+            {
+              "full_en": "to apply a law /rule /precept",
+              "full_vn": "áp dụng một đạo luật/quy tắc/lệnh"
+            },
+            {
+              "full_en": "to apply economic sanctions",
+              "full_vn": "áp dụng những chế tài về kinh tế"
+            },
+            {
+              "full_en": "I'd never apply the word \"readable \" to any of his books",
+              "full_vn": "tôi chẳng bao giờ dám dùng hai chữ \"đọc được\" cho bất cứ quyển sách nào của ông ấy"
+            },
+            {
+              "full_en": "the results of this research can be applied to new developments in technology",
+              "full_vn": "kết quả của công trình nghiên cứu này có thể áp dụng cho những phát triển mới về công nghệ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to apply oneself / something to something / doing something ) chăm chú, chuyên tâm",
+          "list_en_vn": [
+            {
+              "full_en": "to apply oneself to a task",
+              "full_vn": "chuyên tâm vào nhiệm vụ; hết lòng hết sức làm nhiệm vụ"
+            },
+            {
+              "full_en": "to apply one's minds to finding a solution",
+              "full_vn": "chuyên tâm vào việc tìm ra một giải pháp"
+            },
+            {
+              "full_en": "you will only pass your exams if you really apply yourself (to your work )",
+              "full_vn": "anh chỉ có thể thi đỗ nếu thật sự chuyên tâm (vào việc học tập của mình)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to apply to somebody for something ) đưa ra một yêu cầu chính thức",
+          "list_en_vn": [
+            {
+              "full_en": "to apply for a post /job /passport /visa",
+              "full_vn": "xin một chức vụ/việc làm/hộ chiếu/thị thực"
+            },
+            {
+              "full_en": "you should apply immediately , in person or by letter",
+              "full_vn": "bạn nên đề nghị ngay, trực tiếp đến hoặc bằng thư"
+            },
+            {
+              "full_en": "to apply to the publishers for permission to reprint an extract",
+              "full_vn": "xin phép nhà xuất bản in lại một đoạn trích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếp xúc với ai để biết tin tức",
+          "list_en_vn": [
+            {
+              "full_en": "you must apply to the secretary",
+              "full_vn": "anh phải hỏi người thư ký"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to apply to somebody / something ) thích hợp với ai/cái gì; có hiệu lực; có hiệu quả",
+          "list_en_vn": [
+            {
+              "full_en": "these rules don't always apply",
+              "full_vn": "những quy tắc này không phải lúc nào cũng ứng dụng được"
+            },
+            {
+              "full_en": "what I've said applies only to some of you",
+              "full_vn": "những điều tôi nói chỉ có hiệu lực đối với một số người trong các anh mà thôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045065_fb282b5342_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045065_9c385ac245_o.png",
+      "id_image": "apply_5221109"
+    }
+  ]
+}

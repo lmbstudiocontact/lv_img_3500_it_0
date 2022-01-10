@@ -1,0 +1,50 @@
+{
+  "english": "customer",
+  "phat_am": "['kʌstəmə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khách hàng"
+        },
+        {
+          "m_full_vn": "(thông tục) gã, anh chàng",
+          "list_en_vn": [
+            {
+              "full_en": "a queer customer",
+              "full_vn": "một gã kỳ quặc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050225_db9cb31984_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050225_fca95bca00_o.png",
+      "id_image": "customer_1312309"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313616_e63409b979_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313616_9ce90ab3a0_o.png",
+      "id_image": "customer_1688401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668464_ab17fd8fd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668464_8099af7c60_o.png",
+      "id_image": "customer_228390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428463_ba18ba4299_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428463_d092fc0982_o.png",
+      "id_image": "customer_2654570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428413_f26547148c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428413_24f40f27e1_o.png",
+      "id_image": "customer_3255388"
+    }
+  ]
+}

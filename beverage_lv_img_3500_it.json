@@ -1,0 +1,47 @@
+{
+  "english": "beverage",
+  "phat_am": "['bevəridʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ uống, thức uống (sữa, trà, rượu, bia)",
+          "list_en_vn": [
+            {
+              "full_en": "International Beverage Company",
+              "full_vn": "Công ty nước giải khát quốc tế"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350772_3e02a3a568_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350772_55517417cc_o.png",
+      "id_image": "beverages_1488166"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306751_aacf1e689e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306751_f7664ae40b_o.png",
+      "id_image": "beverage_1749806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350917_e098fa94b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350917_ca8f507030_o.png",
+      "id_image": "beverage_3778640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421893_c3a695ba97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421893_56871f9d51_o.png",
+      "id_image": "beverage_4358330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350872_63e884fe14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350872_3b0c782701_o.png",
+      "id_image": "beverage_6190582"
+    }
+  ]
+}

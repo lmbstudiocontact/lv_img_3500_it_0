@@ -1,0 +1,108 @@
+{
+  "english": "communicate",
+  "phat_am": "[kə'mju:nikeit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to communicate something to somebody / something ) thông tri cái gì; truyền đạt cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to communicate news",
+              "full_vn": "truyền tin"
+            },
+            {
+              "full_en": "this poem communicates the author's despair",
+              "full_vn": "bài thơ này truyền đạt nỗi tuyệt vọng của tác giả"
+            },
+            {
+              "full_en": "the officer communicates his orders to the men by radio",
+              "full_vn": "viên sĩ quan truyền lệnh cho binh sĩ qua máy truyền tin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "truyền cái gì; chuyển cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to communicate a disease",
+              "full_vn": "truyền bệnh"
+            },
+            {
+              "full_en": "to communicate one's enthusiasm to somebody",
+              "full_vn": "truyền nhiệt tình cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) ban thánh thể (cho ai)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to communicate with somebody ) giao thiệp, liên lạc",
+          "list_en_vn": [
+            {
+              "full_en": "to communicate with somebody on the telephone",
+              "full_vn": "liên lạc với ai bằng dây nói"
+            },
+            {
+              "full_en": "the police communicate (with each other ) by radio",
+              "full_vn": "cảnh sát liên lạc (với nhau) qua máy truyền tin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to communicate with something ) nối với cái gì; thông với cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "my garden communicates with the one next door by means of a gate",
+              "full_vn": "vườn nhà tôi thông với vườn nhà bên cạnh qua một cái cổng"
+            },
+            {
+              "full_en": "the two rooms communicate with each other",
+              "full_vn": "hai buồng thông nhau"
+            },
+            {
+              "full_en": "communicating vessels",
+              "full_vn": "bình thông nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "truyền đạt tư tưởng, tình cảm của mình một cách rõ ràng",
+          "list_en_vn": [
+            {
+              "full_en": "a politician must be able to communicate",
+              "full_vn": "chính khách phải có khả năng truyền đạt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) chịu lễ ban thánh thể"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054880_658fa5b8d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054880_1b5e272199_o.png",
+      "id_image": "communicate_2343544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362772_0cf0b4a9c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362772_e6103295a9_o.png",
+      "id_image": "communicate_2472337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054830_975fe69f36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054830_a62b2d217b_o.png",
+      "id_image": "communicate_4133378"
+    }
+  ]
+}

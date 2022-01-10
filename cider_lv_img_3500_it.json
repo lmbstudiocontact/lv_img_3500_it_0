@@ -1,0 +1,52 @@
+{
+  "english": "cider",
+  "phat_am": "['saidə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rượu táo",
+          "list_one_mean": [
+            {
+              "id_full_en": "more cider and less talk",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) làm nhiều hơn, nói ít đi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "cider-press",
+              "full_vn": "máy ép táo lấy nước cốt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306946_84b020223d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306946_e32e232e40_o.png",
+      "id_image": "cider_2688561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043950_71ef44559c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043950_d6ff34a775_o.png",
+      "id_image": "cider_3751902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422053_f8e4d65f2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422053_0395929b9f_o.png",
+      "id_image": "cider_3823907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422018_755fcbb047_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422018_b506aed816_o.png",
+      "id_image": "cider_6118889"
+    }
+  ]
+}

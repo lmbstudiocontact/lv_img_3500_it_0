@@ -1,0 +1,220 @@
+{
+  "english": "bottom",
+  "phat_am": "['bɔtəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần dưới cùng; đáy",
+          "list_en_vn": [
+            {
+              "full_en": "at the bottom of the street",
+              "full_vn": "ở cuối phố"
+            },
+            {
+              "full_en": "the bottom of a page",
+              "full_vn": "cuối trang"
+            },
+            {
+              "full_en": "the bottom of a glass",
+              "full_vn": "đáy cốc"
+            },
+            {
+              "full_en": "to sink to the bottom",
+              "full_vn": "chìm xuống đáy (biển)"
+            },
+            {
+              "full_en": "from the bottom of one's heart",
+              "full_vn": "tự đáy lòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) bụng tàu"
+        },
+        {
+          "m_full_vn": "mặt (ghế)"
+        },
+        {
+          "m_full_vn": "mông đít",
+          "list_en_vn": [
+            {
+              "full_en": "to kick someone's bottom",
+              "full_vn": "đá đít người nào"
+            },
+            {
+              "full_en": "to fall on one's bottom",
+              "full_vn": "ngã phệt đít xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơ sở; ngọn nguồn",
+          "list_en_vn": [
+            {
+              "full_en": "to get to the bottom of a mystery",
+              "full_vn": "tìm hiểu ngọn nguồn của một điều bí ẩn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản chất",
+          "list_en_vn": [
+            {
+              "full_en": "to be a good man at bottom",
+              "full_vn": "bản chất là người tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sức chịu đựng, sức dai",
+          "list_one_mean": [
+            {
+              "id_full_en": "to knock the bottom out of an argument",
+              "list_im": [
+                {
+                  "im_full_vn": "bẻ gãy một lý lẽ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand on one's own bottom",
+              "list_im": [
+                {
+                  "im_full_vn": "tự lập không nhờ vả ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be at the bottom of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "là nguyên nhân sâu xa của điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the bottom falls out of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "điều gì đã sụp đổ hoàn toàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bottoms up",
+              "list_im": [
+                {
+                  "im_full_vn": "xin mời cạn chén!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from top to bottom",
+              "list_im": [
+                {
+                  "im_full_vn": "từ trên xuống dưới, toàn thể"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as smooth as a baby's bottom",
+              "list_im": [
+                {
+                  "im_full_vn": "rất mịn màng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to touch bottom",
+              "list_im": [
+                {
+                  "im_full_vn": "chạm tới đáy"
+                },
+                {
+                  "im_full_vn": "ở vào hoàn cảnh sa sút tồi tệ, xuống tới bùn đen"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a horse of good bottom",
+              "full_vn": "con ngựa dai sức"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuối, cuối cùng, thấp nhất",
+          "list_en_vn": [
+            {
+              "full_en": "bottom price",
+              "full_vn": "giá thấp nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "căn bản",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bet one's bottom dollar",
+              "list_im": [
+                {
+                  "im_full_vn": "dốc túi đánh cược"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm đáy (thùng, xoong...)"
+        },
+        {
+          "m_full_vn": "đóng mặt (ghế)"
+        },
+        {
+          "m_full_vn": "mò xuống tận đáy; ( (nghĩa bóng)) xem xét kỹ lưỡng (một vấn đề)"
+        },
+        {
+          "m_full_vn": "( bottom upon ) căn cứ vào, dựa trên"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "suy thoái, hạ xuống tới mức thấp nhất (nói về giá cả...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057805_899f6e5826_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057805_9e7665e71f_o.png",
+      "id_image": "bottom_2329812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057775_6e607f9519_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057775_9c8bc0f026_o.png",
+      "id_image": "bottom_3602893"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436288_d83d4a196a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436288_a9eb003ddb_o.png",
+      "id_image": "bottom_979792"
+    }
+  ]
+}

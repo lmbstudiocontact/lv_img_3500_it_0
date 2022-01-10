@@ -1,0 +1,68 @@
+{
+  "english": "diagnostic",
+  "phat_am": "[,daiəg'nɔstik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chẩn đoán",
+          "list_en_vn": [
+            {
+              "full_en": "diagnostic skill ; diagnostic training",
+              "full_vn": "tài chẩn đoán; sự rèn luyện khả năng chẩn đoán"
+            },
+            {
+              "full_en": "symptoms that were of little diagnostic value",
+              "full_vn": "những triệu chứng ít có giá trị cho việc chẩn đoán"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, cũng viết là diagnostics",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) triệu chứng"
+        },
+        {
+          "m_full_vn": "phép chẩn đoán; chẩn đoán học",
+          "list_en_vn": [
+            {
+              "full_en": "X-ray diagnostics",
+              "full_vn": "phép chẩn đoán bằng tia X"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439708_9b2b18fc32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439708_3c98048c16_o.png",
+      "id_image": "diagnostic_1656962"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679799_dc7dc3385a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679799_44e85bda8b_o.png",
+      "id_image": "diagnostic_2631398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061480_84fbdc99e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061480_751f4500d7_o.png",
+      "id_image": "diagnostic_3998071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679714_e2b2fdf58a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679714_cc139fc8b9_o.png",
+      "id_image": "diagnostic_5154792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679874_c1aed5c16a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679874_5f4913b332_o.png",
+      "id_image": "diagnostic_670800"
+    }
+  ]
+}

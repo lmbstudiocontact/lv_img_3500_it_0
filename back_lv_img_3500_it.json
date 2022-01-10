@@ -1,0 +1,578 @@
+{
+  "english": "back",
+  "phat_am": "[bæk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lưng (người, vật)"
+        },
+        {
+          "m_full_vn": "ván lưng, ván ngựa (ghế)"
+        },
+        {
+          "m_full_vn": "đằng sau",
+          "list_en_vn": [
+            {
+              "full_en": "at the back of the house",
+              "full_vn": "ở đằng sau nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt sau, mặt trái; sống (dao); gáy (sách); mu (bàn tay)",
+          "list_en_vn": [
+            {
+              "full_en": "the back of an envelope",
+              "full_vn": "mặt sau cái phong bì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ trong cùng",
+          "list_en_vn": [
+            {
+              "full_en": "at the back of the stage",
+              "full_vn": "ở chỗ trong cùng của sân khấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) hậu vệ",
+          "list_one_mean": [
+            {
+              "id_full_en": "the back of beyond",
+              "list_im": [
+                {
+                  "im_full_vn": "nơi biệt lập, nơi tách biệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "back and belly",
+              "list_im": [
+                {
+                  "im_full_vn": "cái ăn cái mặc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the back of one's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "trong thâm tâm, trong đáy lòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be at the back of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng đằng sau lưng ai; trợ lực cho ai, ủng hộ ai, làm hậu thuẫn cho ai"
+                },
+                {
+                  "im_full_vn": "đuổi theo sát ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be glad to see the back of sb",
+              "list_im": [
+                {
+                  "im_full_vn": "mừng vì khỏi phải gặp lại ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be at the back of something",
+              "list_im": [
+                {
+                  "im_full_vn": "biết được nguyên nhân sâu xa, nắm được bí mật của cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on one's back",
+              "list_im": [
+                {
+                  "im_full_vn": "nằm ngửa"
+                },
+                {
+                  "im_full_vn": "bị thua, bị thất bại, nàm vào hoàn cảnh bất lực"
+                },
+                {
+                  "im_full_vn": "ốm liệt giường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "behind one's back",
+              "list_im": [
+                {
+                  "im_full_vn": "sau lưng ai, lúc vắng mặt ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break somebody's back",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt ai làm việc cật lực"
+                },
+                {
+                  "im_full_vn": "đánh gãy sống lưng ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to crouch one's back before somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "luồn cúi ai, quỵ luỵ ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get (set ) somebody's back up",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai nổi giận, làm cho ai phát cáu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get (put , set ) one's back up",
+              "list_im": [
+                {
+                  "im_full_vn": "nổi giận, phát cáu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get to the back of something",
+              "list_im": [
+                {
+                  "im_full_vn": "hiểu được thực chất của vấn đề gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give (make ) a back",
+              "list_im": [
+                {
+                  "im_full_vn": "cúi xuống (chơi nhảy cừu)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's back into something",
+              "list_im": [
+                {
+                  "im_full_vn": "miệt mài làm việc gì, đem hết nhiệt tình ra làm việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rob one's belly to cover one's back",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) rob"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk through the back of one's neck",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) neck"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn one's back upon somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "quay lưng lại với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with one's back against (to ) the wall",
+              "list_im": [
+                {
+                  "im_full_vn": "lâm vào thế cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there is something at the back of it",
+              "list_im": [
+                {
+                  "im_full_vn": "trong việc này có điều gì uẩn khúc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like water off a duck's back",
+              "list_im": [
+                {
+                  "im_full_vn": "như nước đổ lá môn, như nước đổ đầu vịt, chẳng có tác dụng gì cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to know sth like the back of one's hand",
+              "list_im": [
+                {
+                  "im_full_vn": "biết rõ điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a rod for one's own back",
+              "list_im": [
+                {
+                  "im_full_vn": "gậy ông đập lưng ông"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stab sb in the back",
+              "list_im": [
+                {
+                  "im_full_vn": "đâm sau lưng ai, hãm hại ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a stab in the back",
+              "list_im": [
+                {
+                  "im_full_vn": "cú đâm sau lưng, sự hãm hại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you scratch my back , and I'll scratch yours",
+              "list_im": [
+                {
+                  "im_full_vn": "bánh sáp đi, bánh quy lại; có đi có lại mới toại lòng nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get a pat on the back",
+              "list_im": [
+                {
+                  "im_full_vn": "được khen ngợi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pat sb on the back",
+              "list_im": [
+                {
+                  "im_full_vn": "khen ngợi ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sau; hậu",
+          "list_en_vn": [
+            {
+              "full_en": "back yard",
+              "full_vn": "sân sau"
+            },
+            {
+              "full_en": "back room",
+              "full_vn": "phòng ở phía sau"
+            },
+            {
+              "full_en": "back street",
+              "full_vn": "phố vắng vẻ, phố lẻ"
+            },
+            {
+              "full_en": "to take a back seat",
+              "full_vn": "ngồi ở hàng ghế sau; (nghĩa bóng) nhận một địa vị thấp hèn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "còn chịu lại, còn nợ lại",
+          "list_en_vn": [
+            {
+              "full_en": "back rent",
+              "full_vn": "tiền thuê nhà còn chịu lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để quá hạn, cũ, đã qua"
+        },
+        {
+          "m_full_vn": "ngược, lộn lại, trở lại",
+          "list_one_mean": [
+            {
+              "id_full_en": "by the back door",
+              "list_im": [
+                {
+                  "im_full_vn": "bằng cửa sau, theo phương cách bất chính"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a back current",
+              "full_vn": "dòng nước ngược"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "lùi lại, về phía sau",
+          "list_en_vn": [
+            {
+              "full_en": "keep back !",
+              "full_vn": "lùi lại!"
+            },
+            {
+              "full_en": "to step back a pace",
+              "full_vn": "lùi lại một bước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trước (thời gian)",
+          "list_en_vn": [
+            {
+              "full_en": "some few years back",
+              "full_vn": "vài năm trước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trả lại, trở lại, ngược lại",
+          "list_en_vn": [
+            {
+              "full_en": "to go back",
+              "full_vn": "trở lại, đi về"
+            },
+            {
+              "full_en": "to send back",
+              "full_vn": "gửi trả lại"
+            },
+            {
+              "full_en": "to bow back",
+              "full_vn": "chào đáp lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách, xa",
+          "list_one_mean": [
+            {
+              "id_full_en": "back and forth",
+              "list_im": [
+                {
+                  "im_full_vn": "tới lui",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to pace back and forth",
+                      "full_vn": "đi tới đi lui"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go back on a friend",
+              "list_im": [
+                {
+                  "im_full_vn": "phản bạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go back on one's word",
+              "list_im": [
+                {
+                  "im_full_vn": "không giữ lời hứa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there and back",
+              "list_im": [
+                {
+                  "im_full_vn": "đến đó và trở lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it's 20 km there and back",
+                      "full_vn": "từ đây đến đó vừa đi vừa về hết 20 kilômét"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the house stands back from the road",
+              "full_vn": "ngôi nhà ở xa đường cái"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lùi",
+          "list_en_vn": [
+            {
+              "full_en": "to back a car into the garage",
+              "full_vn": "lùi ôtô vào nhà xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ủng hộ (một kế hoạch...)",
+          "list_en_vn": [
+            {
+              "full_en": "to back someone up",
+              "full_vn": "ủng hộ ai bằng mọi cách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh cá, đánh cuộc (một con ngựa...)",
+          "list_en_vn": [
+            {
+              "full_en": "I backed four horses but won nothing",
+              "full_vn": "tôi đánh cá bốn con ngựa mà chẳng thắng con nào cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đóng gáy (quyển sách)"
+        },
+        {
+          "m_full_vn": "cưỡi (ngựa)"
+        },
+        {
+          "m_full_vn": "cùng ký vào, ký tiếp vào (một văn kiện...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to back the wrong horse",
+              "list_im": [
+                {
+                  "im_full_vn": "ủng hộ người thua, phò suy thay vì phò thịnh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lùi lại"
+        },
+        {
+          "m_full_vn": "nhìn/có cái gì ở phía sau",
+          "list_en_vn": [
+            {
+              "full_en": "our house backs on the river",
+              "full_vn": "nhà chúng tôi quay lưng ra sông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dịu trở lại (gió)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to back down",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ, chùn lại; lùi; thoái lui"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to back out",
+              "list_im": [
+                {
+                  "im_full_vn": "nuốt lời",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to back out of a bargain",
+                      "full_vn": "đã thoả thuận xong xuôi rồi lại nuốt lời"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "lui, rút lui; lẩn trốn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to back out of a duty",
+                      "full_vn": "lẩn trốn trách nhiệm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to back and fill",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) lưỡng lự, do dự"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to back up",
+              "list_im": [
+                {
+                  "im_full_vn": "(tin học) sao dự phòng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059665_77f0c6ed26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059665_e409728034_o.png",
+      "id_image": "back_269076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367777_bc225dacf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367777_f5e536c08f_o.png",
+      "id_image": "back_2926412"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677964_51ee8d8ecb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677964_d5ff15d608_o.png",
+      "id_image": "back_4843948"
+    }
+  ]
+}

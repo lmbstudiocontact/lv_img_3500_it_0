@@ -1,0 +1,44 @@
+{
+  "english": "congress",
+  "phat_am": "['kɔηgres]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc họp chính thức hoặc một loạt các cuộc họp của các đại biểu để bàn luận; đại hội",
+          "list_en_vn": [
+            {
+              "full_en": "peace congress",
+              "full_vn": "đại hội hoà bình"
+            },
+            {
+              "full_en": "medical congress",
+              "full_vn": "đại hội ngành y"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Congress ) cơ quan lập pháp của Hoa Kỳ; quốc hội Hoa Kỳ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666679_b204e6bee3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666679_70a68051f6_o.png",
+      "id_image": "congress_3967513"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666644_4cd1185977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666644_7eb4dac970_o.png",
+      "id_image": "congress_5978938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666589_9582f6efa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666589_2a775e3c79_o.png",
+      "id_image": "congress_5979057"
+    }
+  ]
+}

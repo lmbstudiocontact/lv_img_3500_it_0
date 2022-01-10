@@ -1,0 +1,58 @@
+{
+  "english": "canteen",
+  "phat_am": "[kæn'ti:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "căng-tin",
+          "list_en_vn": [
+            {
+              "full_en": "dry canteen",
+              "full_vn": "căng tin không bán rượu"
+            },
+            {
+              "full_en": "wet canteen",
+              "full_vn": "căng tin có bán rượu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bi-đông (đựng nước)"
+        },
+        {
+          "m_full_vn": "đồ dùng nấu ăn khi đi cắm trại"
+        },
+        {
+          "m_full_vn": "hộp đựng dao dĩa (của lính); hòm đựng bát đĩa dao dĩa"
+        },
+        {
+          "m_full_vn": "ga-men của lính"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684849_98c83010e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684849_549a6e5c43_o.png",
+      "id_image": "canteen_1280467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066695_05c99cd96a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066695_973f7eeaed_o.png",
+      "id_image": "canteen_333589"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374597_a8583cbc86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374597_08c270ea9a_o.png",
+      "id_image": "canteen_434514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066585_4a00284f70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066585_bbf133cf4f_o.png",
+      "id_image": "canteen_4728676"
+    }
+  ]
+}

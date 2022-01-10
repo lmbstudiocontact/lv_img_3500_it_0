@@ -1,0 +1,40 @@
+{
+  "english": "beware",
+  "phat_am": "[bi'weə]",
+  "list_type": [
+    {
+      "type": "động từ (chỉ dùng ở dạng nguyên thể và mệnh lệnh)",
+      "list_m": [
+        {
+          "m_full_vn": "( to beware of somebody / something ) thận trọng đối với ai/cái gì, chú ý đến ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "beware of the dog !",
+              "full_vn": "cẩn thận, có chó đấy!"
+            },
+            {
+              "full_en": "he told us to beware of pickpockets /slippery roads",
+              "full_vn": "anh ta bảo chúng tôi coi chừng (đề phòng) bọn móc túi/đường sá trơn trợt"
+            },
+            {
+              "full_en": "Beware - wet paint !",
+              "full_vn": "Coi chừng - sơn còn ướt!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306611_aae90c2fc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306611_9151b5a97b_o.png",
+      "id_image": "beware_4172769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661969_4099db6271_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661969_ee16f22b84_o.png",
+      "id_image": "beware_5351166"
+    }
+  ]
+}

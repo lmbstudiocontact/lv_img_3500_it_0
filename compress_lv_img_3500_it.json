@@ -1,0 +1,58 @@
+{
+  "english": "compress",
+  "phat_am": "[kəm'pres]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) gạc"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ép, nén; đè",
+          "list_en_vn": [
+            {
+              "full_en": "compressed air",
+              "full_vn": "khí nén"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm cô đọng lại (ý nghĩ, lời nói...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314871_b11738fc02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314871_401fcd8739_o.png",
+      "id_image": "compress_1250196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669489_a3c611d91d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669489_56d1d519c3_o.png",
+      "id_image": "compress_1653101"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358992_edec8ea3cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358992_5214546b2e_o.png",
+      "id_image": "compress_286532"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358907_500b572dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358907_37ce52dc68_o.png",
+      "id_image": "compress_3690072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429663_f01277e6d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429663_dc061b2cac_o.png",
+      "id_image": "compress_4427886"
+    }
+  ]
+}

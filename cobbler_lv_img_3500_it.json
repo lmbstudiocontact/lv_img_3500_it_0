@@ -1,0 +1,53 @@
+{
+  "english": "cobbler",
+  "phat_am": "['kɔblə]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lát (đường...) bằng đá lát, rải đá cuội (lên sân...)"
+        },
+        {
+          "m_full_vn": "vứt lẫn vào nhau"
+        },
+        {
+          "m_full_vn": "vá (giày); vá đụp (quần áo)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thợ chữa giày",
+          "list_en_vn": [
+            {
+              "full_en": "cobbler's wax",
+              "full_vn": "sáp của thợ chữa giày (để xe chỉ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người thợ vụng"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) rượu cốctay seri ( (cũng) sherry cobbler )"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) bánh ga-tô nhân hoa quả"
+        },
+        {
+          "m_full_vn": "( số nhiều) chuyện tầm phào"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681739_8a51d31178_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681739_e1dbff15d4_o.png",
+      "id_image": "cobbler_1065117"
+    }
+  ]
+}

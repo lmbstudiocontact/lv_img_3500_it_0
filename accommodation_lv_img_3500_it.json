@@ -1,0 +1,66 @@
+{
+  "english": "accommodation",
+  "phat_am": "[ə,kɔmə'dei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( accommodation of something to something ) quá trình điều chỉnh, thích nghi",
+          "list_en_vn": [
+            {
+              "full_en": "I arranged the accommodation of my plans to yours",
+              "full_vn": "Tôi điều chỉnh kế hoạch của tôi theo kế hoạch của anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phòng ở; phòng đủ tiện nghi",
+          "list_en_vn": [
+            {
+              "full_en": "to find suitable /cheap /temporary /permanent accommodation",
+              "full_vn": "tìm phòng ở thích hợp/rẻ tiền/tạm thời/thường xuyên"
+            },
+            {
+              "full_en": "hotel accommodation is scarce",
+              "full_vn": "tiện nghi trong khách sạn thiếu"
+            },
+            {
+              "full_en": "wanted accommodation for a young married couple",
+              "full_vn": "cần phòng đủ tiện nghi cho một đôi vợ chồng trẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (từ Mỹ, nghĩa Mỹ) phòng đủ tiện nghi; ở và ăn"
+        },
+        {
+          "m_full_vn": "sự thu xếp thuận tiện; sự thoả hiệp",
+          "list_en_vn": [
+            {
+              "full_en": "the two sides failed to agree on every point but came to an accommodation",
+              "full_vn": "hai bên không đồng ý với nhau về mọi điểm, nhưng cũng đã đi đến một thoả hiệp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370352_f9dde391e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370352_6833667aaa_o.png",
+      "id_image": "accommodation_2569880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440518_79318b5472_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440518_4d10e635d4_o.png",
+      "id_image": "accommodation_5965429"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062220_41335bcde1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062220_8aa042f3e6_o.png",
+      "id_image": "accommodation_6213279"
+    }
+  ]
+}

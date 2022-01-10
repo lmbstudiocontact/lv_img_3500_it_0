@@ -1,0 +1,54 @@
+{
+  "english": "brake",
+  "phat_am": "[breik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái hãm, cái phanh, cái thắng",
+          "list_en_vn": [
+            {
+              "full_en": "to put on /apply the brake",
+              "full_vn": "hãm/đạp phanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự kiềm hãm",
+          "list_en_vn": [
+            {
+              "full_en": "laziness is a brake to progress",
+              "full_vn": "thói lười biếng kiềm hãm sự tiến bộ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hãm lại, thắng lại, phanh lại"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363087_4989b24ce1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363087_07f42f9314_o.png",
+      "id_image": "brakes_662856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363147_5545fd858e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363147_2bbbd87f6c_o.png",
+      "id_image": "brake_1581914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433793_6fe7980bd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433793_7443341c5b_o.png",
+      "id_image": "brake_1870853"
+    }
+  ]
+}

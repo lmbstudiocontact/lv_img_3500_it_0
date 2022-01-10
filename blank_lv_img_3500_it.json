@@ -1,0 +1,179 @@
+{
+  "english": "blank",
+  "phat_am": "[blæηk]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không viết hoặc in; để trống; để trắng (tờ giấy...)",
+          "list_en_vn": [
+            {
+              "full_en": "a blank page",
+              "full_vn": "một trang để trắng"
+            },
+            {
+              "full_en": "a blank cheque",
+              "full_vn": "một tờ séc để trống"
+            },
+            {
+              "full_en": "write on one side of the sheet of paper and leave the other side blank",
+              "full_vn": "viết vào một mặt của tờ giấy, còn mặt kia để trống"
+            },
+            {
+              "full_en": "a blank space",
+              "full_vn": "một quãng trống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về tài liệu...) có những chỗ trống để điền câu trả lời, ký tên vào",
+          "list_en_vn": [
+            {
+              "full_en": "a blank form",
+              "full_vn": "mẫu đơn có chừa chỗ trống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trơ trụi, trống không",
+          "list_en_vn": [
+            {
+              "full_en": "a blank wall",
+              "full_vn": "bức tường trơ trụi (không có cửa sổ, cửa ra vào, tranh ảnh...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không biểu lộ tình cảm, sự hiểu biết hoặc hứng thú; trống rỗng",
+          "list_en_vn": [
+            {
+              "full_en": "a blank existence",
+              "full_vn": "một cuộc đời trống rỗng"
+            },
+            {
+              "full_en": "a blank look",
+              "full_vn": "cái nhìn ngây dại, đờ đẫn"
+            },
+            {
+              "full_en": "her questions drew blank looks all round",
+              "full_vn": "cô ấy hỏi những câu khiến mọi người nhìn nhau ngơ ngác (không ai trả lời được)"
+            },
+            {
+              "full_en": "a blank expression /face /gaze",
+              "full_vn": "một vẻ mặt/gương mặt/cái nhìn đờ đẫn"
+            },
+            {
+              "full_en": "his memory is completely blank on the subject",
+              "full_vn": "về vấn đề đó anh ta không nhớ được tí gì"
+            },
+            {
+              "full_en": "suddenly my mind went blank",
+              "full_vn": "tự nhiên đầu óc tôi mụ đi (không nhớ hoặc không nghĩ ra cái gì chính xác)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn toàn, tuyệt đối",
+          "list_en_vn": [
+            {
+              "full_en": "blank silence",
+              "full_vn": "sự yên lặng hoàn toàn"
+            },
+            {
+              "full_en": "blank despair",
+              "full_vn": "nỗi thất vọng hoàn toàn"
+            },
+            {
+              "full_en": "a blank denial /refusal",
+              "full_vn": "sự phủ nhận/khước từ dứt khoát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không vần (thơ)",
+          "list_en_vn": [
+            {
+              "full_en": "blank verse",
+              "full_vn": "thơ không vần"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ trống, khoảng trống trong tài liệu để viết câu trả lời, ký tên",
+          "list_en_vn": [
+            {
+              "full_en": "to fill in the blanks on the question paper",
+              "full_vn": "điền vào chỗ trống trong giấy in câu hỏi"
+            },
+            {
+              "full_en": "if you can't answer the question , leave a blank",
+              "full_vn": "nếu anh không trả lời được câu hỏi thì hãy để trống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tài liệu in có những chỗ để trống",
+          "list_en_vn": [
+            {
+              "full_en": "I've filled in this form incorrectly . Can I have another blank ?",
+              "full_vn": "Tôi đã điền sai vào mẫu đơn này. Cho tôi tờ khác được không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng không, chỗ trống",
+          "list_en_vn": [
+            {
+              "full_en": "his mind is a complete blank",
+              "full_vn": "đầu óc trí nhớ của anh ta hoàn toàn trống rỗng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như blank cartridge"
+        },
+        {
+          "m_full_vn": "vé xổ số không trúng",
+          "list_en_vn": [
+            {
+              "full_en": "to draw a blank",
+              "full_vn": "không trúng số; ( (nghĩa bóng)) thất bại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phôi tiền (mảnh kim loại để rập thành đồng tiền)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) điểm giữa bia tập bắn; đích"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to blank something out ) làm mờ hoặc tẩy xoá cái gì"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347017_2e5d45127e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347017_65d83758ec_o.png",
+      "id_image": "blank_1827157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039445_2b0aea5940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039445_cafc06472a_o.png",
+      "id_image": "blank_5507302"
+    }
+  ]
+}

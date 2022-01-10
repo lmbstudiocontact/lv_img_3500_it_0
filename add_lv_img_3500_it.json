@@ -1,0 +1,76 @@
+{
+  "english": "add",
+  "phat_am": "[æd]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thêm vào, làm tăng thêm",
+          "list_en_vn": [
+            {
+              "full_en": "add some more hot water to your tea",
+              "full_vn": "cho thêm ít nước nóng nữa vào tách trà của anh"
+            },
+            {
+              "full_en": "music added to our joy",
+              "full_vn": "âm nhạc làm tăng thêm niềm vui của chúng ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói thêm",
+          "list_en_vn": [
+            {
+              "full_en": "he added that",
+              "full_vn": "anh ta nói thêm rằng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + in ) kế vào, tính vào, gộp vào",
+          "list_one_mean": [
+            {
+              "id_full_en": "to add fuel to the fire",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) fire"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to add insult to injury",
+              "list_im": [
+                {
+                  "im_full_vn": "miệng chửi tay đấm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321571_5ec5a2b7d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321571_87e05989fc_o.png",
+      "id_image": "add_1149576"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676639_57df67d801_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676639_6f761321f7_o.png",
+      "id_image": "add_3160910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676599_bc913c6777_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676599_2f60b58c8c_o.png",
+      "id_image": "add_3342619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436673_d673bbe8f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436673_5f966dec6d_o.png",
+      "id_image": "add_4221898"
+    }
+  ]
+}

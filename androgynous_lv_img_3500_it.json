@@ -1,0 +1,35 @@
+{
+  "english": "androgynous",
+  "phat_am": "[æn'drɔdʒinəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có những đặc tính của cả nam lẫn nữ; lưỡng tính; ái nam ái nữ",
+          "list_en_vn": [
+            {
+              "full_en": "pop-stars dressing up in androgynous styles",
+              "full_vn": "các ngôi sao nhạc pop diện quần áo kiểu ái nam ái nữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) (nói về cây) có cả nhị lẫn nhụy trong cùng một bông hoa; lưỡng tính"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312751_c389f2a344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312751_72070609b9_o.png",
+      "id_image": "androgynous_2534560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049300_1a0d9c83a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049300_e802188d93_o.png",
+      "id_image": "androgynous_4177097"
+    }
+  ]
+}

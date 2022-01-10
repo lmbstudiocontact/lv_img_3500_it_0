@@ -1,0 +1,474 @@
+{
+  "english": "bear",
+  "phat_am": "[beə]",
+  "list_type": [
+    {
+      "type": "(bất qui tắc) ngoại động từ ( bore ; borne , born )",
+      "list_m": [
+        {
+          "m_full_vn": "mang, cầm, vác, đội, đeo, ôm",
+          "list_en_vn": [
+            {
+              "full_en": "to bear a message",
+              "full_vn": "mang một bức thư"
+            },
+            {
+              "full_en": "to bear traces of a bombardment",
+              "full_vn": "mang dấu vết một cuộc ném bom"
+            },
+            {
+              "full_en": "the document bears no date",
+              "full_vn": "tài liệu không đề ngày"
+            },
+            {
+              "full_en": "to bear in mind",
+              "full_vn": "ghi nhớ; nhớ không quên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chịu, chịu đựng",
+          "list_en_vn": [
+            {
+              "full_en": "to bear a part of the expenses",
+              "full_vn": "chịu một phần các khoản chi"
+            },
+            {
+              "full_en": "I can't bear that fellow",
+              "full_vn": "tôi không chịu được cái thằng cha ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sinh, sinh sản, sinh lợi",
+          "list_en_vn": [
+            {
+              "full_en": "to bear fruits",
+              "full_vn": "ra quả, sinh quả"
+            },
+            {
+              "full_en": "to bear interest",
+              "full_vn": "sinh lãi, có lãi"
+            },
+            {
+              "full_en": "to bear a child",
+              "full_vn": "sinh con"
+            },
+            {
+              "full_en": "to be born in 1940",
+              "full_vn": "sinh năm 1940"
+            },
+            {
+              "full_en": "to bear oneself",
+              "full_vn": "cư xử, xử sự"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chịu, chịu đựng",
+          "list_en_vn": [
+            {
+              "full_en": "to grin and bear",
+              "full_vn": "cười mà chịu đựng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chống đỡ, đỡ",
+          "list_en_vn": [
+            {
+              "full_en": "this beam can't bear",
+              "full_vn": "cái xà này không chống đỡ nổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có hiệu lực, ăn thua",
+          "list_en_vn": [
+            {
+              "full_en": "this argument did not bear",
+              "full_vn": "lý lẽ đó chẳng ăn thua gì; lý lẽ đó không có hiệu lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rẽ, quay, hướng về",
+          "list_en_vn": [
+            {
+              "full_en": "to bear to the right",
+              "full_vn": "rẽ sang phải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở vào (vị trí nào...)",
+          "list_en_vn": [
+            {
+              "full_en": "this island bears N .E . of the harbour",
+              "full_vn": "đảo đó ở về phía đông bắc hải cảng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sinh, sinh sản, sinh lợi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bear away",
+              "list_im": [
+                {
+                  "im_full_vn": "mang đi, cuốn đi, lôi đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to bear away the prize",
+                      "full_vn": "giật giải, đoạt giải, chiếm giải"
+                    },
+                    {
+                      "full_en": "to be borne away by one's enthusiasm",
+                      "full_vn": "để cho nhiệt tình lôi cuốn đi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đi xa, đi sang hướng khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear down",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh quỵ, hạ gục",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to bear down an enemy",
+                      "full_vn": "đánh quỵ kẻ thù"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear down upon",
+              "list_im": [
+                {
+                  "im_full_vn": "sà xuống, xông vào, chồm tới",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to bear down upon the enemy",
+                      "full_vn": "xông vào kẻ thù"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear in",
+              "list_im": [
+                {
+                  "im_full_vn": "đi về phía",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they were bearing in with the harbour",
+                      "full_vn": "họ đang đi về phía cảng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear off",
+              "list_im": [
+                {
+                  "im_full_vn": "tách ra xa không cho tới gần"
+                },
+                {
+                  "im_full_vn": "mang đi, cuốn đi, lôi đi, đoạt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to bear off the prize",
+                      "full_vn": "đoạt giải, giật giải, chiếm giải"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(hàng hải) rời bến xa thuyền (thuyền, tàu)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear on (upon )",
+              "list_im": [
+                {
+                  "im_full_vn": "có liên quan tới, quy vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "all the evidence bears on the same point",
+                      "full_vn": "tất cả chứng cớ đều quy vào một điểm"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tì mạnh vào, chống mạnh vào; ấn mạnh xuống",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "if you bear too hard on the point of your pencil , it may break",
+                      "full_vn": "nếu anh ấn đầu bút chì, nó có thể gãy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear out",
+              "list_im": [
+                {
+                  "im_full_vn": "xác nhận, xác minh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "statements are borne out by these documents",
+                      "full_vn": "lời tuyên bố đã được những tài liệu này xác minh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear up",
+              "list_im": [
+                {
+                  "im_full_vn": "chống đỡ (vật gì)"
+                },
+                {
+                  "im_full_vn": "ủng hộ (ai)"
+                },
+                {
+                  "im_full_vn": "có nghị lực, không để cho quỵ; không thất vọng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be the man to bear up against misfortunes",
+                      "full_vn": "là người có đủ nghị lực chịu đựng được những nỗi bất hạnh"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(hàng hải) tránh (gió ngược)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to bear up for",
+                      "full_vn": "đổi hướng để tránh gió"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear comparison with",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) comparison"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear a hand",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hand"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear hard upon somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đè nặng lên ai; đè nén ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear a part",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu một phần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear a resemblance to",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) resemblance"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "khoan thứ ai, chịu đựng ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear testimony to",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) testimony"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it is now borne in upon me that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "bây giờ tôi hoàn toàn tin tưởng rằng..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear no reference to sth",
+              "list_im": [
+                {
+                  "im_full_vn": "không liên quan tới cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring pressure to bear on sb",
+              "list_im": [
+                {
+                  "im_full_vn": "gây sức ép đối với ai, dùng áp lực đối với ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "all these pear-trees bear very well",
+              "full_vn": "những cây lê này sinh rất nhiều quả, những cây lê này rất sai quả"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con gấu"
+        },
+        {
+          "m_full_vn": "người thô lỗ, người thô tục"
+        },
+        {
+          "m_full_vn": "(thiên văn học) chòm sao gấu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be a bear for punishment",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu đựng được sự trừng phạt hành hạ, chịu đựng ngoan cường sự trừng phạt hành hạ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sell the bearskin before one has caught the bear",
+              "list_im": [
+                {
+                  "im_full_vn": "bán da gấu trước khi bắt được gấu; chưa đẻ đã đặt tên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as surly (sulky , cross ) as a bear",
+              "list_im": [
+                {
+                  "im_full_vn": "cau có, nhăn nhó, gắt như mắm tôm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a bear by the tooth",
+              "list_im": [
+                {
+                  "im_full_vn": "liều vô ích; tự dấn thân vào chỗ nguy hiểm một cách không cần thiết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a bear garden",
+              "list_im": [
+                {
+                  "im_full_vn": "nơi bát nháo, nơi tạp nhạp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a bear with a sore head",
+              "list_im": [
+                {
+                  "im_full_vn": "cáu kỉnh, gắt gỏng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the Great Bear",
+              "full_vn": "chòm sao Gấu lớn, chòm sao Đại hùng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đầu cơ giá hạ (chứng khoán); sự làm cho sụt giá (chứng khoán)"
+        },
+        {
+          "m_full_vn": "người đầu cơ giá hạ (chứng khoán)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đầu cơ giá hạ (chứng khoán)"
+        },
+        {
+          "m_full_vn": "làm cho sụt giá (chứng khoán)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426453_bc3b575026_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426453_8cae9d5e0a_o.png",
+      "id_image": "bear_2253551"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355682_125be2c4b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355682_818eed5f69_o.png",
+      "id_image": "bear_2267462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311496_e5e07371a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311496_304a18dc08_o.png",
+      "id_image": "bear_5970934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048270_d15f90d33b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048270_6a0ea3e895_o.png",
+      "id_image": "bear_604189"
+    }
+  ]
+}

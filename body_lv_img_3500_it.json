@@ -1,0 +1,217 @@
+{
+  "english": "body",
+  "phat_am": "['bɔdi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cơ thể của người hoặc động vật; thân thể; thể xác",
+          "list_en_vn": [
+            {
+              "full_en": "sound in mind and body",
+              "full_vn": "lành mạnh cả tâm hồn lẫn thể xác"
+            },
+            {
+              "full_en": "children's bodies grow steadily",
+              "full_vn": "cơ thể của trẻ con phát triển đều đặn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xác chết; thi thể",
+          "list_en_vn": [
+            {
+              "full_en": "to find a body in the warehouse",
+              "full_vn": "phát hiện một xác chết trong nhà kho"
+            },
+            {
+              "full_en": "his body will be brought back to his native country for burial",
+              "full_vn": "thi hài ông ta sẽ được đưa về quê hương để chôn cất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần chính yếu của cơ thể con người (không kể đầu và tứ chi); thân mình; người",
+          "list_en_vn": [
+            {
+              "full_en": "he has a strong body , but is very chicken-hearted",
+              "full_vn": "hắn có thân người to khoẻ, nhưng nhát gan lắm"
+            },
+            {
+              "full_en": "the fireman was seriously injured on the face and body",
+              "full_vn": "anh lính chữa cháy bị thương nặng ở mặt và người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần chính yếu; thân (máy, xe, tàu...)",
+          "list_en_vn": [
+            {
+              "full_en": "the body of a plane , ship",
+              "full_vn": "thân máy bay/tàu thủy"
+            },
+            {
+              "full_en": "the body of a palace",
+              "full_vn": "gian chính của cung điện"
+            },
+            {
+              "full_en": "the main body of the book deals with the latest features of that application software",
+              "full_vn": "phần cốt lõi của quyển sách bàn về những tính năng mới nhất của phần mềm ứng dụng ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm; đoàn; đội; ban; hội đồng",
+          "list_en_vn": [
+            {
+              "full_en": "a legislative body",
+              "full_vn": "hội đồng lập pháp"
+            },
+            {
+              "full_en": "a body of parachuters",
+              "full_vn": "một toán lính nhảy dù"
+            },
+            {
+              "full_en": "a body of cavalry",
+              "full_vn": "đội kỵ binh"
+            },
+            {
+              "full_en": "an examining body",
+              "full_vn": "ban chấm thi"
+            },
+            {
+              "full_en": "a government body is present in this city",
+              "full_vn": "một phái đoàn chính phủ đang có mặt ở thành phố này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khối; số lượng lớn",
+          "list_en_vn": [
+            {
+              "full_en": "to have a large body of evidence to prove one's statements",
+              "full_vn": "có nhiều chứng cứ để chứng minh những lời phát biểu của mình"
+            },
+            {
+              "full_en": "large bodies of water",
+              "full_vn": "những khối nước mênh mông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "con người; người",
+          "list_en_vn": [
+            {
+              "full_en": "a nice body",
+              "full_vn": "(thông tục) một người tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật thể",
+          "list_en_vn": [
+            {
+              "full_en": "to get a foreign body in the left ear",
+              "full_vn": "bị dị vật vào tai trái"
+            },
+            {
+              "full_en": "heavenly bodies",
+              "full_vn": "thiên thể"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hương vị (của rượu)",
+          "list_one_mean": [
+            {
+              "id_full_en": "body and soul",
+              "list_im": [
+                {
+                  "im_full_vn": "hết lòng hết dạ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to love somebody body and soul",
+                      "full_vn": "yêu ai hết mình, một mực thương yêu ai"
+                    },
+                    {
+                      "full_en": "to fight body and soul for one's country",
+                      "full_vn": "một lòng một dạ chiến đấu vì tổ quốc. chiến đấu hết mình vì tổ quốc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep body and soul together",
+              "list_im": [
+                {
+                  "im_full_vn": "sống sót; sống cầm chừng; sống qua ngày",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he scarcely has enough money to keep body and soul together",
+                      "full_vn": "ông ta may ra chỉ đủ tiền để sống qua ngày thôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "over my dead body",
+              "list_im": [
+                {
+                  "im_full_vn": "xem dead"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in a body",
+              "list_im": [
+                {
+                  "im_full_vn": "tất cả cùng nhau",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the students marched in a body to the police station",
+                      "full_vn": "tất cả các sinh viên kéo nhau đến bót cảnh sát"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a wine with plenty of body",
+              "full_vn": "rượu đậm đà hương vị"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tạo nên một hình thể cho (cái gì)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326866_777e03f4ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326866_045ef3f916_o.png",
+      "id_image": "body_2375349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681929_1f4086b2d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681929_4a42659eea_o.png",
+      "id_image": "body_2688232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441808_15d239812b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441808_0db68d19e3_o.png",
+      "id_image": "body_4601133"
+    }
+  ]
+}

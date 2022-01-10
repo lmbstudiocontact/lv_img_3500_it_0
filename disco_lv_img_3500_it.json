@@ -1,0 +1,43 @@
+{
+  "english": "disco",
+  "phat_am": "['diskou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "một loại nhạc bắt nguồn từ châu Mỹ, lấy hứng từ nhạc Jazz và nhạc Rock, thích hợp cho việc khiêu vũ; nhạc đít-xcô (cũng) disco music",
+          "list_en_vn": [
+            {
+              "full_en": "disco dancing",
+              "full_vn": "kiểu khiêu vũ dân gian hiện đại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thiết bị âm thanh và ánh sáng phục vụ một cuộc khiêu vũ như vậy"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khiêu vũ theo nhạc đít-cô; nhảy đít-cô"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054485_6fd4bec994_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054485_5da0c1263f_o.png",
+      "id_image": "disco_1060315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317856_3d453d57b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317856_ae05f70178_o.png",
+      "id_image": "disco_4472573"
+    }
+  ]
+}

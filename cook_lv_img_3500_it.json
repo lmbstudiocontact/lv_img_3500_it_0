@@ -1,0 +1,155 @@
+{
+  "english": "cook",
+  "phat_am": "[kuk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người nấu ăn, người làm bếp, cấp dưỡng, anh nuôi",
+          "list_one_mean": [
+            {
+              "id_full_en": "too many cooks spoil the broth",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) quá nhiều người can dự vào một việc thì kết quả chẳng ra làm sao; lắm thầy thối ma; lắm sãi không ai đóng cửa chùa"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "employed as a cook in a hotel",
+              "full_vn": "được thuê làm đầu bếp trong khách sạn"
+            },
+            {
+              "full_en": "I'm not much of a cook",
+              "full_vn": "tôi không phải là tay nấu ăn thạo"
+            },
+            {
+              "full_en": "were you the cook ?",
+              "full_vn": "anh là người nấu (món này) đấy à?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to cook something for somebody ) làm (thức ăn) bằng cách đun nóng (nấu, nướng, quay, rán)",
+          "list_en_vn": [
+            {
+              "full_en": "where did you learn to cook ?",
+              "full_vn": "anh học nấu ăn ở đâu vậy?"
+            },
+            {
+              "full_en": "these potatoes aren't (properly ) cooked",
+              "full_vn": "khoai này nấu chưa kỹ"
+            },
+            {
+              "full_en": "he cooked me my dinner",
+              "full_vn": "anh ấy nấu cơm tối cho tôi"
+            },
+            {
+              "full_en": "I like to cook (Chinese dishes ) for my family",
+              "full_vn": "tôi thích nấu (món ăn Trung Hoa) cho gia đình tôi"
+            },
+            {
+              "full_en": "the vegetables are cooking",
+              "full_vn": "rau đang luộc"
+            },
+            {
+              "full_en": "the meat cooks slowly",
+              "full_vn": "thịt này nấu lâu chín"
+            },
+            {
+              "full_en": "these apples cook well",
+              "full_vn": "táo này nấu ngon"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) giả mạo, gian lận, khai gian (những khoản chi tiêu...)",
+          "list_en_vn": [
+            {
+              "full_en": "to cook an election",
+              "full_vn": "gian lận trong cuộc bầu cử"
+            },
+            {
+              "full_en": "to cook the books",
+              "full_vn": "gian lận sổ sách"
+            },
+            {
+              "full_en": "to cook the accounts , statistics , figures",
+              "full_vn": "giả mạo sổ sách kế toán, thống kê, số liệu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng trong thì tiếp diễn) được sắp đặt; xảy ra do kết quả của một âm mưu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cook off",
+              "list_im": [
+                {
+                  "im_full_vn": "nóng quá bị nổ, nổ vì nóng quá (đun...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cook up",
+              "list_im": [
+                {
+                  "im_full_vn": "bịa ra, tưởng tượng ra, bày đặt ra (câu chuyện...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cook somebody's goose",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) chắc chắn rằng ai sẽ thất bại"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Everybody is being secretive . There's something cooking",
+              "full_vn": "Mọi người có vẻ giấu giấu giếm giếm. Có âm mưu gì đây?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305166_00090639e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305166_52f13a35e3_o.png",
+      "id_image": "cook_2934121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305136_76fc938536_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305136_830350e0ef_o.png",
+      "id_image": "cook_3048325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042075_57cffe3c1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042075_d482c5dba6_o.png",
+      "id_image": "cook_3565307"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349332_5be75d78f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349332_3a68ea8905_o.png",
+      "id_image": "cook_4232369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660649_38fa172f55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660649_08968dd848_o.png",
+      "id_image": "cook_816550"
+    }
+  ]
+}

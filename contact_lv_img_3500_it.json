@@ -1,0 +1,131 @@
+{
+  "english": "contact",
+  "phat_am": "['kɔntækt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trạng thái đụng chạm; sự tiếp xúc",
+          "list_en_vn": [
+            {
+              "full_en": "the two substances are now in contact (with each other ), and a chemical reaction is occurring",
+              "full_vn": "bây giờ hai chất tiếp xúc nhau và một phản ứng hoá học đang xảy ra"
+            },
+            {
+              "full_en": "his hand came into contact with a hot surface",
+              "full_vn": "bà tay anh ta tiếp xúc với một bề mặt nóng"
+            },
+            {
+              "full_en": "the label sticks on contact",
+              "full_vn": "tờ nhãn dính vào khi tiếp xúc"
+            },
+            {
+              "full_en": "our troops came into contact with the enemy",
+              "full_vn": "quân ta đã chạm với quân địch"
+            },
+            {
+              "full_en": "pupils must be in contact with new ideas",
+              "full_vn": "học sinh phải được tiếp xúc với các tư tướng mới"
+            },
+            {
+              "full_en": "point of contact",
+              "full_vn": "điểm tiếp xúc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) tiếp điểm"
+        },
+        {
+          "m_full_vn": "(điện học) sự tiếp xúc; chỗ tiếp xúc (hai dòng điện); cái ngắt điện, cái công-tắc ( (cũng) contact piece )",
+          "list_en_vn": [
+            {
+              "full_en": "a poor contact causes power to fail occasionally",
+              "full_vn": "sự tiếp xúc tồi khiến cho thỉnh thoảng lại mất điện"
+            },
+            {
+              "full_en": "the switches close the contacts and complete the circuit",
+              "full_vn": "nút ấn đóng công-tắc và nối liền mạch điện"
+            },
+            {
+              "full_en": "to make /break contact",
+              "full_vn": "nối/ngắt một mạch điện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giao tiếp; sự giao thiệp; sự gặp gỡ",
+          "list_en_vn": [
+            {
+              "full_en": "they made contact with headquarters by radio",
+              "full_vn": "họ bắt liên lạc được với sở chỉ huy qua rađiô"
+            },
+            {
+              "full_en": "in constant radio /telephone contact with someone",
+              "full_vn": "thường xuyên liên lạc với ai bằng rađiô/điện thoại"
+            },
+            {
+              "full_en": "beyond a certain distance , we are out of contact with our headquarters",
+              "full_vn": "quá một khoảng cách nào đó, chúng ta sẽ không liên lạc được với sở chỉ huy"
+            },
+            {
+              "full_en": "she's lost contact with her son",
+              "full_vn": "bà ấy đã mất liên lạc với con trai"
+            },
+            {
+              "full_en": "two people avoiding eye contact",
+              "full_vn": "hai người tránh nhìn nhau"
+            },
+            {
+              "full_en": "extensive contacts with firms abroad",
+              "full_vn": "những sự tiếp xúc rộng rãi với các hãng nước ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người mà mình đã gặp hoặc sẽ gặp; đầu mối liên lạc",
+          "list_en_vn": [
+            {
+              "full_en": "I've a useful contact in New York",
+              "full_vn": "tôi có một chỗ (người) liên hệ có thể giúp đỡ ở New York"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) người có thể truyền bệnh (vì đã tiếp xúc với người bệnh)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gặp được ai, đạt được cái gì bằng điện thoại, ra-đi-ô, thư từ; liên lạc với ai"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308301_38e181b122_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308301_c9c1a8ae03_o.png",
+      "id_image": "contact_1418570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308286_7300f06919_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308286_1de35616fc_o.png",
+      "id_image": "contact_1455096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308211_ee1e9dc50c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308211_8e83283be1_o.png",
+      "id_image": "contact_1871100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045150_5c656c504a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045150_5f1a9ed084_o.png",
+      "id_image": "contact_3130709"
+    }
+  ]
+}

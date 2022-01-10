@@ -1,0 +1,131 @@
+{
+  "english": "camp",
+  "phat_am": "[kæmp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nơi những người đi nghỉ ở tạm trong lều hoặc lán; trại; chỗ cắm trại",
+          "list_en_vn": [
+            {
+              "full_en": "a holiday camp",
+              "full_vn": "trại hè"
+            },
+            {
+              "full_en": "to leave /return to camp",
+              "full_vn": "rời/trở về trại"
+            },
+            {
+              "full_en": "to pitch a camp near a hot spring",
+              "full_vn": "cắm trại (dựng trại) gần một suối nước nóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trại dành cho tù nhân hoặc người tị nạn...",
+          "list_en_vn": [
+            {
+              "full_en": "a prison camp",
+              "full_vn": "trại giam"
+            },
+            {
+              "full_en": "a concentration camp",
+              "full_vn": "trại tập trung"
+            },
+            {
+              "full_en": "a transit camp",
+              "full_vn": "trại chuyển tiếp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trại lính; doanh trại",
+          "list_en_vn": [
+            {
+              "full_en": "an army camp",
+              "full_vn": "doanh trại quân đội, trại lính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chính trị) phe; phái",
+          "list_en_vn": [
+            {
+              "full_en": "to belong to different political camps",
+              "full_vn": "thuộc các phái chính trị khác nhau"
+            },
+            {
+              "full_en": "the socialist camp",
+              "full_vn": "phe xã hội chủ nghĩa"
+            },
+            {
+              "full_en": "in the same camp",
+              "full_vn": "cùng một phe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) lều nhỏ (trong rừng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to carry the war into the enemy's camp",
+              "list_im": [
+                {
+                  "im_full_vn": "xem carry"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a foot in both camps",
+              "list_im": [
+                {
+                  "im_full_vn": "xem foot"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike camp",
+              "list_im": [
+                {
+                  "im_full_vn": "dỡ trại"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng trại; cắm trại; hạ trại",
+          "list_en_vn": [
+            {
+              "full_en": "to go camping",
+              "full_vn": "đi cắm trại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041615_59defa4e42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041615_3fe2c0b142_o.png",
+      "id_image": "camp_1719887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304711_9461656783_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304711_8abca38aa8_o.png",
+      "id_image": "camp_1879696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041550_c938319394_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041550_1202ae810d_o.png",
+      "id_image": "camp_2688330"
+    }
+  ]
+}

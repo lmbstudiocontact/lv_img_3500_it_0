@@ -1,0 +1,100 @@
+{
+  "english": "crime",
+  "phat_am": "[kraim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vi phạm có thể bị pháp luật trừng trị; tội; tội ác",
+          "list_en_vn": [
+            {
+              "full_en": "to commit a serious crime",
+              "full_vn": "phạm một trọng tội, phạm tội nghiêm trọng"
+            },
+            {
+              "full_en": "minor crime",
+              "full_vn": "tội nhẹ; khinh tội"
+            },
+            {
+              "full_en": "convicted of crimes against humanity",
+              "full_vn": "bị kết tội chống loài người"
+            },
+            {
+              "full_en": "war crime",
+              "full_vn": "tội ác chiến tranh"
+            },
+            {
+              "full_en": "crime and punishment",
+              "full_vn": "tội ác và hình phạt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tội phạm",
+          "list_en_vn": [
+            {
+              "full_en": "crime prevention",
+              "full_vn": "sự ngăn ngừa tội phạm"
+            },
+            {
+              "full_en": "crime rates",
+              "full_vn": "tỉ lệ tội phạm"
+            },
+            {
+              "full_en": "an increase in crime",
+              "full_vn": "sự gia tăng tội phạm"
+            },
+            {
+              "full_en": "the police prevent and detect crime",
+              "full_vn": "cảnh sát ngăn ngừa và phát hiện tội phạm"
+            },
+            {
+              "full_en": "he took to a life of crime",
+              "full_vn": "hắn đi theo con đường tội phạm"
+            },
+            {
+              "full_en": "crime novel",
+              "full_vn": "tiểu thuyết viết về tội phạm; tiểu thuyết hình sự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hành động ngu xuẩn; hành động vô đạo đức",
+          "list_en_vn": [
+            {
+              "full_en": "it's a crime to waste money like that",
+              "full_vn": "lãng phí tiền như vậy quả là ngu ngốc"
+            },
+            {
+              "full_en": "it's a crime the way he bullies his children",
+              "full_vn": "cách ông ta hành hạ con cái như vậy thật là vô đạo đức"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435508_6b3a3665d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435508_e2cbef3571_o.png",
+      "id_image": "crime_2495671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365237_336e8f2179_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365237_14d68e903a_o.png",
+      "id_image": "crime_3839555"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320296_8f1d179270_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320296_b643cf3b94_o.png",
+      "id_image": "crime_4201303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435388_3be786a4ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435388_477641cfe0_o.png",
+      "id_image": "crime_5318855"
+    }
+  ]
+}

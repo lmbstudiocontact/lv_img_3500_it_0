@@ -1,0 +1,78 @@
+{
+  "english": "bloom",
+  "phat_am": "[blu:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoa"
+        },
+        {
+          "m_full_vn": "sự ra hoa",
+          "list_en_vn": [
+            {
+              "full_en": "in bloom",
+              "full_vn": "đang ra hoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tuổi thanh xuân; thời kỳ rực rỡ, thời kỳ tươi đẹp nhất",
+          "list_en_vn": [
+            {
+              "full_en": "in the full bloom of youth",
+              "full_vn": "trong lúc tuổi thanh xuân tươi đẹp nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phấn (ở vỏ quả)"
+        },
+        {
+          "m_full_vn": "sắc hồng hào khoẻ mạnh; vẻ tươi",
+          "list_en_vn": [
+            {
+              "full_en": "to take the bloom off",
+              "full_vn": "làm mất tươi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có hoa, ra hoa, nở hoa"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ở thời kỳ rực rỡ, ở thời kỳ tươi đẹp nhất"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) thỏi đúc (sắt thép)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) đúc (sắt thép) thành thỏi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683909_96b9931efa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683909_840094e11a_o.png",
+      "id_image": "bloom_1749794"
+    }
+  ]
+}

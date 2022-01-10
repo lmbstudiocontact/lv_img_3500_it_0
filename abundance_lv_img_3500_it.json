@@ -1,0 +1,40 @@
+{
+  "english": "abundance",
+  "phat_am": "[ə'bʌndəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhiều, sự giàu có, sự phong phú, sự dư dật",
+          "list_en_vn": [
+            {
+              "full_en": "there was good food in abundance at the party; there was an abundance of good food at the party",
+              "full_vn": "tại buổi liên hoan, thức ăn ngon ê hề"
+            },
+            {
+              "full_en": "to live in abundance",
+              "full_vn": "sống dư dật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự dạt dào (tình cảm, cảm xúc)",
+          "list_en_vn": [
+            {
+              "full_en": "abundance of the heart",
+              "full_vn": "sự dạt dào tình cảm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441903_32d7e8da19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441903_282a901775_o.png",
+      "id_image": "abundance_2191427"
+    }
+  ]
+}

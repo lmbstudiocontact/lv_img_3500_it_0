@@ -1,0 +1,89 @@
+{
+  "english": "demand",
+  "phat_am": "[di'mɑ:nd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đòi hỏi, sự yêu cầu; nhu cầu",
+          "list_en_vn": [
+            {
+              "full_en": "demand bill",
+              "full_vn": "giấy yêu cầu thanh toán nợ"
+            },
+            {
+              "full_en": "on demand",
+              "full_vn": "khi yêu cầu, theo yêu cầu"
+            },
+            {
+              "full_en": "in great demand",
+              "full_vn": "được nhiều người yêu cầu, được nhiều người chuộng"
+            },
+            {
+              "full_en": "law of supply and demand",
+              "full_vn": "luật cung cầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) những sự đòi hỏi cấp bách (đối với thì giờ, túi tiền... của ai)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đòi hỏi, yêu cầu; cần, cần phải",
+          "list_en_vn": [
+            {
+              "full_en": "this problem demands careful treatment",
+              "full_vn": "vấn đề này đòi hỏi phải giải quyết thận trọng"
+            },
+            {
+              "full_en": "this letter demands an immediate reply",
+              "full_vn": "lá thư này cần phải trả lời ngay tức khắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hỏi, hỏi gặng",
+          "list_en_vn": [
+            {
+              "full_en": "he demanded my business",
+              "full_vn": "anh ta gặng hỏi tôi cần những gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334001_84cfbec075_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334001_6d7597b5bd_o.png",
+      "id_image": "demand_1888488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449018_05f71a06ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449018_8ea3fb1f23_o.png",
+      "id_image": "demand_3382611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070960_89c913daa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070960_39151ffef5_o.png",
+      "id_image": "demand_4497181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333881_4f0844f5d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333881_b46ef2522e_o.png",
+      "id_image": "demand_5823815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689139_85aab2e0fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689139_14395e2038_o.png",
+      "id_image": "demand_992826"
+    }
+  ]
+}

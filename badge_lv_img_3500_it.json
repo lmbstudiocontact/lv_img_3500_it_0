@@ -1,0 +1,45 @@
+{
+  "english": "badge",
+  "phat_am": "[bædʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật đeo (thông (thường) là một hoạ tiết trên vải hoặc làm bằng kim loại) để cho biết nghề nghiệp, cấp bậc, tính cách thành viên trong một tổ chức.... của người đeo; huy hiệu"
+        },
+        {
+          "m_full_vn": "biểu hiện, vật tượng trưng; dấu hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "chains are a badge of slavery",
+              "full_vn": "xiềng xích là biểu hiện của sự nô lệ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320911_6e4c1996db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320911_062617704f_o.png",
+      "id_image": "badge_1133817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675944_e37fda8b30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675944_30b6817621_o.png",
+      "id_image": "badge_1133820"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320951_ac0c3f12a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320951_e137966d52_o.png",
+      "id_image": "badge_224707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365892_1aef65d0da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365892_217158dc35_o.png",
+      "id_image": "badge_412817"
+    }
+  ]
+}

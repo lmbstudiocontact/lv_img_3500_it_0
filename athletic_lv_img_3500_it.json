@@ -1,0 +1,45 @@
+{
+  "english": "athletic",
+  "phat_am": "[æθ'letik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có tính chất lực sĩ, lực lưỡng, khoẻ mạnh"
+        },
+        {
+          "m_full_vn": "(thuộc) điền kinh; (thuộc) thể thao",
+          "list_en_vn": [
+            {
+              "full_en": "athletic sports",
+              "full_vn": "điền kinh; cuộc thi điền kinh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810038820_20cb0ebbb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810038820_6c138e7b41_o.png",
+      "id_image": "athlete_1112630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810038815_c530585c12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810038815_7d249b3947_o.png",
+      "id_image": "athlete_2825238"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808345947_e655e8b824_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808345947_f678e0d512_o.png",
+      "id_image": "athlete_6213214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808345942_abd765958c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808345942_30bc56343e_o.png",
+      "id_image": "athletic_5252646"
+    }
+  ]
+}

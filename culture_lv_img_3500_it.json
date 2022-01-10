@@ -1,0 +1,87 @@
+{
+  "english": "culture",
+  "phat_am": "['kʌlt∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự mở mang, sự tu dưỡng, sự trau giồi",
+          "list_en_vn": [
+            {
+              "full_en": "the culture of the mind",
+              "full_vn": "sự mở mang trí tuệ"
+            },
+            {
+              "full_en": "physical culture",
+              "full_vn": "thể dục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giáo dục, sự giáo hoá"
+        },
+        {
+          "m_full_vn": "văn hoá, văn minh"
+        },
+        {
+          "m_full_vn": "sự trồng trọt"
+        },
+        {
+          "m_full_vn": "sự nuôi (tằm, ong, cá, sò...)"
+        },
+        {
+          "m_full_vn": "sự cấy (vi khuẩn); số lượng vi khuẩn cấy; mẻ cấy vi khuẩn",
+          "list_en_vn": [
+            {
+              "full_en": "the culture of cholera germs",
+              "full_vn": "sự cấy vi trùng bệnh tả; mẻ cấy vi trùng bệnh tả"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cày cấy, trồng trọt"
+        },
+        {
+          "m_full_vn": "nuôi (tằm, ong...)"
+        },
+        {
+          "m_full_vn": "cấy (vi khuẩn)"
+        },
+        {
+          "m_full_vn": "tu dưỡng, trau dồi"
+        },
+        {
+          "m_full_vn": "giáo hoá, mở mang"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360277_a4a7c55f9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360277_12e88cb438_o.png",
+      "id_image": "culture_3053696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052465_f2af9b7e4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052465_0f0b611392_o.png",
+      "id_image": "culture_4412701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315991_5d1275a7e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315991_ea8dd143b8_o.png",
+      "id_image": "culture_5381457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052400_9b60433763_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052400_05e3afb3ea_o.png",
+      "id_image": "culture_6213247"
+    }
+  ]
+}

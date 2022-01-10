@@ -1,0 +1,44 @@
+{
+  "english": "cavity",
+  "phat_am": "['kæviti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lỗ hổng"
+        },
+        {
+          "m_full_vn": "(giải phẫu) hố hốc, ổ, khoang",
+          "list_en_vn": [
+            {
+              "full_en": "nasal cavity",
+              "full_vn": "khoang mũi"
+            },
+            {
+              "full_en": "cavity wall",
+              "full_vn": "tường hai vách và có khoảng trống giữa hai vách"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362727_e1a0fbba39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362727_92743e0802_o.png",
+      "id_image": "cavities_1338982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318146_61a6ae6fa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318146_d742e3c628_o.png",
+      "id_image": "cavities_2681995"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054740_1c4fe1913d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054740_b6a9027df8_o.png",
+      "id_image": "cavity_3360481"
+    }
+  ]
+}

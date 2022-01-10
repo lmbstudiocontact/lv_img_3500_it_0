@@ -1,0 +1,108 @@
+{
+  "english": "connect",
+  "phat_am": "[kə'nekt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to connect something up to / with something ) nối; kết nối",
+          "list_en_vn": [
+            {
+              "full_en": "the wires connect (up ) under the floor",
+              "full_vn": "các dây điện nối với nhau bên dưới sàn nhà"
+            },
+            {
+              "full_en": "where does the cooker connect with the gas-pipe ?",
+              "full_vn": "cái bếp đó nối với ống dẫn hơi đốt ở chỗ nào?"
+            },
+            {
+              "full_en": "the thigh bone is connected to the hip bone",
+              "full_vn": "xương đùi được nối với xương hông"
+            },
+            {
+              "full_en": "all those rooms have connecting doors",
+              "full_vn": "tất cả các phòng đó đều có cửa thông nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to connect somebody with somebody / something ) liên kết; giao kết",
+          "list_en_vn": [
+            {
+              "full_en": "a politician connected with drug traffickers",
+              "full_vn": "một chính khách có quan hệ với những kẻ buôn ma túy"
+            },
+            {
+              "full_en": "those two women are connected by marriage",
+              "full_vn": "hai bà đó có quan hệ thông gia với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to connect somebody / something with somebody / something ) nghĩ về những người hoặc vật khác nhau trong mối quan hệ với nhau; liên tưởng; liên kết",
+          "list_en_vn": [
+            {
+              "full_en": "people usually connect New York with world-famous skyscrapers",
+              "full_vn": "người ta thường liên tưởng New York với những toà nhà chọc trời nổi tiếng thế giới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to connect somebody with somebody ) nối máy điện thoại của ai với máy điện thoại của ai (để hai người ở hai đầu dây nói chuyện với nhau)",
+          "list_en_vn": [
+            {
+              "full_en": "Hold on , I'll just connect you (with your customer )",
+              "full_vn": "Xin hãy giữ máy, tôi sẽ nối máy cho anh (với khách hàng của anh)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to connect with something ) (nói về xe lửa, máy bay...) đã định sẵn giờ đến để hành khách có thể đi tiếp bằng cách chuyển sang một chiếc xe lửa hoặc máy bay khác; nối tiếp; chuyển tiếp",
+          "list_en_vn": [
+            {
+              "full_en": "the two trains connect at Y",
+              "full_vn": "hai chuyến xe lửa chuyển tiếp nhau ở ga Y"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to connect with somebody / something ) (nói về một cú đánh...) trúng hoặc chạm vào",
+          "list_en_vn": [
+            {
+              "full_en": "a wild punch which failed to connect with his nose",
+              "full_vn": "một cú đấm hiểm, nhưng không trúng mũi anh ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311546_cdc02d094a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311546_16acc893ee_o.png",
+      "id_image": "connect_1373172"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355677_5dd540d25f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355677_600426755c_o.png",
+      "id_image": "connect_2313469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426398_1a7472849d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426398_e9025efe1e_o.png",
+      "id_image": "connect_3103354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311446_9165f5633b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311446_24ecda0fb2_o.png",
+      "id_image": "connect_4542100"
+    }
+  ]
+}

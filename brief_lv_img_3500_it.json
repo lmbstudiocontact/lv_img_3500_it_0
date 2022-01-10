@@ -1,0 +1,98 @@
+{
+  "english": "brief",
+  "phat_am": "[bri:f]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngắn, vắn tắt, gọn",
+          "list_en_vn": [
+            {
+              "full_en": "a brief note",
+              "full_vn": "lời ghi chú vắn tắt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bản tóm tắt, bản toát yếu"
+        },
+        {
+          "m_full_vn": "(pháp lý) bản tóm tắt hồ sơ của luật sư bào chữa (một vụ kiện); ( (nghĩa rộng)) việc kiện, việc tố tụng",
+          "list_en_vn": [
+            {
+              "full_en": "to hold a brief for someone",
+              "full_vn": "biện hộ cho ai, cãi cho ai (luật sư)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời chỉ dẫn cho phi công (trước khi đi oanh tạc)"
+        },
+        {
+          "m_full_vn": "(tôn giáo) chiếu thư (của giáo hoàng)"
+        },
+        {
+          "m_full_vn": "( số nhiều) quần đùi hoặc quần lót bó sát",
+          "list_one_mean": [
+            {
+              "id_full_en": "in brief",
+              "list_im": [
+                {
+                  "im_full_vn": "tóm lại"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tóm tắt lại"
+        },
+        {
+          "m_full_vn": "lập hồ sơ (một vụ kiện)"
+        },
+        {
+          "m_full_vn": "giao cho luật sư để biện hộ"
+        },
+        {
+          "m_full_vn": "chỉ dẫn cho phi công (trước khi đi oanh tạc)"
+        },
+        {
+          "m_full_vn": "chỉ dẫn tường tận"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670744_94c971b7d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670744_3978b6a070_o.png",
+      "id_image": "briefing_1265879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360302_6019c4b25e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360302_9775272d66_o.png",
+      "id_image": "briefing_1999235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360232_449651e72a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360232_6a74b0a7ff_o.png",
+      "id_image": "briefing_3050479"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360207_24f30ef3c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360207_9e26da99c4_o.png",
+      "id_image": "briefing_4213340"
+    }
+  ]
+}

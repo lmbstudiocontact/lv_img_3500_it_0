@@ -1,0 +1,40 @@
+{
+  "english": "abacus",
+  "phat_am": "['æbəkəs]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều abaci , abacuses",
+      "list_m": [
+        {
+          "m_full_vn": "bàn tính",
+          "list_en_vn": [
+            {
+              "full_en": "to move counters of an abacus ; to work an abacus",
+              "full_vn": "tính bằng bàn tính, gảy bàn tính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kiến trúc) đầu cột, đỉnh cột"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683159_aa4cd0c27e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683159_1dda0ef3bc_o.png",
+      "id_image": "abacus_170577"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683109_783dedf343_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683109_7df9cd0f80_o.png",
+      "id_image": "abacus_170578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328011_b64514e4d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328011_ea993bf3bd_o.png",
+      "id_image": "abacus_546679"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "delicious",
+  "phat_am": "[di'li∫əs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đem lại sự thích thú cho vị giác và khưu giác; thơm tho, ngon ngọt",
+          "list_en_vn": [
+            {
+              "full_en": "a delicious meal , cake , flavour",
+              "full_vn": "bữa ăn ngon, bánh ga tô thơm ngon, hương vị thơm tho"
+            },
+            {
+              "full_en": "it smells delicious !",
+              "full_vn": "mùi thơm quá!"
+            },
+            {
+              "full_en": "what a delicious joke !",
+              "full_vn": "một chuyện đùa thú vị làm sao!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042370_bba3de0b4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042370_d75ebc0c66_o.png",
+      "id_image": "delicious_2965079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305416_c838eac5cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305416_622a42d2c4_o.png",
+      "id_image": "delicious_3508661"
+    }
+  ]
+}

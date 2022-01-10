@@ -1,0 +1,130 @@
+{
+  "english": "curse",
+  "phat_am": "[kə:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nguyền rủa; sự chửi rủa; lời nguyền rủa",
+          "list_en_vn": [
+            {
+              "full_en": "angrily muttering curses",
+              "full_vn": "giận dữ lẩm bẩm những lời chửi rủa"
+            },
+            {
+              "full_en": "the old mendicant put a curse on her",
+              "full_vn": "lão hành khất nguyền rủa cô ta"
+            },
+            {
+              "full_en": "to be under a curse",
+              "full_vn": "bị nguyền rủa"
+            },
+            {
+              "full_en": "to lift a curse",
+              "full_vn": "bỏ một lời thề độc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tai ương; tai hoạ",
+          "list_en_vn": [
+            {
+              "full_en": "the curse of inflation",
+              "full_vn": "tai hoạ lạm phát"
+            },
+            {
+              "full_en": "gambling is often a curse",
+              "full_vn": "cờ bạc là bác thằng bần"
+            },
+            {
+              "full_en": "his wealth turned out to be a curse to him",
+              "full_vn": "sự giàu sang hoá ra lại là tai hoạ cho ông ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the curse ) (từ lóng) kinh nguyệt của phụ nữ",
+          "list_one_mean": [
+            {
+              "id_full_en": "curses come home to roost",
+              "list_im": [
+                {
+                  "im_full_vn": "ác giả ác báo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not worth a curse",
+              "list_im": [
+                {
+                  "im_full_vn": "không đáng giá một trinh, đáng bỏ đi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I've got the curse today",
+              "full_vn": "Hôm nay tôi có kinh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to curse at somebody / something ) nguyền rủa; chửi rủa",
+          "list_one_mean": [
+            {
+              "id_full_en": "to curse up hill and down dale",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) dale"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be cursed with something",
+              "list_im": [
+                {
+                  "im_full_vn": "khổ sở vì cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be cursed with stammer",
+                      "full_vn": "khổ sở vì cái tật nói cà lăm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to curse at one's ill fate",
+              "full_vn": "nguyền rủa cái số kiếp đen đủi của mình"
+            },
+            {
+              "full_en": "I curse her for spoiling my plans",
+              "full_vn": "Tôi nguyền rủa cô ta đã làm hỏng kế hoạch của tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669199_808130aa09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669199_34ca26dd70_o.png",
+      "id_image": "cursing_1805258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051090_3143e0b9f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051090_c24f1b7da4_o.png",
+      "id_image": "cursing_4126461"
+    }
+  ]
+}

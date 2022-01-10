@@ -1,0 +1,107 @@
+{
+  "english": "calm",
+  "phat_am": "[kɑ:m]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "êm đềm, lặng gió (thời tiết); lặng, không nổi sóng (biển)"
+        },
+        {
+          "m_full_vn": "bình tĩnh, điềm tĩnh",
+          "list_en_vn": [
+            {
+              "full_en": "keep calm",
+              "full_vn": "hãy bình tĩnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) trơ tráo, vô liêm sỉ, không biết xấu hổ",
+          "list_one_mean": [
+            {
+              "id_full_en": "in a calm sea every man is a pilot",
+              "list_im": [
+                {
+                  "im_full_vn": "lửa thử vàng, gian nan thử sức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as calm as a cat",
+              "list_im": [
+                {
+                  "im_full_vn": "êm nhẹ như mèo"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it is pretty calm of him",
+              "full_vn": "thằng cha khá trơ tráo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự yên lặng, sự êm ả"
+        },
+        {
+          "m_full_vn": "sự bình tĩnh, sự điềm tĩnh, sự thanh thản (tâm hồn)"
+        },
+        {
+          "m_full_vn": "thời kỳ yên ổn (xã hội, (chính trị))"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm dịu đi, làm êm đi; làm bớt (đau)"
+        },
+        {
+          "m_full_vn": "trầm tĩnh lại",
+          "list_en_vn": [
+            {
+              "full_en": "calm yourself !",
+              "full_vn": "hãy trấn tĩnh lại!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dịu đi, êm đi, nguôi đi; lặng (biển)",
+          "list_en_vn": [
+            {
+              "full_en": "the sea calmed down",
+              "full_vn": "biển lặng dần"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305251_4ab8bf0df7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305251_999e65e8de_o.png",
+      "id_image": "calm_2598831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420343_6c92d92c57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420343_1f74af1442_o.png",
+      "id_image": "calm_552417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349437_2b5bec8f3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349437_1f46b022bb_o.png",
+      "id_image": "calm_6000760"
+    }
+  ]
+}

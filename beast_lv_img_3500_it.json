@@ -1,0 +1,58 @@
+{
+  "english": "beast",
+  "phat_am": "[bi:st]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thú vật, súc vật",
+          "list_en_vn": [
+            {
+              "full_en": "beast of prey",
+              "full_vn": "thú săn mồi"
+            },
+            {
+              "full_en": "beast of burden",
+              "full_vn": "súc vật dùng để chuyên chở, súc vật thồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều không đổi) thú nuôi, gia súc"
+        },
+        {
+          "m_full_vn": "người hung bạo"
+        },
+        {
+          "m_full_vn": "người mình ghét",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Beast",
+              "list_im": [
+                {
+                  "im_full_vn": "kẻ thù của Chúa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the beast",
+              "list_im": [
+                {
+                  "im_full_vn": "thú tính (trong con người)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047870_129ec86df5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047870_6b3f851b89_o.png",
+      "id_image": "beast_2463654"
+    }
+  ]
+}

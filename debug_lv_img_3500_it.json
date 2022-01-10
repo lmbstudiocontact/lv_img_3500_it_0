@@ -1,0 +1,45 @@
+{
+  "english": "debug",
+  "phat_am": "[di:'bʌg]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tin học) tìm và khắc phục lỗi (trong một phần mềm máy tính)"
+        },
+        {
+          "m_full_vn": "gở bỏ thiết bị nghe trộm",
+          "list_en_vn": [
+            {
+              "full_en": "to debug a room",
+              "full_vn": "gở bỏ thiết bị nghe trộm ra khỏi một căn phòng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663104_3f9b6a8263_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663104_a142285838_o.png",
+      "id_image": "debug_2621010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351957_4fe382e6d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351957_341a2aa740_o.png",
+      "id_image": "debug_2621015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044765_288a8eb818_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044765_2dd57820a5_o.png",
+      "id_image": "debug_2621056"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044755_e753cb4a27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044755_5c6340195a_o.png",
+      "id_image": "debug_2621118"
+    }
+  ]
+}

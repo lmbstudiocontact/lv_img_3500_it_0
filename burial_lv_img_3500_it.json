@@ -1,0 +1,45 @@
+{
+  "english": "burial",
+  "phat_am": "['beriəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "việc chôn cất, việc an táng",
+          "list_en_vn": [
+            {
+              "full_en": "cremation is more common than burial in some countries",
+              "full_vn": "ở một số nước, hoả táng phổ biến hơn là địa táng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như burial service"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353537_c222e628ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353537_6b1cab8f2b_o.png",
+      "id_image": "burial_1450728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309261_6d70ae7ec3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309261_c889fb369e_o.png",
+      "id_image": "burial_2458045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424433_c52f6a6872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424433_0d02dac102_o.png",
+      "id_image": "burial_6000688"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664554_d1c303d050_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664554_01134f0495_o.png",
+      "id_image": "burial_6000694"
+    }
+  ]
+}

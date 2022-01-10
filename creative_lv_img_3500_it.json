@@ -1,0 +1,47 @@
+{
+  "english": "creative",
+  "phat_am": "[kri:'eitiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sáng tạo",
+          "list_en_vn": [
+            {
+              "full_en": "creative power",
+              "full_vn": "sức sáng tạo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437403_b477179598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437403_83d43afa4b_o.png",
+      "id_image": "creative_1353775"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058910_4f6158aa44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058910_22303c0fe4_o.png",
+      "id_image": "creative_1402123"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322206_f47bf9e796_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322206_9d6cc83f2b_o.png",
+      "id_image": "creative_448758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437308_e34c48acc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437308_85f19812bd_o.png",
+      "id_image": "creative_5156162"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367107_fde8b76fba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367107_dc78ef216b_o.png",
+      "id_image": "creative_913917"
+    }
+  ]
+}

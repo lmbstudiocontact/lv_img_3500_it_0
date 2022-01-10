@@ -1,0 +1,101 @@
+{
+  "english": "brew",
+  "phat_am": "['bru:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chế, sự ủ (rượu bia); sự pha (trà)"
+        },
+        {
+          "m_full_vn": "mẻ rượu bia"
+        },
+        {
+          "m_full_vn": "chất lượng rượu ủ; chất lượng trà pha",
+          "list_en_vn": [
+            {
+              "full_en": "a good strong brew",
+              "full_vn": "rượu đậm và ngon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chế, ủ (rượu bia); pha (trà)",
+          "list_en_vn": [
+            {
+              "full_en": "to brew beer",
+              "full_vn": "chế rượu bia"
+            },
+            {
+              "full_en": "to brew tea",
+              "full_vn": "pha trà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) chuẩn bị, bày, trù tính, trù liệu ( (thường) việc xấu)",
+          "list_en_vn": [
+            {
+              "full_en": "to brew mischief",
+              "full_vn": "bày mưu làm điều ác"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chế rượu; pha trà"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) đang tụ tập, đang kéo đến",
+          "list_en_vn": [
+            {
+              "full_en": "a storm is brewing",
+              "full_vn": "cơn dông đang kéo đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đang được chuẩn bị, đang được trù tính",
+          "list_one_mean": [
+            {
+              "id_full_en": "to drink as one has brewed",
+              "list_im": [
+                {
+                  "im_full_vn": "mình làm, mình chịu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a plot is brewing",
+              "full_vn": "một cuộc âm mưu đang được chuẩn bị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053360_b3ae1136c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053360_5c8668edc0_o.png",
+      "id_image": "brew_1687023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316936_b87a839d40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316936_db73b287ff_o.png",
+      "id_image": "brew_2597453"
+    }
+  ]
+}

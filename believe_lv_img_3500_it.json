@@ -1,0 +1,182 @@
+{
+  "english": "believe",
+  "phat_am": "[bi'li:v]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cảm thấy chắc chắn cái gì là thật; chấp nhận lời tuyên bố của ai là thật; tin",
+          "list_en_vn": [
+            {
+              "full_en": "I believe him /what he says",
+              "full_vn": "tôi tin anh ta/những điều anh ta nói"
+            },
+            {
+              "full_en": "I'm innocent , please believe me",
+              "full_vn": "Tôi vô tội, xin hãy tin tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghĩ (có thể là nhầm); giả thiết; tưởng",
+          "list_en_vn": [
+            {
+              "full_en": "people used to believe that the world was flat",
+              "full_vn": "người ta vẫn thường tưởng rằng trái đất dẹt"
+            },
+            {
+              "full_en": "they believed him to be insane",
+              "full_vn": "họ cho rằng nó điên"
+            },
+            {
+              "full_en": "Is he coming ? - I believe so /not",
+              "full_vn": "Anh ta có đến không? - Tôi cho là có/không"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có đức tin tôn giáo",
+          "list_one_mean": [
+            {
+              "id_full_en": "to believe in somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "cảm thấy chắc chắn ai/cái gì tồn tại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I believe in God",
+                      "full_vn": "Tôi tin có Chúa"
+                    },
+                    {
+                      "full_en": "do you believe in ghosts ?",
+                      "full_vn": "anh có tin là có ma hay không?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to believe in somebody /something ; to believe in doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "tin ai/cái gì; cảm thấy chắc chắn về sự thật hoặc giá trị của cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I believe in his honesty",
+                      "full_vn": "tôi tin ở sự chân thật của anh ta"
+                    },
+                    {
+                      "full_en": "he believes in getting plenty of exercise",
+                      "full_vn": "nó tin tưởng vào việc rèn luyện thân thể tích cực"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to believe something of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "tin rằng ai có thể có một hành động nào đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "If I hadn't seen him doing it , I would never have believed it of him",
+                      "full_vn": "Nếu không nhìn thấy nó làm thì ắt không bao giờ tôi tin nó làm được việc đó"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make believe (that ...)",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ra vẻ; giả vờ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they make believe (that ) they are silly",
+                      "full_vn": "chúng làm ra vẻ khờ dại"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "believe it or not",
+              "list_im": [
+                {
+                  "im_full_vn": "tin hay không là tùy anh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "believe you me",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi bảo đảm với anh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "believe you me , he will come here tomorrow",
+                      "full_vn": "tôi bảo đảm với anh rằng ngày mai, hắn sẽ đến"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to believe one's eyes /ears",
+              "list_im": [
+                {
+                  "im_full_vn": "không tin vào tai/mắt mình nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "seeing is believing",
+              "list_im": [
+                {
+                  "im_full_vn": "có thấy mới tin"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody to believe /understand",
+              "list_im": [
+                {
+                  "im_full_vn": "xem give"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead somebody to believe",
+              "list_im": [
+                {
+                  "im_full_vn": "xem lead"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he thinks that everyone who believes will go to heaven",
+              "full_vn": "ông tacho rằng những ai có đức tin đều sẽ lên thiên đàng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045365_a4bab4f107_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045365_af8ce24f5a_o.png",
+      "id_image": "believe_2072701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045330_56e65ce765_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045330_818e64702c_o.png",
+      "id_image": "believe_4576136"
+    }
+  ]
+}

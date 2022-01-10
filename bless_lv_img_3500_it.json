@@ -1,0 +1,62 @@
+{
+  "english": "bless",
+  "phat_am": "['blest]",
+  "list_type": [
+    {
+      "type": "(bất qui tắc) ngoại động từ blessed",
+      "list_m": [
+        {
+          "m_full_vn": "giáng phúc, ban phúc"
+        },
+        {
+          "m_full_vn": "làm cho may mắn, làm cho hạnh phúc",
+          "list_en_vn": [
+            {
+              "full_en": "to be blessed with good health",
+              "full_vn": "được may mắn là có sức khoẻ tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tôn sùng"
+        },
+        {
+          "m_full_vn": "cầu Chúa phù hộ cho",
+          "list_one_mean": [
+            {
+              "id_full_en": "bless me !; bless my soul !",
+              "list_im": [
+                {
+                  "im_full_vn": "chao ôi!; trời ôi!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "blest if I saw him !",
+              "list_im": [
+                {
+                  "im_full_vn": "tớ mà có gặp nó thì trời đánh thánh vật tớ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to have a penny to bless oneself with",
+              "list_im": [
+                {
+                  "im_full_vn": "nghèo rớt mồng tơi, nghèo xác xơ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039215_63d3e0c13a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039215_a55fdefd95_o.png",
+      "id_image": "bless_5553126"
+    }
+  ]
+}

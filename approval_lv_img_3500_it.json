@@ -1,0 +1,64 @@
+{
+  "english": "approval",
+  "phat_am": "[ə'pru:vəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tán thành; sự chấp thuận; sự phê chuẩn",
+          "list_one_mean": [
+            {
+              "id_full_en": "on approval",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về hàng hoá) được bán với điều kiện khách không vừa ý thì cứ trả lại"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to nod in approval",
+              "full_vn": "gật đầu, đồng ý"
+            },
+            {
+              "full_en": "to give one's approval to a plan",
+              "full_vn": "tán thành một kế hoạch"
+            },
+            {
+              "full_en": "to meet with approval",
+              "full_vn": "được tán thành; được chấp tthuận"
+            },
+            {
+              "full_en": "seal of approval",
+              "full_vn": "sự phê chuẩn chính thức"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307581_47f759cf3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307581_aa1ef006e6_o.png",
+      "id_image": "approval_1289257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044515_7d6e825bf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044515_81ab8419c7_o.png",
+      "id_image": "approval_1721925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422673_88699e4c51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422673_9c83fbc678_o.png",
+      "id_image": "approval_3636225"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307501_d1a8632424_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307501_598a72ae3b_o.png",
+      "id_image": "approval_6304375"
+    }
+  ]
+}

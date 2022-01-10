@@ -1,0 +1,62 @@
+{
+  "english": "backup",
+  "phat_am": "['bækʌp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hỗ trợ",
+          "list_en_vn": [
+            {
+              "full_en": "Backup services",
+              "full_vn": "Các dịch vụ hỗ trợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) bản sao dự phòng; bản sao lưu"
+        },
+        {
+          "m_full_vn": "sự dồn ứ"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dự phòng; dự bị",
+          "list_en_vn": [
+            {
+              "full_en": "A backup pilot",
+              "full_vn": "Phi công dự khuyết (sẵn sàng thay cho phi công chính thức của chuyến bay khi cần thiết)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436888_d1baa980f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436888_107b81b528_o.png",
+      "id_image": "backup_2709664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058520_b6db18cdd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058520_b48688f0e6_o.png",
+      "id_image": "backup_356486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058470_669cf63b51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058470_4503560aef_o.png",
+      "id_image": "backup_5139985"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436843_bf04fb564b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436843_9266ab9f62_o.png",
+      "id_image": "backup_5827589"
+    }
+  ]
+}

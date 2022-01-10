@@ -1,0 +1,34 @@
+{
+  "english": "authorship",
+  "phat_am": "['ɔ:θə∫ip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nguồn gốc tác giả của một tài liệu, quyển sách...",
+          "list_en_vn": [
+            {
+              "full_en": "a book of doubtful authorship",
+              "full_vn": "một cuốn sách chưa rõ nguồn tác giả (chưa rõ tác giả là ai)"
+            },
+            {
+              "full_en": "the authorship of this song is not known",
+              "full_vn": "hiện vẫn chưa biết ai là tác giả của bài hát này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "địa vị của tác giả"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440983_4c8fcdf5e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440983_399b908d7b_o.png",
+      "id_image": "authorship_4391575"
+    }
+  ]
+}

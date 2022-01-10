@@ -1,0 +1,109 @@
+{
+  "english": "clerk",
+  "phat_am": "[klɑ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người được thuê làm việc trong một văn phòng, một cửa hiệu.... để ghi chép văn thư, sổ sách...; người thư ký",
+          "list_en_vn": [
+            {
+              "full_en": "a bank clerk",
+              "full_vn": "thư ký ngân hàng"
+            },
+            {
+              "full_en": "a filing clerk",
+              "full_vn": "thư ký giữ hồ sơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viên chức phụ trách về sổ sách của một hội đồng, toà án......",
+          "list_en_vn": [
+            {
+              "full_en": "the Town Clerk",
+              "full_vn": "Chánh văn phòng thị chính"
+            },
+            {
+              "full_en": "the Clerk of the Court",
+              "full_vn": "viên lục sự"
+            },
+            {
+              "full_en": "the Clerk to the Council",
+              "full_vn": "Thư ký Hội đồng"
+            },
+            {
+              "full_en": "clerk of (the ) works",
+              "full_vn": "đốc công (chịu trách nhiệm về văn thư, vật liệu cho các công trình xây dựng theo hợp đồng)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tu sĩ, giáo sĩ, mục sư ( (cũng) clerk in holy orders )"
+        },
+        {
+          "m_full_vn": "người giúp việc trong khách sạn (cũng) desk clerk"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) người giúp việc bán hàng, nhân viên bán hàng"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) người biết đọc biết viết",
+          "list_one_mean": [
+            {
+              "id_full_en": "clerk of the weather",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) nhà nghiên cứu khí tượng; (từ Mỹ,nghĩa Mỹ) giám đốc nha khí tượng"
+                },
+                {
+                  "im_full_vn": "ông khí tượng (khí tượng) nhân cách hoá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "clerk of the works",
+              "list_im": [
+                {
+                  "im_full_vn": "đốc công (trông nom việc xây dựng nhà cửa)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be no great clerk",
+              "full_vn": "là người không đọc thông viết thạo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) làm thư ký"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041095_412b6c16e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041095_4761d8556a_o.png",
+      "id_image": "clerk_1983220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041115_0b6484eaed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041115_10592be54b_o.png",
+      "id_image": "clerk_560240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304251_4298acc534_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304251_23018b0dd9_o.png",
+      "id_image": "clerk_827069"
+    }
+  ]
+}

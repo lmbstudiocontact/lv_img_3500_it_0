@@ -1,0 +1,75 @@
+{
+  "english": "arch",
+  "phat_am": "[ɑ:t∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khung tò vò, cửa tò vò"
+        },
+        {
+          "m_full_vn": "hình cung"
+        },
+        {
+          "m_full_vn": "vòm; nhịp cuốn (cầu...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xây khung vòm ở trên (cửa...); xây cuốn vòng cung"
+        },
+        {
+          "m_full_vn": "uốn cong"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cong lại, uốn vòng cung"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tinh nghịch, tinh quái, hóm, láu",
+          "list_en_vn": [
+            {
+              "full_en": "an arch smile",
+              "full_vn": "nụ cười hóm hỉnh, nụ cười láu lỉnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422183_1051ec1ecf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422183_c3369f2436_o.png",
+      "id_image": "arch_1207117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422163_a48cccfba1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422163_373449a9c8_o.png",
+      "id_image": "arch_3754913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307046_3ec33f7333_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307046_5d9879fe7d_o.png",
+      "id_image": "arch_506946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351117_453bfb123d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351117_68204814c3_o.png",
+      "id_image": "arch_5479876"
+    }
+  ]
+}

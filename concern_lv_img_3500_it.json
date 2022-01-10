@@ -1,0 +1,172 @@
+{
+  "english": "concern",
+  "phat_am": "[kən'sə:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lợi lộc; cổ phần",
+          "list_en_vn": [
+            {
+              "full_en": "to have no concern in an affair",
+              "full_vn": "chẳng có lợi lộc gì trong một việc nào đó"
+            },
+            {
+              "full_en": "to have a concern in a business",
+              "full_vn": "có cổ phần trong một việc kinh doanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự lo lắng; sự lo âu",
+          "list_en_vn": [
+            {
+              "full_en": "there is no cause for concern",
+              "full_vn": "chẳng có gì má phải lo lắng"
+            },
+            {
+              "full_en": "there is now considerable concern for their safety",
+              "full_vn": "hiện giờ người ta rất lo lắng cho sự an toàn của họ"
+            },
+            {
+              "full_en": "public concern about corruption",
+              "full_vn": "sự lo lắng của công chúng về nạn tham nhũng"
+            },
+            {
+              "full_en": "to notice with deep concern that ...",
+              "full_vn": "rất lo ngại khi thấy rằng..."
+            },
+            {
+              "full_en": "there is growing concern that they may have been killed",
+              "full_vn": "người ta càng lúc càng lo rằng có thể họ đã bị giết"
+            },
+            {
+              "full_en": "our main concern is that they are not receiving enough help",
+              "full_vn": "mối băn khoăn chính của chúng tôi là họ được giúp đỡ đầy đủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mối quan tâm",
+          "list_en_vn": [
+            {
+              "full_en": "what are your main concerns as a writer ?",
+              "full_vn": "đâu là những mối quan tâm chính của ông trong cương vị một nhà văn?"
+            },
+            {
+              "full_en": "it's no concern of mine",
+              "full_vn": "đó không phải là việc của tôi"
+            },
+            {
+              "full_en": "to be filled with concerns",
+              "full_vn": "đầy lo ngại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hãng buôn; doanh nghiệp; công ty",
+          "list_en_vn": [
+            {
+              "full_en": "a huge industrial concern",
+              "full_vn": "một công ty công nghiệp lớn"
+            },
+            {
+              "full_en": "our little corner shop is no longer a paying concern",
+              "full_vn": "cửa hàng nhỏ của chúng tôi ở góc phố không còn là một doanh nghiệp sinh lợi nữa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "liên quan, dính líu tới",
+          "list_en_vn": [
+            {
+              "full_en": "that doesn't concern you at all",
+              "full_vn": "việc đó không dính líu gì tới anh"
+            },
+            {
+              "full_en": "don't interfere in what doesn't concern you",
+              "full_vn": "đừng can thiệp vào cái không liên quan đến anh"
+            },
+            {
+              "full_en": "where the children are concerned .....",
+              "full_vn": "về những vấn đề liên quan đến trẻ em......."
+            },
+            {
+              "full_en": "to whom it may concern ........",
+              "full_vn": "gửi những người có thể liên quan........... (ở đầu một bảng yết thị hoặc giấy chứng nhận về tính cách hoặc năng lực của ai)"
+            },
+            {
+              "full_en": "a report that concerns drug abuse",
+              "full_vn": "một bản báo cáo về việc dùng ma túy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm ai băn khoăn",
+          "list_en_vn": [
+            {
+              "full_en": "their losses are beginning to concern me",
+              "full_vn": "những khoản thua lỗ của họ bắt đầu làm tôi lo lắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to concern oneself with / in / about something ) bận tâm đến điều gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "as far as I'm concerned",
+              "list_im": [
+                {
+                  "im_full_vn": "về phần tôi, đối với tôi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "there's no need to concern yourself with that matter , we're dealing with it",
+              "full_vn": "anh chẳng phải bận tâm về chuyện này, chúng tôi đang giải quyết đây"
+            },
+            {
+              "full_en": "don't concern yourself with other people's affairs",
+              "full_vn": "đừng có nhúng vào việc của người khác"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668584_c352b7146a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668584_bb355a532c_o.png",
+      "id_image": "concern_4525460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357922_4123450b03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357922_8c5451358f_o.png",
+      "id_image": "concern_4729313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668539_16cd7f756f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668539_bac0f7a6bb_o.png",
+      "id_image": "concern_5308161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428598_013ee26e31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428598_dc52d844cb_o.png",
+      "id_image": "concern_6000781"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050285_95b9ddabb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050285_9e46bdef2c_o.png",
+      "id_image": "concern_6002476"
+    }
+  ]
+}

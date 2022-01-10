@@ -1,0 +1,70 @@
+{
+  "english": "compose",
+  "phat_am": "[kəm'pouz]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "soạn (bản nhạc, bài văn, bài thơ....); sáng tác",
+          "list_en_vn": [
+            {
+              "full_en": "to compose a piece of music",
+              "full_vn": "sáng tác một bản nhạc"
+            },
+            {
+              "full_en": "to compose a poem",
+              "full_vn": "làm một bài thơ"
+            },
+            {
+              "full_en": "I'm composing a leading article",
+              "full_vn": "Tôi đang soạn một bài xã luận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về các thành phần) tạo nên một tổng thể",
+          "list_en_vn": [
+            {
+              "full_en": "the short scenes that compose the play",
+              "full_vn": "những màn ngắn tạo thành vở kịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiềm chế bản thân/cái gì; trấn tĩnh",
+          "list_en_vn": [
+            {
+              "full_en": "to compose one's thoughts",
+              "full_vn": "kiềm chế những ý nghĩ của mình"
+            },
+            {
+              "full_en": "compose yourself !",
+              "full_vn": "anh hãy bình tĩnh lại!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xếp (chữ in) theo trật tự để cho ra các từ, đoạn, trang....; xếp chữ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315526_75ec28b285_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315526_9bb0fa4683_o.png",
+      "id_image": "compose_2748433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359627_413ed99bf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359627_3744b023d0_o.png",
+      "id_image": "compose_3365393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359612_157d00d8f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359612_159b18ce54_o.png",
+      "id_image": "compose_3424993"
+    }
+  ]
+}

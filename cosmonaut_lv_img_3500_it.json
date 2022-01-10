@@ -1,0 +1,37 @@
+{
+  "english": "cosmonaut",
+  "phat_am": "['kɔzmənɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà du hành vũ trụ",
+          "list_en_vn": [
+            {
+              "full_en": "hero cosmonaut",
+              "full_vn": "anh hùng du hành vũ trụ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329786_c730334e4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329786_589ac6daf0_o.png",
+      "id_image": "cosmonaut_1469858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066475_019f199b52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066475_0e44d0b37e_o.png",
+      "id_image": "cosmonaut_3590617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374322_158c799450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374322_c203d5ddc4_o.png",
+      "id_image": "cosmonaut_4287576"
+    }
+  ]
+}

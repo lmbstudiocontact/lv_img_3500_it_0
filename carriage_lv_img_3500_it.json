@@ -1,0 +1,108 @@
+{
+  "english": "carriage",
+  "phat_am": "['kæridʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe ngựa",
+          "list_en_vn": [
+            {
+              "full_en": "a carriage and pair",
+              "full_vn": "xe hai ngựa; xe song mã"
+            },
+            {
+              "full_en": "a carriage and four",
+              "full_vn": "xe bốn ngựa; xe tứ mã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) toa hành khách (cũng) coach ; car",
+          "list_en_vn": [
+            {
+              "full_en": "the first-class carriages",
+              "full_vn": "các toa hạng nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền công chuyên chở hàng hoá; cước phí",
+          "list_en_vn": [
+            {
+              "full_en": "carriage forward",
+              "full_vn": "nơi nhận trả cước (người nhận hàng phải trả cước phí)"
+            },
+            {
+              "full_en": "carriage free",
+              "full_vn": "miễn cước phí"
+            },
+            {
+              "full_en": "carriage paid",
+              "full_vn": "đã thu cước phí (cước phí đã được người gửi trả đủ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ phận chuyển động của một cái máy, đỡ hoặc làm quay một bộ phận khác",
+          "list_en_vn": [
+            {
+              "full_en": "a typewriter carriage",
+              "full_vn": "bộ phận quay trục của máy đánh chữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sườn xe (gồm khung và bánh)"
+        },
+        {
+          "m_full_vn": "(quân sự) như gun-carriage"
+        },
+        {
+          "m_full_vn": "dáng, dáng đi",
+          "list_en_vn": [
+            {
+              "full_en": "a graceful carriage",
+              "full_vn": "dáng đi yểu điệu"
+            },
+            {
+              "full_en": "to have an upright carriage",
+              "full_vn": "có dáng đi thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự điều khiển, sự quản lý; sự thi hành, sự thực hiện (một công việc...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679119_6faf6f718e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679119_c291bcd06d_o.png",
+      "id_image": "carriage_1514210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323896_e7ee215b01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323896_9c9eb13734_o.png",
+      "id_image": "carriage_2968320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679144_21e404b8c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679144_433a9a7b72_o.png",
+      "id_image": "carriage_386483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368757_e5ec41ea6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368757_0d65bde4d9_o.png",
+      "id_image": "carriage_4133314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679034_62069e0244_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679034_7bd4b6b409_o.png",
+      "id_image": "carriage_4545084"
+    }
+  ]
+}

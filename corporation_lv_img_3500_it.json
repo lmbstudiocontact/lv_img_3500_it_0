@@ -1,0 +1,67 @@
+{
+  "english": "corporation",
+  "phat_am": "[,kɔ:pə'rei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) là corp nhóm người được phép hành động như một cá thể (vì mục đích kinh doanh chẳng hạn); tập đoàn",
+          "list_en_vn": [
+            {
+              "full_en": "broadcasting authorities are often public corporations",
+              "full_vn": "các cơ quan phát thanh và truyền hình thường là những tập đoàn công lập"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) công ty kinh doanh",
+          "list_en_vn": [
+            {
+              "full_en": "large multinational corporations",
+              "full_vn": "những công ty lớn đa quốc gia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm người được bầu lên để cai quản thành phố; hội đồng thành phố (cũng) municipal corporation",
+          "list_en_vn": [
+            {
+              "full_en": "the Lord Mayor and Corporation of the City of London",
+              "full_vn": "Ngài thị trưởng và Hội đồng thành phố Luân Đôn"
+            },
+            {
+              "full_en": "corporation services , transport , refuse collection",
+              "full_vn": "các công sở, việc vận tải, việc thu gom rác của hội đồng thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) bụng phệ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376017_fd723ee126_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376017_47d58eb4c8_o.png",
+      "id_image": "corporation_1353758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331281_9f5423a8ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331281_e5ee6bd6fb_o.png",
+      "id_image": "corporation_1622603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067940_8ba1be68e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067940_7848e1d171_o.png",
+      "id_image": "corporation_2974620"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686244_63c620cdef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686244_889260e71d_o.png",
+      "id_image": "corporation_3798727"
+    }
+  ]
+}

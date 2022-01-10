@@ -1,0 +1,65 @@
+{
+  "english": "correspondence",
+  "phat_am": "[,kɔris'pɔndəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( correspondence with something / between something and something ) sự tương ứng; sự phù hợp"
+        },
+        {
+          "m_full_vn": "( correspondence with somebody ) thư từ; quan hệ thư từ",
+          "list_en_vn": [
+            {
+              "full_en": "to be in correspondence with someone ; to enter into correspondence with someone ; to have correspondence with someone",
+              "full_vn": "trao đổi thư từ với ai, liên lạc bằng thư từ với ai"
+            },
+            {
+              "full_en": "she has a lot of correspondence to deal with",
+              "full_vn": "chị ấy có cả một lô thư từ cần giải quyết"
+            },
+            {
+              "full_en": "is commercial correspondence taught at your school ?",
+              "full_vn": "trường của anh có dạy về thư từ thương mại hay không?"
+            },
+            {
+              "full_en": "correspondence clerk",
+              "full_vn": "người giữ việc giao thiệp bằng thư từ, người thư ký"
+            },
+            {
+              "full_en": "correspondence course",
+              "full_vn": "lớp học sử dụng sách, bài tập... gửi qua bưu điện; lớp học hàm thụ"
+            },
+            {
+              "full_en": "correspondence courses in English",
+              "full_vn": "các lớp Anh ngữ hàm thụ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330511_9207633f8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330511_c889f453ff_o.png",
+      "id_image": "correspondence_3387814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445488_42465551aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445488_7067ee0378_o.png",
+      "id_image": "correspondence_5709150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445433_bb7a924a72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445433_564d10ebb3_o.png",
+      "id_image": "correspondence_5907474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067265_9fccc9205b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067265_6bc138be6d_o.png",
+      "id_image": "correspondence_5907962"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "english": "chip",
+  "phat_am": "[t∫ip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vỏ bào, vỏ tiện, mạt giũa"
+        },
+        {
+          "m_full_vn": "chỗ sứt, chỗ mẻ"
+        },
+        {
+          "m_full_vn": "mảnh vỡ"
+        },
+        {
+          "m_full_vn": "khoanh mỏng, lát mỏng (quả, khoai tây...)"
+        },
+        {
+          "m_full_vn": "( số nhiều) (thông tục) khoai tây rán"
+        },
+        {
+          "m_full_vn": "(từ lóng) tiền",
+          "list_en_vn": [
+            {
+              "full_en": "the chips",
+              "full_vn": "tiền đồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh bài) thẻ (để đánh bạc)"
+        },
+        {
+          "m_full_vn": "nan (để đan rổ, đan mũ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a chip off the old block",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) block"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I don't care a chip",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) care"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as dry as a chip",
+              "list_im": [
+                {
+                  "im_full_vn": "nhạt như nước ốc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hand (pass in ) one's chips",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) thanh toán"
+                },
+                {
+                  "im_full_vn": "chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have (carry , wear , go about with ) a chip on one's shoulder",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) sẵn sàng đánh nhau, sẵn sàng gây chuyện cãi nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the chip",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) giàu có, nhiều tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "little chips light great fires",
+              "list_im": [
+                {
+                  "im_full_vn": "vỏ bào nhỏ có thể gây nên những đám cháy lớn; cái sảy nảy cái ung"
+                }
+              ]
+            },
+            {
+              "id_full_en": "when the chips are down",
+              "list_im": [
+                {
+                  "im_full_vn": "khi đã đạt tới cao điểm của khủng hoảng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "have had one's chips",
+              "list_im": [
+                {
+                  "im_full_vn": "thất bại, chết"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đẽo, bào"
+        },
+        {
+          "m_full_vn": "làm sứt, làm mẻ",
+          "list_en_vn": [
+            {
+              "full_en": "to chip the edge of the glass",
+              "full_vn": "làm sứt mép gương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đập vỡ ra từng mảnh, đập vỡ toang"
+        },
+        {
+          "m_full_vn": "mổ vỡ (vỏ trứng) (gà con)"
+        },
+        {
+          "m_full_vn": "đục, khắc (tên vào đâu)"
+        },
+        {
+          "m_full_vn": "xắt, thái thành lát mỏng",
+          "list_en_vn": [
+            {
+              "full_en": "to chip potatoes",
+              "full_vn": "xắt khoai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) chế giễu, chế nhạo",
+          "list_one_mean": [
+            {
+              "id_full_en": "to chip at someone",
+              "list_im": [
+                {
+                  "im_full_vn": "chế nhạo ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sứt, mẻ",
+          "list_en_vn": [
+            {
+              "full_en": "china chips easily",
+              "full_vn": "đồ sứ dễ mẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mổ vỡ vỏ trứng (gà con)",
+          "list_one_mean": [
+            {
+              "id_full_en": "chip off",
+              "list_im": [
+                {
+                  "im_full_vn": "tróc từng mảng (sơn)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "chip in",
+              "list_im": [
+                {
+                  "im_full_vn": "nói xen vào"
+                },
+                {
+                  "im_full_vn": "góp tiền đánh bạc, góp vốn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) miếng khoèo, miếng ngáng chân (đấu vật)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoèo, ngáng chân"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308846_0f45b802a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308846_d73e38dfd2_o.png",
+      "id_image": "chips_2819418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424033_d07dfd03b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424033_7d6e3f1215_o.png",
+      "id_image": "chips_3728168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045865_02637c33d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045865_1dc73896b0_o.png",
+      "id_image": "chips_536103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353132_dea381f6f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353132_b3c654d82f_o.png",
+      "id_image": "chip_750992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308891_5f91af9d4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308891_20554b634a_o.png",
+      "id_image": "chip_752568"
+    }
+  ]
+}

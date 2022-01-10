@@ -1,0 +1,677 @@
+{
+  "english": "call",
+  "phat_am": "[kɔ:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng kêu; tiếng la; tiếng gọi; lời kêu gọi",
+          "list_en_vn": [
+            {
+              "full_en": "a call for help",
+              "full_vn": "tiếng kêu cứu"
+            },
+            {
+              "full_en": "within call",
+              "full_vn": "khá gần để có thể nghe được ai kêu (cầu cứu...)"
+            },
+            {
+              "full_en": "they came at my call",
+              "full_vn": "họ đến khi nghe tôi kêu"
+            },
+            {
+              "full_en": "the call of conscience",
+              "full_vn": "tiếng gọi của lương tâm"
+            },
+            {
+              "full_en": "the call of the sea , of the wild , of faraway places",
+              "full_vn": "tiếng gọi của biển cả, của rừng hoang, của những nơi xa xôi"
+            },
+            {
+              "full_en": "to answer the call of one's fatherland",
+              "full_vn": "đáp lời kêu gọi của tổ quốc"
+            },
+            {
+              "full_en": "The President made a call for national unity",
+              "full_vn": "Tổng thống ra lời kêu gọi đoàn kết dân tộc"
+            },
+            {
+              "full_en": "there were calls for the Prime Minister's resignation from the Opposition parties",
+              "full_vn": "các đảng đối lập đòi Thủ tướng phải từ nhiệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kèn lệnh; trống lệnh; còi hiệu"
+        },
+        {
+          "m_full_vn": "lệnh/tín hiệu/lời mời; sự triệu tập",
+          "list_en_vn": [
+            {
+              "full_en": "The Prime Minister is waiting for a call to the Palace",
+              "full_vn": "Thủ tướng đang chờ được triệu vào Cung điện"
+            },
+            {
+              "full_en": "an actor's call tells him when to go on stage",
+              "full_vn": "một diễn viên ra hiệu để bảo cho anh ta biết lúc nào lên sân khấu"
+            },
+            {
+              "full_en": "this is the last call for passengers travelling on flight BA 199 to Rome",
+              "full_vn": "đây làthông báo cuối cùng mời hành khách chuyến bay BA 199 đi Rôma"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc nói chuyện bằng điện thoại (cũng) telephone call , phone call , ring",
+          "list_en_vn": [
+            {
+              "full_en": "to give somebody /make /receive /return a call",
+              "full_vn": "gọi điện thoại/nhận điện/trả lời điện thoại cho ai"
+            },
+            {
+              "full_en": "were there any calls for me while I was out ?",
+              "full_vn": "trong lúc tôi đi vắng, có ai gọi điện đến tôi hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thăm viếng; sự ghé lại",
+          "list_en_vn": [
+            {
+              "full_en": "to pay a call on somebody",
+              "full_vn": "ghé thăm ai"
+            },
+            {
+              "full_en": "to receive a call",
+              "full_vn": "tiếp ai"
+            },
+            {
+              "full_en": "to return someone's call",
+              "full_vn": "thăm ai để đáp lễ (vì người đó đã đến thăm mình); thăm trả lại ai"
+            },
+            {
+              "full_en": "port of call",
+              "full_vn": "bến đỗ lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( call on somebody / something ) sự đòi hỏi; sự yêu cầu",
+          "list_en_vn": [
+            {
+              "full_en": "to have many calls on one's time",
+              "full_vn": "có nhiều việc đòi hỏi mất thời gian"
+            },
+            {
+              "full_en": "to have many calls on one's money",
+              "full_vn": "có nhiều việc phải tiêu đến tiền; bị nhiều người đòi tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh bài) sự đặt tiền hoặc lượt đặt tiền của một người chơi",
+          "list_en_vn": [
+            {
+              "full_en": "it's your call , partner",
+              "full_vn": "ông bạn ơi, đến lượt ông đặt tiền đấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( call for something ) sự cần thiết hoặc nguyên cớ cho cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "there's no call for you to hurry",
+              "full_vn": "chẳng có việc gì cần thiết mà anh phải vội"
+            },
+            {
+              "full_en": "there's no call for such modesty",
+              "full_vn": "đâu cần phải nhún nhường đến mức đó"
+            },
+            {
+              "full_en": "there isn't much call for such things these days",
+              "full_vn": "những ngày này người ta không cần những thứ như thế lắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) sự gọi vốn, sự gọi cổ phần"
+        },
+        {
+          "m_full_vn": "sự thúc giục bên trong để đi theo một hướng hành động hoặc một nghề nghiệp; thiên hướng",
+          "list_one_mean": [
+            {
+              "id_full_en": "call to arms",
+              "list_im": [
+                {
+                  "im_full_vn": "lệnh nhập ngũ, lệnh động viên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "close call",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) close"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get (have ) a call upon something",
+              "list_im": [
+                {
+                  "im_full_vn": "có quyền được hưởng (nhận) cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "place (house ) of call",
+              "list_im": [
+                {
+                  "im_full_vn": "nơi thường lui tới công tác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at somebody's beck and call",
+              "list_im": [
+                {
+                  "im_full_vn": "xem beck"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a call of nature",
+              "list_im": [
+                {
+                  "im_full_vn": "mắc đái hoặc mắc ỉa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on call",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về bác sĩ) sẵn sàng ứng cứu; trực"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to feel the call (of the priesthood )",
+              "full_vn": "cảm thấy có thiên hướng (làm tu sĩ)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ra lệnh hoặc đề nghị ai/cái gì đến (một nơi nào đó) bằng cách gọi điện thoại hoặc viết thư...; mời; gọi",
+          "list_en_vn": [
+            {
+              "full_en": "to call a taxi",
+              "full_vn": "gọi một cái xe tắc xi"
+            },
+            {
+              "full_en": "duty calls me",
+              "full_vn": "bổn phận kêu gọi tôi"
+            },
+            {
+              "full_en": "to call an actor",
+              "full_vn": "mời một diễn viên ra một lần nữa"
+            },
+            {
+              "full_en": "to call a doctor",
+              "full_vn": "mời bác sĩ đến"
+            },
+            {
+              "full_en": "to call the fire brigade , the police , an ambulance",
+              "full_vn": "gọi đội cứu hoả, cảnh sát, xe cấp cứu"
+            },
+            {
+              "full_en": "Call the children (in ) : It's time for dinner",
+              "full_vn": "Hãy gọi bọn trẻ (vào) : Đã đến giờ ăn cơm"
+            },
+            {
+              "full_en": "several candidates were called for a second interview",
+              "full_vn": "nhiều thí sinh được triệu tập đến phỏng vấn một lần nữa"
+            },
+            {
+              "full_en": "to call back an ambassador",
+              "full_vn": "triệu hồi một vị đại sứ"
+            },
+            {
+              "full_en": "to call somebody's attention to something",
+              "full_vn": "lưu ý ai về vấn đề gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gọi điện thoại",
+          "list_en_vn": [
+            {
+              "full_en": "I'll call (you ) again later",
+              "full_vn": "Tôi sẽ gọi điện thoại (cho anh) sau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh thức",
+          "list_en_vn": [
+            {
+              "full_en": "call me early tomorrow morning",
+              "full_vn": "sáng mai anh hãy đánh thức tôi dậy sớm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ra lệnh cho cái gì tiến hành; triệu tập",
+          "list_en_vn": [
+            {
+              "full_en": "to call a strike",
+              "full_vn": "ra lệnh đình công"
+            },
+            {
+              "full_en": "to call a meeting",
+              "full_vn": "triệu tập một cuộc mít tinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt tên là; gọi là",
+          "list_en_vn": [
+            {
+              "full_en": "he is called John",
+              "full_vn": "anh ta tên là Giôn"
+            },
+            {
+              "full_en": "How dare you call me fat !",
+              "full_vn": "Sao anh dám gọi tôi là béo?"
+            },
+            {
+              "full_en": "what's your pet dog called ?",
+              "full_vn": "con chó cưng của bà tên gì?"
+            },
+            {
+              "full_en": "he hasn't had anything published and he calls himself a lyrical poet !",
+              "full_vn": "lão ấy chưa hề có cái gì xuất bản, mà vẫn tự cho mình là nhà thơ lãng mạn!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "coi là; cho là; xem là",
+          "list_en_vn": [
+            {
+              "full_en": "I call that a shame",
+              "full_vn": "tôi cho đó là một điều sỉ nhục"
+            },
+            {
+              "full_en": "I have never called English an easy language",
+              "full_vn": "Tôi chưa bao giờ cho tiếng Anh là (một ngôn ngữ) dễ"
+            },
+            {
+              "full_en": "how can you be so unkind and still call yourself my father's disciple ?",
+              "full_vn": "sao anh tồi đến vậy mà vẫn tự cho là môn đệ của cha tôi?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gợi lại; nhắc lại",
+          "list_en_vn": [
+            {
+              "full_en": "to call something to mind",
+              "full_vn": "gợi lại cái gì trong óc, nhắc lại cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phát thanh về phía",
+          "list_en_vn": [
+            {
+              "full_en": "this is the Voice of Vietnam calling Eastern Europe",
+              "full_vn": "đây là tiếng nói Việt-Nam phát thanh về phía Đông-Âu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh bài) tuyên bố (có hoa chủ bài...); đặt tiền",
+          "list_en_vn": [
+            {
+              "full_en": "have you called yet ?",
+              "full_vn": "anh đặt tiền chưa?"
+            },
+            {
+              "full_en": "who called hearts ?",
+              "full_vn": "ai gợi con cơ thế?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to call on / upon somebody to do something ) kêu gọi; yêu cầu; mời",
+          "list_en_vn": [
+            {
+              "full_en": "to call upon the director to address the meeting",
+              "full_vn": "mời ông giám đốc phát biểu tại cuộc họp"
+            },
+            {
+              "full_en": "we're calling upon you to help us",
+              "full_vn": "chúng tôi kêu gọi ông giúp đỡ chúng tôi"
+            },
+            {
+              "full_en": "I feel called upon to warn you that ...",
+              "full_vn": "Tôi cảm thấy cần phải báo trước cho ông biết rằng..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to call for something ) đòi hỏi, yêu cầu hoặc cần cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "the situation calls for prompt action",
+              "full_vn": "tình hình đòi hỏi phải khẩn trương hành động"
+            },
+            {
+              "full_en": "I've been promoted . This calls for a celebration !",
+              "full_vn": "Tôi đã được đề bạt. Việc này nhất thiết phải ăn mừng!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + at ) dừng lại, đỗ lại (xe lửa...)",
+          "list_en_vn": [
+            {
+              "full_en": "the train calls at every station",
+              "full_vn": "tới ga nào xe lửa cũng đỗ lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + at , on ) ghé thăm, lại thăm, tạt vào thăm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to call aside",
+              "list_im": [
+                {
+                  "im_full_vn": "gọi ra một chỗ; kéo sang một bên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call away",
+              "list_im": [
+                {
+                  "im_full_vn": "gọi đi; mời đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call back",
+              "list_im": [
+                {
+                  "im_full_vn": "gọi lại, gọi về"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call down",
+              "list_im": [
+                {
+                  "im_full_vn": "gọi (ai) xuống"
+                },
+                {
+                  "im_full_vn": "(thông tục) xỉ vả, mắng nhiếc thậm tệ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call forth",
+              "list_im": [
+                {
+                  "im_full_vn": "phát huy hết, đem hết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to call forth one's energy",
+                      "full_vn": "đem hết nghị lực"
+                    },
+                    {
+                      "full_en": "to call forth one's talents",
+                      "full_vn": "đem hết tài năng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "gây ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his behaviour calls forth numerous protests",
+                      "full_vn": "thái độ của anh ấy gây ra nhiều sự phản đối"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "gọi ra ngoài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call in",
+              "list_im": [
+                {
+                  "im_full_vn": "thu về, đòi về, lấy về (tiền...)"
+                },
+                {
+                  "im_full_vn": "mời đến, gọi đến, triệu đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to call in the doctor",
+                      "full_vn": "mời bác sĩ đến"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call off",
+              "list_im": [
+                {
+                  "im_full_vn": "gọi ra chỗ khác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "please call off your dog",
+                      "full_vn": "làm ơn gọi con chó anh ra chỗ khác"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đình lại, hoãn lại, ngừng lại; bỏ đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the match was called off",
+                      "full_vn": "cuộc đấu được hoãn lại"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "làm lãng đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to call off one's attention",
+                      "full_vn": "làm đãng trí"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call out",
+              "list_im": [
+                {
+                  "im_full_vn": "gọi ra"
+                },
+                {
+                  "im_full_vn": "gọi to"
+                },
+                {
+                  "im_full_vn": "gọi (quân đến đàn áp...)"
+                },
+                {
+                  "im_full_vn": "thách đấu gươm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call together",
+              "list_im": [
+                {
+                  "im_full_vn": "triệu tập (một cuộc họp...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call up",
+              "list_im": [
+                {
+                  "im_full_vn": "gọi tên"
+                },
+                {
+                  "im_full_vn": "gợi lại, nhắc lại (một kỷ niệm)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to call up a spirit",
+                      "full_vn": "gọi hồn, chiêu hồn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "gọi dây nói",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll call you up this evening",
+                      "full_vn": "chiều nay tôi sẽ gọi dây nói cho anh"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nảy ra (một ý kiến); gây ra (một cuộc tranh luận...)"
+                },
+                {
+                  "im_full_vn": "đánh thức, gọi dậy"
+                },
+                {
+                  "im_full_vn": "(quân sự) động viên, gọi (nhập ngũ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call away one's attention",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho đãng trí; làm cho không chú ý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call in question",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) question"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call into being (existence )",
+              "list_im": [
+                {
+                  "im_full_vn": "tạo ra, làm nảy sinh ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call into play",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) play"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call somebody names",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) name"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call somebody over the coals",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) coal"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call something one's own",
+              "list_im": [
+                {
+                  "im_full_vn": "có cái gì gọi là của mình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to have nothing to call one's own",
+                      "full_vn": "không có cái gì thực là của mình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call a spade a spade",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) spade"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to call at somebody's house",
+              "full_vn": "ghé thăm nhà ai"
+            },
+            {
+              "full_en": "to call on somebody",
+              "full_vn": "tạt qua thăm ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349812_26939c4f38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349812_0e268bf989_o.png",
+      "id_image": "call_1364955"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349782_440d054176_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349782_2e6f76f276_o.png",
+      "id_image": "call_1749986"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042460_8e2c7222bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042460_6a3297ff41_o.png",
+      "id_image": "call_3109483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660949_e623570328_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660949_c055452bf2_o.png",
+      "id_image": "call_3255237"
+    }
+  ]
+}

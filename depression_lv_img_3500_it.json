@@ -1,0 +1,70 @@
+{
+  "english": "depression",
+  "phat_am": "[di'pre∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ lõm, chỗ đất lún, chỗ sụt xuống"
+        },
+        {
+          "m_full_vn": "sự chán nản, sự ngã lòng; sự buồn rầu, sự phiền muộn"
+        },
+        {
+          "m_full_vn": "tình trạng đình đốn, tình trạng trì trệ, tình trạng đình trệ"
+        },
+        {
+          "m_full_vn": "sự suy yếu, sự suy nhược, sự sút kém (về thể lực)"
+        },
+        {
+          "m_full_vn": "sự giảm giá, sự sụt giá"
+        },
+        {
+          "m_full_vn": "sự nén xuống, sự đẩy xuống, sự hạ xuống"
+        },
+        {
+          "m_full_vn": "sự hạ (giọng)"
+        },
+        {
+          "m_full_vn": "(vật lý), (toán học) sự giảm, sự hạ thấp",
+          "list_en_vn": [
+            {
+              "full_en": "the depression of mercury in a thermometer",
+              "full_vn": "sự hạ thuỷ ngân trong nhiệt biểu"
+            },
+            {
+              "full_en": "depression of order of differential equation",
+              "full_vn": "sự giảm cấp của một phương trình vi phân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thiên văn học) góc nổi, phù giác"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066800_e94555aee2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066800_f6b75a31f0_o.png",
+      "id_image": "depression_1488155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330001_9fa47f5c0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330001_9d9fe4f6fb_o.png",
+      "id_image": "depression_2037073"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445093_5e1b5b6d9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445093_e30d2a2df6_o.png",
+      "id_image": "depression_552406"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445063_a35dd83b38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445063_c2a9bb1c92_o.png",
+      "id_image": "depression_670798"
+    }
+  ]
+}

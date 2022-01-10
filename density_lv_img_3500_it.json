@@ -1,0 +1,51 @@
+{
+  "english": "density",
+  "phat_am": "['densiti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính chất dày đặc, đông đúc, rậm rạp"
+        },
+        {
+          "m_full_vn": "độ dày; mật độ",
+          "list_en_vn": [
+            {
+              "full_en": "molecular density",
+              "full_vn": "mật độ phân tử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) tương quan giữa trọng lượng và khối lượng; tỷ trọng"
+        },
+        {
+          "m_full_vn": "tính đần độn, tính ngu đần"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332356_0098b2890e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332356_2d2656916d_o.png",
+      "id_image": "density_4176615"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069045_2978524407_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069045_1cd04eb58e_o.png",
+      "id_image": "density_5825237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377012_748d9cc4c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377012_66741992cb_o.png",
+      "id_image": "density_5931534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068985_c575f02248_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068985_c74e58d016_o.png",
+      "id_image": "density_6080884"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "bias",
+  "phat_am": "['baiəs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "độ xiên, dốc, nghiêng"
+        },
+        {
+          "m_full_vn": "đường chéo",
+          "list_en_vn": [
+            {
+              "full_en": "to cut on the bias",
+              "full_vn": "cắt chéo (vải)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự thiên về; thành kiến; xu hướng",
+          "list_en_vn": [
+            {
+              "full_en": "to have a bias in favour of /towards something",
+              "full_vn": "có khuynh hướng thiên về cái gì"
+            },
+            {
+              "full_en": "to have a bias against someone",
+              "full_vn": "có thành kiến không tốt đối với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) thế hiệu dịch",
+          "list_en_vn": [
+            {
+              "full_en": "automatic bias",
+              "full_vn": "thế hiệu dịch tự động"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to bias somebody towards / in favour of / against somebody / something ) làm cho có thành kiến",
+          "list_en_vn": [
+            {
+              "full_en": "to be biased against somebody",
+              "full_vn": "có thành kiến không tốt đối với ai"
+            },
+            {
+              "full_en": "a biassed account /jury",
+              "full_vn": "một báo cáo, một ban giám khảo thiên vị"
+            },
+            {
+              "full_en": "he is clearly biassed /biased in the government's favour",
+              "full_vn": "rõ ràng là anh ta có xu hướng bênh vực chính phủ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421758_31d2217b56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421758_2f5ca6a9a1_o.png",
+      "id_image": "bias_6314227"
+    }
+  ]
+}

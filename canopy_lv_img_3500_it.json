@@ -1,0 +1,74 @@
+{
+  "english": "canopy",
+  "phat_am": "['kænəpi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "màn trướng (treo trên bàn thờ, trước giường)"
+        },
+        {
+          "m_full_vn": "vòm",
+          "list_en_vn": [
+            {
+              "full_en": "the canopy of the heavens",
+              "full_vn": "vòm trời"
+            },
+            {
+              "full_en": "a canopy of leaves",
+              "full_vn": "vòm lá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kiến trúc) mái che"
+        },
+        {
+          "m_full_vn": "vòm kính che buồng lái (máy bay)"
+        },
+        {
+          "m_full_vn": "(hàng không) tán dù",
+          "list_one_mean": [
+            {
+              "id_full_en": "under the canopy",
+              "list_im": [
+                {
+                  "im_full_vn": "trên trái đất này, trên thế gian này"
+                }
+              ]
+            },
+            {
+              "id_full_en": "what under the canony does he want ?",
+              "list_im": [
+                {
+                  "im_full_vn": "nhưng mà nó muốn cái gì mới được chứ?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "che bằng màn, che bằng trướng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330156_9c5cfba769_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330156_69e99522f8_o.png",
+      "id_image": "canopy_1455789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374817_b349ce7dc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374817_fe461dd8e1_o.png",
+      "id_image": "canopy_3806660"
+    }
+  ]
+}

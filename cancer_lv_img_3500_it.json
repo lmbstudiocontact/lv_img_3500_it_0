@@ -1,0 +1,58 @@
+{
+  "english": "cancer",
+  "phat_am": "['kænsə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bệnh ung thư",
+          "list_en_vn": [
+            {
+              "full_en": "to die of cancer",
+              "full_vn": "chết vì bệnh ung thư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ung nhọt, những cái xấu xa (của xã hội)"
+        },
+        {
+          "m_full_vn": "Con cua (cung thứ tư trong Hoàng đạo)",
+          "list_one_mean": [
+            {
+              "id_full_en": "the tropics of Cancer",
+              "list_im": [
+                {
+                  "im_full_vn": "hạ chí tuyến"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348107_74774cf080_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348107_d1e18555ac_o.png",
+      "id_image": "cancer_4720578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348077_8c2a2dc50c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348077_a6e6f0fc64_o.png",
+      "id_image": "cancer_4953041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348072_918ddd7dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348072_45c314b326_o.png",
+      "id_image": "cancer_5278124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040700_0b034afc78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040700_47e55ff6d5_o.png",
+      "id_image": "cancer_5278410"
+    }
+  ]
+}

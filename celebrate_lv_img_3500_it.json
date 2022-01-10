@@ -1,0 +1,68 @@
+{
+  "english": "celebrate",
+  "phat_am": "['selibretid]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh dấu (một ngày, sự kiện quan trọng và vui vẻ...) với những hoạt động lễ hội và vui chơi; kỷ niệm; làm lễ kỷ niệm",
+          "list_en_vn": [
+            {
+              "full_en": "to celebrate someone's birthday",
+              "full_vn": "làm lễ kỷ niệm ngày sinh của ai, ăn mừng sinh nhật ai"
+            },
+            {
+              "full_en": "to celebrate someone's wedding anniversary",
+              "full_vn": "làm lễ kỷ niệm ngày cưới của ai, kỷ niệm ngày cưới của ai"
+            },
+            {
+              "full_en": "to celebrate a victory",
+              "full_vn": "tổ chức lễ mừng chiến thắng, ăn mừng chiến thắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cử hành (buổi lễ (tôn giáo))",
+          "list_en_vn": [
+            {
+              "full_en": "to celebrate the Eucharist",
+              "full_vn": "cử hành lễ ban thánh thể"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tán dương, ca tụng, tôn vinh",
+          "list_en_vn": [
+            {
+              "full_en": "the Vietnamese guerilla's legendary exploits have been celebrated in many world-famous documentary films",
+              "full_vn": "chiến công thần kỳ của quân du kích Việt Nam đã được ca ngợi trong nhiều bộ phim tài liệu nổi tiếng thế giới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054560_946850cdea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054560_fb06f2ec31_o.png",
+      "id_image": "celebrate_1553725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362397_dae43213c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362397_76414cb543_o.png",
+      "id_image": "celebrate_2367817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054490_d9dcba342f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054490_c3db9af576_o.png",
+      "id_image": "celebrate_4442765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317876_3c372ac217_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317876_267e36ea9f_o.png",
+      "id_image": "celebrate_5020332"
+    }
+  ]
+}

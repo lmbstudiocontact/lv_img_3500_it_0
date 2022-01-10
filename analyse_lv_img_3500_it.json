@@ -1,0 +1,58 @@
+{
+  "english": "analyse",
+  "phat_am": "['ænəlaiz]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chia cái gì thành những bộ phận của nó để nghiên cứu bản chất hoặc cấu trúc của nó; phân tích",
+          "list_en_vn": [
+            {
+              "full_en": "to analyse a sentence grammatically",
+              "full_vn": "phân tích ngữ pháp một câu văn"
+            },
+            {
+              "full_en": "to analyse the sample and identify it",
+              "full_vn": "phân tích mẫu và nhận dạng nó"
+            },
+            {
+              "full_en": "to analyse water",
+              "full_vn": "phân tích nước"
+            },
+            {
+              "full_en": "to analyse an issue",
+              "full_vn": "phân tích một vấn đề"
+            },
+            {
+              "full_en": "try to analyse the causes of the accident",
+              "full_vn": "hãy cố gắng phân tích nguyên nhân của tai nạn đó"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313621_dfbca23fa2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313621_c7ca823373_o.png",
+      "id_image": "analyse_2456512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668409_f3106ec614_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668409_edfb5d262a_o.png",
+      "id_image": "analyse_4463268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428418_8f3efd8902_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428418_f727e1f43e_o.png",
+      "id_image": "analyse_4636159"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428388_c740310887_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428388_fb58af3ae4_o.png",
+      "id_image": "analyse_5661186"
+    }
+  ]
+}

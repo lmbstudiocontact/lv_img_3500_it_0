@@ -1,0 +1,64 @@
+{
+  "english": "console",
+  "phat_am": "['kɔnsoul]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to console somebody for / on something ) an ủi",
+          "list_en_vn": [
+            {
+              "full_en": "I shall come and console him for /on his being unsuccessful at the poll",
+              "full_vn": "Tôi sẽ đến an ủi ông ấy về việc ông ấy thất cử"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bảng điều khiển của thiết bị điện tử hoặc cơ khí"
+        },
+        {
+          "m_full_vn": "hộp đài hoặc tivi được thiết kế để đứng trên mặt sàn"
+        },
+        {
+          "m_full_vn": "khung bao gồm bàn phím và các núm điều khiển một cây đàn óoc"
+        },
+        {
+          "m_full_vn": "thanh đỡ của một chiếc giá"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665024_915320fbf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665024_f28291ff57_o.png",
+      "id_image": "console_1142707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664989_afac596b88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664989_3223089d75_o.png",
+      "id_image": "console_1191102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424748_17c550770b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424748_494ff53dff_o.png",
+      "id_image": "console_1519456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046625_dc597af393_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046625_f42b415956_o.png",
+      "id_image": "console_2637947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309566_f2e1aef8f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309566_3c70834b44_o.png",
+      "id_image": "console_2727101"
+    }
+  ]
+}

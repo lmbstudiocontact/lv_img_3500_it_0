@@ -1,0 +1,101 @@
+{
+  "english": "coal",
+  "phat_am": "[koul]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "than đá"
+        },
+        {
+          "m_full_vn": "( số nhiều) viên than đá",
+          "list_one_mean": [
+            {
+              "id_full_en": "to blow the coals",
+              "list_im": [
+                {
+                  "im_full_vn": "đổ thêm dầu vào lửa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry coals to Newcastle",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) carry"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to haul (call , rake , drag ) somebody over the coals",
+              "list_im": [
+                {
+                  "im_full_vn": "xỉ vả ai, mắng nhiếc ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to heap coals of fire on someone's head",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy ơn trả oán, lấy thiện trả ác"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho (tàu) ăn than; tiếp tế than cho",
+          "list_en_vn": [
+            {
+              "full_en": "to coal a ship",
+              "full_vn": "cho tàu ăn than"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ăn than, lấy than",
+          "list_en_vn": [
+            {
+              "full_en": "ships coal at a port",
+              "full_vn": "tàu ăn than ở cảng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327471_9ca7a6a9ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327471_30247c05c8_o.png",
+      "id_image": "coal_1870741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442518_6f73584c21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442518_b9c7f575f3_o.png",
+      "id_image": "coal_307117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064150_94eb1802b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064150_4cc0444010_o.png",
+      "id_image": "coal_3977989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372057_64dff8f934_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372057_643370324f_o.png",
+      "id_image": "coal_6027366"
+    }
+  ]
+}

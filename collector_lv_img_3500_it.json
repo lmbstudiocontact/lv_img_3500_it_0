@@ -1,0 +1,33 @@
+{
+  "english": "collector",
+  "phat_am": "[kə'lektə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người thu thập, người sưu tầm; người thu (thuế, tiền...)",
+          "list_en_vn": [
+            {
+              "full_en": "collector's item",
+              "full_vn": "vật sưu tầm được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người đi quyên"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cổ góp, vành góp, cực góp, ống góp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436883_2a3febed09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436883_e6f948486f_o.png",
+      "id_image": "collector_6295456"
+    }
+  ]
+}

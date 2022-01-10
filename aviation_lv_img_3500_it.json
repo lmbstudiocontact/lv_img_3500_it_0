@@ -1,0 +1,41 @@
+{
+  "english": "aviation",
+  "phat_am": "[,eivi'ei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoa học hoặc việc thực hành bay; hàng không",
+          "list_en_vn": [
+            {
+              "full_en": "civil aviation",
+              "full_vn": "hàng không dân dụng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc thiết kế và chế tạo máy bay",
+          "list_en_vn": [
+            {
+              "full_en": "aviation industry",
+              "full_vn": "kỹ nghệ hàng không"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369127_743cd328e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369127_95d51c5e4e_o.png",
+      "id_image": "aviation_2302769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679399_9582886574_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679399_c78568f775_o.png",
+      "id_image": "aviation_4469531"
+    }
+  ]
+}

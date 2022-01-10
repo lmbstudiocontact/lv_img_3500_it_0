@@ -1,0 +1,57 @@
+{
+  "english": "acid",
+  "phat_am": "['æsid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hoá học) Axit"
+        },
+        {
+          "m_full_vn": "chất chua"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "Axit",
+          "list_en_vn": [
+            {
+              "full_en": "acid radical",
+              "full_vn": "gốc axit"
+            },
+            {
+              "full_en": "acid test",
+              "full_vn": "sự thử bằng axit"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) gay go"
+        },
+        {
+          "m_full_vn": "chua"
+        },
+        {
+          "m_full_vn": "chua cay, gay gắt; gắt gỏng",
+          "list_en_vn": [
+            {
+              "full_en": "acid looks",
+              "full_vn": "vẻ gay gắt, vẻ gắt gỏng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678854_a9c5fb9b0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678854_a733bf9ef5_o.png",
+      "id_image": "acid_5671351"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "english": "aid",
+  "phat_am": "[eid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự giúp đỡ, sự cứu giúp, sự viện trợ",
+          "list_en_vn": [
+            {
+              "full_en": "first-aid ward",
+              "full_vn": "khu cấp cứu trong bệnh viện"
+            },
+            {
+              "full_en": "humanitarian aid from non-governmental organizations",
+              "full_vn": "viện trợ nhân đạo của các tổ chức phi chính phủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người giúp đỡ, người phụ tá"
+        },
+        {
+          "m_full_vn": "(sử học) thuế nộp cho nhà vua"
+        },
+        {
+          "m_full_vn": "( số nhiều) những phương tiện trợ giúp",
+          "list_one_mean": [
+            {
+              "id_full_en": "by (with ) the aid of",
+              "list_im": [
+                {
+                  "im_full_vn": "nhờ sự giúp đỡ của"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lend aid to",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) lend"
+                }
+              ]
+            },
+            {
+              "id_full_en": "what's all this aid of ?",
+              "list_im": [
+                {
+                  "im_full_vn": "tất cả những cái này dùng để làm gì?"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "aids and appliances",
+              "full_vn": "phương tiện trợ giúp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giúp đỡ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to aid and abet sb",
+              "list_im": [
+                {
+                  "im_full_vn": "là đồng phạm xúi giục của ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to aid an orphan in his studies",
+              "full_vn": "giúp một em bé mồ côi học hành"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433183_eddd4d4336_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433183_2913d74268_o.png",
+      "id_image": "aid_5002650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362427_0e225f8186_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362427_e760b97abf_o.png",
+      "id_image": "aid_5017397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672739_8c68d1ff71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672739_84ea6590c5_o.png",
+      "id_image": "aid_5065269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317896_4b63c409cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317896_fb13307a59_o.png",
+      "id_image": "aid_5065291"
+    }
+  ]
+}

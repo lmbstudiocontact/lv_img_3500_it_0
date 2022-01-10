@@ -1,0 +1,71 @@
+{
+  "english": "acceptance",
+  "phat_am": "[ək'septəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhận, sự chấp nhận, sự chấp thuận"
+        },
+        {
+          "m_full_vn": "sự thừa nhận, sự công nhận"
+        },
+        {
+          "m_full_vn": "sự hoan nghênh, sự tán thưởng, sự tán thành; sự tin",
+          "list_en_vn": [
+            {
+              "full_en": "his statement will not find acceptance",
+              "full_vn": "lời tuyên bố của ông ta sẽ không được ai tin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) sự nhận thanh toán (hoá đơn); hoá đơn được nhận thanh toán",
+          "list_one_mean": [
+            {
+              "id_full_en": "acceptance of persons",
+              "list_im": [
+                {
+                  "im_full_vn": "sự thiên vị"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "general acceptance",
+              "full_vn": "sự nhận thanh toán không cần có điều kiện"
+            },
+            {
+              "full_en": "qualified acceptance",
+              "full_vn": "sự nhận thanh toán có điều kiện"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441188_ff0029ffc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441188_0dcacdaf74_o.png",
+      "id_image": "acceptance_5138573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063020_0f62147bee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063020_c7af0d56b5_o.png",
+      "id_image": "accepted_1484643"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370917_8cd167d3f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370917_912a83a147_o.png",
+      "id_image": "accepted_6182807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371117_86ed7ec8a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371117_59870701de_o.png",
+      "id_image": "accept_1977275"
+    }
+  ]
+}

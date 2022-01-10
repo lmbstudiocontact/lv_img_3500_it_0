@@ -1,0 +1,53 @@
+{
+  "english": "armchair",
+  "phat_am": "['ɑ:mt∫eə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghế bành"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không có hoặc không đem lại kinh nghiệm thiết thực về cái gì; suông; vô bổ",
+          "list_en_vn": [
+            {
+              "full_en": "armchair critics",
+              "full_vn": "những nhà phê bình suông"
+            },
+            {
+              "full_en": "an armchair traveller",
+              "full_vn": "nhà du lịch ghế bành (đọc hoặc nghe nói về du lịch, nhưng bản thân không đi đâu cả)"
+            },
+            {
+              "full_en": "armchair theatre",
+              "full_vn": "sân khấu ghế bành (trên (rađiô) hoặc TV chẳng hạn)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350047_d05e58e091_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350047_84ae7fe393_o.png",
+      "id_image": "armchair_603357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305796_126bfd5a86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305796_e48c326ed0_o.png",
+      "id_image": "armchair_603358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349992_bf3dbbfffe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349992_2e7516ff45_o.png",
+      "id_image": "armchair_603359"
+    }
+  ]
+}

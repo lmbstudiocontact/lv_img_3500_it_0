@@ -1,0 +1,31 @@
+{
+  "english": "commuter",
+  "phat_am": "[kə'mju:tə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) người đi lại thường xuyên bằng xe buýt, xe lửa hoặc ô tô giữa nơi làm việc và nhà ở",
+          "list_en_vn": [
+            {
+              "full_en": "the five o'clock train is always packed with commuters",
+              "full_vn": "chuyến xe lửa năm giờ luôn chật ních người đi làm"
+            },
+            {
+              "full_en": "the commuter belt",
+              "full_vn": "vành đai những người đi làm vào nội thành (khu vực chung quanh một thành phố lớn mà từ đó, những người đi làm đáp xe vào nội thành làm việc)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054105_9fa7349c98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054105_5467dbd919_o.png",
+      "id_image": "commuter_4300050"
+    }
+  ]
+}

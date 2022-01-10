@@ -1,0 +1,235 @@
+{
+  "english": "common",
+  "phat_am": "['kɔmən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về, được chia sẻ bởi, được làm hoặc có ảnh hưởng đến hai hoặc nhiều người, hoặc đa số của một nhóm, một cộng đồng; chung",
+          "list_en_vn": [
+            {
+              "full_en": "common property /ownership",
+              "full_vn": "tài sản/quyền sở hữu chung"
+            },
+            {
+              "full_en": "we share a common purpose",
+              "full_vn": "chúng ta có cùng một mục đích"
+            },
+            {
+              "full_en": "I am Vietnamese , she is Belgian , but we have French as a common language",
+              "full_vn": "tôi người Việt, cô ấy người Bỉ, nhưng chúng tôi có ngôn ngữ chung là tiếng Pháp"
+            },
+            {
+              "full_en": "he and I have a common interest : We both collect stamps",
+              "full_vn": "anh ta và tôi có cùng sở thích : Cà hai chúng tôi đều sưu tầm tem"
+            },
+            {
+              "full_en": "measures taken for the common good",
+              "full_vn": "các biện pháp vì lợi ích chung"
+            },
+            {
+              "full_en": "common ground",
+              "full_vn": "điểm chung (hai bên cùng có để đi đến chỗ thoả thuận)"
+            },
+            {
+              "full_en": "common noun",
+              "full_vn": "danh từ chung"
+            },
+            {
+              "full_en": "a fruity quality is common to all wine made from this grape",
+              "full_vn": "tính chất ngọt mùi hoa quả là chung cho tất cả các loại rượu làm bằng thứ nho này"
+            },
+            {
+              "full_en": "common multiple",
+              "full_vn": "(toán học) bội số chung"
+            },
+            {
+              "full_en": "common divisor",
+              "full_vn": "(toán học) ước số chung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thông thường, phổ biến",
+          "list_en_vn": [
+            {
+              "full_en": "a common flower /sight /event",
+              "full_vn": "một loại hoa/cảnh trí/sự kiện thông thường"
+            },
+            {
+              "full_en": "it is common knowledge that ...",
+              "full_vn": "điều phổ biến là..., mọi người đều biết rằng..."
+            },
+            {
+              "full_en": "is this word in common use ?",
+              "full_vn": "từ này có thường dùng không?"
+            },
+            {
+              "full_en": "robbery is not common in this area",
+              "full_vn": "vùng này thường không có trộm cướp"
+            },
+            {
+              "full_en": "pine trees are common throughout the world",
+              "full_vn": "cây thông có ở khắp nơi trên thế giới"
+            },
+            {
+              "full_en": "common sense",
+              "full_vn": "lẽ phải thông thường thực tế có được từ kinh nghiệm sống (chứ chẳng phải do nghiên cứu gì cả); lẽ thường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không có hạng bậc hoặc tư cách đặc biệt; bình thường",
+          "list_en_vn": [
+            {
+              "full_en": "he's not an officer , but a common soldier",
+              "full_vn": "anh ta không phải là sĩ quan, mà chỉ là lính thường"
+            },
+            {
+              "full_en": "the common people",
+              "full_vn": "dân thường"
+            },
+            {
+              "full_en": "common salt",
+              "full_vn": "muối thường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tầm thường, dung tục",
+          "list_one_mean": [
+            {
+              "id_full_en": "as common as dirt /muck",
+              "list_im": [
+                {
+                  "im_full_vn": "(về người) rất tầm thường; dung tục"
+                }
+              ]
+            },
+            {
+              "id_full_en": "common or garden",
+              "list_im": [
+                {
+                  "im_full_vn": "thông thường, chẳng có gì lạ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it isn't a rare bird , just a common or garden sparrow",
+                      "full_vn": "đây không phải một con chim hiếm, mà chỉ là chim sẻ thường thấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the common touch",
+              "list_im": [
+                {
+                  "im_full_vn": "khả năng (nhất là của người có địa vị cao) xử sự và tiếp xúc với những người bình thường một cách thân mật; tiếp xúc chan hoà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a politician needs the comon touch",
+                      "full_vn": "chính khách cần phải có khả năng tiếp xúc chan hoà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make common cause with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đoàn kết lại để theo đuổi một mục đích chung",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the rebel factions made common cause (with one another ) to overthrow the regime",
+                      "full_vn": "các phe phiến loạn đoàn kết lại (với nhau) để lật đổ chế độ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a common appearance",
+              "full_vn": "diện mạo tầm thường"
+            },
+            {
+              "full_en": "he is very common",
+              "full_vn": "hắn thô tục lắm"
+            },
+            {
+              "full_en": "common manners /accents /clothes",
+              "full_vn": "cung cách/lời nói/quần áo tầm thường"
+            },
+            {
+              "full_en": "she's so common , shouting like that so all the neighbours can hear",
+              "full_vn": "bà ấy dung tục quá, cứ hét toáng lên như thể cho hàng xóm ai cũngnghe thấy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bãi cỏ không rào, ai sử dụng cũng được (ở trong làng hoặc gần làng); đất công"
+        },
+        {
+          "m_full_vn": "quyền được hưởng trên đất đai của người khác",
+          "list_one_mean": [
+            {
+              "id_full_en": "in common",
+              "list_im": [
+                {
+                  "im_full_vn": "cho hoặc bởi tất cả mọi người trong một nhóm; chung"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have something in common (with somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "có chung lợi ích, đặc điểm...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Jane and I have nothing in common",
+                      "full_vn": "Jane và tôi chẳng có điểm gì chung cả"
+                    },
+                    {
+                      "full_en": "I have nothing in common with Jane",
+                      "full_vn": "Tôi chẳng có điểm nào chung với Jane cả"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in common with somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng với ai/cái gì; giống như ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "in common with many others , she applied for a training place",
+                      "full_vn": "cùng với/giống như nhiều người khác, cô ta cũng xin một chân huấn luyện"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054925_36c5c49fbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054925_a092684e3f_o.png",
+      "id_image": "common_5541816"
+    }
+  ]
+}

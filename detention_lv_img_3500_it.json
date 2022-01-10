@@ -1,0 +1,49 @@
+{
+  "english": "detention",
+  "phat_am": "[di'ten∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự giam cầm, sự cầm tù; tình trạng bị giam cầm, tình trạng bị cầm tù",
+          "list_en_vn": [
+            {
+              "full_en": "a house of detention",
+              "full_vn": "nhà tù, nhà giam"
+            },
+            {
+              "full_en": "detention barracks",
+              "full_vn": "(quân sự) trại giam"
+            },
+            {
+              "full_en": "detention center",
+              "full_vn": "nhà tạm giữ, trại tạm giam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phạt không cho ra ngoài; sự bắt ở lại trường sau khi tan học"
+        },
+        {
+          "m_full_vn": "sự cầm giữ (tài sản, đồ vật...)"
+        },
+        {
+          "m_full_vn": "sự chậm trễ bắt buộc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063705_02a970cffd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063705_dbf6f9a05f_o.png",
+      "id_image": "detention_2495677"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326751_af67eb77aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326751_62c87d84ce_o.png",
+      "id_image": "detention_5777990"
+    }
+  ]
+}

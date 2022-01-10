@@ -1,0 +1,49 @@
+{
+  "english": "cordon",
+  "phat_am": "['kɔ:dn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hàng hoặc vòng cảnh sát, lính... nhất là để bảo vệ cái gì hoặc ngăn không cho dân chúng bước vào hoặc ra khỏi một khu vực; hàng rào cảnh sát; hàng rào quân đội",
+          "list_en_vn": [
+            {
+              "full_en": "demonstrators tried to break through the police cordon",
+              "full_vn": "những người biểu tình tìm cách chọc thủng hàng rào cảnh sát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dây kim tuyến (đeo ở vai...)"
+        },
+        {
+          "m_full_vn": "(kiến trúc) gờ đầu tường"
+        },
+        {
+          "m_full_vn": "loại cây ăn quả mà các cành xung quanh bị xén cụt sao cho cây phát triển như loại cây một thân (mọc ven tường hoặc dọc theo hàng rào dây thép)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to cordon something off ) dùng hàng rào cảnh sát cách ly hoặc bao vây cái gì"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447658_ab361a3515_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447658_2dd8f23dfb_o.png",
+      "id_image": "cordon_1890709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332581_d0904792ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332581_9f51677406_o.png",
+      "id_image": "cordon_3580817"
+    }
+  ]
+}

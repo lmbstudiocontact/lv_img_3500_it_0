@@ -1,0 +1,168 @@
+{
+  "english": "brain",
+  "phat_am": "[brein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "óc; não",
+          "list_en_vn": [
+            {
+              "full_en": "a disease of the brain",
+              "full_vn": "một chứng bệnh não"
+            },
+            {
+              "full_en": "the brain is the centre of the nervous system",
+              "full_vn": "não là trung tâm của hệ thần kinh"
+            },
+            {
+              "full_en": "brain surgery",
+              "full_vn": "khoa phẫu thuật não"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trí tuệ; trí lực; trí thông minh",
+          "list_en_vn": [
+            {
+              "full_en": "he has very little brain",
+              "full_vn": "nó kém thông minh"
+            },
+            {
+              "full_en": "he has an excellent brain",
+              "full_vn": "nó thông minh lắm"
+            },
+            {
+              "full_en": "you need brains to become a researcher",
+              "full_vn": "anh phải có trí tuệ thì mới làm nhà nghiên cứu được"
+            },
+            {
+              "full_en": "he has one of the best brains in the military academy",
+              "full_vn": "anh ấy là một trong những người thông thái nhất của học viện quân sự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người thông minh; người trí thức",
+          "list_en_vn": [
+            {
+              "full_en": "he is one of the leading brains in the country",
+              "full_vn": "ông ấy là một trong những nhà thông thái hàngđâu của đất nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the brains ) người giỏi nhất trong một nhóm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to crack one's brain",
+              "list_im": [
+                {
+                  "im_full_vn": "dở điên, dở gàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have something on the brain",
+              "list_im": [
+                {
+                  "im_full_vn": "luôn luôn nghĩ ngợi về một điều gì; bị một điều gì ám ảnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "an idle brain is the devil's workshop",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) nhàn cư vi bất thiện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make somebody's brain reel",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai choáng váng đầu óc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pick (suck ) somebody's brain",
+              "list_im": [
+                {
+                  "im_full_vn": "moi và dùng những ý kiến của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rack (cudgel , puzzle , beat , ransack ) one's brains",
+              "list_im": [
+                {
+                  "im_full_vn": "nặn óc; vắt óc suy nghĩ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn somebody's brain",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho đầu óc ai hoa lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to blow sb's brain out",
+              "list_im": [
+                {
+                  "im_full_vn": "bắn vào đầu ai, bắn vỡ óc ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he's the brains of the family",
+              "full_vn": "anh ấy là người giỏi giang nhất gia đình"
+            },
+            {
+              "full_en": "she was the brains behind the whole scheme",
+              "full_vn": "bà ta là đầu não của toàn bộ kế hoạch ấy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giết bằng cách đánh mạnh vào đầu; đánh vỡ đầu",
+          "list_en_vn": [
+            {
+              "full_en": "I nearly brained myself on that low bar",
+              "full_vn": "Tôi suýt vỡ đầu vì va vào cái xà thấp này"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363462_fcb0a6598b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363462_34a8dc39b2_o.png",
+      "id_image": "brains_2451242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363442_5d576bc84a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363442_39984e0e6f_o.png",
+      "id_image": "brains_2451257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673749_9e58910032_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673749_a141d85c54_o.png",
+      "id_image": "brain_286484"
+    }
+  ]
+}

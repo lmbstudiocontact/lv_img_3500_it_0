@@ -1,0 +1,211 @@
+{
+  "english": "company",
+  "phat_am": "['kʌmpəni]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cùng đi; sự cùng ở; sự có bầu có bạn",
+          "list_en_vn": [
+            {
+              "full_en": "I enjoy your company",
+              "full_vn": "tôi rất sung sướng có anh cùng đi; tôi rất thích cùng ở với anh"
+            },
+            {
+              "full_en": "to be good /bad company",
+              "full_vn": "là bạn tốt/xấu"
+            },
+            {
+              "full_en": "you may know him by the company he keeps",
+              "full_vn": "chỉ cần xem bạn bè nó anh cũng có thể biết nó là hạng người nào"
+            },
+            {
+              "full_en": "in good company",
+              "full_vn": "làm như một người nào đó; tốt hơn những người khác"
+            },
+            {
+              "full_en": "I'm late again ! - Well , you're in good company . The boss isn't here yet !",
+              "full_vn": "Tôi lại đến muộn nữa rồi - Này, anh còn khá hơn khối người khác đấy. Ông chủ còn chưa đến cơ mà!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm người cùng với nhau; khách khứa",
+          "list_en_vn": [
+            {
+              "full_en": "they have company this evening",
+              "full_vn": "tối nay họ có khách"
+            },
+            {
+              "full_en": "we're expecting company next week",
+              "full_vn": "chúng tôi đợi khách đến vào tuần tới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm người liên kết lại để kinh doanh vì mục đích thương mại; công ty",
+          "list_en_vn": [
+            {
+              "full_en": "a railway company",
+              "full_vn": "công ty đường sắt"
+            },
+            {
+              "full_en": "a joint-stock company",
+              "full_vn": "công ty cổ phần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm người làm việc chung với nhau",
+          "list_en_vn": [
+            {
+              "full_en": "a company of players",
+              "full_vn": "đoàn diễn viên"
+            },
+            {
+              "full_en": "a theatrical company",
+              "full_vn": "đoàn kịch"
+            },
+            {
+              "full_en": "the ship's company",
+              "full_vn": "thủy thủ đoàn của một chiếc tàu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) đại đội",
+          "list_one_mean": [
+            {
+              "id_full_en": "to keep somebody company",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng đi (cùng ở) với ai cho có bạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get into /keep bad company",
+              "list_im": [
+                {
+                  "im_full_vn": "kết bạn với những người xấu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in company",
+              "list_im": [
+                {
+                  "im_full_vn": "với sự có mặt của nhiều người khác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it's bad manners to whisper in company",
+                      "full_vn": "nói thầm trước mặt những người khác là không lịch sự"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in company with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to part company with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "cắt đứt quan hệ với ai, đoạn tuyệt với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "present company excepted /excepting present company",
+              "list_im": [
+                {
+                  "im_full_vn": "trừ các bạn ra, trừ quý vị ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "two's company (three's a crowd / three's none )",
+              "list_im": [
+                {
+                  "im_full_vn": "tốt nhất là chỉ có hai người với nhau mà thôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for company",
+              "list_im": [
+                {
+                  "im_full_vn": "như một người bạn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I hate going out alone : I take my wife for company",
+                      "full_vn": "Tôi ghét đi chơi một mình : Tôi đưa vợ tôi đi chung cho vui"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to weep for company",
+              "list_im": [
+                {
+                  "im_full_vn": "khóc theo (vì bạn mình khóc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "company tax",
+              "list_im": [
+                {
+                  "im_full_vn": "như corporation tax"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) đi theo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317511_18051d87bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317511_ac8f2e080d_o.png",
+      "id_image": "company_2761008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053990_72ce3e6c16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053990_387e398894_o.png",
+      "id_image": "company_2798710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053935_541b9250df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053935_30034dc894_o.png",
+      "id_image": "company_4514945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432558_35809829ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432558_e1f2b4e809_o.png",
+      "id_image": "company_5663343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054050_c19a1176ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054050_3898c7ebe9_o.png",
+      "id_image": "company_992824"
+    }
+  ]
+}

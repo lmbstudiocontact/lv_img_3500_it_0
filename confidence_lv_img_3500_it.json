@@ -1,0 +1,116 @@
+{
+  "english": "confidence",
+  "phat_am": "['kɔnfidəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nói riêng; sự giãi bày tâm sự",
+          "list_en_vn": [
+            {
+              "full_en": "told in confidence",
+              "full_vn": "nói riêng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyện riêng, chuyện tâm sự, chuyện kín, chuyên bí mật",
+          "list_en_vn": [
+            {
+              "full_en": "to exchange confidences",
+              "full_vn": "giãi bày tâm sự với nhau, trao đổi chuyện riêng với nhau"
+            },
+            {
+              "full_en": "to take somebody into one's confidence",
+              "full_vn": "thổ lộ chuyện riêng với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tin, sự tin cậy, sự tin tưởng",
+          "list_en_vn": [
+            {
+              "full_en": "to have confidence in somebody",
+              "full_vn": "tin ở ai"
+            },
+            {
+              "full_en": "to gain somebody's confidence",
+              "full_vn": "được ai tin cậy, được ai tín nhiệm"
+            },
+            {
+              "full_en": "to give one's confidence to somebody",
+              "full_vn": "tin cậy ai"
+            },
+            {
+              "full_en": "to misplace one's confidence",
+              "full_vn": "tin cậy người không tốt, tin người không đáng tin"
+            },
+            {
+              "full_en": "to worm oneself into somebody's confidence",
+              "full_vn": "luồn lõi tìm cách lấy lòng tin của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tin chắc, sự quả quyết",
+          "list_en_vn": [
+            {
+              "full_en": "to speak with confidence",
+              "full_vn": "nói quả quyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự liều, sự liều lĩnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "in strict confidence",
+              "list_im": [
+                {
+                  "im_full_vn": "hết sức bí mật (chỉ có hai người biết riêng với nhau thôi)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "man of confidence",
+              "list_im": [
+                {
+                  "im_full_vn": "người tâm phúc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he speaks with too much confidence",
+              "full_vn": "nó nói liều"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356597_f0286b2249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356597_c3bddf4566_o.png",
+      "id_image": "confidence_2037294"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049135_45b217cd21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049135_03270d7920_o.png",
+      "id_image": "confidence_5225011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049110_c7dc4b4b08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049110_e4dedf62b3_o.png",
+      "id_image": "confidence_5772957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427303_ea6aff8554_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427303_df84302989_o.png",
+      "id_image": "confidence_5906152"
+    }
+  ]
+}

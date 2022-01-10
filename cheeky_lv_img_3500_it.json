@@ -1,0 +1,37 @@
+{
+  "english": "cheeky",
+  "phat_am": "['t∫i:ki]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xấc láo; hỗn xược",
+          "list_en_vn": [
+            {
+              "full_en": "a cheeky boy /remark",
+              "full_vn": "cậu bé/lời nhận xét xấc láo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426878_0fcdc93efb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426878_eede813448_o.png",
+      "id_image": "cheeky_1316887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666859_53664e50b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666859_ed99853334_o.png",
+      "id_image": "cheeky_1815068"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426808_e40d1d6065_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426808_7193959f55_o.png",
+      "id_image": "cheeky_1815134"
+    }
+  ]
+}

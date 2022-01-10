@@ -1,0 +1,380 @@
+{
+  "english": "arm",
+  "phat_am": "[ɑ:mz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cánh tay",
+          "list_en_vn": [
+            {
+              "full_en": "she held the baby in her arms",
+              "full_vn": "cô ta ôm đứa bé trong tay"
+            },
+            {
+              "full_en": "he gave her his arm as they crossed the road",
+              "full_vn": "anh ta đưa tay cho cô ấy khoác khi họ đi ngang qua đường"
+            },
+            {
+              "full_en": "he rushed into her arms",
+              "full_vn": "nó vào tay của cô ta (để được ôm hôn)"
+            },
+            {
+              "full_en": "to carry a book under one's arm",
+              "full_vn": "cặp cuốn sách dưới nách (giữa cánh tay và thân mình)"
+            },
+            {
+              "full_en": "babe in arms",
+              "full_vn": "đứa bé còn nhỏ, chưa đi hoặc bò được; bé ẵm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ống tay áo",
+          "list_en_vn": [
+            {
+              "full_en": "there's a tear in the arm of my jacket",
+              "full_vn": "có một chỗ rách trên ống tay áo khoác ngoài của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái có hình như cánh tay hoặc hoạt động như cánh tay; nhánh",
+          "list_en_vn": [
+            {
+              "full_en": "the arms of a chair",
+              "full_vn": "những tay ghế"
+            },
+            {
+              "full_en": "an arm of the sea",
+              "full_vn": "một nhánh biển (lạch dài giữa hai hòn đảo)"
+            },
+            {
+              "full_en": "an arm of a tree",
+              "full_vn": "một nhánh cây"
+            },
+            {
+              "full_en": "the (pick-up ) arm of a record-player",
+              "full_vn": "cái cần của một máy quay đĩa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngành hoặc chủng loại của lực lượng quân sự một nước; quân chủng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to chance one's arm",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) chance"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep someone at arm's length",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) length"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a long arm",
+              "list_im": [
+                {
+                  "im_full_vn": "xem long"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a shot in the arm",
+              "list_im": [
+                {
+                  "im_full_vn": "xem shot"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a long arm",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) long"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to twist somebody's arm",
+              "list_im": [
+                {
+                  "im_full_vn": "xem twist"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's arm further than one can draw it back again",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cái gì quá đáng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the (long ) arm of the law",
+              "list_im": [
+                {
+                  "im_full_vn": "(phạm vi) quyền lực hoặc uy thế của pháp luật",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he fled to Brazil trying to escape the long arm of the law",
+                      "full_vn": "nó trốn sang Braxin hòng thoát khỏi quyền lực của pháp luật"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shorten the arm of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "hạn chế quyền lực của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw oneself into the arms of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm sự che chở của ai, tìm sự bảo vệ của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to welcome (receive , greet ) with open arms",
+              "list_im": [
+                {
+                  "im_full_vn": "đón tiếp ân cần, niềm nở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fold one's arms",
+              "list_im": [
+                {
+                  "im_full_vn": "xem fold"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fold somebody /something in one's arms",
+              "list_im": [
+                {
+                  "im_full_vn": "xem fold"
+                }
+              ]
+            },
+            {
+              "id_full_en": "arm in arm",
+              "list_im": [
+                {
+                  "im_full_vn": "tay người này khoác vào tay người kia; khoác tay nhau",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "strolling happily arm in arm",
+                      "full_vn": "vui vẻ khoác tay nhau đi dạo"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "troops supported by the air arm",
+              "full_vn": "đoàn quân được không quân yểm trợ"
+            },
+            {
+              "full_en": "infantry arm",
+              "full_vn": "lục quân"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ số nhiều",
+      "list_m": [
+        {
+          "m_full_vn": "súng ống; vũ khí",
+          "list_en_vn": [
+            {
+              "full_en": "arms and ammunition",
+              "full_vn": "vũ khí và đạn dược"
+            },
+            {
+              "full_en": "policemen on special duties may carry arms",
+              "full_vn": "cảnh sát làm nhiệm vụ đặc biệt có thể mang vũ khí"
+            },
+            {
+              "full_en": "arms depot",
+              "full_vn": "kho vũ khí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phục vụ trong quân ngũ; binh nghiệp",
+          "list_one_mean": [
+            {
+              "id_full_en": "coat of arms",
+              "list_im": [
+                {
+                  "im_full_vn": "phù hiệu; huy hiệu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay down one's arms",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) lay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sleep upon one's arms",
+              "list_im": [
+                {
+                  "im_full_vn": "ngủ với vũ khí trên mình; luôn luôn cảnh giác và ở trong tư thế sẵn sàng chiến đấu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take up arms against somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "chuẩn bị chiến tranh; bắt đầu chiến đấu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw down one's arms",
+              "list_im": [
+                {
+                  "im_full_vn": "hạ vũ khí, đầu hàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "brothers in arms",
+              "list_im": [
+                {
+                  "im_full_vn": "bạn chiến đấu, chiến hữu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under arms",
+              "list_im": [
+                {
+                  "im_full_vn": "được trang bị vũ khí và sẵn sàng chiến đấu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a force of 300000 already under arms",
+                      "full_vn": "đã có một lực lượng 300000 người sẵn sàng chiến đấu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be up in arms about /over something",
+              "list_im": [
+                {
+                  "im_full_vn": "kịch liệt phản đối điều gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to bear arms",
+              "full_vn": "phục vụ trong quân ngũ"
+            },
+            {
+              "full_en": "to receive a call to arms",
+              "full_vn": "nhận được lệnh nhập ngũ"
+            },
+            {
+              "full_en": "arms race",
+              "full_vn": "cuộc chạy đua vũ trang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to arm oneself / somebody with something ) trang bị vũ khí cho bản thân/ai; chuẩn bị chiến đấu",
+          "list_en_vn": [
+            {
+              "full_en": "to arm each platoon with two machine-guns",
+              "full_vn": "trang bị cho mỗi trung đội hai khẩu súng máy"
+            },
+            {
+              "full_en": "the enemy is arming",
+              "full_vn": "quân địch đang chuẩn bị chiến đấu"
+            },
+            {
+              "full_en": "the mob armed themselves with sticks and stones",
+              "full_vn": "đám đông tự vũ trang bằng gậy và đá"
+            },
+            {
+              "full_en": "police say the man is armed and dangerous",
+              "full_vn": "cảnh sát nói rằng người đó có vũ khí và rất nguy hiểm"
+            },
+            {
+              "full_en": "warships armed with nuclear weapons",
+              "full_vn": "chiến hạm có trang bị vũ khí hạt nhân"
+            },
+            {
+              "full_en": "she arrived at the interview armed with lists of statistics",
+              "full_vn": "bà ta đến phỏng vấn, mang theo nhiều bản thống kê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lên đạn (súng), tháo chốt (lựu đạn)",
+          "list_one_mean": [
+            {
+              "id_full_en": "armed to the teeth",
+              "list_im": [
+                {
+                  "im_full_vn": "được vũ trang đến tận răng, được vũ trang thật chu đáo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421048_007bab96ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421048_a68931e669_o.png",
+      "id_image": "arm_1733396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042860_348f2cb939_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042860_05ee0e96b8_o.png",
+      "id_image": "arm_2375321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420973_9c848cab8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420973_b9c84e0320_o.png",
+      "id_image": "arm_6147326"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "diet",
+  "phat_am": "['daiət]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghị viện (ở các nước khác nước Anh)"
+        },
+        {
+          "m_full_vn": "đồ ăn thường ngày (của một người, một cộng đồng....); thực đơn thường ngày",
+          "list_en_vn": [
+            {
+              "full_en": "the Japanese diet of rice , vegetables and fish",
+              "full_vn": "thức ăn cơm, rau, cá hàng ngày của người Nhật"
+            },
+            {
+              "full_en": "too rich a diet is not good for you",
+              "full_vn": "ăn quá nhiều chất bổ là không tốt cho anh"
+            },
+            {
+              "full_en": "illnesses caused by poor diet",
+              "full_vn": "bệnh tật do ăn uống kham khổ mà ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) chế độ ăn uống; chế độ ăn kiêng",
+          "list_en_vn": [
+            {
+              "full_en": "to be /go on a diet",
+              "full_vn": "ăn uống theo chế độ; ăn kiêng"
+            },
+            {
+              "full_en": "to put someone on a diet",
+              "full_vn": "bắt ai ăn uống theo chế độ; bắt ai ăn kiêng"
+            },
+            {
+              "full_en": "a milk-free diet",
+              "full_vn": "chế độ ăn kiêng sữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( diet of something ) quá nhiều cái gì làm cho trở nên chán ngấy, hoặc khó chịu",
+          "list_en_vn": [
+            {
+              "full_en": "the constant diet of soap operas on TV",
+              "full_vn": "sự nhàm chán những vở diễn lê thê trên TV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) (bắt buộc ai) ăn uống theo chế độ; (bắt buộc ai) ăn kiêng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322611_05dd80c624_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322611_bd1f3eb1fb_o.png",
+      "id_image": "diet_1719938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367562_10a5bae650_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367562_5b8630e6a7_o.png",
+      "id_image": "diet_3475542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437858_d6be3bc50f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437858_b5615f9961_o.png",
+      "id_image": "diet_5798223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367482_b9cd160344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367482_3eff720e43_o.png",
+      "id_image": "diet_6181882"
+    }
+  ]
+}

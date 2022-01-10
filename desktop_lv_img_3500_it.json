@@ -1,0 +1,53 @@
+{
+  "english": "desktop",
+  "phat_am": "['desktɔp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặt bàn giấy"
+        },
+        {
+          "m_full_vn": "(tin học) màn hình nền"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "được thiết kế sao cho có thể đặt gọn trên bàn; để bàn",
+          "list_en_vn": [
+            {
+              "full_en": "a desktop telephone",
+              "full_vn": "máy điện thoại để bàn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373182_aa27614bc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373182_a7aa4fa312_o.png",
+      "id_image": "desktop_1283443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065225_cac762f908_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065225_7b64d040d6_o.png",
+      "id_image": "desktop_2287973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443493_f6e434fb5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443493_71173e4c40_o.png",
+      "id_image": "desktop_538086"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443388_39d34257b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443388_5c0d422c8f_o.png",
+      "id_image": "desktop_5512041"
+    }
+  ]
+}

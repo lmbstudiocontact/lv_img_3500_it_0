@@ -1,0 +1,96 @@
+{
+  "english": "ability",
+  "phat_am": "[ə'biliti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khả năng hoặc năng lực làm cái gì về thể chất hoặc tinh thần",
+          "list_en_vn": [
+            {
+              "full_en": "professional ability",
+              "full_vn": "năng lực chuyên môn; năng lực nghiệp vụ"
+            },
+            {
+              "full_en": "a machine with the ability to cope with large loads",
+              "full_vn": "một cỗ máy có khả năng chịu những tải trọng lớn"
+            },
+            {
+              "full_en": "he has the ability to do the work",
+              "full_vn": "anh ta có khả năng làm việc này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khéo léo; trí thông minh",
+          "list_en_vn": [
+            {
+              "full_en": "a woman of great ability",
+              "full_vn": "một phụ nữ rất thông minh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tài năng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to the best of one's ability",
+              "list_im": [
+                {
+                  "im_full_vn": "với tất cả khả năng của mình"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have a great musical ability",
+              "full_vn": "rất có tài về âm nhạc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hậu tố",
+      "list_m": [
+        {
+          "m_full_vn": "có thể; có khả năng",
+          "list_en_vn": [
+            {
+              "full_en": "profitability",
+              "full_vn": "tính có lợi"
+            },
+            {
+              "full_en": "countability",
+              "full_vn": "tính có thể đếm được"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064370_15eac18212_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064370_8db0230372_o.png",
+      "id_image": "ability_1441939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327641_438b382583_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327641_96e637dbf5_o.png",
+      "id_image": "ability_4310280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372302_8c8e444905_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372302_61a8f3f06e_o.png",
+      "id_image": "ability_4576910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327561_9a2f1db378_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327561_fce17c4463_o.png",
+      "id_image": "ability_6078418"
+    }
+  ]
+}

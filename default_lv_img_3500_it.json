@@ -1,0 +1,110 @@
+{
+  "english": "default",
+  "phat_am": "[di'fɔ:lt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự không trả được nợ; sự vỡ nợ"
+        },
+        {
+          "m_full_vn": "(tin học) xác lập mặc định"
+        },
+        {
+          "m_full_vn": "(pháp lý) sự vắng mặt (không ra hầu toà)",
+          "list_one_mean": [
+            {
+              "id_full_en": "by default",
+              "list_im": [
+                {
+                  "im_full_vn": "do đối phương vắng mặt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to win a case by default",
+                      "full_vn": "thắng kiện do đối phương không ra hầu toà"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(tin học) do ngầm định; theo mặc định"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in default of something ; in default of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "trong trường hợp ai/cái gì vắng mặt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he was acquitted in default of strong evidence of his guilt",
+                      "full_vn": "anh ta được tha bổng vì không có bằng chứng rõ ràng là anh ta phạm tội"
+                    },
+                    {
+                      "full_en": "the committee will not meet in default of a chairman",
+                      "full_vn": "ủy ban sẽ không họp khi vắng mặt ông chủ tịch"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to make default",
+              "full_vn": "vắng mặt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(pháp lý) không làm điều được coi như phải làm (phải có mặt ở toà án chẳng hạn)",
+          "list_en_vn": [
+            {
+              "full_en": "a party to the contract defaulted",
+              "full_vn": "một bên kết ước đã bỏ cuộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) không trả nợ được, vỡ nợ; không trả nợ đúng kỳ hạn",
+          "list_en_vn": [
+            {
+              "full_en": "to default on hire-purchase payments",
+              "full_vn": "không trả được các khoản mua trả góp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) bỏ cuộc"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tin học) ngầm định; mặc định",
+          "list_en_vn": [
+            {
+              "full_en": "The default settings",
+              "full_vn": "Các xác lập mặc định"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043200_ea406f6d7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043200_e765e019a7_o.png",
+      "id_image": "default_5762278"
+    }
+  ]
+}

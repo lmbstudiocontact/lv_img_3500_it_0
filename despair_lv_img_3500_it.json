@@ -1,0 +1,54 @@
+{
+  "english": "despair",
+  "phat_am": "[dis'peə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thất vọng; nỗi thất vọng, nỗi tuyệt vọng",
+          "list_en_vn": [
+            {
+              "full_en": "to be in despair",
+              "full_vn": "tuyệt vọng"
+            },
+            {
+              "full_en": "to be the despair of someone",
+              "full_vn": "là nỗi thất vọng của ai, làm cho ai thất vọng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hết hy vọng, thất vọng, tuyệt vọng",
+          "list_en_vn": [
+            {
+              "full_en": "to despair of something",
+              "full_vn": "hết hy vọng vào việc gì"
+            },
+            {
+              "full_en": "his life is despaired of",
+              "full_vn": "(bệnh tình) anh ấy thật hết hy vọng cứu chữa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328296_ca4d4bd1c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328296_3c82f51c04_o.png",
+      "id_image": "despair_3220751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373102_b3bfb9252e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373102_983eaf7cc2_o.png",
+      "id_image": "despair_708667"
+    }
+  ]
+}

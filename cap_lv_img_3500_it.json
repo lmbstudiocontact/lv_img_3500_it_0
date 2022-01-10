@@ -1,0 +1,143 @@
+{
+  "english": "cap",
+  "phat_am": "[kæp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mũ lưỡi trai, mũ vải (y tá cấp dưỡng...); mũ (công nhân, giáo sư, quan toà, lính thuỷ...)"
+        },
+        {
+          "m_full_vn": "nắp, mũ (chai, van, bút máy...); đầu (đạn...); tai (nấm...)"
+        },
+        {
+          "m_full_vn": "mỏm, chỏm, chóp, đỉnh"
+        },
+        {
+          "m_full_vn": "(kiến trúc) đầu cột"
+        },
+        {
+          "m_full_vn": "(hàng hải) miếng tháp cột buồm"
+        },
+        {
+          "m_full_vn": "bao giấy hình loa, phễu giấy (để gói)"
+        },
+        {
+          "m_full_vn": "khổ giấy 0, 43 x 0, 35 cm"
+        },
+        {
+          "m_full_vn": "như Dutch cap",
+          "list_one_mean": [
+            {
+              "id_full_en": "cap in hand",
+              "list_im": [
+                {
+                  "im_full_vn": "khúm núm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "if the cap fits , wear it",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) có tật giật mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put on one's thinking (considering ) cap",
+              "list_im": [
+                {
+                  "im_full_vn": "suy nghĩ đắn đo; suy nghĩ kỹ lưỡng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set one's cap at (for ) somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "quyến rũ ai, chài ai (để lấy làm chồng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw (fling ) one's cap over the mill (windmill )",
+              "list_im": [
+                {
+                  "im_full_vn": "làm bừa không kể gì dư luận; hành động tếu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đội mũ cho (ai)"
+        },
+        {
+          "m_full_vn": "đậy nắp, bịt nắp (cái gì)"
+        },
+        {
+          "m_full_vn": "vượt, làm tốt hơn, làm hay hơn",
+          "list_en_vn": [
+            {
+              "full_en": "to cap an anecdote",
+              "full_vn": "kể một câu chuyện hay hơn"
+            },
+            {
+              "full_en": "to cap a quotation",
+              "full_vn": "trích dẫn một câu hay hơn; trích dẫn một câu ngược lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngã mũ chào (ai)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) chính thức nhận (một đấu thủ) vào đội"
+        },
+        {
+          "m_full_vn": "phát bằng cho (ở trường đại học)"
+        },
+        {
+          "m_full_vn": "(thú y học) làm sưng (một chỗ nào)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngả mũ chào, chào"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329426_6433676aae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329426_f57b30386e_o.png",
+      "id_image": "cap_184104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329336_a471ffb094_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329336_736681bfc3_o.png",
+      "id_image": "cap_2102013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444373_4cf1fe3e58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444373_5cf4504d9f_o.png",
+      "id_image": "cap_484421"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066135_8534bbc7f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066135_454c33f249_o.png",
+      "id_image": "cap_825944"
+    }
+  ]
+}

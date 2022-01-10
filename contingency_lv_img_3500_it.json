@@ -1,0 +1,40 @@
+{
+  "english": "contingency",
+  "phat_am": "[kən'tindʒənsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kiện có thể xảy ra hoặc không; sự kiện xảy ra ngẫu nhiên; việc bất ngờ",
+          "list_en_vn": [
+            {
+              "full_en": "should a contingency arise ; in case of a contingency",
+              "full_vn": "trong trường hợp bất ngờ; nếu xảy ra việc bất ngờ"
+            },
+            {
+              "full_en": "be prepared for all possible contingencies",
+              "full_vn": "hãy chuẩn bị đề phòng mọi bất trắc"
+            },
+            {
+              "full_en": "a contingency plan",
+              "full_vn": "kế hoạch để đối phó với những sự bất ngờ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043965_18daa5e734_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043965_58f1e4a19a_o.png",
+      "id_image": "contingency_3391369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422048_9ac15d3246_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422048_e4ba350ea5_o.png",
+      "id_image": "contingency_5267793"
+    }
+  ]
+}

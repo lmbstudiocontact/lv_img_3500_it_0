@@ -1,0 +1,84 @@
+{
+  "english": "argue",
+  "phat_am": "['ɑ:gju:]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to argue with somebody about / over something ) diễn đạt một ý kiến đối lập; trao đổi những lời lẽ giận dữ; cãi nhau; tranh cãi",
+          "list_en_vn": [
+            {
+              "full_en": "the couple next door are always arguing",
+              "full_vn": "cặp vợ chồng ben cạnh cãi nhau suốt"
+            },
+            {
+              "full_en": "don't argue with your mother",
+              "full_vn": "đừng cãi lại mẹ mày"
+            },
+            {
+              "full_en": "we argue with the waiter about the price of the meal",
+              "full_vn": "chúng tôi tranh cãi với người hầu bàn về giá tiền bữa ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to argue for / against something ) đưa ra lý lẽ ủng hộ hoặc chống lại cái gì để thuyết phục ai; biện luận",
+          "list_en_vn": [
+            {
+              "full_en": "he argues convincingly",
+              "full_vn": "anh ta biện luận nghe rất thuyết phục"
+            },
+            {
+              "full_en": "to argue for the right to strike",
+              "full_vn": "biện luận ủng hộ quyền bãi công"
+            },
+            {
+              "full_en": "to argue something away",
+              "full_vn": "lấy lý lẽ để bác bỏ cái gì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bàn cãi (cái gì); tranh luận",
+          "list_en_vn": [
+            {
+              "full_en": "the lawyers argue the case for hours",
+              "full_vn": "các luật sư tranh luận hàng giờ về vụ kiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to argue somebody into / out of doing something ) thuyết phục ai làm/đừng làm điều gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "to argue the toss",
+              "list_im": [
+                {
+                  "im_full_vn": "cãi lại, phản đối"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043175_a39c0de4fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043175_a934a89f47_o.png",
+      "id_image": "argue_5772796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043135_ed60274c94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043135_d6f1cf1852_o.png",
+      "id_image": "argue_5906125"
+    }
+  ]
+}

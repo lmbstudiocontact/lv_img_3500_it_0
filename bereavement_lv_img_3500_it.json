@@ -1,0 +1,31 @@
+{
+  "english": "bereavement",
+  "phat_am": "[bi'ri:vmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tình trạng mất người thân",
+          "list_en_vn": [
+            {
+              "full_en": "We all sympathize with you in your bereavement",
+              "full_vn": "Tất cả chúng tôi xin chia buồn với ông trong cảnh mất mát này"
+            },
+            {
+              "full_en": "she was absent because of a recent bereavement",
+              "full_vn": "bà ấy vắng mặt vì mới mất một người thân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044345_07baa1f048_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044345_7918ce1fc6_o.png",
+      "id_image": "bereavement_6000675"
+    }
+  ]
+}

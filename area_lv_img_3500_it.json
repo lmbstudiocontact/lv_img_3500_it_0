@@ -1,0 +1,68 @@
+{
+  "english": "area",
+  "phat_am": "['eəriə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "diện tích, bề mặt",
+          "list_en_vn": [
+            {
+              "full_en": "area under crop",
+              "full_vn": "diện tích trồng trọt"
+            },
+            {
+              "full_en": "area of bearing",
+              "full_vn": "(kỹ thuật) mặt tì, mặt đỡ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vùng, khu vực",
+          "list_en_vn": [
+            {
+              "full_en": "residential area",
+              "full_vn": "khu vực nhà ở, khu dân cư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng đất trống"
+        },
+        {
+          "m_full_vn": "sân trước nhà ở (có hàng rào cách vỉa hè đường)"
+        },
+        {
+          "m_full_vn": "phạm vi, tầm",
+          "list_en_vn": [
+            {
+              "full_en": "wide area of knowledge",
+              "full_vn": "tầm hiểu biết rộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(rađiô) vùng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043335_7ef25259fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043335_fb3b446786_o.png",
+      "id_image": "area_1809127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306291_15c57d656e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306291_f0946d6b60_o.png",
+      "id_image": "area_1809295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306271_ab61f6e7ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306271_01706de8ff_o.png",
+      "id_image": "area_1968899"
+    }
+  ]
+}

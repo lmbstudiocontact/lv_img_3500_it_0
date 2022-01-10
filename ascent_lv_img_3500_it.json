@@ -1,0 +1,33 @@
+{
+  "english": "ascent",
+  "phat_am": "[ə'sent]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trèo lên, sự đi lên, sự lên",
+          "list_en_vn": [
+            {
+              "full_en": "to make an ascent in a balloon",
+              "full_vn": "lên không bằng khí cầu, đi khí cầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đi ngược lên (dòng sông...)"
+        },
+        {
+          "m_full_vn": "con đường đi lên, đường dốc; bậc cầu thang đi lên"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304261_bcac526ca4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304261_50268571ac_o.png",
+      "id_image": "ascent_4344651"
+    }
+  ]
+}

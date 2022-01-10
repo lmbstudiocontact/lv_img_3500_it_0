@@ -1,0 +1,40 @@
+{
+  "english": "diplomacy",
+  "phat_am": "[di'plouməsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuật ngoại giao; ngành ngoại giao; khoa ngoại giao",
+          "list_en_vn": [
+            {
+              "full_en": "international problems must be solved by diplomacy , not war",
+              "full_vn": "các vấn đề quốc tế phải được giải quyết bằng (con đường) ngoại giao, chứ không phải bằng chiến tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khéo léo trong giao thiệp; tài ngoại giao"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320451_32230b057b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320451_749c23bbfd_o.png",
+      "id_image": "diplomacy_4849868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435573_6fdeff237f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435573_a8b85cb2ec_o.png",
+      "id_image": "diplomacy_4960673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057155_204a8c4383_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057155_2ea70bd136_o.png",
+      "id_image": "diplomacy_4960724"
+    }
+  ]
+}

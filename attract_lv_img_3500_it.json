@@ -1,0 +1,46 @@
+{
+  "english": "attract",
+  "phat_am": "[ə'trækt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(vật lý) hút",
+          "list_en_vn": [
+            {
+              "full_en": "magnet attracts iron",
+              "full_vn": "nam châm hút sắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thu hút, hấp dẫn, lôi cuốn",
+          "list_en_vn": [
+            {
+              "full_en": "to attract attention",
+              "full_vn": "lôi cuốn sự chú ý"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372917_8ff35c7dbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372917_d6da4b53a6_o.png",
+      "id_image": "attract_1477597"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683239_4977ff4a54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683239_86129f4205_o.png",
+      "id_image": "attract_1622676"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443158_86dd3ff97c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443158_bd869bb2bd_o.png",
+      "id_image": "attract_4433145"
+    }
+  ]
+}

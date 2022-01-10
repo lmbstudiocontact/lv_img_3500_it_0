@@ -1,0 +1,191 @@
+{
+  "english": "base",
+  "phat_am": "[beis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đáy, chân đế",
+          "list_en_vn": [
+            {
+              "full_en": "the base of a pillar /column",
+              "full_vn": "chân trụ/cột"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) đường đáy, mặt đáy",
+          "list_en_vn": [
+            {
+              "full_en": "the base of a triangle /pyramid",
+              "full_vn": "đáy tam giác/kim tự tháp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) con số làm cơ sở xây dựng một hệ thống số, thí dụ 10 trong hệ thống thập phân hoặc 2 trong hệ thống nhị phân"
+        },
+        {
+          "m_full_vn": "(trong bóng chày) một trong bốn vị trí mà người chơi phải chạm tới để ghi điểm; góc; gôn"
+        },
+        {
+          "m_full_vn": "căn cứ",
+          "list_en_vn": [
+            {
+              "full_en": "air /naval base",
+              "full_vn": "căn cứ không quân/hải quân"
+            },
+            {
+              "full_en": "military base",
+              "full_vn": "căn cứ quân sự"
+            },
+            {
+              "full_en": "base of operation",
+              "full_vn": "căn cứ tác chiến"
+            },
+            {
+              "full_en": "to set up /establish a base",
+              "full_vn": "thiết lập một căn cứ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) gốc từ"
+        },
+        {
+          "m_full_vn": "(hoá học) ba-zơ"
+        },
+        {
+          "m_full_vn": "nền tảng, cơ sở",
+          "list_en_vn": [
+            {
+              "full_en": "she used her family's history as a base for her novel",
+              "full_vn": "bà ta dùng lịch sử gia đình mình làm nền cho cuốn tiểu thuyết của bà ta"
+            },
+            {
+              "full_en": "his arguments had a sound economic base",
+              "full_vn": "lý lẽ của ông ta có một cơ sở kinh tế vững chắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần hoặc thành phần chủ yếu cộng thêm các thứ khác",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be off base",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) sai lầm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to catch somebody off base",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai rơi vào tình huống bất ngờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get to first base",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) khởi công, bắt đầu làm (việc gì)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a drink with a rum base",
+              "full_vn": "thức uống lấy rượu rum làm cốt"
+            },
+            {
+              "full_en": "some paints have an oil base",
+              "full_vn": "một số thuốc màu có thành phần chính là dầu"
+            },
+            {
+              "full_en": "put some moisturizer on as a base before applying your make-up",
+              "full_vn": "xoa một ít chất kem ướt làm nền trước khi đánh phấn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dựa vào, căn cứ vào",
+          "list_en_vn": [
+            {
+              "full_en": "I base my hopes on the good news we had yesterday",
+              "full_vn": "hy vọng của tôi là dựa vào cái tin tốt lành chúng tôi nhận được hôm qua"
+            },
+            {
+              "full_en": "this novel is based on historical facts",
+              "full_vn": "tiểu thuyết này dựa vào những sự kiện lịch sử"
+            },
+            {
+              "full_en": "to base oneself on facts",
+              "full_vn": "dựa vào thực tế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bố trí",
+          "list_en_vn": [
+            {
+              "full_en": "where are you based now ?",
+              "full_vn": "bây giờ anh được bố trí ở đâu?"
+            },
+            {
+              "full_en": "most of our staff are based in Cairo",
+              "full_vn": "hầu hết bộ tham mưu của chúng tôi được bố trí ở Cairô"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hèn hạ, đê tiện; khúm núm, quỵ luỵ"
+        },
+        {
+          "m_full_vn": "không nguyên chất",
+          "list_en_vn": [
+            {
+              "full_en": "base coin",
+              "full_vn": "đồng tiền pha"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kém giá trị, không quý",
+          "list_en_vn": [
+            {
+              "full_en": "base metal",
+              "full_vn": "kim loại thường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358782_0b51becd78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358782_1cc6ef5413_o.png",
+      "id_image": "base_2090037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429513_407b2653c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429513_5d35cebf03_o.png",
+      "id_image": "base_2646763"
+    }
+  ]
+}

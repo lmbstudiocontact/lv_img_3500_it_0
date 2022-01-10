@@ -1,0 +1,117 @@
+{
+  "english": "consideration",
+  "phat_am": "[kən,sidə'rei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cân nhắc, sự suy xét",
+          "list_en_vn": [
+            {
+              "full_en": "the proposals are still under consideration",
+              "full_vn": "các đề xuất ấy vẫn còn đang được xem xét"
+            },
+            {
+              "full_en": "to give one's careful consideration to a problem",
+              "full_vn": "nghiên cứu kỹ vấn đề, cân nhắc kỹ vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( consideration for somebody / something ) sự để ý, sự quan tâm, sự chiếu cố",
+          "list_en_vn": [
+            {
+              "full_en": "he has never shown much consideration for his wife's needs",
+              "full_vn": "hắn chưa bao giờ quan tâm nhiều đến nhu cầu của vợ hắn"
+            },
+            {
+              "full_en": "out of consideration for the bereaved family's feelings , the papers did not print the story",
+              "full_vn": "lưu ý đến tình cảm của gia đình người quá cố, báo chí không đăng câu chuyện đó lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều phải nghĩ đến hoặc tính toán đến; lý do",
+          "list_en_vn": [
+            {
+              "full_en": "time is an important consideration in this case",
+              "full_vn": "thời gian là điều quan trọng cần phải tính đến trong trường hợp này"
+            },
+            {
+              "full_en": "several conditions have influenced my decision",
+              "full_vn": "có nhiều lý do ảnh hưởng đến quyết định của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền thưởng, tiền công",
+          "list_one_mean": [
+            {
+              "id_full_en": "in consideration of something",
+              "list_im": [
+                {
+                  "im_full_vn": "để đáp lại điều gì; để đền bù cho điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a small payment in consideration of somebody's services",
+                      "full_vn": "một khoản tiền nhỏ để đáp lại sự phục vụ của ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take something into consideration",
+              "list_im": [
+                {
+                  "im_full_vn": "tính đến cái gì; lưu tâm đến cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I always take fuel consumption into consideration when buying a car",
+                      "full_vn": "tôi luôn tính đến mức độ tiêu thụ nhiên liệu khi mua xe ô tô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave something out of account /consideration",
+              "list_im": [
+                {
+                  "im_full_vn": "không tính đến cái gì; coi cái gì là không quan trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "upon further consideration",
+              "list_im": [
+                {
+                  "im_full_vn": "sau khi nghiên cứu thêm, sau khi suy xét kỹ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "for a consideration",
+              "full_vn": "để thưởng công"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665289_0b17fe7228_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665289_a7ab67a8b6_o.png",
+      "id_image": "consideration_5778251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046955_ac9c3ae22e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046955_dcf1419cdc_o.png",
+      "id_image": "consideration_5778534"
+    }
+  ]
+}

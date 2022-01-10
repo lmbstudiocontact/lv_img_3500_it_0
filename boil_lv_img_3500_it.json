@@ -1,0 +1,145 @@
+{
+  "english": "boil",
+  "phat_am": "[bɔil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) chỗ sưng lên dưới da do nhiễm trùng và sinh ra mủ; nhọt, đinh"
+        },
+        {
+          "m_full_vn": "sự sôi; điểm sôi",
+          "list_en_vn": [
+            {
+              "full_en": "to bring to the boil",
+              "full_vn": "đun sôi"
+            },
+            {
+              "full_en": "to come to the boil",
+              "full_vn": "bắt đầu sôi"
+            },
+            {
+              "full_en": "to be at the boil",
+              "full_vn": "ở điểm sôi, đang sôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đun sôi, nấu sôi; luộc",
+          "list_en_vn": [
+            {
+              "full_en": "boiled eggs",
+              "full_vn": "trứng luộc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sôi",
+          "list_en_vn": [
+            {
+              "full_en": "water boils at 100 degrees C",
+              "full_vn": "nước sôi ở 100 độ C"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sục sôi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to boil away",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp tục sôi"
+                },
+                {
+                  "im_full_vn": "sôi cạn; nấu đặc lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to boil down",
+              "list_im": [
+                {
+                  "im_full_vn": "tóm tắt lại, rút lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the matter boils down to this",
+                      "full_vn": "việc rút lại là thế này, việc chung quy là thế này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to boil over",
+              "list_im": [
+                {
+                  "im_full_vn": "sôi tràn ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "boiled shirt",
+              "list_im": [
+                {
+                  "im_full_vn": "sơ mi là cứng ngực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep the pot boiling",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) pot"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to boil over with indignation",
+              "full_vn": "sục sôi căm phẫn"
+            },
+            {
+              "full_en": "to make one's blood boil",
+              "full_vn": "làm cho máu sôi lên, làm giận sôi lên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681499_392a0dba73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681499_ac618e19a4_o.png",
+      "id_image": "boil_1041592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326411_a1c1279439_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326411_dcbe307d9c_o.png",
+      "id_image": "boil_3690224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371112_55681d3bde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371112_c810fb85e9_o.png",
+      "id_image": "boil_4275859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326336_6eb936ded5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326336_8c5fbe767e_o.png",
+      "id_image": "boil_6192642"
+    }
+  ]
+}

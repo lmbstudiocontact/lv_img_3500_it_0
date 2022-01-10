@@ -1,0 +1,68 @@
+{
+  "english": "conflict",
+  "phat_am": "[kən'flikt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xung đột; cuộc xung đột",
+          "list_en_vn": [
+            {
+              "full_en": "soldiers involved in armed conflict",
+              "full_vn": "những người lính tham dự vào một cuộc xung đột vũ trang"
+            },
+            {
+              "full_en": "a bitter conflict between employers and workers",
+              "full_vn": "một cuộc xung đột gay gắt giữa chủ và thợ thuyền"
+            },
+            {
+              "full_en": "your report is in conflict with the public opinion",
+              "full_vn": "bản báo cáo của anh trái ngược với dư luận công chúng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to conflict with something ) đối lập; trái ngược; mâu thuẫn",
+          "list_en_vn": [
+            {
+              "full_en": "their thoughts conflict with ours",
+              "full_vn": "suy nghĩ của họ trái ngược với suy nghĩ của chúng tôi"
+            },
+            {
+              "full_en": "the statements of the two witnesses conflict",
+              "full_vn": "lời khai của hai nhân chứng mâu thuẫn nhau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048745_3b84fb8cfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048745_e84c9944e8_o.png",
+      "id_image": "conflict_1006630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667024_4f29b35818_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667024_c3f530b3c8_o.png",
+      "id_image": "conflict_5065298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666994_071400f10e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666994_1faf9a91d4_o.png",
+      "id_image": "conflict_5266134"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356117_647fcb9e43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356117_8f91c038f3_o.png",
+      "id_image": "conflict_6159325"
+    }
+  ]
+}

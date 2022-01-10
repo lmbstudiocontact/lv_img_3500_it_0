@@ -1,0 +1,114 @@
+{
+  "english": "benefit",
+  "phat_am": "['benifit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lợi, lợi ích",
+          "list_en_vn": [
+            {
+              "full_en": "for special benefit of ...",
+              "full_vn": "vì lợi ích riêng của..."
+            },
+            {
+              "full_en": "the book is of much benefit to me",
+              "full_vn": "quyển sách giúp ích tôi rất nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "buổi biểu diễn; trận đấu (lấy tiền giúp cho một vận động viên hoặc một hội từ thiện...)",
+          "list_en_vn": [
+            {
+              "full_en": "a benefit match , performance , concert",
+              "full_vn": "một cuộc thi đấu, biểu diễn, hoà nhạc gây quỹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền trợ cấp, tiền tuất",
+          "list_en_vn": [
+            {
+              "full_en": "death benefit",
+              "full_vn": "tiền trợ cấp ma chay"
+            },
+            {
+              "full_en": "maternity benefit",
+              "full_vn": "tiền trợ cấp sinh đẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phúc lợi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give somebody the benefit of the doubt",
+              "list_im": [
+                {
+                  "im_full_vn": "vì còn nghi ngờ nên không buộc tội cho ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "medical benefit",
+              "full_vn": "phúc lợi về y tế"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giúp ích cho, làm lợi cho"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "được lợi, lợi dụng",
+          "list_en_vn": [
+            {
+              "full_en": "to benefit by something",
+              "full_vn": "lợi dụng cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044690_96bbe7d81a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044690_ed4571e05d_o.png",
+      "id_image": "benefit_2191239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351797_5209822599_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351797_200a49bd96_o.png",
+      "id_image": "benefit_2419567"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044635_a624c226d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044635_8a665b36d0_o.png",
+      "id_image": "benefit_5136089"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044615_1345292bcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044615_692d9d502a_o.png",
+      "id_image": "benefit_5455894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662864_00edfe4a8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662864_97bd409a23_o.png",
+      "id_image": "benefit_6303114"
+    }
+  ]
+}

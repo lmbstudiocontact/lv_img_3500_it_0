@@ -1,0 +1,32 @@
+{
+  "english": "cashew",
+  "phat_am": "[kæ'∫u:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây đào lộn hột",
+          "list_en_vn": [
+            {
+              "full_en": "cashew nuts",
+              "full_vn": "hạt điều"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058835_3dee87d0e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058835_b153470f45_o.png",
+      "id_image": "cashew_4056997"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366957_5e115a62ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366957_58a3cf8e1f_o.png",
+      "id_image": "cashew_5854167"
+    }
+  ]
+}

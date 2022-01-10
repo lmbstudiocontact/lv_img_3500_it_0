@@ -1,0 +1,54 @@
+{
+  "english": "detour",
+  "phat_am": "[di'tuə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con đường đi tránh một đường đang bị tắc; đường vòng",
+          "list_en_vn": [
+            {
+              "full_en": "to make a detour",
+              "full_vn": "đi vòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự đi chệch hướng; sự đi sai đường"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi vòng để tránh cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "they detour the traffic jams",
+              "full_vn": "họ đi đường vòng để tránh nạn kẹt xe"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371142_d837bf9d59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371142_c33c803289_o.png",
+      "id_image": "detour_1196773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063250_970b60735c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063250_986b71e445_o.png",
+      "id_image": "detour_2204795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063205_cedcdb5def_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063205_b3fd644347_o.png",
+      "id_image": "detour_4463632"
+    }
+  ]
+}

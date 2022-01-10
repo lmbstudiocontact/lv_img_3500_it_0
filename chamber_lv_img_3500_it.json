@@ -1,0 +1,91 @@
+{
+  "english": "chamber",
+  "phat_am": "['t∫eimbə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phòng ngủ; buồng ngủ"
+        },
+        {
+          "m_full_vn": "( số nhiều) phòng của quan toà để xử những vụ không cần phải đem ra trước toà án"
+        },
+        {
+          "m_full_vn": "( số nhiều) loạt phòng trong một toà nhà to hơn, nhất là các văn phòng trong các toà án mà luật sư dùng làm nơi phỏng vấn khách hàng"
+        },
+        {
+          "m_full_vn": "(phòng lớn dành cho) hội đồng hành chính hoặc lập pháp (một trong hai viện của quốc hội chẳng hạn); viện",
+          "list_en_vn": [
+            {
+              "full_en": "the members left the council chamber",
+              "full_vn": "các thành viên rời phòng họp của hội đồng"
+            },
+            {
+              "full_en": "the Upper /Lower Chamber",
+              "full_vn": "Thượng viện/Hạ viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không gian hoặc lỗ hổng bao kín trong cơ thể một súc vật, một cái cây hoặc trong máy móc; hốc; khoang",
+          "list_en_vn": [
+            {
+              "full_en": "the chambers of the heart",
+              "full_vn": "các tâm thất"
+            },
+            {
+              "full_en": "combustion chamber",
+              "full_vn": "khoang đốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không gian bao kín dưới mặt đất; hốc",
+          "list_en_vn": [
+            {
+              "full_en": "the cavers discovered a vast underground chamber",
+              "full_vn": "những người đào hang phát hiện một cái hốc lớn ở dưới mặt đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ phận đựng các viên đạn trong một khẩu súng; ổ đạn",
+          "list_one_mean": [
+            {
+              "id_full_en": "chamber of commerce",
+              "list_im": [
+                {
+                  "im_full_vn": "phòng thương mại"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ vào phòng, nhốt vào phòng"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) khoan rỗng, khoét thành hốc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051380_12e4a47a9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051380_ccd90ccb6a_o.png",
+      "id_image": "chamber_6213648"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051415_82ac61d66f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051415_408ae471ae_o.png",
+      "id_image": "chamber_815298"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "english": "average",
+  "phat_am": "['ævəridʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết quả của việc cộng các số lượng với nhau rồi chia tổng số cho số các số lượng; số trung bình",
+          "list_en_vn": [
+            {
+              "full_en": "the average of 4, 5 and 9 is 6",
+              "full_vn": "số trung bình của 4, 5 và 9 là 6"
+            },
+            {
+              "full_en": "to take (strike ) an average",
+              "full_vn": "lấy số trung bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuẩn mực hoặc mức được coi như là thông thường; mức trung bình",
+          "list_en_vn": [
+            {
+              "full_en": "below average",
+              "full_vn": "dưới trung bình"
+            },
+            {
+              "full_en": "above average",
+              "full_vn": "trên trung bình"
+            },
+            {
+              "full_en": "on (the ) average",
+              "full_vn": "tính toán việc sử dụng, thành tích... qua một thời kỳ"
+            },
+            {
+              "full_en": "we fail one student per year on average",
+              "full_vn": "tính trung bình mỗi năm chúng tôi bị trượt một sinh viên"
+            },
+            {
+              "full_en": "each of us eats nine kilos of rice per month on average",
+              "full_vn": "trung bình thì mỗi người chúng ta ăn chín ký gạo mỗi tháng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) tổn thất của chiếc tàu hoặc hàng hoá trên tàu do gặp nạn trên biển"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trung bình",
+          "list_en_vn": [
+            {
+              "full_en": "average output",
+              "full_vn": "sản lượng trung bình"
+            },
+            {
+              "full_en": "average value",
+              "full_vn": "giá trị trung bình"
+            },
+            {
+              "full_en": "the average age of the students is 19",
+              "full_vn": "tuổi trung bình của các sinh viên là 19"
+            },
+            {
+              "full_en": "the average temperature in Oxford last month was 18 degrees C",
+              "full_vn": "nhiệt độ trung bình ở Oxford tháng vừa rồi là 18 độ C"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "theo chuẩn mực bình thường hoặc thông thường; trung bình",
+          "list_en_vn": [
+            {
+              "full_en": "children of average intelligence",
+              "full_vn": "những đứa trẻ có trí thông minh trung bình"
+            },
+            {
+              "full_en": "rainfall is about average for the time of year",
+              "full_vn": "đối với thời gian này trongnăm, mưa như vậy là xấp xỉ mức trung bình"
+            },
+            {
+              "full_en": "of average height",
+              "full_vn": "có chiều cao vừa phải (trung bình)"
+            },
+            {
+              "full_en": "man of average abilities",
+              "full_vn": "người có khả năng bình thường"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tìm số trung bình của cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to average a loss",
+              "full_vn": "tính trung bình số thiệt hại"
+            },
+            {
+              "full_en": "I've done some averaging to reach these figures",
+              "full_vn": "tôi đã làm một số tính toán trung bình để có được những số liệu này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm hoặc đạt tới cái gì coi như số đo hoặc mức trung bình",
+          "list_one_mean": [
+            {
+              "id_full_en": "to average out (at something )",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa đến số trung bình (của cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "meals average out at 200 francs per head",
+                      "full_vn": "bữa ăn tính trung bình là 200 frăng một người"
+                    },
+                    {
+                      "full_en": "sometimes I pay , sometimes he pays - it seems to average out in the end",
+                      "full_vn": "có khi tôi trả, có khi anh ấy trả - đổ đồng dường như cũng đạt mức trung bình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to average something out (at something )",
+              "list_im": [
+                {
+                  "im_full_vn": "tính toán mức trung bình của cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the tax authorities averaged his profit out at 5000 dollars a year over five years",
+                      "full_vn": "nhà đương cục thuế tính toán mức lãi trung bình của nah ta trên 5000 đô la một năm, trong năm năm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this car averages 40 miles to the gallon",
+              "full_vn": "xe này tiêu thụ trung bình 40 dặm một galông (xăng)"
+            },
+            {
+              "full_en": "the rainfall averages 36 inches a year",
+              "full_vn": "lượng mưa trung bình là 36 inch một năm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679579_de9d8fb89d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679579_6e6b511a80_o.png",
+      "id_image": "average_5184373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679539_3b2e58a2d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679539_f7221626d5_o.png",
+      "id_image": "average_5360536"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061255_7f90b901c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061255_09d6e338b5_o.png",
+      "id_image": "average_5398192"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369152_22ba368979_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369152_ed57ffeee6_o.png",
+      "id_image": "average_5680050"
+    }
+  ]
+}

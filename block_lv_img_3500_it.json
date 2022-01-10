@@ -1,0 +1,151 @@
+{
+  "english": "block",
+  "phat_am": "[blɔk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khối, tảng, súc (đá, gỗ...)"
+        },
+        {
+          "m_full_vn": "cái thớt, đon kê, tấm gỗ kê để chặt đầu (người bị tử hình)"
+        },
+        {
+          "m_full_vn": "khuôn (mũ); đầu giả (để trưng bày mũ, tóc giả...)"
+        },
+        {
+          "m_full_vn": "khuôn nhà lớn, nhà khối (ở giữa bốn con đường)"
+        },
+        {
+          "m_full_vn": "vật chướng ngại; sự trở ngại; sự tắc nghẽn, sự tắc nghẽn xe cộ"
+        },
+        {
+          "m_full_vn": "lô đất (chính phủ cấp cho tư nhân); (từ Mỹ,nghĩa Mỹ) khoảnh đất trong thành phố"
+        },
+        {
+          "m_full_vn": "bản khắc (để in)"
+        },
+        {
+          "m_full_vn": "số lớn cổ phần"
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) đoạn đường; đoàn toa xe"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) pu-li"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) sự chặn, sự cản (bóng, đối phương)"
+        },
+        {
+          "m_full_vn": "thông cáo phản đối một dự luật (nghị viện)"
+        },
+        {
+          "m_full_vn": "(úc) đường phố lớn có nhiều người đi dạo"
+        },
+        {
+          "m_full_vn": "(từ lóng) cái đầu (người)"
+        },
+        {
+          "m_full_vn": "người đần độn"
+        },
+        {
+          "m_full_vn": "người nhẫn tâm",
+          "list_one_mean": [
+            {
+              "id_full_en": "chip off the old block",
+              "list_im": [
+                {
+                  "im_full_vn": "người (nhất là cậu bé hoặc người đàn ông) có tính cách giống bố"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be sent to the block",
+              "list_im": [
+                {
+                  "im_full_vn": "bị xử chém"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm trở ngại (sự đi lại); ngăn chận"
+        },
+        {
+          "m_full_vn": "làm trở ngại sự thi hành; chặn đứng (một kế hoạch)",
+          "list_en_vn": [
+            {
+              "full_en": "to block the enemy's plan",
+              "full_vn": "chặn đứng những kế hoạch của địch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) chặn cản (bóng, đối phương)"
+        },
+        {
+          "m_full_vn": "hạn chế chi tiêu, hạn chế việc sử dụng (vốn)"
+        },
+        {
+          "m_full_vn": "phản đối (dự luật ở nghị viện)"
+        },
+        {
+          "m_full_vn": "gò vào khuôn (mũ...)"
+        },
+        {
+          "m_full_vn": "rập chữ nổi (bìa sách, da)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to block out (in )",
+              "list_im": [
+                {
+                  "im_full_vn": "phác ra, vẽ phác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to block out a plan",
+                      "full_vn": "phác ra một kế hoạch"
+                    },
+                    {
+                      "full_en": "to block in a picture",
+                      "full_vn": "vẽ phác một bức tranh"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066565_743a2da344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066565_633e0a4f42_o.png",
+      "id_image": "block_2123817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066530_8b5102395a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066530_77e7c04589_o.png",
+      "id_image": "block_2222961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374397_c5f8947700_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374397_392f53ffc9_o.png",
+      "id_image": "block_4418104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329756_bf16c637af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329756_701c34f369_o.png",
+      "id_image": "block_5512149"
+    }
+  ]
+}

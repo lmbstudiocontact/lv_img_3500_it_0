@@ -1,0 +1,47 @@
+{
+  "english": "coaxial",
+  "phat_am": "[kou'æksiəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) đồng trục",
+          "list_en_vn": [
+            {
+              "full_en": "coaxial circles",
+              "full_vn": "vòng tròn đồng trục"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682129_145dbe7d20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682129_28d5af6768_o.png",
+      "id_image": "coaxial_2546966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441973_48a2cee193_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441973_6038f2d8eb_o.png",
+      "id_image": "coaxial_4106103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441938_5dffa55de8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441938_958f8675ba_o.png",
+      "id_image": "coaxial_5982314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441893_8e16ff5528_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441893_44eb2ca4d2_o.png",
+      "id_image": "coaxial_5982317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681924_1189e0c563_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681924_ee035db486_o.png",
+      "id_image": "coaxial_5982319"
+    }
+  ]
+}

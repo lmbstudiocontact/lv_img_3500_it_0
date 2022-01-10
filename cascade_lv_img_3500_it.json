@@ -1,0 +1,50 @@
+{
+  "english": "cascade",
+  "phat_am": "[kæs'keid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thác nước"
+        },
+        {
+          "m_full_vn": "(vật lý) tầng, đợt",
+          "list_en_vn": [
+            {
+              "full_en": "distillation cascade",
+              "full_vn": "tầng cất"
+            },
+            {
+              "full_en": "hard cascade",
+              "full_vn": "đợt cứng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "màn ren treo rủ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đổ xuống như thác, chảy như thác"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677639_bc62e964af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677639_d9c3aaca2a_o.png",
+      "id_image": "cascade_1043487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059345_4b538669d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059345_acd02290fa_o.png",
+      "id_image": "cascade_190910"
+    }
+  ]
+}

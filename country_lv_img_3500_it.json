@@ -1,0 +1,68 @@
+{
+  "english": "country",
+  "phat_am": "['kʌntri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nước, quốc gia"
+        },
+        {
+          "m_full_vn": "đất nước, tổ quốc, quê hương, xứ sở"
+        },
+        {
+          "m_full_vn": "nhân dân (một nước)"
+        },
+        {
+          "m_full_vn": "vùng, xứ, miền; (nghĩa bóng) địa hạt, lĩnh vực",
+          "list_en_vn": [
+            {
+              "full_en": "densely wooded country",
+              "full_vn": "vùng cây cối rậm rạp"
+            },
+            {
+              "full_en": "this is unknown country to me",
+              "full_vn": "đó là một vùng mà tôi chưa đi qua; (nghĩa bóng) đó là một lĩnh vực xa lạ đối với tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số ít) nông thôn, thôn dã",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go (appeal ) to the country",
+              "list_im": [
+                {
+                  "im_full_vn": "giải tán quốc hội và tổ chức bầu lại"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to live in the country",
+              "full_vn": "sống ở nông thôn"
+            },
+            {
+              "full_en": "the country life",
+              "full_vn": "đời sống (cách sinh hoạt) ở nông thôn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682259_3558a0bc9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682259_9ea4fb5b96_o.png",
+      "id_image": "country_5663672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063955_ebcfe4c099_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063955_74eb0b146c_o.png",
+      "id_image": "country_6313937"
+    }
+  ]
+}

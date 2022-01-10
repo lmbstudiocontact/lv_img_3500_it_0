@@ -1,0 +1,50 @@
+{
+  "english": "celebration",
+  "phat_am": "[,seli'brei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoạt động nhân dịp lễ kỷ niệm",
+          "list_en_vn": [
+            {
+              "full_en": "anniversary celebrations",
+              "full_vn": "hoạt động kỷ niệm sinh nhật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tán dương, sự ca tụng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672544_7b7d41663a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672544_28f4b0818d_o.png",
+      "id_image": "celebration_3316764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432978_f04c177d27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432978_da8c6b911f_o.png",
+      "id_image": "celebration_360007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672519_862659613b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672519_df632c6b74_o.png",
+      "id_image": "celebration_5825553"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362127_0b2b3d3ba0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362127_5fb7fbe1fe_o.png",
+      "id_image": "celebration_6174519"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672589_34b9a6198f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672589_f9bfdf3006_o.png",
+      "id_image": "celebration_709274"
+    }
+  ]
+}

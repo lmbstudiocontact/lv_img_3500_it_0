@@ -1,0 +1,40 @@
+{
+  "english": "correspondent",
+  "phat_am": "[,kɔris'pɔndənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thông tín viên, phóng viên (báo chí)",
+          "list_en_vn": [
+            {
+              "full_en": "our Hong Kong , Middle East correspondent",
+              "full_vn": "phóng viên của chúng tôi ở Hương Cảng, Trung Đông"
+            },
+            {
+              "full_en": "a foreign , war , cricket correspondent",
+              "full_vn": "phóng viên ở nước ngoài, mặt trận, về môn cricket"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người viết thư; người thường xuyên trao đổi thư từ, công ty thường xuyên trao đổi thư từ (với một người hoặc công ty ở nước ngoài)",
+          "list_en_vn": [
+            {
+              "full_en": "he's a good /poor correspondent",
+              "full_vn": "anh ta là người chăm/lười viết thư"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375072_398d5f6fc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375072_55bcc6d2ba_o.png",
+      "id_image": "correspondent_1661617"
+    }
+  ]
+}

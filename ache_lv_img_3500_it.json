@@ -1,0 +1,68 @@
+{
+  "english": "ache",
+  "phat_am": "[eik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đau, sự nhức"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đau, nhức, nhức nhối",
+          "list_en_vn": [
+            {
+              "full_en": "my head aches",
+              "full_vn": "tôi nhức đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) đau đớn",
+          "list_en_vn": [
+            {
+              "full_en": "my head aches at the sight of such misfortunes",
+              "full_vn": "lòng tôi đau đớn trước những cảnh ngộ rủi ro ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khát khao với ai, với cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "he was aching for home (to go home )",
+              "full_vn": "anh ấy nhớ nhà da diết"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439078_0fc66d5efb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439078_aed5d8af92_o.png",
+      "id_image": "ache_5746147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439053_d8e5cd9282_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439053_2e8aa7eb02_o.png",
+      "id_image": "ache_5746222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368837_468db6b87d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368837_0e454bf37e_o.png",
+      "id_image": "ache_5746398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368802_416231c325_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368802_96b17ef393_o.png",
+      "id_image": "ache_5775353"
+    }
+  ]
+}

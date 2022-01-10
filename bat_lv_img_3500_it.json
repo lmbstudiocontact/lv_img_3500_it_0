@@ -1,0 +1,207 @@
+{
+  "english": "bat",
+  "phat_am": "[bæt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) gậy (bóng chày, crikê); (từ cổ,nghĩa cổ) vợt (quần vợt)"
+        },
+        {
+          "m_full_vn": "vận động viên bóng chày, vận động viên crikê ( (cũng) batsman ))"
+        },
+        {
+          "m_full_vn": "(từ lóng) cú đánh bất ngờ"
+        },
+        {
+          "m_full_vn": "bàn đập (của thợ giặt)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be at bat",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) giữ một vị trí quan trọng (đánh bóng chày)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) giữ vai trò quan trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry out one's bat",
+              "list_im": [
+                {
+                  "im_full_vn": "thắng, giành được thắng lợi, không bị loại khỏi vòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come to bat",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) gặp phải một vấn đề khó khăn hóc búa; phải qua một thử thách gay go"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go to the bat with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "thi đấu với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "off one's own bat",
+              "list_im": [
+                {
+                  "im_full_vn": "một mình không có ai giúp đỡ, đơn thương độc mã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "right off the bat",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) ngay lập tức, không chậm trễ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) đánh bằng gậy (bóng chày, crikê)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con dơi",
+          "list_one_mean": [
+            {
+              "id_full_en": "as blind as a bat",
+              "list_im": [
+                {
+                  "im_full_vn": "mù tịt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have bats in one's belfry",
+              "list_im": [
+                {
+                  "im_full_vn": "gàn, dở hơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a bat out of hell",
+              "list_im": [
+                {
+                  "im_full_vn": "thật nhanh, ba chân bốn cẳng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) bước đi, dáng đi",
+          "list_one_mean": [
+            {
+              "id_full_en": "at a good (rare ) bat",
+              "list_im": [
+                {
+                  "im_full_vn": "thật nhanh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go full bat",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) đi thật nhanh, ba chân bốn cẳng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nháy (mắt)",
+          "list_one_mean": [
+            {
+              "id_full_en": "not to bat an eyelid",
+              "list_im": [
+                {
+                  "im_full_vn": "không chợp mắt được lúc nào"
+                },
+                {
+                  "im_full_vn": "cứ điềm nhiên, cứ phớt tỉnh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to bat one's eyes",
+              "full_vn": "nháy mắt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) sự chè chén linh đình; sự ăn chơi phóng đãng",
+          "list_en_vn": [
+            {
+              "full_en": "to go on a bat",
+              "full_vn": "chè chén linh đình; ăn chơi phóng đãng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050440_d9e5ee121c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050440_8a570ee05d_o.png",
+      "id_image": "bat_2213649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428688_11b4cdc655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428688_dcba39c6bd_o.png",
+      "id_image": "bat_2230887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428663_444236bb21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428663_3476d87099_o.png",
+      "id_image": "bat_2591454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428748_c76c6f7c54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428748_c992f08823_o.png",
+      "id_image": "bat_375135"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "bold",
+  "phat_am": "[bould]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dũng cảm, táo bạo, cả gan"
+        },
+        {
+          "m_full_vn": "trơ trẽn, trơ tráo, liều lĩnh"
+        },
+        {
+          "m_full_vn": "rõ nét, đậm nét",
+          "list_en_vn": [
+            {
+              "full_en": "the bold outline of the mountain",
+              "full_vn": "đường nét rất rõ của quả núi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dốc ngược, dốc đứng",
+          "list_one_mean": [
+            {
+              "id_full_en": "as bold as brass",
+              "list_im": [
+                {
+                  "im_full_vn": "mặt dày mày dạn, trơ tráo như gáo múc dầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make so bold as to do sth",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh liều, đánh bạo (làm việc gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put on a bold front",
+              "list_im": [
+                {
+                  "im_full_vn": "ra vẻ gan lì hoặc vui mừng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "bold coast",
+              "full_vn": "bờ biển dốc đứng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680814_364acc947f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680814_a0fa5021ef_o.png",
+      "id_image": "bold_1833900"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "advocate",
+  "phat_am": "['ædvəkit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người biện hộ, người bào chữa, người bênh vực; luật sư, thầy cãi"
+        },
+        {
+          "m_full_vn": "người chủ trương; người tán thành, người ủng hộ",
+          "list_en_vn": [
+            {
+              "full_en": "an advocate of peace",
+              "full_vn": "người chủ trương hoà bình"
+            },
+            {
+              "full_en": "the advocates of socialism",
+              "full_vn": "những người tán thành chủ nghĩa xã hội"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "biện hộ, bào chữa"
+        },
+        {
+          "m_full_vn": "chủ trương; tán thành, ủng hộ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364102_f632c15d78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364102_103ee624c6_o.png",
+      "id_image": "advocate_4827334"
+    }
+  ]
+}

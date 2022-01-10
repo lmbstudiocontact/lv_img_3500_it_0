@@ -1,0 +1,279 @@
+{
+  "english": "case",
+  "phat_am": "[keis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trường hợp, cảnh ngộ, hoàn cảnh, tình thế",
+          "list_en_vn": [
+            {
+              "full_en": "in his case",
+              "full_vn": "trong trường hợp của hắn ta"
+            },
+            {
+              "full_en": "to be in a sad case",
+              "full_vn": "ở trong một hoàn cảnh đáng buồn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) trường hợp, ca",
+          "list_en_vn": [
+            {
+              "full_en": "the worst cases were sent to the hospital",
+              "full_vn": "các ca nặng đã được gửi đến bệnh viện"
+            },
+            {
+              "full_en": "lying-down case",
+              "full_vn": "trường hợp phải nằm"
+            },
+            {
+              "full_en": "walking case",
+              "full_vn": "trường hợp nhẹ có thể đi được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vụ; việc kiện, việc thưa kiện, kiện, việc tố tụng",
+          "list_en_vn": [
+            {
+              "full_en": "to win one's case",
+              "full_vn": "được kiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) cách",
+          "list_one_mean": [
+            {
+              "id_full_en": "a case in point",
+              "list_im": [
+                {
+                  "im_full_vn": "thí dụ thích hợp với vấn đề đang bàn cãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as the case may be",
+              "list_im": [
+                {
+                  "im_full_vn": "như sẽ được hoàn cảnh quyết định",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "There may be an announcement about this tomorrow - or not , as the case may be",
+                      "full_vn": "Ngày mai có thể có thông báo về việc này - hoặc không có, tùy theo tình hình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in any case",
+              "list_im": [
+                {
+                  "im_full_vn": "trong bất cứ tình huống nào; bất luận thế nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in no case",
+              "list_im": [
+                {
+                  "im_full_vn": "trong bất cứ hoàn cảnh nào cũng không"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in case",
+              "list_im": [
+                {
+                  "im_full_vn": "nếu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "in case I forget , please remind me of my promise",
+                      "full_vn": "nếu tôi có quên thì nhắc tôi về lời hứa của tôi nhé"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in case of",
+              "list_im": [
+                {
+                  "im_full_vn": "trong trường hợp cái gì xảy ra, nếu cái gì xảy ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "in case of emergency",
+                      "full_vn": "trong trường hợp khẩn cấp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(just ) in case ...",
+              "list_im": [
+                {
+                  "im_full_vn": "phòng hờ...; phòng khi...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "It may rain - you'd better take an umbrella (just ) in case (it does )",
+                      "full_vn": "Trời có thể mưa - anh nên mang ô theo thì hơn (ngộ nhỡ trời mưa)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in that case",
+              "list_im": [
+                {
+                  "im_full_vn": "trong trường hợp đó; nếu vậy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You don't like your job ? In that case , why don't you leave ?",
+                      "full_vn": "Anh không thích công việc của anh ư? Nếu vậy sao anh không xin thôi?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "it is not the case",
+              "list_im": [
+                {
+                  "im_full_vn": "không phải như thế, không đúng như thế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make out a case for something",
+              "list_im": [
+                {
+                  "im_full_vn": "ủng hộ cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the report makes out a strong case for increased spending on hospitals",
+                      "full_vn": "bản báo cáo đưa ra những lý lẽ mạnh mẽ ủng hộ việc giatăng chi tiêu cho các bệnh viện"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to state one's case",
+              "list_im": [
+                {
+                  "im_full_vn": "trình bày lý lẽ của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to meet the case",
+              "list_im": [
+                {
+                  "im_full_vn": "được đáp ứng; được thoả mãn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this proposal of yours hardly meets the case",
+                      "full_vn": "đề nghị này của anh khó mà được thoả mãn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to prove one's /the case /point",
+              "list_im": [
+                {
+                  "im_full_vn": "chứng minh trường hợp/quan điểm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hộp; hòm; thùng",
+          "list_en_vn": [
+            {
+              "full_en": "a jewel case",
+              "full_vn": "một hộp nữ trang"
+            },
+            {
+              "full_en": "a pencil case",
+              "full_vn": "một hộp bút chì"
+            },
+            {
+              "full_en": "a case of champagne",
+              "full_vn": "một thùng sâm banh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) hộp chữ in (có từng ngăn)",
+          "list_one_mean": [
+            {
+              "id_full_en": "lower case",
+              "list_im": [
+                {
+                  "im_full_vn": "chữ thường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "upper case",
+              "list_im": [
+                {
+                  "im_full_vn": "chữ hoa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ (cái gì) vào thùng, hòm, hộp",
+          "list_one_mean": [
+            {
+              "id_full_en": "To case the joint",
+              "list_im": [
+                {
+                  "im_full_vn": "xem xét một địa điểm thật kỹ (trước khi trộm cắp ở đó)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437678_b510d2ffac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437678_03267e1be3_o.png",
+      "id_image": "case_1019362"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437648_369475254f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437648_cc7dcbae6c_o.png",
+      "id_image": "case_2271374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367417_7a3a1dde83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367417_ae49fe69c4_o.png",
+      "id_image": "case_948474"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "commerce",
+  "phat_am": "['kɔmə:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự buôn bán; thương mại; thương nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "home commerce",
+              "full_vn": "nội thương"
+            },
+            {
+              "full_en": "Chamber of commerce",
+              "full_vn": "phòng thương mại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự quan hệ, sự giao thiệp",
+          "list_en_vn": [
+            {
+              "full_en": "to have commerce with somebody",
+              "full_vn": "có giao thiệp với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) sự giao cấu, sự ăn nằm với nhau"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673844_c9415ab1fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673844_701c0db474_o.png",
+      "id_image": "commerce_1110173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673819_883fd9ed7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673819_83cf693877_o.png",
+      "id_image": "commerce_2345265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673779_f9b7abe874_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673779_c1115ac3fc_o.png",
+      "id_image": "commerce_2400350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055455_d79d10e570_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055455_f571e1625b_o.png",
+      "id_image": "commerce_6314602"
+    }
+  ]
+}

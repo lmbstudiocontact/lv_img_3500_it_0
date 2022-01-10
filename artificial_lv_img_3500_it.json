@@ -1,0 +1,67 @@
+{
+  "english": "artificial",
+  "phat_am": "[,ɑ:ti'fi∫əl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhân tạo",
+          "list_en_vn": [
+            {
+              "full_en": "artificial silk",
+              "full_vn": "lụa nhân tạo"
+            },
+            {
+              "full_en": "artificial respiration",
+              "full_vn": "hô hấp nhân tạo"
+            },
+            {
+              "full_en": "artificial insemination",
+              "full_vn": "thụ tinh nhân tạo"
+            },
+            {
+              "full_en": "artificial intelligence",
+              "full_vn": "trí tuệ nhân tạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không tự nhiên, giả tạo; giả",
+          "list_en_vn": [
+            {
+              "full_en": "artificial flowers",
+              "full_vn": "hoa giả"
+            },
+            {
+              "full_en": "artificial smile",
+              "full_vn": "nụ cười giả tạo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348692_a5216fbd8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348692_1ec52d07e1_o.png",
+      "id_image": "artificial_2286168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041320_d2bf571546_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041320_6bbd37f036_o.png",
+      "id_image": "artificial_2286237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419423_829410237e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419423_e6aa086cef_o.png",
+      "id_image": "artificial_2286257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304451_397e5c0412_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304451_04279fdf64_o.png",
+      "id_image": "artificial_4332419"
+    }
+  ]
+}

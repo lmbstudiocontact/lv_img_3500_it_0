@@ -1,0 +1,156 @@
+{
+  "english": "delicate",
+  "phat_am": "['delikət]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thanh nhã, thanh tú",
+          "list_en_vn": [
+            {
+              "full_en": "delicate features",
+              "full_vn": "nét mặt thanh tú"
+            },
+            {
+              "full_en": "delicate beauty of a snowflake",
+              "full_vn": "vẻ đẹp thanh khiết của bông tuyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mỏng manh; dễ ốm, không khoẻ, mảnh khảnh; dễ vỡ (đồ thuỷ tinh...)",
+          "list_en_vn": [
+            {
+              "full_en": "a delicate child , constitution",
+              "full_vn": "đứa bé, thể tạng yếu ớt"
+            },
+            {
+              "full_en": "she's been in delicate health for some time",
+              "full_vn": "sức khoẻ cô ta suy giảm một thời gian"
+            },
+            {
+              "full_en": "delicate china",
+              "full_vn": "đồ sứ dễ vỡ"
+            },
+            {
+              "full_en": "a delicate plant",
+              "full_vn": "cây leo mỏng manh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mềm mại; mịn màng",
+          "list_en_vn": [
+            {
+              "full_en": "as delicate as silk",
+              "full_vn": "mịn màng như lụa"
+            },
+            {
+              "full_en": "a baby's delicate skin",
+              "full_vn": "da non mềm mại của trẻ sơ sinh"
+            },
+            {
+              "full_en": "a delicate hand",
+              "full_vn": "bàn tay mềm mại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tinh vi; tinh tế",
+          "list_en_vn": [
+            {
+              "full_en": "a very delicate surgical operation",
+              "full_vn": "(y học) một ca mổ rất tinh vi"
+            },
+            {
+              "full_en": "to give a delicate hint",
+              "full_vn": "gợi ý khéo, nhắc khéo"
+            },
+            {
+              "full_en": "a delicate structure , mechanism",
+              "full_vn": "cấu trúc, cơ chế tinh vi"
+            },
+            {
+              "full_en": "the delicate craftsmanship of a fine watch",
+              "full_vn": "sự khéo léo tinh tế của một chiếc đồng hồ đẹp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhạy cảm, tế nhị",
+          "list_en_vn": [
+            {
+              "full_en": "I admire your delicate handling of the situation",
+              "full_vn": "tôi phục anh đã xử lý tình huống thật khéo léo"
+            },
+            {
+              "full_en": "to conduct delicate negotiations",
+              "full_vn": "tiến hành thương lượng thật tế nhị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về giác quan hoặc dụng cụ) nhạy bén",
+          "list_en_vn": [
+            {
+              "full_en": "a delicate sense of smell /touch",
+              "full_vn": "khứu giác thính/xúc giác nhạy"
+            },
+            {
+              "full_en": "a delicate balance",
+              "full_vn": "cân nhạy"
+            },
+            {
+              "full_en": "only a very delicate thermometer can measure such tiny changes in temperature",
+              "full_vn": "chỉ có một nhiệt kế rất nhạy mới đo được những thay đổi nhiệt độ chi li như vậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về màu sắc) không sẫm; nhẹ; phơn phớt",
+          "list_en_vn": [
+            {
+              "full_en": "a delicate colour",
+              "full_vn": "màu phơn phớt"
+            },
+            {
+              "full_en": "a delicate shade of pink",
+              "full_vn": "sắc hồng phơn phớt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về thức ăn hoặc vị của thức ăn) dễ chịu, thú vị và mùi vị không nồng; ngon; thanh cảnh",
+          "list_en_vn": [
+            {
+              "full_en": "the gentle , delicate flavour of salmon",
+              "full_vn": "hương vị nhẹ nhàng, ngon lành của cá hồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về mùi vị) dễ chịu và không gắt; thoang thoảng",
+          "list_en_vn": [
+            {
+              "full_en": "a delicate perfume , fragrance , aroma",
+              "full_vn": "nước hoa, hương thơm, hương vị thơm dịu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660919_c434359f88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660919_4c32f779e4_o.png",
+      "id_image": "delicate_525818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420513_5ee8a5e05a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420513_79716a4333_o.png",
+      "id_image": "delicate_525837"
+    }
+  ]
+}

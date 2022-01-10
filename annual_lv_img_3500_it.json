@@ -1,0 +1,66 @@
+{
+  "english": "annual",
+  "phat_am": "['ænjuəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xảy ra hàng năm",
+          "list_en_vn": [
+            {
+              "full_en": "annual event /meeting /show /report",
+              "full_vn": "sự kiện/hội nghị/bản báo cáo/cuộc trình diễn hàng năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính cho cả năm",
+          "list_en_vn": [
+            {
+              "full_en": "annual income /rainfall /subscription",
+              "full_vn": "thu nhập/sản lượng/lượng mưa/tiền đóng góp hàng năm"
+            },
+            {
+              "full_en": "annual ring",
+              "full_vn": "(thực vật học) vòng năm (cây)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây chỉ sống một năm hoặc một mùa"
+        },
+        {
+          "m_full_vn": "sách hoặc tạp chí xuất bản mỗi năm một kỳ, vẫn cùng một tên nhưng mỗi lần lại có nội dung khác"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426228_7bca1b5863_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426228_506c10f07d_o.png",
+      "id_image": "annual_2861065"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666344_e2c99b03c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666344_b95d3fe75b_o.png",
+      "id_image": "annual_381630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047930_d451ca4700_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047930_7f5717a147_o.png",
+      "id_image": "annual_3967606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426168_25f22586e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426168_6380c3eec1_o.png",
+      "id_image": "annual_5571284"
+    }
+  ]
+}

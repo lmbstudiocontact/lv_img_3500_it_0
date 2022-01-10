@@ -1,0 +1,164 @@
+{
+  "english": "bank",
+  "phat_am": "[bæηk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dải đất dọc theo hai bên bờ sông; bờ",
+          "list_en_vn": [
+            {
+              "full_en": "I dare you jump over to the opposite bank",
+              "full_vn": "Tôi thách anh nhảy sang bờ bên kia đấy"
+            },
+            {
+              "full_en": "Their barracks are on the south bank (of the canal )",
+              "full_vn": "Doanh trại của họ ở bên bờ nam (của con kênh)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bờ đất làm ranh giới",
+          "list_en_vn": [
+            {
+              "full_en": "low banks of earth between rice-fields",
+              "full_vn": "bờ đất thấp ở giữa những thửa ruộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đống",
+          "list_en_vn": [
+            {
+              "full_en": "big banks of snow",
+              "full_vn": "những đống tuyết lớn"
+            },
+            {
+              "full_en": "the sun went behind a bank of clouds",
+              "full_vn": "mặt trời khuất dạng sau đám mây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bãi ngầm (ở đáy sông)"
+        },
+        {
+          "m_full_vn": "sự nghiêng cánh (máy bay); sự nghiêng sang một bên ( ôtô trong khi quành hay chạy vòng tròn)"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) bờ miệng giếng, bờ miệng hầm"
+        },
+        {
+          "m_full_vn": "dãy; hàng",
+          "list_en_vn": [
+            {
+              "full_en": "a bank of stroboscopes",
+              "full_vn": "một dãy đèn chớp"
+            },
+            {
+              "full_en": "a bank of cylinders in an engine",
+              "full_vn": "một hàng xy lanh trong động cơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngân hàng; nhà băng",
+          "list_en_vn": [
+            {
+              "full_en": "to have money in the bank",
+              "full_vn": "có tiền gửi ngân hàng"
+            },
+            {
+              "full_en": "bank manager",
+              "full_vn": "giám đốc ngân hàng"
+            },
+            {
+              "full_en": "a bank account",
+              "full_vn": "tài khoản ở ngân hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh bài) vốn của nhà cái",
+          "list_en_vn": [
+            {
+              "full_en": "to break the bank",
+              "full_vn": "đánh cho nhà cái hết vốn; (nghĩa bóng) làm cho sạt nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kho lưu giữ (đồ đạc quý giá, thông tin...)",
+          "list_en_vn": [
+            {
+              "full_en": "to build up a bank of police records",
+              "full_vn": "xây dựng kho lưu giữ hồ sơ cảnh sát"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đắp bờ (để ngăn)",
+          "list_en_vn": [
+            {
+              "full_en": "to bank up a river",
+              "full_vn": "đắp bờ ngăn sông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chất đống, dồn thành đống",
+          "list_en_vn": [
+            {
+              "full_en": "the sand banks up",
+              "full_vn": "cát dồn lại thành đống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghiêng đi (ô tô, máy bay khi lái vòng)",
+          "list_en_vn": [
+            {
+              "full_en": "the helicopter banked to the left",
+              "full_vn": "máy bay trực thăng nghiêng sang trái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gửi (tiền) vào ngân hàng; gửi tiền ở ngân hàng",
+          "list_en_vn": [
+            {
+              "full_en": "he banks one-tenth of his salary every month",
+              "full_vn": "anh ta gửi 1 phần mười tiền lương hàng tháng vào ngân hàng"
+            },
+            {
+              "full_en": "where did she bank ?",
+              "full_vn": "cô ấy gửi tiền ở ngân hàng nào?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to bank on somebody / something ) trông mong/trông cậy vào ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "Don't bank on their help /on them to help you",
+              "full_vn": "Đừng trông mong vào sự giúp đỡ của họ/trông mong họ giúp anh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431988_6ab9c6d939_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431988_f86b5c30e9_o.png",
+      "id_image": "bank_1101598"
+    }
+  ]
+}

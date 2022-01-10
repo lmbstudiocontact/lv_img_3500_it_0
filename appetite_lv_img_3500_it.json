@@ -1,0 +1,77 @@
+{
+  "english": "appetite",
+  "phat_am": "['æpitait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ngon miệng, sự thèm ăn",
+          "list_en_vn": [
+            {
+              "full_en": "to give an appetite",
+              "full_vn": "làm thèm ăn, làm cho ăn ngon miệng"
+            },
+            {
+              "full_en": "to spoil (take away ) someone's appetite",
+              "full_vn": "làm ai ăn mất ngon"
+            },
+            {
+              "full_en": "to have a poor appetite",
+              "full_vn": "ăn không ngon miệng, không thấy thèm ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lòng thèm muốn, lòng ham muốn, sự khao khát",
+          "list_one_mean": [
+            {
+              "id_full_en": "appetite comes with eating",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) càng ăn càng thấy ngon miệng; càng có càng muốn thêm, được voi đòi tiên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sexual appetites",
+              "list_im": [
+                {
+                  "im_full_vn": "những ham muốn tình dục"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "appetite for reading",
+              "full_vn": "sự ham đọc sách"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424043_edfc7aa92f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424043_21b67f9323_o.png",
+      "id_image": "appetite_4785760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664109_411b0f4062_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664109_8188a9d8d1_o.png",
+      "id_image": "appetite_4785891"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424013_6501e7fc80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424013_9ea8e937f5_o.png",
+      "id_image": "appetite_4799055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664054_2d18b4ebf9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664054_4b3da406a8_o.png",
+      "id_image": "appetite_4813794"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "english": "alien",
+  "phat_am": "['eiljən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) nước ngoài, (thuộc) chủng tộc khác",
+          "list_en_vn": [
+            {
+              "full_en": "alien customs",
+              "full_vn": "những phong tục nước ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xa lạ; không quen thuộc",
+          "list_en_vn": [
+            {
+              "full_en": "an alien environment",
+              "full_vn": "một môi trường xa lạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( alien to something / somebody ) trái ngược với cái gì; đáng căm ghét đối với ai",
+          "list_en_vn": [
+            {
+              "full_en": "it's alien to my thoughts",
+              "full_vn": "cái đó trái với những ý nghĩ của tôi"
+            },
+            {
+              "full_en": "such principles are alien to our religion",
+              "full_vn": "những nguyên tắc đó là trái với đạo của chúng tôi"
+            },
+            {
+              "full_en": "cruelty is quite alien to his nature /to him",
+              "full_vn": "sự độc ác trái ngược hẳn với bản chất của anhta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người không phải công dân của quốc gia nơi anh ta đang sinh sống; người nước ngoài; ngoại kiều"
+        },
+        {
+          "m_full_vn": "người thuộc một thế giới khác"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360797_1b02e2bcce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360797_ba0fcc105b_o.png",
+      "id_image": "aliens_3306585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671259_28f535032f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671259_729c7ac0ac_o.png",
+      "id_image": "aliens_5570658"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671314_99ac98a1da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671314_5289895236_o.png",
+      "id_image": "alien_1171404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316596_00804ea51f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316596_7db09e24a4_o.png",
+      "id_image": "alien_784897"
+    }
+  ]
+}

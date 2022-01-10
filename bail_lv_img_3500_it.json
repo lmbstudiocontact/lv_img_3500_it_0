@@ -1,0 +1,99 @@
+{
+  "english": "bail",
+  "phat_am": "[beil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(pháp lý) tiền một người phải trả hoặc trả cho một người bị buộc là phạm tội, để bảo lãnh rằng anh ta sẽ trở lại phiên toà xét xử nếu từ đây đến lúc đó anh ta được phép đi lại tự do; tiền bảo lãnh"
+        },
+        {
+          "m_full_vn": "giấy cho phép thả một người đã được bảo lãnh như vậy; giấy tại ngoại hậu cứu"
+        },
+        {
+          "m_full_vn": "( crikê) một trong hai thanh ngang nằm trên bộ cọc gôn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to forfeit one's bail",
+              "list_im": [
+                {
+                  "im_full_vn": "không ra hầu toà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go bail for someone",
+              "list_im": [
+                {
+                  "im_full_vn": "(pháp lý) đứng ra bảo lãnh (cho ai được tự do)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to offer bail",
+              "list_im": [
+                {
+                  "im_full_vn": "xin nộp tiền bảo lãnh để được tạm tự do ở ngoài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out on bail",
+              "list_im": [
+                {
+                  "im_full_vn": "tạm được tự do (được tại ngoại) sau khi đóng tiền bảo lãnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to produce (bring in , render , surrender to ) one's bail",
+              "list_im": [
+                {
+                  "im_full_vn": "ra toà sau khi hết hạn bảo lãnh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to bail somebody out ) đóng tiền bảo lãnh cho ai được tạm tự do ở ngoài; đóng tiền bảo lãnh cho ai được tại ngoại hậu cứu; (nghĩa bóng) cứu ai khỏi cảnh túng quẫn"
+        },
+        {
+          "m_full_vn": "( to bail out / something out ) tát nước trong thuyền ra bằng gàu, xô....; rửa sạch (thuyền) bằng cách đó",
+          "list_en_vn": [
+            {
+              "full_en": "to bail water (out)",
+              "full_vn": "tát nước ra"
+            },
+            {
+              "full_en": "to bail (out) the boat",
+              "full_vn": "tát nước trong thuyền ra"
+            },
+            {
+              "full_en": "the boat will sink unless we bail out",
+              "full_vn": "thuyền sẽ chìm nếu chúng ta không tát nước ra"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674879_7618c1546a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674879_3c0ec99867_o.png",
+      "id_image": "bail_1750513"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319881_3c63ba8990_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319881_3e1033bdc6_o.png",
+      "id_image": "bail_6222604"
+    }
+  ]
+}

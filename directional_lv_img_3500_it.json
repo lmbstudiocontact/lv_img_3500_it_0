@@ -1,0 +1,41 @@
+{
+  "english": "directional",
+  "phat_am": "[di'rek∫ənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "định hướng",
+          "list_en_vn": [
+            {
+              "full_en": "directional radio",
+              "full_vn": "ra-đi-ô định hướng; khoa tìm phương hướng bằng ra-đi-ô"
+            },
+            {
+              "full_en": "directional signal",
+              "full_vn": "như turn signal"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319966_9c844b1cfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319966_4b61213c69_o.png",
+      "id_image": "directional_1692051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056640_89bacfdba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056640_eb85547f23_o.png",
+      "id_image": "directional_169497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364717_10d8c85b8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364717_30bb4a54a2_o.png",
+      "id_image": "directional_216871"
+    }
+  ]
+}

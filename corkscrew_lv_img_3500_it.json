@@ -1,0 +1,55 @@
+{
+  "english": "corkscrew",
+  "phat_am": "['kɔ:kskru:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái mở nút chai (hình xoắn ruột gà)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm xoắn ốc; xoắn lại",
+          "list_en_vn": [
+            {
+              "full_en": "to corkscrew a line",
+              "full_vn": "vẽ một đường xoắn ốc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447223_1f71d0cf71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447223_46a0e6cf58_o.png",
+      "id_image": "corkscrew_1691180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376912_ba4c549e6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376912_19fa8c651b_o.png",
+      "id_image": "corkscrew_2244984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447143_a9591ab3c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447143_2fbbbb695c_o.png",
+      "id_image": "corkscrew_2597637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376857_606a1a4732_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376857_9f4e098656_o.png",
+      "id_image": "corkscrew_2601064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376827_33827cf4e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376827_04c57aecd6_o.png",
+      "id_image": "corkscrew_2688610"
+    }
+  ]
+}

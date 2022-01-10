@@ -1,0 +1,331 @@
+{
+  "english": "best",
+  "phat_am": "[best]",
+  "list_type": [
+    {
+      "type": "tính từ, cấp so sánh cao nhất của good",
+      "list_m": [
+        {
+          "m_full_vn": "tốt nhất, hay nhất, đẹp nhất, giỏi nhất",
+          "list_one_mean": [
+            {
+              "id_full_en": "the best part",
+              "list_im": [
+                {
+                  "im_full_vn": "đại bộ phận",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the best part of the year",
+                      "full_vn": "phần lớn thời gian trong năm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's best leg (foot ) foremost",
+              "list_im": [
+                {
+                  "im_full_vn": "đi thật nhanh, đi ba chân bốn cẳng"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) làm công việc mình thành thạo nhất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on one's best behaviour",
+              "list_im": [
+                {
+                  "im_full_vn": "cư xử thật tốt; cư xử thật khéo léo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's best bet",
+              "list_im": [
+                {
+                  "im_full_vn": "công việc có nhiều khả năng thành công nhất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's best bib and tucker",
+              "list_im": [
+                {
+                  "im_full_vn": "quần áo dành cho những dịp hội hè đình đám"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with the best will in the world",
+              "list_im": [
+                {
+                  "im_full_vn": "bằng tất cả thiện chí vốn có"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the best thing to do",
+              "full_vn": "việc làm tốt nhất, việc làm có kết quả nhất"
+            },
+            {
+              "full_en": "to put on one's best clothes",
+              "full_vn": "thắng bộ đẹp nhất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ, cấp so sánh cao nhất của well",
+      "list_m": [
+        {
+          "m_full_vn": "tốt nhất, hay nhất; hơn nhất",
+          "list_one_mean": [
+            {
+              "id_full_en": "had best",
+              "list_im": [
+                {
+                  "im_full_vn": "tốt nhất là, khôn hơn hết là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we had best go home now",
+                      "full_vn": "tốt nhất là bây giờ chúng ta về nhà"
+                    },
+                    {
+                      "full_en": "the best abused",
+                      "full_vn": "(thông tục) bị chửi nhiều nhất (người, vật...)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he works best in the morning",
+              "full_vn": "anh ấy làm việc tốt nhất vào buổi sáng"
+            },
+            {
+              "full_en": "the best dressed woman",
+              "full_vn": "người đàn bà ăn mặc đẹp nhất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái tốt nhất, cái hay nhất, cái đẹp nhất"
+        },
+        {
+          "m_full_vn": "cố gắng lớn nhất"
+        },
+        {
+          "m_full_vn": "quần áo đẹp nhất",
+          "list_one_mean": [
+            {
+              "id_full_en": "at the best",
+              "list_im": [
+                {
+                  "im_full_vn": "trong điều kiện tốt nhất, trong hoàn cảnh tốt nhất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bad is the best",
+              "list_im": [
+                {
+                  "im_full_vn": "không có triển vọng gì hay, không hy vọng gì có chuyện tốt đẹp xảy ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be at one's best",
+              "list_im": [
+                {
+                  "im_full_vn": "lúc đẹp nhất, lúc tốt nhất, lúc sung sức nhất, lúc rực rỡ nhất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the best is the enemy of the good",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) cầu toàn thường khi lại hỏng việc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do one's best",
+              "list_im": [
+                {
+                  "im_full_vn": "làm hết sức mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get (have ) the best of it",
+              "list_im": [
+                {
+                  "im_full_vn": "thắng thế (trong khi tranh luận...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get the best of someone",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể dục,thể thao) thắng ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "if you cannot have the best , make the best of what you have",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) không có cá thì lấy rau má làm ngon"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Sunday best",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) Sunday"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make the best of it (of a bad bargain , of a bad business , of a bad job )",
+              "list_im": [
+                {
+                  "im_full_vn": "mặc dầu có khó khăn vẫn vui vẻ cố gắng; không nản lòng trong lúc khó khăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make the best (use ) of something",
+              "list_im": [
+                {
+                  "im_full_vn": "tận dụng cái hay, cái tốt đẹp của việc gì"
+                },
+                {
+                  "im_full_vn": "chịu đựng cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make the best of one's time",
+              "list_im": [
+                {
+                  "im_full_vn": "tranh thủ thời gian"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make the best of one's way",
+              "list_im": [
+                {
+                  "im_full_vn": "đi thật nhanh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send one's best",
+              "list_im": [
+                {
+                  "im_full_vn": "gửi lời chào, gửi lời chúc mừng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the best of one's knowledge",
+              "list_im": [
+                {
+                  "im_full_vn": "với tất cả sự hiểu biết của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the best of one's power (ability )",
+              "list_im": [
+                {
+                  "im_full_vn": "với tất cả khả năng của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with the best",
+              "list_im": [
+                {
+                  "im_full_vn": "như bất cứ ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "although he is nearly sixty , he can still carry 40 kg on his shoulder with the best",
+                      "full_vn": "mặc dù đã gần sáu mươi tuổi, cụ ấy vẫn gánh được 40 kg như những người khác"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the best of both worlds",
+              "list_im": [
+                {
+                  "im_full_vn": "vẹn cả đôi đường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play the best of three",
+              "list_im": [
+                {
+                  "im_full_vn": "chơi đến ba ván, người thắng cuộc ăn hầu hết các ván"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with the best of intentions",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn do thiện ý"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hơn, thắng (ai); ranh ma hơn, láu cá hơn (ai)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422323_5abe2c3db6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422323_1be484d2a9_o.png",
+      "id_image": "best_1018794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422288_2d1741a064_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422288_b930b972ee_o.png",
+      "id_image": "best_2545695"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351227_caa6b8c38f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351227_71db2d4e07_o.png",
+      "id_image": "best_2911198"
+    }
+  ]
+}

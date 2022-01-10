@@ -1,0 +1,30 @@
+{
+  "english": "blanch",
+  "phat_am": "[blɑ:nt∫]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm trắng, làm bạc đi"
+        },
+        {
+          "m_full_vn": "làm tái nhợt; tái nhợt đi",
+          "list_en_vn": [
+            {
+              "full_en": "to blanch from fear",
+              "full_vn": "sợ tái mặt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658079_8c25cb100c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658079_8dbb1ef217_o.png",
+      "id_image": "blanch_3690091"
+    }
+  ]
+}

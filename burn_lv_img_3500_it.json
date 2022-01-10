@@ -1,0 +1,324 @@
+{
+  "english": "burn",
+  "phat_am": "[bə:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( Ê-cốt) (thơ ca) dòng suối"
+        },
+        {
+          "m_full_vn": "vết cháy, vết bỏng"
+        }
+      ]
+    },
+    {
+      "type": "(bất qui tắc) ngoại động từ burnt , burned",
+      "list_m": [
+        {
+          "m_full_vn": "đốt, đốt cháy, thiêu, thắp, nung; làm bỏng",
+          "list_en_vn": [
+            {
+              "full_en": "to burn coal in a stove",
+              "full_vn": "đốt than trong lò"
+            },
+            {
+              "full_en": "to burn a candle",
+              "full_vn": "thắp cây nến"
+            },
+            {
+              "full_en": "to burn clay for pottery",
+              "full_vn": "nung đất sét làm đồ gốm"
+            },
+            {
+              "full_en": "to burn one's fingers",
+              "full_vn": "làm bỏng ngón tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) chịu hậu quả của sự khinh suất; chuốc lấy vạ vào thân vì dính vào công việc người",
+          "list_en_vn": [
+            {
+              "full_en": "to be burnt to death",
+              "full_vn": "bị thiêu chết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đóng dấu (tội nhân) bằng sắt nung"
+        },
+        {
+          "m_full_vn": "làm rám, làm sạm (da)",
+          "list_en_vn": [
+            {
+              "full_en": "faces burnt by the sun",
+              "full_vn": "những bộ mặt rám nắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cháy, làm khê (khi nấu ăn)"
+        },
+        {
+          "m_full_vn": "ăn mòn ( axit)"
+        },
+        {
+          "m_full_vn": "sử dụng năng lượng nguyên tử (của uranium ...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cháy, bỏng",
+          "list_en_vn": [
+            {
+              "full_en": "dry wood burns easily",
+              "full_vn": "củi khô dễ cháy"
+            },
+            {
+              "full_en": "the mouth burns with chilli",
+              "full_vn": "mồm bỏng ớt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) rừng rực, bừng bừng",
+          "list_en_vn": [
+            {
+              "full_en": "to burn with rage",
+              "full_vn": "bừng bừng tức giận"
+            },
+            {
+              "full_en": "to burn with impatience",
+              "full_vn": "nóng lòng sốt ruột"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dính chảo, cháy, khê (thức ăn)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to burn away",
+              "list_im": [
+                {
+                  "im_full_vn": "đốt sạch, thiêu huỷ, thiêu trụi"
+                },
+                {
+                  "im_full_vn": "héo dần, mòn dần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn down",
+              "list_im": [
+                {
+                  "im_full_vn": "thiêu huỷ, thiêu trụi"
+                },
+                {
+                  "im_full_vn": "tắt dần, lụi dần (lửa)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the fire is burning down",
+                      "full_vn": "ngọn lửa lụi dần"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn into",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn mòn ( axit)"
+                },
+                {
+                  "im_full_vn": "khắc sâu vào (trí nhớ...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn low",
+              "list_im": [
+                {
+                  "im_full_vn": "lụi dần (lửa)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn out",
+              "list_im": [
+                {
+                  "im_full_vn": "đốt hết, đốt sạch"
+                },
+                {
+                  "im_full_vn": "cháy hết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the candle burns out",
+                      "full_vn": "ngọn nến cháy hết"
+                    },
+                    {
+                      "full_en": "to be burned out of one's house",
+                      "full_vn": "nhà bị cháy trụi không có chỗ nương thân"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đốt (nhà) để cho ai phải ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to burn somebody out of his house",
+                      "full_vn": "đốt nhà để cho ai phải ra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn up",
+              "list_im": [
+                {
+                  "im_full_vn": "đốt sạch, cháy trụi"
+                },
+                {
+                  "im_full_vn": "bốc cháy thành ngọn (lửa), cháy bùng lên"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) làm phát cáu, làm nổi giận; phát cáu, nổi giận"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) xỉ vả, mắng nhiếc, thậm tệ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn up the road",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) road"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn one's boats",
+              "list_im": [
+                {
+                  "im_full_vn": "qua sông đốt thuyền; làm việc không tính đường thoát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn one's bridges",
+              "list_im": [
+                {
+                  "im_full_vn": "qua sông phá cầu; cắt hết mọi đường thoát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn the candles at both ends",
+              "list_im": [
+                {
+                  "im_full_vn": "làm việc hết sức; không biết giữ sức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn daylight",
+              "list_im": [
+                {
+                  "im_full_vn": "thắp đèn ban ngày, thắp đèn sớm quá (khi trời hãy còn sáng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn the midnight oil",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) oil"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn the water",
+              "list_im": [
+                {
+                  "im_full_vn": "đi xiên cá bằng đuốc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn the wind (earth )",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) chạy nhanh vùn vụt, chạy hết tốc độ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "money burns a hole in one's pocket",
+              "list_im": [
+                {
+                  "im_full_vn": "tiền chẳng bao giờ giữ được lâu trong túi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sb's ears are burning",
+              "list_im": [
+                {
+                  "im_full_vn": "nóng tai lên, tức tối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have money to burn",
+              "list_im": [
+                {
+                  "im_full_vn": "thừa tiền lắm của, quá giàu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel one's ears burning",
+              "list_im": [
+                {
+                  "im_full_vn": "cho rằng thiên hạ đang nói xấu mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn sth to a crisp",
+              "list_im": [
+                {
+                  "im_full_vn": "nấu đến cháy khét"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664489_f343b65713_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664489_98fc31187a_o.png",
+      "id_image": "burn_1599790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353352_8752346027_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353352_af94c9434d_o.png",
+      "id_image": "burn_5601132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424378_39a05d7fc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424378_3d867c5001_o.png",
+      "id_image": "burn_648459"
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "english": "catch",
+  "phat_am": "[kæt∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bắt, sự nắm lấy; cái bắt, cái vồ, cái chộp",
+          "list_en_vn": [
+            {
+              "full_en": "a good catch",
+              "full_vn": "một quả bắt đẹp mắt (bóng đá)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đánh cá; mẻ cá",
+          "list_en_vn": [
+            {
+              "full_en": "a fine catch of fish",
+              "full_vn": "một mẻ cá nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhiều người bị bắt, vật bị túm được; mồi ngon đáng để bẫy; món bở",
+          "list_en_vn": [
+            {
+              "full_en": "it is no catch",
+              "full_vn": "món này chẳng bở gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái gài, cái móc, cái then cửa, cái chốt cửa"
+        },
+        {
+          "m_full_vn": "cái bẫy, mưu kế lừa người; câu hỏi mẹo (để cho ai vào bẫy)"
+        },
+        {
+          "m_full_vn": "đoạn (bài nói, câu chuyện...) chợt nghe thấy"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cái hãm, máy hãm, khoá dừng",
+          "list_one_mean": [
+            {
+              "id_full_en": "the early bird catches the worm",
+              "list_im": [
+                {
+                  "im_full_vn": "đến trước và dậy sớm là nắm thành công trongtay"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ ( caught )",
+      "list_m": [
+        {
+          "m_full_vn": "bắt lấy, nắm lấy, tóm lấy, chộp lấy",
+          "list_en_vn": [
+            {
+              "full_en": "to catch a ball",
+              "full_vn": "bắt quả bóng"
+            },
+            {
+              "full_en": "to catch somebody by the arm",
+              "full_vn": "nắm lấy cánh tay ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh được, câu được (cá)"
+        },
+        {
+          "m_full_vn": "bắt kịp, theo kịp, đuổi kịp",
+          "list_en_vn": [
+            {
+              "full_en": "to catch a train",
+              "full_vn": "bắt kịp xe lửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mắc (bệnh), bị lây (bệnh); nhiễm (thói quen, bệnh)",
+          "list_en_vn": [
+            {
+              "full_en": "to catch cold",
+              "full_vn": "nhiễm lạnh, cảm lạnh"
+            },
+            {
+              "full_en": "to catch measles",
+              "full_vn": "mắc bệnh sởi"
+            },
+            {
+              "full_en": "to catch a habit",
+              "full_vn": "nhiễm một thói quen"
+            },
+            {
+              "full_en": "to catch fire",
+              "full_vn": "bắt lửa, cháy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiểu được, nắm được (ý nghĩa); nhận ra",
+          "list_en_vn": [
+            {
+              "full_en": "to catch someone's meaning",
+              "full_vn": "hiểu được ý ai muốn nói gì"
+            },
+            {
+              "full_en": "to catch a tune",
+              "full_vn": "thuộc và hát lại được ngay một điệu hát"
+            },
+            {
+              "full_en": "to catch a likeness",
+              "full_vn": "nhận ra sự giống nhau và vẽ lại được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt gặp, bắt được quả tang; chợt gặp, chợt thấy",
+          "list_en_vn": [
+            {
+              "full_en": "to be caught in the act",
+              "full_vn": "bị bắt quả tang"
+            },
+            {
+              "full_en": "I caught her with her hand in the till",
+              "full_vn": "tôi bắt gặp con bé đang thò tay vào ngăn kéo đựng tiền"
+            },
+            {
+              "full_en": "I caught them seeing a sexy film",
+              "full_vn": "tôi bắt quả tang họ đang xem phim khiêu dâm"
+            },
+            {
+              "full_en": "let me catch you at it again",
+              "full_vn": "cứ để tôi bắt gặp anh làm cái đó một lần nữa mà xem!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mắc vào, vướng, móc, kẹp",
+          "list_en_vn": [
+            {
+              "full_en": "nail catches dress",
+              "full_vn": "đinh móc vào áo"
+            },
+            {
+              "full_en": "to catch one's finger in a door",
+              "full_vn": "kẹp ngón tay vào cửa"
+            },
+            {
+              "full_en": "boat is caught in the reeds",
+              "full_vn": "thuyền bị vướng trong đám lau sậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chặn đứng, nén, giữ",
+          "list_en_vn": [
+            {
+              "full_en": "to catch one's breath",
+              "full_vn": "nín hơi, nín thở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thu hút, lôi cuốn",
+          "list_en_vn": [
+            {
+              "full_en": "to catch the attention",
+              "full_vn": "thu hút được sự chú ý"
+            },
+            {
+              "full_en": "this will catch the public",
+              "full_vn": "cái này có thể lôi cuốn được công chúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh, giáng",
+          "list_en_vn": [
+            {
+              "full_en": "to catch someone a blow",
+              "full_vn": "giáng cho ai một cú"
+            },
+            {
+              "full_en": "to catch somebody on the jaw",
+              "full_vn": "đánh cho ai một cú quai hàm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt lửa (cái gì...)",
+          "list_en_vn": [
+            {
+              "full_en": "wet wood does not catch",
+              "full_vn": "gỗ ẩm không bắt lửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đóng băng",
+          "list_en_vn": [
+            {
+              "full_en": "river catches",
+              "full_vn": "con sông bắt đầu đóng băng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mắc, vướng, móc, kẹp",
+          "list_en_vn": [
+            {
+              "full_en": "dress catches on a nail",
+              "full_vn": "áo móc phải đinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ăn khớp, vừa",
+          "list_en_vn": [
+            {
+              "full_en": "the key does not catch",
+              "full_vn": "khoá này không vừa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bấu, víu lấy, níu lấy, chộp lấy",
+          "list_one_mean": [
+            {
+              "id_full_en": "to catch on",
+              "list_im": [
+                {
+                  "im_full_vn": "nổi tiếng; trở thành cái mốt; được mọi người ưa chuộng"
+                },
+                {
+                  "im_full_vn": "(thông tục) hiểu được, nắm được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to catch out",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) bất chợt bắt được (ai) đang làm gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be caught short",
+              "list_im": [
+                {
+                  "im_full_vn": "không thể nhịn tiêu tiểu được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to catch sb napping",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt gặp ai đang chểnh mảng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to catch sb red-handed",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt quả tang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to catch sb with his pants /trousers down",
+              "list_im": [
+                {
+                  "im_full_vn": "tấn công bất ngờ và chớp nhoáng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set a thief to catch a thief",
+              "list_im": [
+                {
+                  "im_full_vn": "dĩ độc trị độc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set a sprat to catch a mackerel",
+              "list_im": [
+                {
+                  "im_full_vn": "thả con săn sắt, bắt con cá rô"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to catch up",
+              "list_im": [
+                {
+                  "im_full_vn": "đuổi kịp, theo kịp, bắt kịp",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "go on in front , I'll soon catch you up",
+                      "full_vn": "cứ đi trước đi, tôi sẽ đuổi kịp anh ngay"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "ngắt lời",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to catch up a speaker",
+                      "full_vn": "ngắt lời người phát biểu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhiễm (thói quen)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to catch up a habit",
+                      "full_vn": "nhiễm một thói quen"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to catch a glimpse of something",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm lấy cái gì, tóm được cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to catch it",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bị la mắng, quở phạt, bị đánh đập"
+                }
+              ]
+            },
+            {
+              "id_full_en": "catch me !; catch me at it !; catch me doing that !",
+              "list_im": [
+                {
+                  "im_full_vn": "tớ mà lại làm cái đó à, không đời nào!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to catch the speaker's eye",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) eye"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to catch at an apportunity",
+              "full_vn": "chộp lấy cơ hội"
+            },
+            {
+              "full_en": "a drowning man will catch at a straw",
+              "full_vn": "sắp chết đuối thì vớ được cọng rơm cũng cố víu lấy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364837_ec5a7f723c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364837_9e0ed904d2_o.png",
+      "id_image": "catch_1529260"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320041_9614cb7a37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320041_4bdb436737_o.png",
+      "id_image": "catch_3075325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320026_32dae382bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320026_9461880a00_o.png",
+      "id_image": "catch_4610960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364727_569894c9c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364727_51a067abd1_o.png",
+      "id_image": "catch_4615462"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "bronze",
+  "phat_am": "[brɔnz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồng thiếc"
+        },
+        {
+          "m_full_vn": "đồ bằng đồng thiếc (tượng, lọ...)"
+        },
+        {
+          "m_full_vn": "màu đồng thiếc",
+          "list_en_vn": [
+            {
+              "full_en": "the bronze age",
+              "full_vn": "thời kỳ đồng thiếc"
+            },
+            {
+              "full_en": "bronze medal",
+              "full_vn": "huy chương đồng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bóng như đồng thiếc; làm sạm màu đồng thiếc"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sạm màu đồng thiếc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051390_009f28fcdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051390_7c45fddd9d_o.png",
+      "id_image": "bronze_1921777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358957_42b59afe8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358957_7f4b245a88_o.png",
+      "id_image": "bronze_4033748"
+    }
+  ]
+}

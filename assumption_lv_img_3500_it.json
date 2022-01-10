@@ -1,0 +1,42 @@
+{
+  "english": "assumption",
+  "phat_am": "[ə'sʌmp∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều được chấp nhận là đúng hoặc chắc sẽ xảy ra, nhưng không được chứng minh; giả định",
+          "list_en_vn": [
+            {
+              "full_en": "the theory is based on a series of wrong assumptions",
+              "full_vn": "lý thuyết này dựa trên một loạt giả định sai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( assumption of something ) sự làm ra vẻ, sự giả bộ",
+          "list_en_vn": [
+            {
+              "full_en": "their assumption ohf an air of confidence fooled nobody",
+              "full_vn": "cái vẻ tỏ ra tin tưởng của họ chẳng đánh lừa được ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( assumption of something ) sự đảm đương, sự gánh vác, sự nhận vào mình"
+        },
+        {
+          "m_full_vn": "( the Assumption ) (tôn giáo) việc Đức Mẹ đồng trinh lên trời trong hình người; lễ hội ngày 15 / 8 để kỷ niệm việc này; lễ Đức mẹ thăng thiên"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417808_8f10d5412b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417808_feedc29734_o.png",
+      "id_image": "assumption_3079152"
+    }
+  ]
+}

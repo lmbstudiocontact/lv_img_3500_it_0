@@ -1,0 +1,54 @@
+{
+  "english": "bandage",
+  "phat_am": "['bændidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dải vải để buộc quanh chỗ bị thương hoặc vết thương; băng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to bandage somebody / something up with something ) quấn băng quanh (một phần của) người nào",
+          "list_en_vn": [
+            {
+              "full_en": "to bandage (up ) a wound",
+              "full_vn": "băng vết thương"
+            },
+            {
+              "full_en": "a bandaged hand",
+              "full_vn": "bàn tay bị băng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361717_307af49a4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361717_f3d7a8ceaf_o.png",
+      "id_image": "bandage_123772"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432433_68fdc68471_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432433_3d75059b5a_o.png",
+      "id_image": "bandage_3111449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361587_4365d04881_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361587_367390c00f_o.png",
+      "id_image": "bandage_4664904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432318_3060cce166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432318_b7a4bf552a_o.png",
+      "id_image": "bandage_5139126"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "english": "chubby",
+  "phat_am": "['t∫ʌbi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mũm mĩm, mập mạp, phinh phính (má)",
+          "list_en_vn": [
+            {
+              "full_en": "chubby hands",
+              "full_vn": "tay mũm mĩm"
+            },
+            {
+              "full_en": "chubby cheeks",
+              "full_vn": "má phinh phính"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044210_26fa013728_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044210_ca37473d7e_o.png",
+      "id_image": "chubby_1818370"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422343_5d343e6cef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422343_10d8af63d8_o.png",
+      "id_image": "chubby_5571374"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "english": "answer",
+  "phat_am": "['ɑ:nsə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( answer to somebody / something ) sự trả lời; câu trả lời; thư trả lời",
+          "list_en_vn": [
+            {
+              "full_en": "the answer he gave was quite astonishing",
+              "full_vn": "câu trả lời nó đưa ra thật đáng kinh ngạc"
+            },
+            {
+              "full_en": "have you had an answer to your letter ?",
+              "full_vn": "thư của anh đã được họ trả lời chưa?"
+            },
+            {
+              "full_en": "I rang the bell but there was no answer",
+              "full_vn": "Tôi rung chuông nhưng chẳng thấy trả lời"
+            },
+            {
+              "full_en": "in answer to someone's letter",
+              "full_vn": "để trả lời thư của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giải đáp, lời giải đáp",
+          "list_en_vn": [
+            {
+              "full_en": "this could be the answer to all our problems",
+              "full_vn": "cái này có thể là lời giải đáp cho mọi vấn đề của chúng ta"
+            },
+            {
+              "full_en": "who knows the answer to this question ?",
+              "full_vn": "ai biết cách giải đáp vấn đề này?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) miếng đánh trả (đấu kiếm)"
+        },
+        {
+          "m_full_vn": "(toán học) đáp số",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have /know all answers",
+              "list_im": [
+                {
+                  "im_full_vn": "(tỏ ra) sáng suốt và hiểu biết hơn người khác; hiểu biết tường tận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a dusty answer",
+              "list_im": [
+                {
+                  "im_full_vn": "lời từ chối cộc lốc; lời cự tuyệt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the answer to 3x17 is 51",
+              "full_vn": "đáp số của 3 x 17 là 51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trả lời; đáp lại",
+          "list_en_vn": [
+            {
+              "full_en": "think carefully before you answer",
+              "full_vn": "hãy suy nghĩ kỹ trước khi trả lời"
+            },
+            {
+              "full_en": "to answer the question /teacher",
+              "full_vn": "trả lời câu hỏi/thầy giáo"
+            },
+            {
+              "full_en": "to answer the door",
+              "full_vn": "ra mở cửa (sau khi nghe ai gõ cửa hoặc bấm chuông)"
+            },
+            {
+              "full_en": "to answer the telephone",
+              "full_vn": "trả lời điện thoại"
+            },
+            {
+              "full_en": "nobody answered my call for help",
+              "full_vn": "không ai đáp lại lời kêu cứu của tôi"
+            },
+            {
+              "full_en": "she answered that she would apologize to her parents",
+              "full_vn": "cô ta trả lời rằng cô ta sẽ xin lỗi bố mẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xứng với, đáp ứng, thoả mãn",
+          "list_en_vn": [
+            {
+              "full_en": "to answer somebody's purpose /needs",
+              "full_vn": "đáp ứng ý đồ/nhu cầu của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thành công, có kết quả",
+          "list_en_vn": [
+            {
+              "full_en": "his plan won't answer",
+              "full_vn": "kế hoạch của nó sẽ không thành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to answer for somebody / something ) chịu trách nhiệm hoặc bị khiển trách về điều gì; nóithay mặt cho ai hoặc để ủng hộ cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "he has a lot to answer for",
+              "full_vn": "nó có rất nhiều điều đáng bị khiển trách"
+            },
+            {
+              "full_en": "to answer for one's crime",
+              "full_vn": "chịu trách nhiệm về tội ác do mình gây ra"
+            },
+            {
+              "full_en": "I agree but I can't answer for my parents",
+              "full_vn": "Tôi đồng ý, nhưng tôi không thể thay mặt cho bố mẹ tôi được"
+            },
+            {
+              "full_en": "Do you answer for his honesty ?",
+              "full_vn": "Anh có bảo đảm sự trung thực của ông ta hay không?; Anh có bảo đảm là ông ta trung thực hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to answer to somebody for something ) chịu trách nhiệm trước ai về điều gì",
+          "list_en_vn": [
+            {
+              "full_en": "you will answer to your director for any damage caused by your own men",
+              "full_vn": "anh phải chịu trách nhiệm với giám đốc về mọi thiệt hại do người của anh gây ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to answer to something ) chịu sự điều khiển của...",
+          "list_one_mean": [
+            {
+              "id_full_en": "to answer somebody back",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) cãi lại ai, trả treo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to answer to the description",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng như lời mô tả, khớp với lời mô tả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to answer to the name of something",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về con vật) có tên là...; mang tên...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "my pet dog answers to the name of Spot",
+                      "full_vn": "con chó cưng của tôi tên là Đốm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the bulldozer answered smoothly to the controls",
+              "full_vn": "chiếc xe ủi đất ngoan ngoãn tuân theo sự điều khiển của tài xế"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425883_8287f1d582_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425883_9452d04960_o.png",
+      "id_image": "answer_2725715"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310861_614358508a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310861_f431cfd1b4_o.png",
+      "id_image": "answer_5732163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310836_2518ee9a53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310836_615f37ceff_o.png",
+      "id_image": "answer_5956293"
+    }
+  ]
+}

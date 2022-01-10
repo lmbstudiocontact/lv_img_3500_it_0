@@ -1,0 +1,625 @@
+{
+  "english": "close",
+  "phat_am": "[klous]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "gần về không gian hoặc thời gian",
+          "list_en_vn": [
+            {
+              "full_en": "this station is our closest",
+              "full_vn": "ga này gần nhà chúng tôi nhất"
+            },
+            {
+              "full_en": "the church is close to the school",
+              "full_vn": "nhà thờ gần trường học"
+            },
+            {
+              "full_en": "the two buildings are close together",
+              "full_vn": "hai toà nhà đó gần nhau"
+            },
+            {
+              "full_en": "the children are close to each other in age",
+              "full_vn": "bọn trẻ suýt soát nhau về tuổi tác"
+            },
+            {
+              "full_en": "their birthdays are very close together",
+              "full_vn": "ngày sinh của chúng rất gần nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gần (trong quan hệ)",
+          "list_en_vn": [
+            {
+              "full_en": "a close relative",
+              "full_vn": "một người bà con gần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thân; thân thiết",
+          "list_en_vn": [
+            {
+              "full_en": "a close friend",
+              "full_vn": "bạn thân"
+            },
+            {
+              "full_en": "She is very close to her father /She and her father are very close",
+              "full_vn": "Con bé ấy rất quấn bố/Bố con nó rất quấn nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở mức độ cao",
+          "list_en_vn": [
+            {
+              "full_en": "in close proximity",
+              "full_vn": "rất gần (hầu (như) chạm vào nhau)"
+            },
+            {
+              "full_en": "there's a close resemblance /similarity",
+              "full_vn": "có sự giống nhau như hệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dày đặc; khít",
+          "list_en_vn": [
+            {
+              "full_en": "material with a close texture",
+              "full_vn": "vải dệt mau"
+            },
+            {
+              "full_en": "a close thicket",
+              "full_vn": "bụi rậm"
+            },
+            {
+              "full_en": "the soldiers advanced in close formation",
+              "full_vn": "binh lính tiến lên trong đội hình dày đặc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chặt chẽ, xít xao",
+          "list_en_vn": [
+            {
+              "full_en": "to be in close confinement",
+              "full_vn": "bị biệt giam"
+            },
+            {
+              "full_en": "to be (kept ) under close arrest",
+              "full_vn": "bị canh giữ chặt chẽ"
+            },
+            {
+              "full_en": "to pay close attention to something",
+              "full_vn": "hết sức chú ý đến điều gì"
+            },
+            {
+              "full_en": "a close examination",
+              "full_vn": "sự xem xét kỹ lưỡng"
+            },
+            {
+              "full_en": "a close translation",
+              "full_vn": "một bản dịch sát"
+            },
+            {
+              "full_en": "to keep something a close secret",
+              "full_vn": "giữ cái gì hết sức bí mật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về một cuộc đua, trò chơi...) gồm các đấu thủ ngang sức với nhau",
+          "list_en_vn": [
+            {
+              "full_en": "a close contest /election",
+              "full_vn": "cuộc thi/bầu cử ngang tài ngang sức"
+            },
+            {
+              "full_en": "a close finish",
+              "full_vn": "một kết thúc xít xao"
+            },
+            {
+              "full_en": "the game was closer than the score suggests",
+              "full_vn": "cuộc đấu gay go hơn tỉ số đưa ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về thời tiết) ẩm ướt, ngột ngạt, nặng nề",
+          "list_en_vn": [
+            {
+              "full_en": "it's very close and thundery today",
+              "full_vn": "hôm nay trời rất oi và có sấm chớp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về một căn buồng) không có không khí trong lành; ngột ngạt",
+          "list_en_vn": [
+            {
+              "full_en": "a close atmosphere",
+              "full_vn": "một không khí ngột ngạt"
+            },
+            {
+              "full_en": "Open a window - it's very close in the room",
+              "full_vn": "Mở một cửa sổ ra - trong phòng ngột ngạt quá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngữ âm) (về các nguyên âm) được phát âm với vị trí lưỡi nâng lên sát vòm miệng",
+          "list_en_vn": [
+            {
+              "full_en": "the English vowels / i: / and / u: / are close",
+              "full_vn": "các nguyên âm tiếng Anh /i:/ và /u:/ là những âm khép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bủn xỉn, hà tiện",
+          "list_en_vn": [
+            {
+              "full_en": "he's very close with his money",
+              "full_vn": "ông ta rất bủn xỉn trong chuyện tiền nong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sát bề mặt, rất ngắn",
+          "list_en_vn": [
+            {
+              "full_en": "a new rasor gives a close shave",
+              "full_vn": "dao cạo mới cạo nhẵn nhụi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bí mật; kín đáo",
+          "list_en_vn": [
+            {
+              "full_en": "to be close about one's personal life",
+              "full_vn": "giữ kín đời tư của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hạn chế, cấm",
+          "list_one_mean": [
+            {
+              "id_full_en": "a close call",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) cái suýt làm nguy đến tính mạng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "close shave",
+              "list_im": [
+                {
+                  "im_full_vn": "tình huống trong đó người ta vừa kịp thoát khỏi một tai nạn hoặc một thảm hoạ..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "at close quarters",
+              "list_im": [
+                {
+                  "im_full_vn": "rất gần, gần sát nhau",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fight at close quarters",
+                      "full_vn": "đánh nhau giáp lá cà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a close /near thing",
+              "list_im": [
+                {
+                  "im_full_vn": "xem thing"
+                }
+              ]
+            },
+            {
+              "id_full_en": "close to /near the bone",
+              "list_im": [
+                {
+                  "im_full_vn": "xem bone"
+                }
+              ]
+            },
+            {
+              "id_full_en": "close /near to home",
+              "list_im": [
+                {
+                  "im_full_vn": "xem home"
+                }
+              ]
+            },
+            {
+              "id_full_en": "close to sb's heart",
+              "list_im": [
+                {
+                  "im_full_vn": "xem heart"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's cards close to one's chest",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ kín ý đồ của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep a close eye /watch on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "theo dõi một cách nghiêm ngặt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep /lie close",
+              "list_im": [
+                {
+                  "im_full_vn": "ẩn nấp, ẩn mình"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "close scholarship",
+              "full_vn": "học bổng hạn chế"
+            },
+            {
+              "full_en": "close season",
+              "full_vn": "mùa cấm (săn bắn) câu cá..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "để lại ít khoảng trống ở giữa; ở gần",
+          "list_one_mean": [
+            {
+              "id_full_en": "close by somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "cách ( ai/cái gì) một khoảng ngắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "close on",
+              "list_im": [
+                {
+                  "im_full_vn": "hầu như, suýt soát",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she's close on sixty",
+                      "full_vn": "bà ta súyt soát 60 tuổi"
+                    },
+                    {
+                      "full_en": "it's close on midnight",
+                      "full_vn": "gần nửa đêm rồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "close up (to somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "rất gần ai/cái gì về không gian",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she snuggled close up to him",
+                      "full_vn": "cô ta xích lại gần anh ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run somebody /something close",
+              "list_im": [
+                {
+                  "im_full_vn": "tốt/nhanh/thành công như ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we run our competitors close for price and quality",
+                      "full_vn": "chúng tôi theo sát các đối thủ của mình về giá cả và chất lượng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sail close near to the wind",
+              "list_im": [
+                {
+                  "im_full_vn": "xem sail"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "they live quite close",
+              "full_vn": "họ sống rất gần nhau"
+            },
+            {
+              "full_en": "to hold somebody close",
+              "full_vn": "ôm chặt ai"
+            },
+            {
+              "full_en": "to follow close behind somebody",
+              "full_vn": "bám sát ai"
+            },
+            {
+              "full_en": "she stood close (up ) against the wall",
+              "full_vn": "cô ta đứng sát vào tường"
+            },
+            {
+              "full_en": "to cut one's hair close",
+              "full_vn": "cạo trọc lóc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khu đất có rào",
+          "list_en_vn": [
+            {
+              "full_en": "to break someone's close",
+              "full_vn": "xâm phạm vào đất đai của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sân trường"
+        },
+        {
+          "m_full_vn": "sân trong (nhà thờ)"
+        },
+        {
+          "m_full_vn": "phố cụt, ngõ cụt"
+        },
+        {
+          "m_full_vn": "sự kết thúc, lúc kết thúc; phần cuối",
+          "list_en_vn": [
+            {
+              "full_en": "the close of a meeting",
+              "full_vn": "sự kết thúc buổi mít tinh"
+            },
+            {
+              "full_en": "day reaches its close",
+              "full_vn": "trời đã tối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ôm nhau vật; sự đánh giáp lá cà"
+        },
+        {
+          "m_full_vn": "(âm nhạc) kết",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bring to a close",
+              "list_im": [
+                {
+                  "im_full_vn": "kết thúc, chấm dứt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to draw to a close",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) draw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng, khép",
+          "list_en_vn": [
+            {
+              "full_en": "to close the door",
+              "full_vn": "đóng cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm khít lại, dồn lại gần, làm sát lại nhau",
+          "list_en_vn": [
+            {
+              "full_en": "close the ranks !",
+              "full_vn": "hãy dồn hàng lại!; hãy siết chặt hàng ngũ!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kết thúc, chấm dứt, làm xong",
+          "list_en_vn": [
+            {
+              "full_en": "to close one's days",
+              "full_vn": "kết thúc cuộc đời, chết"
+            },
+            {
+              "full_en": "to close a speech",
+              "full_vn": "kết thúc bài nói"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng, khép",
+          "list_en_vn": [
+            {
+              "full_en": "shops close at six",
+              "full_vn": "các cửa hiệu đóng cửa vào lúc 6 giờ"
+            },
+            {
+              "full_en": "this door closes easily",
+              "full_vn": "cửa này dễ khép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kết thúc, chấm dứt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to close about",
+              "list_im": [
+                {
+                  "im_full_vn": "bao bọc, bao quanh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to close down",
+              "list_im": [
+                {
+                  "im_full_vn": "đóng cửa hẳn (không buôn bán, không sản xuất nữa)"
+                },
+                {
+                  "im_full_vn": "trấn áp, đàn áp; bóp chết (một phong trào cách mạng...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to close in",
+              "list_im": [
+                {
+                  "im_full_vn": "tới gần",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "evening is closing in",
+                      "full_vn": "bóng chiều buông xuống"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "ngắn dần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the days are closing in",
+              "list_im": [
+                {
+                  "im_full_vn": "ngày ngắn dần"
+                },
+                {
+                  "im_full_vn": "rào quanh, bao quanh (một miếng đất)"
+                },
+                {
+                  "im_full_vn": "(quân sự) tiến sát để tấn công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to close up",
+              "list_im": [
+                {
+                  "im_full_vn": "khít lại, sát lại gần nhau"
+                },
+                {
+                  "im_full_vn": "(quân sự) dồn hàng, siết chặt hàng ngũ"
+                },
+                {
+                  "im_full_vn": "bít lại, cản (đường), làm tắc nghẽn (lối đi); lấp lại (lỗ)"
+                },
+                {
+                  "im_full_vn": "đóng kín, đóng hẳn, đóng miệng (vết thương)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to close with",
+              "list_im": [
+                {
+                  "im_full_vn": "đến sát gần, dịch lại gần",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "left close !",
+                      "full_vn": "(quân sự) dịch sang trái!"
+                    },
+                    {
+                      "full_en": "right close !",
+                      "full_vn": "(quân sự) dịch sang phải!"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đánh giáp lá cà, ôm sát người mà vật"
+                },
+                {
+                  "im_full_vn": "đồng ý (với ai); sẵn sàng nhận (điều kiện...))"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "his speech closed with an appeal to patriotism",
+              "full_vn": "bài nói của ông ta kết thúc bằng lời kêu gọi tinh thần yêu nước"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374882_85a62c83d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374882_eb09daee45_o.png",
+      "id_image": "closed_2036918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330151_4183edf709_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330151_dcd5bd5123_o.png",
+      "id_image": "closed_2112464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685164_9d53a09fbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685164_8bf54698fe_o.png",
+      "id_image": "closed_4383543"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067105_c58e0d280c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067105_868c122d35_o.png",
+      "id_image": "close_1588896"
+    }
+  ]
+}

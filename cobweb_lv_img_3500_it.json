@@ -1,0 +1,83 @@
+{
+  "english": "cobweb",
+  "phat_am": "['kɔbweb]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mạng nhện; sợi tơ nhện"
+        },
+        {
+          "m_full_vn": "vải mỏng như tơ nhện; vật mỏng mảnh như tơ nhện"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cái tinh vi; cái rắc rối (lý luận...)",
+          "list_en_vn": [
+            {
+              "full_en": "the cobwebs of the law",
+              "full_vn": "những cái tinh vi của luật pháp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) đồ cũ rích, bỏ đi",
+          "list_en_vn": [
+            {
+              "full_en": "cobwebs of antiquity",
+              "full_vn": "đồ cổ cũ rích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (nghĩa bóng) lưới, bẫy",
+          "list_one_mean": [
+            {
+              "id_full_en": "to blow away the cobwebs from one's brain",
+              "list_im": [
+                {
+                  "im_full_vn": "ra ngoài vận động cho sảng khoái tinh thần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a cobwed in one's throat",
+              "list_im": [
+                {
+                  "im_full_vn": "khô cổ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371327_a2abc5303d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371327_8975ee2e58_o.png",
+      "id_image": "cobweb_249388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441573_f7d79a0a06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441573_3b4d6cc1bf_o.png",
+      "id_image": "cobweb_3602755"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441518_777bc30f4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441518_43976deb94_o.png",
+      "id_image": "cobweb_4294186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063375_c74aa89f37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063375_fffd40b42b_o.png",
+      "id_image": "cobweb_4677091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326471_3320383d06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326471_351cb0929d_o.png",
+      "id_image": "cobweb_5331875"
+    }
+  ]
+}

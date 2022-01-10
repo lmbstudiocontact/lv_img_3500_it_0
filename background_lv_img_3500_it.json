@@ -1,0 +1,82 @@
+{
+  "english": "background",
+  "phat_am": "['bækgraund]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần trong một cảnh quan, cảnh trí hoặc bảng miêu tả làm nền cho những vật hoặc những người chính; nền; hậu cảnh",
+          "list_en_vn": [
+            {
+              "full_en": "a dress with red spots on a white background",
+              "full_vn": "áo nền trắng chấm đỏ"
+            },
+            {
+              "full_en": "background music",
+              "full_vn": "nhạc nền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình hình và sự kiện vây quanh và làm ảnh hưởng cái gì; bối cảnh",
+          "list_en_vn": [
+            {
+              "full_en": "these political developments should be seen against a background of increasing East -West tension",
+              "full_vn": "những diễn biến chính trị này phải được xem xét trong bối cảnh sự căng thẳng Đông-Tây ngày càng tăng lên"
+            },
+            {
+              "full_en": "background information",
+              "full_vn": "thông tin cơ sở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tầng lớp xã hội, sự giáo dục, đào tạo của một người; lai lịch",
+          "list_en_vn": [
+            {
+              "full_en": "He has a working class background",
+              "full_vn": "anh ta thuộc tầng lớp công nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thông tin cần thiết để hiểu một vấn đề",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stay in the background",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng ở vị trí kín đáo (không ai để ý); tránh mặt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "can you give me more background on the company's financial position ?",
+              "full_vn": "bạn có thể cho tôi biết thêm thông tin cơ bản về tình hình tài chính của công ty hay không?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059165_a6d298184f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059165_e34c2080bc_o.png",
+      "id_image": "background_232867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322311_591a85e8b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322311_602754d099_o.png",
+      "id_image": "background_3879544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367192_5bfa0955e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367192_2d9bec5054_o.png",
+      "id_image": "background_3997800"
+    }
+  ]
+}

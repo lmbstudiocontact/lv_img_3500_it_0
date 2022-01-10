@@ -1,0 +1,37 @@
+{
+  "english": "dictatorship",
+  "phat_am": "[dik'teitə∫ip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chế độ độc tài; nền chuyên chính",
+          "list_en_vn": [
+            {
+              "full_en": "dictatorship of the proletariat",
+              "full_vn": "nền chuyên chính vô sản"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059790_0ca021357f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059790_4a0db06623_o.png",
+      "id_image": "dictatorship_2473039"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323071_cfb3a32b4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323071_2a224c982e_o.png",
+      "id_image": "dictatorship_2529655"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678114_4b8643e39d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678114_f6962ab7d8_o.png",
+      "id_image": "dictatorship_3158198"
+    }
+  ]
+}

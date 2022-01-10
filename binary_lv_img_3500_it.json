@@ -1,0 +1,44 @@
+{
+  "english": "binary",
+  "phat_am": "['bainəri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đôi, nhị nguyên, nhị phân",
+          "list_en_vn": [
+            {
+              "full_en": "binary measure",
+              "full_vn": "(âm nhạc) nhịp đôi"
+            },
+            {
+              "full_en": "binary operation",
+              "full_vn": "(toán học) phép toán nhị phân"
+            },
+            {
+              "full_en": "binary fraction",
+              "full_vn": "(toán học) phân số nhị phân"
+            },
+            {
+              "full_en": "binary system , binary notation",
+              "full_vn": "hệ nhị nguyên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304956_788599c001_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304956_1955045156_o.png",
+      "id_image": "binary_1018797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349132_f0f83c7087_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349132_20f4ce7f65_o.png",
+      "id_image": "binary_1465882"
+    }
+  ]
+}

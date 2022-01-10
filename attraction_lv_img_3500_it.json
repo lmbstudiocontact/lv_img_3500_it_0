@@ -1,0 +1,73 @@
+{
+  "english": "attraction",
+  "phat_am": "[ə'træk∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(vật lý) sự hút, sức hút",
+          "list_en_vn": [
+            {
+              "full_en": "mutual attraction",
+              "full_vn": "sự hút lẫn nhau"
+            },
+            {
+              "full_en": "terrestrial attraction",
+              "full_vn": "sức hút của trái đất"
+            },
+            {
+              "full_en": "magnetic attraction",
+              "full_vn": "sức hút từ"
+            },
+            {
+              "full_en": "electrostatic attraction",
+              "full_vn": "sức hút tĩnh điện"
+            },
+            {
+              "full_en": "molecular attraction",
+              "full_vn": "sức hút phân tử"
+            },
+            {
+              "full_en": "cạpillary attraction",
+              "full_vn": "sức hút mao dẫn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thu hút, sự hấp dẫn, sự lôi cuốn; sức hấp dẫn, sức lôi cuốn"
+        },
+        {
+          "m_full_vn": "cái thu hút, cái hấp dẫn, cái lôi cuốn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683119_25c4041483_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683119_627c0c3766_o.png",
+      "id_image": "attraction_2664664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064705_7a7e099fc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064705_3119c320b7_o.png",
+      "id_image": "attraction_2905007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327961_4617936515_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327961_72c81eebe8_o.png",
+      "id_image": "attraction_4905331"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372652_f7e1a4ce3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372652_785113a203_o.png",
+      "id_image": "attraction_4905502"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443113_c7e79e3934_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443113_d737fc91f4_o.png",
+      "id_image": "attraction_708675"
+    }
+  ]
+}

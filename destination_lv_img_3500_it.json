@@ -1,0 +1,41 @@
+{
+  "english": "destination",
+  "phat_am": "[,desti'nei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nơi mà ai/cái gì sẽ được gửi tới; nơi đến",
+          "list_en_vn": [
+            {
+              "full_en": "Tokyo was our final destination",
+              "full_vn": "Tokyo là nơi đến cuối cùng của chúng ta"
+            },
+            {
+              "full_en": "to arrive at /reach one's destination",
+              "full_vn": "đến nơi; đến đích"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064760_4ddae31f13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064760_a28ab9f5b9_o.png",
+      "id_image": "destination_3203028"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683069_89f371d02e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683069_7975e10c94_o.png",
+      "id_image": "destination_4683598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064820_ebba4049d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064820_a2fd4d9838_o.png",
+      "id_image": "destination_854945"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "english": "certificate",
+  "phat_am": "[sə'tifikit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giấy chứng nhận; chứng chỉ; văn bằng",
+          "list_en_vn": [
+            {
+              "full_en": "certificate of birth ; birth certificate",
+              "full_vn": "giấy (chứng nhận) khai sinh"
+            },
+            {
+              "full_en": "certificate of health",
+              "full_vn": "giấy chứng nhận sức khoẻ"
+            },
+            {
+              "full_en": "examination certificate",
+              "full_vn": "giấy chứng nhận đương sự đã đỗ một kỳ thi; văn bằng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cấp giấy chứng nhận; cấp chứng chỉ"
+        },
+        {
+          "m_full_vn": "cấp văn bằng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430788_7df81a2f0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430788_4d87c5193c_o.png",
+      "id_image": "certificate_1447554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360162_1a220e9881_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360162_86fbecd6aa_o.png",
+      "id_image": "certificate_390836"
+    }
+  ]
+}

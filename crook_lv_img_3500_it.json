@@ -1,0 +1,92 @@
+{
+  "english": "crook",
+  "phat_am": "[kruk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái móc; cái gậy có móc"
+        },
+        {
+          "m_full_vn": "gậy (của trẻ chăn bò); gậy phép (của giám mục)"
+        },
+        {
+          "m_full_vn": "cái cong cong, cái khoằm khoằm (nói chung)",
+          "list_en_vn": [
+            {
+              "full_en": "there is a decided crook in his nose",
+              "full_vn": "mũi nó trông rõ là mũi khoằm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự uốn, sự uốn cong, sự gập lại",
+          "list_en_vn": [
+            {
+              "full_en": "a crook of the knee",
+              "full_vn": "sụ uốn gối, sự quỳ gối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ xong, khúc quanh co"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) kẻ lừa đảo, kẻ lừa gạt",
+          "list_one_mean": [
+            {
+              "id_full_en": "by hook or by crook",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hook"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the crook",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) bằng cách gian lận"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "uốn cong, bẻ cong"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cong lại"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434603_f79bc6dc8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434603_c723cbfa3c_o.png",
+      "id_image": "crook_1425970"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319476_c3673eddff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319476_ab79149373_o.png",
+      "id_image": "crook_1792761"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319441_fdd2ff7059_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319441_915e203435_o.png",
+      "id_image": "crook_3113359"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "director",
+  "phat_am": "[di'rektə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người quản lý (nhất là với tư cách một thành viên trong ban giám đốc) các công việc của một doanh nghiệp; giám đốc",
+          "list_en_vn": [
+            {
+              "full_en": "Board of directors",
+              "full_vn": "ban giám đốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người điều khiển, người chỉ huy",
+          "list_en_vn": [
+            {
+              "full_en": "the orchestra's musical director",
+              "full_vn": "nhạc trưởng của dàn nhạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sử học) quan đốc chính (hồi cách mạng Pháp)"
+        },
+        {
+          "m_full_vn": "người chịu trách nhiệm về bộ phim, vở kịch..., giám sát và hướng dẫn các diễn viên, đoàn quay phim và các nhânviên khác; đạo diễn"
+        },
+        {
+          "m_full_vn": "(toán học) đường chuẩn",
+          "list_en_vn": [
+            {
+              "full_en": "director circle",
+              "full_vn": "vòng chuẩn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy ngắm (ở súng, để điều chỉnh tầm đạn...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364482_3670df612a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364482_263a0b2ae6_o.png",
+      "id_image": "director_323958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319801_884da5ff46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319801_77c28a27e0_o.png",
+      "id_image": "director_4214792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319766_934179c838_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319766_ea070a51b8_o.png",
+      "id_image": "director_4736340"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319706_726070d846_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319706_64e8a10b0b_o.png",
+      "id_image": "director_6225675"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056230_db23284278_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056230_730edfb2e4_o.png",
+      "id_image": "director_6347654"
+    }
+  ]
+}

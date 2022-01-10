@@ -1,0 +1,98 @@
+{
+  "english": "comfortable",
+  "phat_am": "['kʌmfətəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiện lợi, đủ tiện nghi; ấm cúng",
+          "list_en_vn": [
+            {
+              "full_en": "a comfortable room",
+              "full_vn": "căn phòng ấm cúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dễ chịu, thoải mái, khoan khoái",
+          "list_en_vn": [
+            {
+              "full_en": "a comfortable bed , position",
+              "full_vn": "một cái giừơng, tư thế thoải mái"
+            },
+            {
+              "full_en": "to feel comfortable",
+              "full_vn": "cảm thấy dễ chịu"
+            },
+            {
+              "full_en": "make yourself comfortable",
+              "full_vn": "xin anh cứ tự nhiên thoải mái"
+            },
+            {
+              "full_en": "she made herself comfortable in a big chair",
+              "full_vn": "cô ta thấy khoan khoái trong một chiếc ghế bành lớn"
+            },
+            {
+              "full_en": "a comfortable life , job",
+              "full_vn": "một cuộc sống, công việc dễ chịu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sung túc, phong lưu",
+          "list_en_vn": [
+            {
+              "full_en": "a comfortable life",
+              "full_vn": "cuộc sống sung túc"
+            },
+            {
+              "full_en": "to be in comfortable circumstances",
+              "full_vn": "sống đầy đủ phong lưu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "yên tâm, không băn khoăn, không lo lắng",
+          "list_en_vn": [
+            {
+              "full_en": "I do not feel comfortable about it",
+              "full_vn": "tôi cảm thấy không yên tâm về điều đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kha khá; khấm khá",
+          "list_en_vn": [
+            {
+              "full_en": "a comfortable income",
+              "full_vn": "một khoản thu nhập khấm khá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674779_3b0f7dec15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674779_8f7bc669dc_o.png",
+      "id_image": "comfortable_1727622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674729_fc98186639_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674729_d515b24bdb_o.png",
+      "id_image": "comfortable_2254269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435023_fda05a684a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435023_a5bc8ba454_o.png",
+      "id_image": "comfortable_311729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319871_e79ba8de19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319871_049100f4e0_o.png",
+      "id_image": "comfortable_311791"
+    }
+  ]
+}

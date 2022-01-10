@@ -1,0 +1,51 @@
+{
+  "english": "arctic",
+  "phat_am": "['ɑ:ktik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( Arctic ) (thuộc) Bắc Cực"
+        },
+        {
+          "m_full_vn": "( arctic ) giá rét, băng giá",
+          "list_en_vn": [
+            {
+              "full_en": "arctic weather",
+              "full_vn": "thời tiết giá rét"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "the Arctic Bắc Cực"
+        },
+        {
+          "m_full_vn": "( số nhiều) (từ Mỹ,nghĩa Mỹ) ủng bao (ủng cao su bọc ngoài một đôi giày khác)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421578_a9aedcf177_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421578_2ac6d58eb2_o.png",
+      "id_image": "arctic_2458231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043385_7526dd2b89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043385_a41a06e755_o.png",
+      "id_image": "arctic_4051004"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661689_8a88dd1036_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661689_fd9a6b0d69_o.png",
+      "id_image": "arctic_4051407"
+    }
+  ]
+}

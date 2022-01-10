@@ -1,0 +1,78 @@
+{
+  "english": "correct",
+  "phat_am": "[kə'rekt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đúng, chính xác",
+          "list_en_vn": [
+            {
+              "full_en": "if my memory is correct",
+              "full_vn": "nếu tôi nhớ đúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúng đắn, được hợp, phải, phải lối",
+          "list_one_mean": [
+            {
+              "id_full_en": "to do (say ) the correct thing",
+              "list_im": [
+                {
+                  "im_full_vn": "làm (nói) đúng lúc"
+                },
+                {
+                  "im_full_vn": "làm (nói) điều phải"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sửa, sửa chữa, sửa chữa đúng, hiệu chỉnh",
+          "list_en_vn": [
+            {
+              "full_en": "to correct a bad habit",
+              "full_vn": "sửa một thói xấu"
+            },
+            {
+              "full_en": "to correct one's watch by ...",
+              "full_vn": "hiệu chỉnh lại đồng hồ theo..., lấy lại đồng hồ theo..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khiển trách, trách mắng; trừng phạt, trừng trị",
+          "list_en_vn": [
+            {
+              "full_en": "to correct a child for disobedience",
+              "full_vn": "trừng phạt đứa bé không vâng lời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm mất tác hại (của cái gì)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686074_b0172f53ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686074_7089c82ee6_o.png",
+      "id_image": "correct_4565470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445978_2dbf7f381f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445978_6f4cc5e4ce_o.png",
+      "id_image": "correct_4806202"
+    }
+  ]
+}

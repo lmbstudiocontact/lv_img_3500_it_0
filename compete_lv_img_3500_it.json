@@ -1,0 +1,43 @@
+{
+  "english": "compete",
+  "phat_am": "[kəm'pi:t]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to compete against / with somebody in / for something ) đua tranh, ganh đua, cạnh tranh",
+          "list_en_vn": [
+            {
+              "full_en": "to compete with someone in talent",
+              "full_vn": "đua tài với người nào"
+            },
+            {
+              "full_en": "to compete against /with other countries in trade",
+              "full_vn": "cạnh tranh thương mại với các nước khác"
+            },
+            {
+              "full_en": "several companies are competing (against /with one another ) for the contract /to gain the contract",
+              "full_vn": "nhiều công ty đang cạnh tranh (với nhau) để giành hợp đồng"
+            },
+            {
+              "full_en": "a horse that has competed in the Grand National four times",
+              "full_vn": "một con ngựa từng đua bốn lần trong lớn Quốc gia"
+            },
+            {
+              "full_en": "we have limited funds and several competing claims , so it is hard to choose between them",
+              "full_vn": "chúng tôi chỉ có số tiền eo hẹp mà lại có nhiều đơn thỉnh cầu ganh đua nhau, nên rất khó chọn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361122_c312056203_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361122_167d0dc922_o.png",
+      "id_image": "compete_5692229"
+    }
+  ]
+}

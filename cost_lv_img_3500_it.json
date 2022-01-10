@@ -1,0 +1,257 @@
+{
+  "english": "cost",
+  "phat_am": "[kɔst]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giá phải trả cho một cái gì; chi phí",
+          "list_en_vn": [
+            {
+              "full_en": "the high cost of car repairs",
+              "full_vn": "chi phí sửa xe cao"
+            },
+            {
+              "full_en": "the costs involved in starting a business",
+              "full_vn": "chi phí cần thiết cho việc mở một doanh nghiệp"
+            },
+            {
+              "full_en": "she built the house without regard to cost",
+              "full_vn": "bà ấy xây nhà không cần biết tốn kém bao nhiêu"
+            },
+            {
+              "full_en": "to cut costs",
+              "full_vn": "cắt giảm chi phí"
+            },
+            {
+              "full_en": "the cost of living /living costs",
+              "full_vn": "giá sinh hoạt"
+            },
+            {
+              "full_en": "the cost-of-living index",
+              "full_vn": "chỉ số giá sinh hoạt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái được dùng, cần đến hoặc cho để đạt được cái gì; sự cố gắng, sự mất mát hoặc hy sinh; sự hao phí",
+          "list_en_vn": [
+            {
+              "full_en": "the cost in time and labour",
+              "full_vn": "sự hao tổn về thời gian và sức lao động"
+            },
+            {
+              "full_en": "the battle was won at (a ) great cost in human lives",
+              "full_vn": "trận đánh thắng với cái giá của nhiều sinh mạng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( costs ) (pháp lý) án phí",
+          "list_one_mean": [
+            {
+              "id_full_en": "at all costs ; at any cost",
+              "list_im": [
+                {
+                  "im_full_vn": "bằng bất cứ giá nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to one's cost",
+              "list_im": [
+                {
+                  "im_full_vn": "với sự mất mát hoặc thiệt hại của bản thân",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "wasp stings are serious , as I know to my cost",
+                      "full_vn": "những nốt đốt của ong bắp cày là trầm trọng, tôi biết qua kinh nghiệm bản thân (vì tôi từng bị chúng đốt rồi)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at cost .",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về hàng hoá) theo giá vốn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "goods sold at cost",
+                      "full_vn": "hàng bán theo giá vốn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the cost of something",
+              "list_im": [
+                {
+                  "im_full_vn": "bao gồm sự mất mát hoặc hy sinh cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she saved him from drowning , but only at the cost of her own life",
+                      "full_vn": "chị ấy cứu nó khỏi chết đuối, nhưng với cái giá chị ấy phải hy sinh tính mạng của mình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to count the cost",
+              "list_im": [
+                {
+                  "im_full_vn": "xem count"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live at someone's cost",
+              "list_im": [
+                {
+                  "im_full_vn": "sống bám vào ai, sống nhờ vào ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to pay a fifty-dollar fine and fifty-dollar costs",
+              "full_vn": "nộp 50 đô la tiền phạt và 50 đô la án phí"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ, thì quá khứ và động tính từ quá khứ vẫn là cost",
+      "list_m": [
+        {
+          "m_full_vn": "có thể mua được với giá là; yêu cầu phải trả tiền là",
+          "list_en_vn": [
+            {
+              "full_en": "these chairs cost 40 dollars each",
+              "full_vn": "mấy cái ghế này giá 40 đô la một cái"
+            },
+            {
+              "full_en": "How much /What does it cost ?",
+              "full_vn": "cái này giá bao nhiêu?"
+            },
+            {
+              "full_en": "it costs too much",
+              "full_vn": "giá đắt quá"
+            },
+            {
+              "full_en": "the bicycle costs me 200USD",
+              "full_vn": "tôi mua chiếc xe đạp ấy mất 200 USD"
+            },
+            {
+              "full_en": "it costs (them ) 5000 dollars a year to run a car",
+              "full_vn": "để cho xe chạy, (họ) phải chi 5000 đô la một năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đòi hỏi",
+          "list_en_vn": [
+            {
+              "full_en": "making a dictionary costs much time and care",
+              "full_vn": "soạn từ điển đòi hỏi mất nhiều thời gian và công phu"
+            },
+            {
+              "full_en": "her irresponsible behaviour cost her father many sleepless nights",
+              "full_vn": "hành vi vô trách nhiệm của cô ấy khiến bố cô ấy phải nhiều đêm mất ngủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dẫn đến sự mất mát (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "careless driving could cost you your life",
+              "full_vn": "lái xe ẩu có thể phải trả giá bằng tính mạng đấy"
+            },
+            {
+              "full_en": "the scandal cost her her career",
+              "full_vn": "bà ta phải trả giá cho vụ bê bối bằng cả sự nghiệp của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) ước tính giá phải trả cho một mặt hàng hoặc dịch vụ trên cơ sở các chi phí để làm ra hoặc thực hiện nó",
+          "list_en_vn": [
+            {
+              "full_en": "has this project been costed ?",
+              "full_vn": "dự án này đã ước tính tổng chi phí chưa?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tốn kém cho ai",
+          "list_one_mean": [
+            {
+              "id_full_en": "to charge /cost /pay somebody the earth",
+              "list_im": [
+                {
+                  "im_full_vn": "xem earth"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cost somebody dear",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) khiến ai phải trả giá đắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cost something out",
+              "list_im": [
+                {
+                  "im_full_vn": "ước tính chi phí của cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "you can have the deluxe model if you like , but it'll cost you",
+              "full_vn": "anh có thể lấy kiểu sang trọng nếu anh thích, nhưng tốn kém cho anh đấy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444443_808b8c6698_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444443_ae01a750e2_o.png",
+      "id_image": "cost_4310151"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684379_ca6fa9a3d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684379_92da61c9cc_o.png",
+      "id_image": "cost_4577192"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684319_1022049043_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684319_8b2f5fe578_o.png",
+      "id_image": "cost_5138520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329361_b59a590ea2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329361_9f2546fee3_o.png",
+      "id_image": "cost_6078490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329346_c7d53a4b8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329346_0f1a4345d9_o.png",
+      "id_image": "cost_6159959"
+    }
+  ]
+}

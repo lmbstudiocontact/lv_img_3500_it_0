@@ -1,0 +1,55 @@
+{
+  "english": "ambition",
+  "phat_am": "[æm'bi∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( ambition to be / do something ) mong muốn mạnh mẽ để đạt cái gì; tham vọng",
+          "list_en_vn": [
+            {
+              "full_en": "filled with ambition to become famous /rich /powerful",
+              "full_vn": "đầy tham vọng trở thành nổi tiếng/giàu có/quyền uy"
+            },
+            {
+              "full_en": "to have great ambitions",
+              "full_vn": "có tham vọng lớn"
+            },
+            {
+              "full_en": "to achieve /realize /fulfil one's ambitions",
+              "full_vn": "đạt được/thực hiện/hoàn thành tham vọng của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358947_7aa3f8d087_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358947_7f4b245a88_o.png",
+      "id_image": "ambition_2773040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358917_4d8eac8a79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358917_c07093836b_o.png",
+      "id_image": "ambition_4593111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314796_11f1ca418b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314796_066a6bc1c1_o.png",
+      "id_image": "ambition_5266125"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051300_226e773c96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051300_a29911f36f_o.png",
+      "id_image": "ambition_5520746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314746_ca87b0466f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314746_9b6bbda538_o.png",
+      "id_image": "ambition_5520777"
+    }
+  ]
+}

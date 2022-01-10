@@ -1,0 +1,91 @@
+{
+  "english": "consult",
+  "phat_am": "[kən'sʌlt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to consult somebody / something about something ) hỏi ý kiến; tra cứu, tham khảo",
+          "list_en_vn": [
+            {
+              "full_en": "to consult a lawyer",
+              "full_vn": "hỏi ý kiến luật sư"
+            },
+            {
+              "full_en": "to consult a dictionary",
+              "full_vn": "tra cứu tự điển"
+            },
+            {
+              "full_en": "to consult a map",
+              "full_vn": "xem bản đồ"
+            },
+            {
+              "full_en": "consulting engineer",
+              "full_vn": "kỹ sư cố vấn"
+            },
+            {
+              "full_en": "You should consult a doctor about your megrim",
+              "full_vn": "Anh nên nhờ bác sĩ khám chứng nhức nửa đầu của anh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to consult with somebody ) bàn bạc với ai; hội ý với ai",
+          "list_one_mean": [
+            {
+              "id_full_en": "to consult one's pillow",
+              "list_im": [
+                {
+                  "im_full_vn": "nằm vắt tay lên trán mà suy nghĩ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to consult together",
+              "full_vn": "thảo luận bàn bạc với nhau"
+            },
+            {
+              "full_en": "we have consulted about the matter",
+              "full_vn": "chúng tôi đã hội ý với nhau về việc ấy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308841_792fe2fa52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308841_9630b4aea0_o.png",
+      "id_image": "consultancy_5235368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308921_7743b0a4c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308921_198b4e1a65_o.png",
+      "id_image": "consult_1440969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308886_7d11e681a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308886_39bf78b190_o.png",
+      "id_image": "consult_1900168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353092_23ab4151cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353092_a9bf7f3376_o.png",
+      "id_image": "consult_2452638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045860_6c713d312e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045860_44c244917b_o.png",
+      "id_image": "consult_2746329"
+    }
+  ]
+}

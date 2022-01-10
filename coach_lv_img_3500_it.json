@@ -1,0 +1,89 @@
+{
+  "english": "coach",
+  "phat_am": "[kout∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe ngựa bốn bánh"
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) toa hành khách"
+        },
+        {
+          "m_full_vn": "xe buýt chuyên chở khách đi xa; xe buýt đường dài"
+        },
+        {
+          "m_full_vn": "người kèm học; thầy dạy tư (luyện thi...)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) huấn luyện viên"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chở bằng xe ngựa"
+        },
+        {
+          "m_full_vn": "( to coach somebody for / in something ) dạy hoặc huấn luyện (nhất là để đi thi)",
+          "list_en_vn": [
+            {
+              "full_en": "to coach a swimmer for the Olympics",
+              "full_vn": "huấn luyện một vận động viên bơi lội để tham gia Thế vận hội"
+            },
+            {
+              "full_en": "to coach somebody in English",
+              "full_vn": "luyện tiếng Anh cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng không) hướng dẫn (phi công) bằng điện đài khi bay đêm"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi bằng xe ngựa"
+        },
+        {
+          "m_full_vn": "làm việc hoặc hành động như một huấn luyện viên",
+          "list_en_vn": [
+            {
+              "full_en": "she'll be coaching all summer",
+              "full_vn": "cô ấy sẽ làm huấn luyện viên suốt mùa hè"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372542_32b9e40f6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372542_ff91ecb6f3_o.png",
+      "id_image": "coach_2357252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064500_282a9c738d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064500_817bc889ce_o.png",
+      "id_image": "coach_2374019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327766_a808aefe61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327766_62ccbde505_o.png",
+      "id_image": "coach_2396156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372402_d29720f2b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372402_af1914b695_o.png",
+      "id_image": "coach_6031985"
+    }
+  ]
+}

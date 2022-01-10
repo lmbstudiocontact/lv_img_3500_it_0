@@ -1,0 +1,107 @@
+{
+  "english": "cotton",
+  "phat_am": "['kɔtn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bông",
+          "list_en_vn": [
+            {
+              "full_en": "a bale of cotton",
+              "full_vn": "kiệu bông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cây bông",
+          "list_en_vn": [
+            {
+              "full_en": "cotton seed oil",
+              "full_vn": "dầu ép từ hạt bông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ, sợi"
+        },
+        {
+          "m_full_vn": "vải bông"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoà hợp, ăn ý",
+          "list_en_vn": [
+            {
+              "full_en": "to cotton together",
+              "full_vn": "ăn ý với nhau"
+            },
+            {
+              "full_en": "to cotton with each other",
+              "full_vn": "hoà hợp với nhau, ăn ý với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "yêu, quyến luyến, ý hợp tâm đầu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cotton on to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu thích ai; kết thân với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cotton on",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) hiểu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cotton up to",
+              "list_im": [
+                {
+                  "im_full_vn": "làm thân, ngỏ ý trước"
+                },
+                {
+                  "im_full_vn": "gắn bó với ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328471_356df998b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328471_1730a7df5d_o.png",
+      "id_image": "cotton_3174960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373192_f40c151dbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373192_e1cedeacf5_o.png",
+      "id_image": "cotton_3944317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683519_812610c0bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683519_601bdf5242_o.png",
+      "id_image": "cotton_4637058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443398_67722c3c3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443398_3603c15148_o.png",
+      "id_image": "cotton_5579799"
+    }
+  ]
+}

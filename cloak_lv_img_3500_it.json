@@ -1,0 +1,63 @@
+{
+  "english": "cloak",
+  "phat_am": "[klouk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "áo choàng không tay, áo khoát không tay"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) lốt, mặt nạ",
+          "list_en_vn": [
+            {
+              "full_en": "cloak-and-dagger novel",
+              "full_vn": "tiểu thuyết trinh thám"
+            },
+            {
+              "full_en": "under the cloak of religion",
+              "full_vn": "đội lốt tôn giáo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặc áo choàng (cho ai)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) che giấu, che đậy, đội lốt"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặc áo choàng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375687_3f74bafb18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375687_0647d5bde0_o.png",
+      "id_image": "cloak_2014153"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331016_731556bfde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331016_f3e6a6e6d1_o.png",
+      "id_image": "cloak_2732354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375607_52ff3e1ed7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375607_cb620a27f8_o.png",
+      "id_image": "cloak_5327116"
+    }
+  ]
+}

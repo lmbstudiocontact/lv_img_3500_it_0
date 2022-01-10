@@ -1,0 +1,35 @@
+{
+  "english": "continuity",
+  "phat_am": "[,kɔnti'nju:iti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự liên tục, sự liên tiếp; tính liên tục",
+          "list_en_vn": [
+            {
+              "full_en": "the principle of continuity",
+              "full_vn": "nguyên tắc liên tục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kịch bản điện ảnh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350987_2aebd6e4fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350987_e5c265712d_o.png",
+      "id_image": "continuous_1768935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306721_a00399215b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306721_27d597b8df_o.png",
+      "id_image": "continuous_4098110"
+    }
+  ]
+}

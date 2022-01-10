@@ -1,0 +1,159 @@
+{
+  "english": "cool",
+  "phat_am": "[ku:l]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mát mẻ, mát; hơi lạnh, nguội",
+          "list_en_vn": [
+            {
+              "full_en": "it's getting cool",
+              "full_vn": "trời trở mát"
+            },
+            {
+              "full_en": "to leave one's soup to get cool",
+              "full_vn": "để xúp nguội bớt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trầm tĩnh, điềm tĩnh, bình tĩnh",
+          "list_en_vn": [
+            {
+              "full_en": "to keep cool ; to keep a cool head",
+              "full_vn": "giữ bình tĩnh, điềm tĩnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lãnh đạm, nhạt nhẽo, thờ ơ, không sốt sắng, không nhiệt tình, không mặn mà, không đằm thắm",
+          "list_en_vn": [
+            {
+              "full_en": "to be cool toward someone",
+              "full_vn": "lãnh đạm với ai"
+            },
+            {
+              "full_en": "to give someone a cool reception",
+              "full_vn": "tiếp đãi ai nhạt nhẽo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trơ tráo, mặt dạn mày dày, không biết xấu hổ, không biết ngượng",
+          "list_en_vn": [
+            {
+              "full_en": "I call that cool !",
+              "full_vn": "tớ cho thế là mặt dạn mày dày"
+            },
+            {
+              "full_en": "a cool hand (card , customer , fish )",
+              "full_vn": "thằng cha trơ tráo, thằng cha không biết xấu hổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) tròn, gọn (một số tiền)",
+          "list_one_mean": [
+            {
+              "id_full_en": "as cool as a cucumber",
+              "list_im": [
+                {
+                  "im_full_vn": "bình tĩnh, không hề nao núng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it costs me a cool thousand",
+              "full_vn": "tớ phải tốn trọn một nghìn đồng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khí mát",
+          "list_en_vn": [
+            {
+              "full_en": "the cool of the evening",
+              "full_vn": "khí mát buổi chiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ mát mẻ"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm mát, làm nguội, trở mát, nguội đi"
+        },
+        {
+          "m_full_vn": "làm mát, làm giảm (nhiệt tình...); nguôi đi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cool down",
+              "list_im": [
+                {
+                  "im_full_vn": "nguôi đi, bình tĩnh lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cool off",
+              "list_im": [
+                {
+                  "im_full_vn": "nguội lạnh đi, giảm đi (nhiệt tình)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cool one's heels",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) heel"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to cool one's anger",
+              "full_vn": "nguôi giận"
+            },
+            {
+              "full_en": "to cool one's enthusiasm",
+              "full_vn": "giảm nhiệt tình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304936_be4378403c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304936_47b6b4805d_o.png",
+      "id_image": "cool_4952973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349137_9ca814b20b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349137_7399f923f7_o.png",
+      "id_image": "cool_501088"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304941_6c7894cae2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304941_70463989bd_o.png",
+      "id_image": "cool_817775"
+    }
+  ]
+}

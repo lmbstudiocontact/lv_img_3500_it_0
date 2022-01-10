@@ -1,0 +1,98 @@
+{
+  "english": "critical",
+  "phat_am": "['kritikəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( critical of somebody / something ) chỉ trích; chê bai; phê phán",
+          "list_en_vn": [
+            {
+              "full_en": "a critical remark , report",
+              "full_vn": "lời nhận xét, báo cáo phê phán"
+            },
+            {
+              "full_en": "the inquiry was critical of her work",
+              "full_vn": "cuộc điều tra có ý chỉ trích công việc của cô ta"
+            },
+            {
+              "full_en": "why are you always so critical ?",
+              "full_vn": "sao anh cứ phê phán hoài vậy?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bình phẩm, phê bình",
+          "list_en_vn": [
+            {
+              "full_en": "in the current critical climate , her work is not popular",
+              "full_vn": "trong bầu không khí phê bình hiện nay, tác phẩm của bà ấy không được mến mộ"
+            },
+            {
+              "full_en": "the movie has received critical acclaim",
+              "full_vn": "bộ phim đã nhận được sự hoan nghênh của giới phê bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc hoặc tại thời điểm khủng hoảng; quyết định; then chốt",
+          "list_en_vn": [
+            {
+              "full_en": "to be in a critical condition",
+              "full_vn": "ở trong tình trạng nguy kịch"
+            },
+            {
+              "full_en": "we are at a critical time in our history",
+              "full_vn": "chúng ta đang ở vào thời kỳ quyết định của lịch sử"
+            },
+            {
+              "full_en": "her help was critical during the emergency",
+              "full_vn": "sự giúp đỡ của cô ta có tính cách quyết định trong lúc khẩn cấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) (toán học) tới hạn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go critical",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về lò phản ứng hạt nhân) đạt đến trạng thái phản ứng hạt nhân tự ổn định"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "critical point",
+              "full_vn": "điểm tới hạn"
+            },
+            {
+              "full_en": "critical temperature",
+              "full_vn": "nhiệt độ tới hạn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674834_13f8dc281b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674834_f311b552ea_o.png",
+      "id_image": "critical_2519404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364537_9afbea7c01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364537_db9768d080_o.png",
+      "id_image": "critical_3292661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056405_edf25e26bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056405_18d4c64ea3_o.png",
+      "id_image": "critical_4365175"
+    }
+  ]
+}

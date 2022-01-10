@@ -1,0 +1,152 @@
+{
+  "english": "bath",
+  "phat_am": "[bɑ:θ ; bæθ]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều baths",
+      "list_m": [
+        {
+          "m_full_vn": "sự tắm rửa",
+          "list_en_vn": [
+            {
+              "full_en": "I'll have a hot bath and go to bed",
+              "full_vn": "Tôi sẽ tắm nước nóng rồi đi ngủ"
+            },
+            {
+              "full_en": "He takes a cold bath every morning",
+              "full_vn": "Sáng nào ông ấy cũng tắm nước lạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chậu tắm, bồn tắm (cũng) bath-tub ; tub"
+        },
+        {
+          "m_full_vn": "nước cho vào bồn tắm sẵn sàng để dùng; nước tắm",
+          "list_en_vn": [
+            {
+              "full_en": "please run a bath for me",
+              "full_vn": "hãy mở nước tắm giùm tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật chứa) chất lỏng dùng để nhúng hoặc ngâm cái gì theo cách xử lý hoá học và công nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "an oil bath",
+              "full_vn": "bình chứa dầu (dùng cho các bộ phận của máy móc)"
+            },
+            {
+              "full_en": "a bath of red dye",
+              "full_vn": "bình thuốc nhuộm đỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) bể bơi trong nhà; nhà tắm",
+          "list_one_mean": [
+            {
+              "id_full_en": "bath mat",
+              "list_im": [
+                {
+                  "im_full_vn": "tấm thảm hút nước nhỏ để đứng lên sau khi tắm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bathrobe",
+              "list_im": [
+                {
+                  "im_full_vn": "áo choàng tắm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bath-tub",
+              "list_im": [
+                {
+                  "im_full_vn": "bồn tắm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bathroom",
+              "list_im": [
+                {
+                  "im_full_vn": "buồng tắm, nhà vệ sinh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bath chair",
+              "list_im": [
+                {
+                  "im_full_vn": "loại ghế có bánh xe dùng cho người tàn tật, Ghế lăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw the baby out with the bath water",
+              "list_im": [
+                {
+                  "im_full_vn": "xem baby"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "heated swimming baths",
+              "full_vn": "bể bơi nước nóng"
+            },
+            {
+              "full_en": "Turkish baths",
+              "full_vn": "nhà tắm hơi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tắm",
+          "list_en_vn": [
+            {
+              "full_en": "to bath a baby",
+              "full_vn": "tắm cho đứa bé"
+            },
+            {
+              "full_en": "I bath every night",
+              "full_vn": "tối nào tôi cũng tắm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050275_5b6cc9e1c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050275_01efe69cbc_o.png",
+      "id_image": "bath_326302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357812_5a15c14bbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357812_799a005380_o.png",
+      "id_image": "bath_417449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357767_5788a9871a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357767_4d5e7b7ed0_o.png",
+      "id_image": "bath_645038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050215_5c62aa475f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050215_be0b5ab3d0_o.png",
+      "id_image": "bath_769640"
+    }
+  ]
+}

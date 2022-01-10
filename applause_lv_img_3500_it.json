@@ -1,0 +1,39 @@
+{
+  "english": "applause",
+  "phat_am": "[ə'plɔ:z]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng vỗ tay khen ngợi; sự hoan nghênh, sự tán thưởng",
+          "list_en_vn": [
+            {
+              "full_en": "to be greeted with applause",
+              "full_vn": "được chào bằng tràng vỗ tay"
+            },
+            {
+              "full_en": "to win the applause of ...",
+              "full_vn": "được... hoan nghênh"
+            },
+            {
+              "full_en": "he sat down amid deafening applause",
+              "full_vn": "ông ấy ngồi xuống trong tiếng vỗ tay vang dội"
+            },
+            {
+              "full_en": "her new novel was greeted by reviewers with rapturous applause",
+              "full_vn": "cuốn tiểu thuyết mới của bà ấy được giới phê bình chào đón bằng sự tán thưởng nhiệt liệt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423833_00dc748fde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423833_877d644c71_o.png",
+      "id_image": "applause_5485703"
+    }
+  ]
+}

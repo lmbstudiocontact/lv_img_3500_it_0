@@ -1,0 +1,74 @@
+{
+  "english": "combination",
+  "phat_am": "[,kɔmbi'nei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kết hợp; sự phối hợp",
+          "list_en_vn": [
+            {
+              "full_en": "combination of colours",
+              "full_vn": "sự phối hợp màu sắc"
+            },
+            {
+              "full_en": "it's the combination of wit and political analysis that makes his speech so spell-binding",
+              "full_vn": "bài diễn văn của ông ta lôi cuốn là nhờ kết hợp trí tuệ và sự phân tích chính trị"
+            },
+            {
+              "full_en": "pink is a combination of red and white",
+              "full_vn": "màu hồng là sự pha trộn giữa màu đỏ và màu trắng"
+            },
+            {
+              "full_en": "the architecture in the town centre is a successful combination of old and new",
+              "full_vn": "công trình kiến trúc ở trung tâm thành phố là sự phối hợp thành công giữa cái cũ và cái mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) sự hoá hợp",
+          "list_en_vn": [
+            {
+              "full_en": "chemical combination",
+              "full_vn": "sự hoá hợp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) hợp chất",
+          "list_en_vn": [
+            {
+              "full_en": "unstable combination",
+              "full_vn": "hợp chất không bền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) sự tổ hợp"
+        },
+        {
+          "m_full_vn": "dãy số hoặc chữ cái dùng để mở một ổ khoá"
+        },
+        {
+          "m_full_vn": "( số nhiều) quần áo lót một mảnh che kín khắp thân thể và chân; bộ quần áo lót may liền"
+        },
+        {
+          "m_full_vn": "xe mô tô có thùng bên cạnh gắn vào nó; xe mô tô thùng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675274_4476902fe8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675274_b3b0d4c68a_o.png",
+      "id_image": "combination_4428829"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057025_4a8fe884a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057025_57bc8a8029_o.png",
+      "id_image": "combination_5052338"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "canal",
+  "phat_am": "[kə'næl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kênh, sông đào",
+          "list_en_vn": [
+            {
+              "full_en": "canal boat",
+              "full_vn": "thuyền dùng để đi trên kênh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(giải phẫu) ống"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041125_47d2f85a60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041125_86e580df28_o.png",
+      "id_image": "canal_1076293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041105_f12098bf4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041105_76f067d49a_o.png",
+      "id_image": "canal_1485722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041080_a2b395f6fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041080_5f89cf20fc_o.png",
+      "id_image": "canal_3152759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348387_215f044800_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348387_360b3d8838_o.png",
+      "id_image": "canal_3701310"
+    }
+  ]
+}

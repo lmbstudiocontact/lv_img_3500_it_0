@@ -1,0 +1,77 @@
+{
+  "english": "alternative",
+  "phat_am": "[ɔ:l'tə:nətiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể chọn để thay cho một vật khác; khác",
+          "list_one_mean": [
+            {
+              "id_full_en": "the alternative society",
+              "list_im": [
+                {
+                  "im_full_vn": "những kẻ thích sống lập dị"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to find alternative means of transport",
+              "full_vn": "tìm ra một phương tiện vận chuyển khác"
+            },
+            {
+              "full_en": "have you got an alternative suggestion ?",
+              "full_vn": "anh có đề nghị nào khác không?"
+            },
+            {
+              "full_en": "the alternative book for the examination is \"War and Peace \"",
+              "full_vn": "cuốn sách thứ hai có thể chọn để học thi là \" Chiến tranh và Hoà bình\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lựa chọn giữa hai hoặc nhiều khả năng",
+          "list_en_vn": [
+            {
+              "full_en": "you've the alternative of marrying or remaining a bachelor",
+              "full_vn": "anh có thể lựa chọn giữa hai cách : hoặc lấy vợ hoặc tiếp tục sống độc thân"
+            },
+            {
+              "full_en": "caught in the act , he had no alternative but to confess",
+              "full_vn": "bị bắt quả tang, nó không còn cách lựa chọn nào khác là phải thú nhận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một trong hai hoặc nhiều khả năng",
+          "list_en_vn": [
+            {
+              "full_en": "one of the alternatives open to you is to resign",
+              "full_vn": "một trong những giải pháp anh có thể chọn là xin từ chức"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669914_4bb6574083_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669914_848179ee72_o.png",
+      "id_image": "alternative_1197407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315211_e9765154cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315211_42324fe2cc_o.png",
+      "id_image": "alternative_2104147"
+    }
+  ]
+}

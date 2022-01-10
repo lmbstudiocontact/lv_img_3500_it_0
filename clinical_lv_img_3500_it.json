@@ -1,0 +1,79 @@
+{
+  "english": "clinical",
+  "phat_am": "['klinikl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc hoặc liên quan đến việc khám và điều trị bệnh nhân",
+          "list_en_vn": [
+            {
+              "full_en": "clinical medicine",
+              "full_vn": "thuốc chữa bệnh"
+            },
+            {
+              "full_en": "clinical training",
+              "full_vn": "huấn luyện lâm sàng"
+            },
+            {
+              "full_en": "clinical death",
+              "full_vn": "trường hợp chết lâm sàng (nhận định theo tình trạng cơ thể)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lãnh đạm; lạnh lùng",
+          "list_en_vn": [
+            {
+              "full_en": "he watched her suffering with clinical detachment",
+              "full_vn": "ông ta nhìn sự đau đớn của cô ấy với thái độ thờ ơ lạnh lùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kiến trúc) đơn giản; giản dị",
+          "list_one_mean": [
+            {
+              "id_full_en": "clinical record",
+              "list_im": [
+                {
+                  "im_full_vn": "hồ sơ bệnh lý; bệnh án"
+                }
+              ]
+            },
+            {
+              "id_full_en": "clinical thermometer",
+              "list_im": [
+                {
+                  "im_full_vn": "cái cặp sốt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "clinical symptoms",
+              "list_im": [
+                {
+                  "im_full_vn": "triệu chứng lâm sàng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the clinical style of some modern architecture",
+              "full_vn": "phong cách đơn sơ của một loại kiến trúc hiện đại nào đó"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376262_349b6dfe44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376262_76281a069c_o.png",
+      "id_image": "clinical_5458932"
+    }
+  ]
+}

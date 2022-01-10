@@ -1,0 +1,31 @@
+{
+  "english": "accurate",
+  "phat_am": "['ækjurit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đúng đắn, chính xác, xác đáng",
+          "list_en_vn": [
+            {
+              "full_en": "an accurate watch",
+              "full_vn": "đồng hồ chính xác"
+            },
+            {
+              "full_en": "an accurate remark",
+              "full_vn": "một nhận xét xác đáng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439253_2c7f7cd024_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439253_cb97a7477a_o.png",
+      "id_image": "accurate_4413658"
+    }
+  ]
+}

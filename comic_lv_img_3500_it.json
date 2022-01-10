@@ -1,0 +1,76 @@
+{
+  "english": "comic",
+  "phat_am": "['kɔmik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hài hước, khôi hài",
+          "list_en_vn": [
+            {
+              "full_en": "a comic song /performance",
+              "full_vn": "bài hát/buổi biểu diễn hài hước"
+            },
+            {
+              "full_en": "comic strip",
+              "full_vn": "tranh chuyện vui (cũng) strip cartoon"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) kịch vui",
+          "list_en_vn": [
+            {
+              "full_en": "a comic writer",
+              "full_vn": "nhà soạn kịch vui"
+            },
+            {
+              "full_en": "a comic actor",
+              "full_vn": "diễn viên hài"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) diễn viên hài",
+          "list_en_vn": [
+            {
+              "full_en": "a popular TV comic",
+              "full_vn": "một diễn viên hài nổi tiếng trên truyền hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tạp chí dành cho trẻ em đăng những chuyện kể chủ yếu bằng hình vẽ (cũng) comic book"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434853_ec94b3781d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434853_84c823332d_o.png",
+      "id_image": "comic_1927777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364382_470dc5d9d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364382_b1664a85d8_o.png",
+      "id_image": "comic_2281829"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056240_8aa3790266_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056240_7d3cd89ddf_o.png",
+      "id_image": "comic_5318786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364427_9987fd0bbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364427_12f9217012_o.png",
+      "id_image": "comic_626610"
+    }
+  ]
+}

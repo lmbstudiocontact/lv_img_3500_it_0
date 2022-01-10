@@ -1,0 +1,63 @@
+{
+  "english": "candidate",
+  "phat_am": "['kændidit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người xin việc; người ứng cử (ứng cử viên)",
+          "list_en_vn": [
+            {
+              "full_en": "to stand as Labour candidate in a parliamentary election",
+              "full_vn": "là người của Công đảng ứng cử vào Nghị viện"
+            },
+            {
+              "full_en": "to offer oneself as a candidate for a post",
+              "full_vn": "ứng cử vào một chức vụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người dự thi; thí sinh"
+        },
+        {
+          "m_full_vn": "( candidate for something ) người được coi là thích hợp cho một địa vị hoặc công việc nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "The company is being forced to reduce staff and I fear I'm a likely candidate for redundancy",
+              "full_vn": "Công ty đang buộc phải giảm biên chế và tôi e rằng rất có thể tôi bị liệt vào số dư thừa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040680_e307fd2380_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040680_d45464ef6c_o.png",
+      "id_image": "candidate_2808096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659154_4f04805604_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659154_e338ba6b0c_o.png",
+      "id_image": "candidate_4474097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418883_c6136ab81b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418883_23d296bd6f_o.png",
+      "id_image": "candidate_5392431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303836_43422180e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303836_e56ace5fe4_o.png",
+      "id_image": "candidate_5393332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418893_12ef4d4699_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418893_b431365f92_o.png",
+      "id_image": "candidate_927293"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "english": "convenient",
+  "phat_am": "[kən'vi:njənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( convenient for somebody / something ) tiện lợi; thuận tiện",
+          "list_en_vn": [
+            {
+              "full_en": "I can't see him right now ; it's not convenient",
+              "full_vn": "Tôi không thể gặp anh ta ngay bây giờ; không tiện"
+            },
+            {
+              "full_en": "Will it be convenient for you to start work tomorrow ?",
+              "full_vn": "ngày mai bắt đầu làm việc thì có tiện cho anh hay không?"
+            },
+            {
+              "full_en": "We must arrange a convenient time and place for the meeting",
+              "full_vn": "Chúng tôi phải thu xếp thời gian và địa điểm thuận lợi cho cuộc họp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở gần nên dễ đi đến",
+          "list_en_vn": [
+            {
+              "full_en": "a house that is convenient for the shops",
+              "full_vn": "một ngôi nhà ở gần các cửa hàng"
+            },
+            {
+              "full_en": "it's useful to have a convenient supermarket",
+              "full_vn": "có siêu thị ở gần nhà thật là tiện"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305941_c3e46f8c14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305941_8bfc736d02_o.png",
+      "id_image": "convenient_5773085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042930_6d1425c0cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042930_779002bc4c_o.png",
+      "id_image": "convenient_5906060"
+    }
+  ]
+}

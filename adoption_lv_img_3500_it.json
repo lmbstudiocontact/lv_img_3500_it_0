@@ -1,0 +1,51 @@
+{
+  "english": "adoption",
+  "phat_am": "[ə'dɔp∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhận hoặc được nhận làm con nuôi; nghĩa dưỡng",
+          "list_en_vn": [
+            {
+              "full_en": "to offer a child for adoption",
+              "full_vn": "cho đứa bé làm con nuôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chấp nhận, sự thông qua",
+          "list_en_vn": [
+            {
+              "full_en": "this textbook has had adoptions in many countries",
+              "full_vn": "quyển sách giáo khoa này đã được nhiều nước chấp nhận"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675404_51c957d9d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675404_3f1c4a9c87_o.png",
+      "id_image": "adoption_4177093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365322_d2edff49c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365322_a32dca72a6_o.png",
+      "id_image": "adoption_5760176"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320351_7533e5e861_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320351_af2432a852_o.png",
+      "id_image": "adoption_5760194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675289_672575eda9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675289_3cc907e0da_o.png",
+      "id_image": "adoption_5760229"
+    }
+  ]
+}

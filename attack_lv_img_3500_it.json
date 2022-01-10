@@ -1,0 +1,79 @@
+{
+  "english": "attack",
+  "phat_am": "[ə'tæk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tấn công, sự công kích",
+          "list_en_vn": [
+            {
+              "full_en": "to make an attack on enemy positions",
+              "full_vn": "tấn công các vị trí địch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơn (bệnh)",
+          "list_en_vn": [
+            {
+              "full_en": "an attack of fever",
+              "full_vn": "cơn sốt"
+            },
+            {
+              "full_en": "a heart attack",
+              "full_vn": "cơn đau tim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tấn công, công kích"
+        },
+        {
+          "m_full_vn": "bắt đầu, bắt tay vào, lao vào (công việc)",
+          "list_en_vn": [
+            {
+              "full_en": "to attack a task",
+              "full_vn": "bắt tay vào việc, lao vào việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ăn mòn ( axit)",
+          "list_en_vn": [
+            {
+              "full_en": "strong acids attack metals",
+              "full_vn": "axit mạnh ăn mòn kim loại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tấn công, bắt đầu chiến sự"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683709_5213f8568f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683709_4e7a99088c_o.png",
+      "id_image": "attack_2688322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683689_60b47c41be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683689_6791b665ab_o.png",
+      "id_image": "attack_4736051"
+    }
+  ]
+}

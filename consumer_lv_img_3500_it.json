@@ -1,0 +1,52 @@
+{
+  "english": "consumer",
+  "phat_am": "[kən'sju:mə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người tiêu dùng, người tiêu thụ (hàng hoá, thực phẩm...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "consumer resistance",
+              "list_im": [
+                {
+                  "im_full_vn": "sự thờ ơ của khách hàng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "producers and consumers",
+              "full_vn": "những người sản xuất và những người tiêu thụ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663794_02f0759c2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663794_8dbae60140_o.png",
+      "id_image": "consumer_1900196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663779_dc1e2b8046_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663779_e02ebb4083_o.png",
+      "id_image": "consumer_2311640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045465_138251688a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045465_0b308f2092_o.png",
+      "id_image": "consumer_5308123"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663679_79720cc405_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663679_568844cd39_o.png",
+      "id_image": "consumer_5823766"
+    }
+  ]
+}

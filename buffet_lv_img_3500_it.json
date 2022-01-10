@@ -1,0 +1,79 @@
+{
+  "english": "buffet",
+  "phat_am": "['bʌfit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quầy giải khát (ở ga xe lửa hoặc ngay trên xe lửa)"
+        },
+        {
+          "m_full_vn": "bữa ăn có nhiều món dọn sẵn, khách ăn tự lấy; tiệc đứng; thức ăn trong bữa tiệc đứng",
+          "list_en_vn": [
+            {
+              "full_en": "dinner will be a cold buffet , not a sit-down meal",
+              "full_vn": "bữa tối sẽ là tiệc đứng ăn món nguội, chứ không phải tiệc ngồi"
+            },
+            {
+              "full_en": "a buffet lunch /dinner",
+              "full_vn": "tiệc đứng trưa/tối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cú đánh (đặc biệt bằng tay) hoặc sự va đụng mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "to suffer the buffets of a cruel fate",
+              "full_vn": "chịu đựng những bất hạnh của một số phận phũ phàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) điều rủi, điều bất hạnh"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh hoặc đẩy ai/cái gì một cách thô bạo; (nghĩa bóng) đày đoạ, vùi dập",
+          "list_en_vn": [
+            {
+              "full_en": "to be buffeted by misfortune",
+              "full_vn": "bị số phận hẩm hiu đày đoạ"
+            },
+            {
+              "full_en": "a boat buffeted (about ) by the waves",
+              "full_vn": "con thuyền bị sóng vùi dập"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312651_e7bf3d6ea9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312651_77f205a83b_o.png",
+      "id_image": "buffet_2934173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312716_6c1f61b1c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312716_27c51e1cf6_o.png",
+      "id_image": "buffet_417443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049185_38e562b5d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049185_5e2dc887cb_o.png",
+      "id_image": "buffet_5775206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049260_3634ff233e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049260_f01cd6d986_o.png",
+      "id_image": "buffet_978387"
+    }
+  ]
+}

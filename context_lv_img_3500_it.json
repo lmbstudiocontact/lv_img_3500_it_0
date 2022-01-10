@@ -1,0 +1,55 @@
+{
+  "english": "context",
+  "phat_am": "['kɔntekst]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(văn học) văn cảnh; ngữ cảnh",
+          "list_en_vn": [
+            {
+              "full_en": "Can you guess the meaning of this phrase from the context ?",
+              "full_vn": "Anh có đoán được nghĩa của cụm từ này qua ngữ cảnh hay không?"
+            },
+            {
+              "full_en": "Don't quote my words out of context",
+              "full_vn": "Đừng tách trích dẫn những từ ngữ của tôi mà tách chúng ra khỏi ngữ cảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình huống mà trong đó cái gì đang xảy ra hoặc phải được suy xét; bối cảnh",
+          "list_en_vn": [
+            {
+              "full_en": "In the context of the present economic crisis",
+              "full_vn": "Trong bối cảnh khủng hoảng kinh tế hiện nay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044090_855191f28e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044090_1c5415cc62_o.png",
+      "id_image": "context_1783669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044055_18d0cb4465_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044055_54a96bb178_o.png",
+      "id_image": "context_5261866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662334_a2539f71bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662334_4809d041cd_o.png",
+      "id_image": "context_5360558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662319_8e19042976_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662319_e6af6515d9_o.png",
+      "id_image": "context_6348622"
+    }
+  ]
+}

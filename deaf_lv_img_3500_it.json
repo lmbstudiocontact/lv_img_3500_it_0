@@ -1,0 +1,71 @@
+{
+  "english": "deaf",
+  "phat_am": "[def]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "điếc",
+          "list_en_vn": [
+            {
+              "full_en": "deaf of an ear ; deaf in one ear",
+              "full_vn": "điếc một tai"
+            },
+            {
+              "full_en": "deaf and dumb",
+              "full_vn": "điếc và câm"
+            },
+            {
+              "full_en": "a deaf ear",
+              "full_vn": "tai điếc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm thinh, làm ngơ",
+          "list_one_mean": [
+            {
+              "id_full_en": "as deaf as an adder (a beetle , a stone , a doorpost )",
+              "list_im": [
+                {
+                  "im_full_vn": "điếc đặc, điếc lòi ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there are none so deaf as those that will not hear",
+              "list_im": [
+                {
+                  "im_full_vn": "không có kẻ nào điếc hơn là kẻ không muốn nghe (lẽ phải...)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be deaf to someone's advice",
+              "full_vn": "làm thinh không nghe lời khuyên của ai"
+            },
+            {
+              "full_en": "to turn a deaf ear to something",
+              "full_vn": "làm thinh như không nghe thấy cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663924_3e8ab70f06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663924_c186887392_o.png",
+      "id_image": "deaf_2395143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308706_a64974d575_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308706_7e3435ce24_o.png",
+      "id_image": "deaf_2472657"
+    }
+  ]
+}

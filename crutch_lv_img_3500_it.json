@@ -1,0 +1,52 @@
+{
+  "english": "crutch",
+  "phat_am": "[krʌt∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái nạng ( (thường) pair of crutches )",
+          "list_en_vn": [
+            {
+              "full_en": "to go on crutches",
+              "full_vn": "đi bằng nạng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật chống, vật đỡ (tường, sàn...)"
+        },
+        {
+          "m_full_vn": "cái chống (xe đạp, mô tô)"
+        },
+        {
+          "m_full_vn": "(giải phẫu) đáy chậu"
+        },
+        {
+          "m_full_vn": "(hàng hải) cọc chén"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) chỗ nương tựa"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361742_4730b493e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361742_455cb7c944_o.png",
+      "id_image": "crutch_1010025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053820_680b08fec0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053820_1429ce4dac_o.png",
+      "id_image": "crutch_3003303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672094_3da049d640_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672094_76bebf2420_o.png",
+      "id_image": "crutch_4852331"
+    }
+  ]
+}

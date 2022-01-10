@@ -1,0 +1,74 @@
+{
+  "english": "daily",
+  "phat_am": "['deili]",
+  "list_type": [
+    {
+      "type": "tính từ & phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "hằng ngày",
+          "list_one_mean": [
+            {
+              "id_full_en": "one's daily bread",
+              "list_im": [
+                {
+                  "im_full_vn": "thức ăn hàng ngày; kế sinh nhai, đời sống",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that's how I earn my daily bread",
+                      "full_vn": "tôi kiếm cơm hàng ngày như vậy đấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's daily dozen",
+              "list_im": [
+                {
+                  "im_full_vn": "một số bài tập thường ngày để giữ gìn sức khoẻ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a daily routine /visit /newspaper",
+              "full_vn": "việc thường ngày/chuyến thăm hàng ngày/báo hàng ngày"
+            },
+            {
+              "full_en": "daily meals",
+              "full_vn": "các bữa ăn thường ngày"
+            },
+            {
+              "full_en": "the machines are inspected daily",
+              "full_vn": "máy móc được kiểm tra hàng ngày"
+            },
+            {
+              "full_en": "most newspapers appear daily",
+              "full_vn": "hầu hết các báo đều xuất bản hằng ngày"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "báo ra hàng ngày; nhật báo"
+        },
+        {
+          "m_full_vn": "(thông tục) người đàn bà giúp việc hằng ngày đến nhà"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311901_51e32b0eb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311901_5d8f07b23f_o.png",
+      "id_image": "daily_1933926"
+    }
+  ]
+}

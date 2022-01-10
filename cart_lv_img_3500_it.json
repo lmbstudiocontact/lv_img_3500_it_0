@@ -1,0 +1,65 @@
+{
+  "english": "cart",
+  "phat_am": "[kɑ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe bò, xe ngựa (hai bánh để chở hàng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to put the cart before the horse",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ngược, làm trái khoáy; lấy kết quả làm nguyên nhân"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a horse and cart",
+              "full_vn": "xe một ngựa; xe độc mã"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chở bằng xe bò, chở bằng xe ngựa"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678429_7045e40c71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678429_02774316e2_o.png",
+      "id_image": "cart_1361982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368077_b514726234_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368077_12006cc695_o.png",
+      "id_image": "cart_5131908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678359_a909991c2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678359_26b79333a4_o.png",
+      "id_image": "cart_5207115"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368207_d2d570921d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368207_c45286a614_o.png",
+      "id_image": "cart_529917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438378_4b0bb8d461_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438378_78f451dd5e_o.png",
+      "id_image": "cart_618059"
+    }
+  ]
+}

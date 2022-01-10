@@ -1,0 +1,47 @@
+{
+  "english": "carnival",
+  "phat_am": "['kɑ:nivəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngày hội (trước trai giới)"
+        },
+        {
+          "m_full_vn": "cuộc hội hè ăn uống linh đình; cuộc vui trá hình"
+        },
+        {
+          "m_full_vn": "sự quá xá, sự lạm dụng, sự bừa bãi",
+          "list_en_vn": [
+            {
+              "full_en": "a carnival of colour",
+              "full_vn": "sự lạm dụng màu sắc"
+            },
+            {
+              "full_en": "a carnival of bloodshed",
+              "full_vn": "sự giết chóc bừa bãi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369742_ecc6378c73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369742_aeba71fde4_o.png",
+      "id_image": "carnival_4090075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061775_c44d66b6c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061775_b6760142bd_o.png",
+      "id_image": "carnival_4515095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369667_552db8c735_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369667_ed6d62bf2c_o.png",
+      "id_image": "carnival_5238344"
+    }
+  ]
+}

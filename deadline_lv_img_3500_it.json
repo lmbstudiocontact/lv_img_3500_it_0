@@ -1,0 +1,52 @@
+{
+  "english": "deadline",
+  "phat_am": "['dedlain]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường giới hạn không được vượt qua"
+        },
+        {
+          "m_full_vn": "hạn cuối cùng (trả tiền, rút quân...); thời điểm phải làm xong cái gì, thời hạn cuối cùng",
+          "list_en_vn": [
+            {
+              "full_en": "to meet /miss a deadline",
+              "full_vn": "kịp/không kịp thời hạn đã định"
+            },
+            {
+              "full_en": "I have a March deadline for the novel",
+              "full_vn": "thời hạn cuối cùng cho cuốn tiểu thuyết của tôi là tháng ba"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đường giới hạn trong sân nhà tù (người tù bước qua có thể bị bắn ngay tại chỗ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353002_8680fb4ca3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353002_8fee3417f3_o.png",
+      "id_image": "deadline_287490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663999_de0863e450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663999_e7eecd57a9_o.png",
+      "id_image": "deadline_3772898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352987_a35dcef205_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352987_72e332be15_o.png",
+      "id_image": "deadline_448741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664029_ea02ac4897_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664029_715165e250_o.png",
+      "id_image": "deadline_850145"
+    }
+  ]
+}

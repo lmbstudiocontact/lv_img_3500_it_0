@@ -1,0 +1,57 @@
+{
+  "english": "combat",
+  "phat_am": "['kɔmbæt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc chiến đấu giữa hai người, hai đạo quân....; trận đánh",
+          "list_en_vn": [
+            {
+              "full_en": "armed /unarmed combat",
+              "full_vn": "cuộc chiến đấu có vũ khí/không có vũ khí"
+            },
+            {
+              "full_en": "combat of wits",
+              "full_vn": "cuộc đấu trí"
+            },
+            {
+              "full_en": "the troops were exhausted after months of fierce combat",
+              "full_vn": "quân lính đã bị kiệt sức sau nhiều tháng giao tranh ác liệt"
+            },
+            {
+              "full_en": "a combat jacket , mission , zone",
+              "full_vn": "một chiếc áo trận, nhiệm vụ chiến đấu, vùng chiến sự"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to combat ( against / with ) somebody / something ) chiến đấu chống lại ai/cái gì; đọ sức với ai",
+          "list_en_vn": [
+            {
+              "full_en": "to combat the enemy",
+              "full_vn": "đánh nhau với địch"
+            },
+            {
+              "full_en": "to combat disease /inflation /terrorism",
+              "full_vn": "chống bệnh tật/lạm phát/khủng bố"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365267_b666076037_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365267_208b1f03f1_o.png",
+      "id_image": "combat_1119868"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "english": "bathe",
+  "phat_am": "[beið]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tắm (ở hồ, sông, biển, bể bơi)",
+          "list_en_vn": [
+            {
+              "full_en": "to go for a bathe",
+              "full_vn": "đi tắm (ở sông, biển...)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tắm, đầm mình (đen & bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "to bathe one's hands in blood",
+              "full_vn": "nhúng tay vào máu"
+            },
+            {
+              "full_en": "face bathed in tears",
+              "full_vn": "mặt đầm đìa nước mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rửa, rửa sạch (vết thương, mắt...)"
+        },
+        {
+          "m_full_vn": "bao bọc, ở sát, tiếp giáp với; chảy qua (sông, biển...)",
+          "list_en_vn": [
+            {
+              "full_en": "it is bathed on one side by the North Sea",
+              "full_vn": "một phía nó tiếp giáp với biển Bắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm ngập trong (ánh sáng)",
+          "list_en_vn": [
+            {
+              "full_en": "room bathed in light",
+              "full_vn": "căn phòng ngập ánh sáng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tắm, đầm mình (ở hồ, sông, biển, bể bơi...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428443_4083a44203_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428443_b925ed8d69_o.png",
+      "id_image": "bathe_376491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357667_81746cf64b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357667_987e120637_o.png",
+      "id_image": "bathe_381218"
+    }
+  ]
+}

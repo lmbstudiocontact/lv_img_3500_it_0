@@ -1,0 +1,76 @@
+{
+  "english": "candy",
+  "phat_am": "['kændi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường phèn, miếng đường phèn"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) kẹo",
+          "list_en_vn": [
+            {
+              "full_en": "candy store",
+              "full_vn": "cửa hàng kẹo"
+            },
+            {
+              "full_en": "candy-floss",
+              "full_vn": "kẹo được tơi ra như bông gòn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) côcain"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm thành đường phèn"
+        },
+        {
+          "m_full_vn": "tẩm đường, ướp đường, ngâm đường (hoa quả...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết thành đường (mật ong...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040465_47a197bbbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040465_caa3707407_o.png",
+      "id_image": "candy_5965115"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040445_820e965d52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040445_c8460f4868_o.png",
+      "id_image": "candy_5965142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303691_2dc67ca5d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303691_7ea826f7d8_o.png",
+      "id_image": "candy_6119325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658949_d6100f012e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658949_900d0baa7d_o.png",
+      "id_image": "candy_6347547"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303681_b74b240522_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303681_7e9243cdf8_o.png",
+      "id_image": "candy_6347610"
+    }
+  ]
+}

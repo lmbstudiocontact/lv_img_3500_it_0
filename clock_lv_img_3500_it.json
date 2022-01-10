@@ -1,0 +1,174 @@
+{
+  "english": "clock",
+  "phat_am": "[klɔk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồng hồ treo treo tường; đồng hồ để bàn"
+        },
+        {
+          "m_full_vn": "dụng cụ để đo và ghi các thứ khác ngoài thời gian (đồng hồ chỉ tiền phải trả của taxi hoặc đồng hồ đo số dặm mà ô tô đã đi được chẳng hạn); công tơ",
+          "list_one_mean": [
+            {
+              "id_full_en": "like a clock",
+              "list_im": [
+                {
+                  "im_full_vn": "đều đặn, chạy đều, trơn tru, trôi chảy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "everything went like a clock",
+                      "full_vn": "mọi việc đều trôi chảy; mọi việc vẫn chạy đều"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put the clock back",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) quay lại thời kỳ đã qua; đi ngược lại bánh xe lịch sử, ngăn chặn sự phát triển",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the new censorship law will put the clock back (by ) 50 years",
+                      "full_vn": "luật kiểm duyệt mới sẽ đẩy thời gian lùi lại 50 năm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put the clock /clocks forward /back",
+              "list_im": [
+                {
+                  "im_full_vn": "(ở những nước có thời gian mùa hè công bố chính thức) thay đổi thời gian, thường là một giờ đồng hồ vào đầu/cuối mùa hè",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "remember to put the clock back one hour tonight",
+                      "full_vn": "đêm nay nhớ chỉnh đồng hồ lùi lại một giờ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work around /round the clock",
+              "list_im": [
+                {
+                  "im_full_vn": "làm việc suốt ngày đêm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "surgeons are working round the clock to save his life",
+                      "full_vn": "các bác sĩ phẫu thuật đang làm việc suốt ngày đêm để cứu sống anh ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to watch the clock",
+              "list_im": [
+                {
+                  "im_full_vn": "chú ý không làm việc nhiều hơn thời gian cần thiết; trông cho mau hết giờ làm việc thay vì làm cho xong việc; canh chừng cho hết giờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work against the clock",
+              "list_im": [
+                {
+                  "im_full_vn": "làm việc nhanh để hoàn thành kế hoạch trước thời gian dự liệu; làm vượt thời gian"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a second-hand car with 20000 miles on the clock",
+              "full_vn": "một chiếc ô tô cũ với chỉ số 20000 dặm trên công tơ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) bấm giờ (một cuộc chạy đua....)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đạt được hoặc ghi được (thời gian, khoảng cách, tốc độ được nói rõ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to clock somebody one",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh vào mặt ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "If you do that again , I'll clock you one",
+                      "full_vn": "Nếu anh còn làm như vậy nữa, tôi sẽ bạt tai anh đấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clock somebody in /on ; to clock somebody out /off ; to punch somebody in /out",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi thời gian của một người đến làm việc hoặc ra về (nhất là bằng thiết bị tự động)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "workers usually clock off at 5.30",
+                      "full_vn": "công nhân thường nghỉ việc lúc 5 giờ 30"
+                    },
+                    {
+                      "full_en": "what is clock-in /clocking-in time at your office ?",
+                      "full_vn": "cơ quan anh vào làm việc lúc mấy giờ?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he clocked 11 seconds in the 100 meters",
+              "full_vn": "anh ta chạy 100 mét mất 11 giây"
+            },
+            {
+              "full_en": "my car has clocked up 50000 miles",
+              "full_vn": "xe tôi đã chạy được 50000 dặm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685869_6bd8b03bb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685869_13ab5dc667_o.png",
+      "id_image": "clock_122922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067615_0b548fc4dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067615_ed85b0b667_o.png",
+      "id_image": "clock_123338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330786_dff7b2b9a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330786_09fd513e13_o.png",
+      "id_image": "clock_124792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067560_6a31afa487_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067560_4e7cc772b4_o.png",
+      "id_image": "clock_593556"
+    }
+  ]
+}

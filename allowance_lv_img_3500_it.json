@@ -1,0 +1,108 @@
+{
+  "english": "allowance",
+  "phat_am": "[ə'lauəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thừa nhận, sự công nhận, sự thú nhận",
+          "list_en_vn": [
+            {
+              "full_en": "by his own allowance",
+              "full_vn": "do chính anh ta thừa nhận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền cấp hoặc cho đều đặn; tiền trợ cấp",
+          "list_en_vn": [
+            {
+              "full_en": "an allowance of 50 dollars per day",
+              "full_vn": "tiền trợ cấp mỗi ngày 50 đô la"
+            },
+            {
+              "full_en": "to be paid a clothing /subsistence /travel allowance",
+              "full_vn": "được trả tiền trợ cấp quần áo/sinh sống/đi lại"
+            },
+            {
+              "full_en": "I didn't receive any allowance from my father",
+              "full_vn": "tôi không nhận được khoản trợ cấp nào của cha tôi"
+            },
+            {
+              "full_en": "a luggage allowance",
+              "full_vn": "số hành lý được phép (số lượng hành lý mà một hành khách có thể mang theo không phải trả tiền cước, nhất là khi đi máy bay)"
+            },
+            {
+              "full_en": "to get a very small allowance from home every month",
+              "full_vn": "hàng tháng được gia đình gửi cho một số tiền nhỏ"
+            },
+            {
+              "full_en": "family allowance fund",
+              "full_vn": "quỹ trợ cấp gia đình đông con"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số tiền được trừ đi; chiết khấu",
+          "list_en_vn": [
+            {
+              "full_en": "to get an allowance for an old car /fridge /cooker",
+              "full_vn": "được trừ tiền cho chiếc xe/tủ lạnh/nồi nấu cũ"
+            },
+            {
+              "full_en": "tax allowance",
+              "full_vn": "tiền chiết khấu thuế (tiền trừ ở thu nhập trước khi áp dụng thuế suất hiện hành)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to make allowance for something ) xem xét, tính đến cái gì khi đưa ra một quyết định",
+          "list_en_vn": [
+            {
+              "full_en": "to make allowance for the difference of age",
+              "full_vn": "chiếu cố đến sự chênh lệch về tuổi tác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to make allowances for somebody ) coi ai như đáng được đối xử khác với mọi người vì một lý do nào đó; chiếu cố",
+          "list_en_vn": [
+            {
+              "full_en": "you should make allowances for him because he has been ill",
+              "full_vn": "anh nên chiếu cố ông ta vì ông ta mới ốm dậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật); (vật lý) hạn định cho phép"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cấp một số tiền cho (ai), trợ cấp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052435_a6bc88c904_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052435_14f74ccfe4_o.png",
+      "id_image": "allowance_1753169"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315951_a5fa6e2818_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315951_8a8764cc8f_o.png",
+      "id_image": "allowance_2472603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430783_c182d71d53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430783_ce8ef39081_o.png",
+      "id_image": "allowance_5255883"
+    }
+  ]
+}

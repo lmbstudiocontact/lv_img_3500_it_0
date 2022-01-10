@@ -1,0 +1,150 @@
+{
+  "english": "coat",
+  "phat_am": "[kout]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "áo choàng ngoài, áo bành-tô (đàn ông)"
+        },
+        {
+          "m_full_vn": "áo choàng (phụ nữ); (từ cổ,nghĩa cổ) váy"
+        },
+        {
+          "m_full_vn": "bộ lông (thú)"
+        },
+        {
+          "m_full_vn": "lớp, lượt (sơn, vôi...)",
+          "list_en_vn": [
+            {
+              "full_en": "a coat of paint",
+              "full_vn": "lớp sơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) vỏ (củ hành, củ tỏi)"
+        },
+        {
+          "m_full_vn": "(giải phẫu) màng"
+        },
+        {
+          "m_full_vn": "(hàng hải) túi (buồm)",
+          "list_one_mean": [
+            {
+              "id_full_en": "coat of arms",
+              "list_im": [
+                {
+                  "im_full_vn": "huy hiệu (của quý tộc, của trường đại học hay học viện)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "coat of mail",
+              "list_im": [
+                {
+                  "im_full_vn": "áo giáp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "coat and skirt",
+              "list_im": [
+                {
+                  "im_full_vn": "quần áo nữ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dust someone's coat",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh cho ai một trận, sửa cho ai một trận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kilt one's coats",
+              "list_im": [
+                {
+                  "im_full_vn": "(văn học) vén váy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it is not the coat that makes the gentleman",
+              "list_im": [
+                {
+                  "im_full_vn": "đừng lấy bề ngoài mà xét người; mặc áo cà sa không hẳn là sư"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take off one's coat",
+              "list_im": [
+                {
+                  "im_full_vn": "cởi áo sẵn sàng đánh nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take off one's coat to the work",
+              "list_im": [
+                {
+                  "im_full_vn": "hăm hở bắt tay vào việc, sẵn sàng bắt tay vào việc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn one's coat",
+              "list_im": [
+                {
+                  "im_full_vn": "trở mặt, phản đảng, đào ngũ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặc áo choàng cho.."
+        },
+        {
+          "m_full_vn": "phủ, tẩm, bọc, tráng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063940_f340d2139f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063940_c93541c65c_o.png",
+      "id_image": "coat_1337896"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442273_a0b6975cf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442273_c6f4e0b52b_o.png",
+      "id_image": "coat_617981"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327171_bc4dc93417_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327171_bc616c5211_o.png",
+      "id_image": "coat_618014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371857_5f83086e1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371857_82570dc166_o.png",
+      "id_image": "coat_618025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682244_da0ff7979d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682244_a392e53790_o.png",
+      "id_image": "coat_658844"
+    }
+  ]
+}

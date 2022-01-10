@@ -1,0 +1,34 @@
+{
+  "english": "companionship",
+  "phat_am": "[kəm'pænjən∫ip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tình bạn, tình bạn bè",
+          "list_en_vn": [
+            {
+              "full_en": "a companionship of many years",
+              "full_vn": "tình bè bạn trong nhiều năm"
+            },
+            {
+              "full_en": "to enjoy someone's companionship",
+              "full_vn": "kết thân với ai, làm bạn với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) tổ thợ sắp chữ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672334_efbb0278af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672334_ff219b2317_o.png",
+      "id_image": "companionship_1402124"
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "english": "dead",
+  "phat_am": "[ded]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chết (người, vật, cây cối)",
+          "list_en_vn": [
+            {
+              "full_en": "to strike somebody dead",
+              "full_vn": "đánh ai chết tươi"
+            },
+            {
+              "full_en": "to shoot somebody dead",
+              "full_vn": "bắn chết ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tắt, tắt ngấm",
+          "list_en_vn": [
+            {
+              "full_en": "dead fire",
+              "full_vn": "lửa tắt"
+            },
+            {
+              "full_en": "dead volcano",
+              "full_vn": "núi lửa tắt ngấm"
+            },
+            {
+              "full_en": "dead valve",
+              "full_vn": "bóng đèn (rađiô) cháy (không dùng được nữa)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chết, không hoạt động; không sinh sản; hết hiệu lực; không dùng được nữa",
+          "list_en_vn": [
+            {
+              "full_en": "dead money",
+              "full_vn": "tiền để nằm chết, không sinh lợi"
+            },
+            {
+              "full_en": "dead stock",
+              "full_vn": "vốn chết; hàng không bán được"
+            },
+            {
+              "full_en": "a dead spring",
+              "full_vn": "lò xo hết đàn hồi"
+            },
+            {
+              "full_en": "dead axle",
+              "full_vn": "trục không xoay được nữa"
+            },
+            {
+              "full_en": "the motor is dead",
+              "full_vn": "động cơ ngừng chạy"
+            },
+            {
+              "full_en": "dead language",
+              "full_vn": "tử ngữ, ngôn ngữ không còn dùng nữa"
+            },
+            {
+              "full_en": "dead window",
+              "full_vn": "cửa sổ giả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tê cóng, tê bại, tê liệt",
+          "list_en_vn": [
+            {
+              "full_en": "my fingers are dead",
+              "full_vn": "ngón tay tôi tê cóng đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xỉn, không bóng (màu, vàng...); đục, không vang (âm thanh...)",
+          "list_en_vn": [
+            {
+              "full_en": "dead gold",
+              "full_vn": "vàng xỉn"
+            },
+            {
+              "full_en": "dead sound",
+              "full_vn": "tiếng đục không vang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không màng đến, không biết đến, chai điếng, điếc đặc không chịu nghe",
+          "list_en_vn": [
+            {
+              "full_en": "dead to honours",
+              "full_vn": "không màng danh vọng"
+            },
+            {
+              "full_en": "dead to reason",
+              "full_vn": "điếc đặc không chịu nghe lẽ phải"
+            },
+            {
+              "full_en": "dead to all sense of honour",
+              "full_vn": "không còn biết thế nào là danh dự nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thình lình, hoàn toàn",
+          "list_en_vn": [
+            {
+              "full_en": "to come a dead stop",
+              "full_vn": "đứng sững lại"
+            },
+            {
+              "full_en": "a dead faint",
+              "full_vn": "sự chết ngất"
+            },
+            {
+              "full_en": "dead calm",
+              "full_vn": "sự hoàn toàn lặng gió (biển)"
+            },
+            {
+              "full_en": "dead silence",
+              "full_vn": "sự im phăng phắc"
+            },
+            {
+              "full_en": "dead failure",
+              "full_vn": "thất bại hoàn toàn"
+            },
+            {
+              "full_en": "dead certainty",
+              "full_vn": "sự tin chắc hoàn toàn; điều hoàn toàn chắc chắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) không có thế hiệu",
+          "list_one_mean": [
+            {
+              "id_full_en": "dead from the neck up",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) ngu xuẩn, đần độn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "dead and gone",
+              "list_im": [
+                {
+                  "im_full_vn": "đã chết và chôn"
+                },
+                {
+                  "im_full_vn": "đã qua từ lâu"
+                },
+                {
+                  "im_full_vn": "đã bỏ đi không dùng đến từ lâu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as dead as a doornail (a herring , a nit , mutton , Julius Caesar )",
+              "list_im": [
+                {
+                  "im_full_vn": "chết thật rồi, chết cứng ra rồi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "dead marines (men )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) chai không, chai đã uống hết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "more dead than alive",
+              "list_im": [
+                {
+                  "im_full_vn": "gần chết, thừa sống thiếu chết; chết giấc, bất tỉnh nhân sự"
+                }
+              ]
+            },
+            {
+              "id_full_en": "dead men tell no tales",
+              "list_im": [
+                {
+                  "im_full_vn": "người chết thì không còn tiết lộ bí mật được nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be a dead ringer for sb",
+              "list_im": [
+                {
+                  "im_full_vn": "rất giống ai về bề ngoài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be the dead spit of sb",
+              "list_im": [
+                {
+                  "im_full_vn": "giống hệt ai, giống ai đến nỗi không ngờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as dead as a dodo",
+              "list_im": [
+                {
+                  "im_full_vn": "hết hiệu lực, hết giá trị"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a dead duck",
+              "list_im": [
+                {
+                  "im_full_vn": "kế hoạch bị dẹp bỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the dead hand of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "ảnh hưởng sâu sắc của cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a deadletter",
+              "list_im": [
+                {
+                  "im_full_vn": "điều không ai công nhận nữa, luật lệ hết hiệu lực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a dead loss",
+              "list_im": [
+                {
+                  "im_full_vn": "đồ vô tích sự"
+                }
+              ]
+            },
+            {
+              "id_full_en": "dead men's shoes",
+              "list_im": [
+                {
+                  "im_full_vn": "công việc nối tiếp từ một người chết hoặc bỏ dở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be dead to the world",
+              "list_im": [
+                {
+                  "im_full_vn": "say giấc nồng, ngủ say"
+                }
+              ]
+            },
+            {
+              "id_full_en": "dead wood",
+              "list_im": [
+                {
+                  "im_full_vn": "người hoặc vật không còn có ích nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to flog a dead horse",
+              "list_im": [
+                {
+                  "im_full_vn": "công dã tràng, uổng công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "over my dead body",
+              "list_im": [
+                {
+                  "im_full_vn": "bước qua cả xác tôi, bất chấp sự phản đối của tôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the quick and the dead",
+              "list_im": [
+                {
+                  "im_full_vn": "tất cả những kẻ còn sống hoặc đã lìa đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "wouldn't be seen dead in , at , with something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "thà chết còn hơn làm điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she wouldn't be seen dead jogging ; she hates exercise",
+                      "full_vn": "bà ta thà chết chứ không chịu tập chạy, bà ta chúa ghét tập thể dục"
+                    },
+                    {
+                      "full_en": "that dress is so ugly I wouldn't be seen dead in it",
+                      "full_vn": "cái áo này xấu quá, tôi thà chết chứ không đời nào mặc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be dead set on sth",
+              "list_im": [
+                {
+                  "im_full_vn": "dứt khoát làm điều gì cho bằng được"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the dead ) những người đã chết, những người đã khuất"
+        },
+        {
+          "m_full_vn": "giữa",
+          "list_one_mean": [
+            {
+              "id_full_en": "let the dead bury the dead",
+              "list_im": [
+                {
+                  "im_full_vn": "hãy để cho quá khứ chôn vùi quá khứ đi; hãy quên quá khứ đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the dead",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) nhất định, kiên quyết"
+                },
+                {
+                  "im_full_vn": "đứng đắn, không đùa"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "in the dead of winter",
+              "full_vn": "giữa mùa đông"
+            },
+            {
+              "full_en": "in the dead of night",
+              "full_vn": "lúc nửa đêm, lúc đêm khuya thanh vắng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "đúng vào, ngay vào, thẳng vào",
+          "list_en_vn": [
+            {
+              "full_en": "dead in the centre",
+              "full_vn": "đúng ngay vào giữa"
+            },
+            {
+              "full_en": "dead on time",
+              "full_vn": "đúng giờ"
+            },
+            {
+              "full_en": "the wind was dead against us",
+              "full_vn": "gió tạt thẳng vào mặt chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn toàn",
+          "list_en_vn": [
+            {
+              "full_en": "dead asleep",
+              "full_vn": "ngủ say như chết"
+            },
+            {
+              "full_en": "dead drunk",
+              "full_vn": "say bí tỉ, say không biết gì trời đất"
+            },
+            {
+              "full_en": "dead tired",
+              "full_vn": "mệt rã rời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hằn lại, sững lại",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be dead against somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "kiên quyết phản đối ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to stop dead",
+              "full_vn": "đứng sững lại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353067_f7288731b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353067_6c19389aea_o.png",
+      "id_image": "dead_3768596"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353052_7b5962c3de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353052_a34f10e9f9_o.png",
+      "id_image": "dead_5664088"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308821_1030a41a28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308821_b6eaf03c45_o.png",
+      "id_image": "dead_6000754"
+    }
+  ]
+}

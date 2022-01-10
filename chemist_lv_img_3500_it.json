@@ -1,0 +1,30 @@
+{
+  "english": "chemist",
+  "phat_am": "['kemist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà hoá học"
+        },
+        {
+          "m_full_vn": "như druggist",
+          "list_en_vn": [
+            {
+              "full_en": "chemist's shop",
+              "full_vn": "cửa hàng dược phẩm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047845_39f898b42c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047845_5ef7ef9b9f_o.png",
+      "id_image": "chemist_307968"
+    }
+  ]
+}

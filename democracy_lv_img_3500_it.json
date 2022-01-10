@@ -1,0 +1,80 @@
+{
+  "english": "democracy",
+  "phat_am": "[di'mɔkrəsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nền dân chủ; chế độ dân chủ",
+          "list_en_vn": [
+            {
+              "full_en": "parliamentary democracy",
+              "full_vn": "nền dân chủ đại nghị; chế độ dân chủ đại nghị"
+            },
+            {
+              "full_en": "the principles of democracy",
+              "full_vn": "các nguyên tắc của nền dân chủ"
+            },
+            {
+              "full_en": "industrial democracy",
+              "full_vn": "quyền dân chủ trong công nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quốc gia theo chế độ dân chủ; xã hội dân chủ",
+          "list_en_vn": [
+            {
+              "full_en": "People's Democracies",
+              "full_vn": "các nước dân chủ nhân dân"
+            },
+            {
+              "full_en": "the Western democracies",
+              "full_vn": "các nước dân chủ phương Tây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) ( Democracy ) cương lĩnh đảng Dân chủ"
+        },
+        {
+          "m_full_vn": "sự bình đẳng trong xã hội",
+          "list_en_vn": [
+            {
+              "full_en": "is there more democracy in Australia than in Britain ?",
+              "full_vn": "ở úc có bình đẳng hơn ở Anh hay không?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070880_3056a76a27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070880_e507907058_o.png",
+      "id_image": "democracy_2529647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688904_d86d0dfb60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688904_c67042c92f_o.png",
+      "id_image": "democracy_3205462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070780_0e87eb2b41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070780_397016a84e_o.png",
+      "id_image": "democracy_5389887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378672_b0db7f4e71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378672_17b280f9c9_o.png",
+      "id_image": "democracy_5389925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070655_ba6c997c57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070655_c867b71ce1_o.png",
+      "id_image": "democracy_5392380"
+    }
+  ]
+}

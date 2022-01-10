@@ -1,0 +1,42 @@
+{
+  "english": "chapel",
+  "phat_am": "['t∫æpl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà thờ nhỏ (ở nhà tù, ở trại lính...); buổi lễ ở nhà thờ nhỏ"
+        },
+        {
+          "m_full_vn": "phần riêng biệt của nhà thờ dùng cho những buổi cầu nguyện riêng tư; nhà nguyện",
+          "list_en_vn": [
+            {
+              "full_en": "a Lady chapel",
+              "full_vn": "nhà nguyện Thánh Mẫu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) nhà in; tập thể thợ in; cuộc họp của thợ in",
+          "list_en_vn": [
+            {
+              "full_en": "to call a chapel",
+              "full_vn": "triệu tập một cuộc họp của thợ in"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) chi nhánh của một hội hoặc của một câu lạc bộ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050625_54426626a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050625_ccfa20bdb6_o.png",
+      "id_image": "chapel_6000724"
+    }
+  ]
+}

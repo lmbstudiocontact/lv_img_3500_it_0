@@ -1,0 +1,84 @@
+{
+  "english": "carrier",
+  "phat_am": "['kæriə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người hoặc vật chở cái gì"
+        },
+        {
+          "m_full_vn": "hãng vận tải",
+          "list_en_vn": [
+            {
+              "full_en": "common carrier",
+              "full_vn": "hãng vận tải đường bộ, đường sắt và đường thuỷ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái đèo hàng (ở xe đạp...)",
+          "list_en_vn": [
+            {
+              "full_en": "to strap a parcel to the carrier",
+              "full_vn": "buộc một bưu kiện vào cái đèo hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) người mang mầm bệnh; vật mang mầm bệnh",
+          "list_en_vn": [
+            {
+              "full_en": "mosquitoes are carriers of malaria",
+              "full_vn": "muỗi mang mầm bệnh sốt rét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tàu chuyên chở"
+        },
+        {
+          "m_full_vn": "như aircraft carrier"
+        },
+        {
+          "m_full_vn": "như carrier-pigeon"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) vật mang, vật đỡ, giá đỡ"
+        },
+        {
+          "m_full_vn": "(vật lý) chất mang, phần tử mang",
+          "list_en_vn": [
+            {
+              "full_en": "charge carrier",
+              "full_vn": "phần tử mang điện tích"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060520_08b6e3758e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060520_e2e6a4bc23_o.png",
+      "id_image": "carrier_1405449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368572_f151e43fcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368572_051c914312_o.png",
+      "id_image": "carrier_4201488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060425_579c7315f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060425_c3b79276bb_o.png",
+      "id_image": "carrier_4276239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438793_e2f7122496_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438793_e3832017a3_o.png",
+      "id_image": "carrier_848587"
+    }
+  ]
+}

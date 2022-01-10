@@ -1,0 +1,76 @@
+{
+  "english": "comedy",
+  "phat_am": "['kɔmidi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kịch vui; hài kịch; phim hài",
+          "list_one_mean": [
+            {
+              "id_full_en": "Old Comedy",
+              "list_im": [
+                {
+                  "im_full_vn": "thể kịch nói cổ Hy-lạp (có nhiều trò hề và có tính chất (chính trị))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Middle Comedy",
+              "list_im": [
+                {
+                  "im_full_vn": "thể kịch nói cổ Hy-lạp trung kỳ (có tính chất quá độ giữa thể kịch nói cổ và thể kịch nói hiện đại)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "New Comedy",
+              "list_im": [
+                {
+                  "im_full_vn": "thể kịch nói hiện đại Hy-lạp"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) trò hài kịch, tấn hài kịch (trong cuộc sống)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "comedy of manners",
+              "full_vn": "hài kịch phê phán những thói hư tật xấu trong cuộc sống hàng ngày"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435198_fec57878c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435198_56d7f61187_o.png",
+      "id_image": "comedy_2040640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675034_4f609beb5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675034_e0b36c3e5d_o.png",
+      "id_image": "comedy_2123777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364777_04666a9290_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364777_8269fa2c8d_o.png",
+      "id_image": "comedy_4114771"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319996_313eb0650a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319996_15c7e964f4_o.png",
+      "id_image": "comedy_5320595"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319961_d31f4149d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319961_00beb8760d_o.png",
+      "id_image": "comedy_6347555"
+    }
+  ]
+}

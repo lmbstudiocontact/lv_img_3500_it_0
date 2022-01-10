@@ -1,0 +1,43 @@
+{
+  "english": "bishop",
+  "phat_am": "['bi∫əp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giáo sĩ trưởng phụ trách công việc của Giáo hội trong một thành phố hoặc quận huyện; giám mục",
+          "list_en_vn": [
+            {
+              "full_en": "the Bishop of Durham",
+              "full_vn": "Giám mục xứ Durham"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh cờ) quân cờ có hình giống cái mũ của giám mục; con Hậu"
+        },
+        {
+          "m_full_vn": "rượu hâm pha hương liệu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658594_0590d38490_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658594_b57e3d35ac_o.png",
+      "id_image": "bishop_2858873"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303316_965f93dda3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303316_1e966c8421_o.png",
+      "id_image": "bishop_3915637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418303_f24369348a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418303_ec5868b16e_o.png",
+      "id_image": "bishop_4246423"
+    }
+  ]
+}

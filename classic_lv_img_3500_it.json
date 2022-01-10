@@ -1,0 +1,58 @@
+{
+  "english": "classic",
+  "phat_am": "['klæsik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "kinh điển",
+          "list_en_vn": [
+            {
+              "full_en": "classic works",
+              "full_vn": "tác phẩm kinh điển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viết bằng thể văn kinh điển"
+        },
+        {
+          "m_full_vn": "cổ điển không mới (kiểu ăn mặc)"
+        },
+        {
+          "m_full_vn": "hạng nhất"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tác giả kinh điển"
+        },
+        {
+          "m_full_vn": "tác phẩm kinh điển"
+        },
+        {
+          "m_full_vn": "nhà học giả kinh điển (chuyên về ngôn ngữ (văn học) Hy-La)"
+        },
+        {
+          "m_full_vn": "( số nhiều) ( The Classics ) văn học Hy-La; các nhà kinh điển Hy-La"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349272_4b285d628b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349272_ff74a1c246_o.png",
+      "id_image": "classic_1312859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349247_73e948185a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349247_3c26b8194e_o.png",
+      "id_image": "classic_5318799"
+    }
+  ]
+}

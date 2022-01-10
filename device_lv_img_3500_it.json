@@ -1,0 +1,65 @@
+{
+  "english": "device",
+  "phat_am": "[di'vais]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phương sách, phương kế; chước mưu"
+        },
+        {
+          "m_full_vn": "vật sáng chế ra (để dùng vào mục đích gì); thiết bị, dụng cụ, máy móc",
+          "list_en_vn": [
+            {
+              "full_en": "a control device",
+              "full_vn": "dụng cụ điều khiển"
+            },
+            {
+              "full_en": "an electronic device",
+              "full_vn": "dụng cụ điện tử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hình vẽ; hình trang trí; hình tương trưng"
+        },
+        {
+          "m_full_vn": "châm ngôn; đề từ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to leave someone to his own devices",
+              "list_im": [
+                {
+                  "im_full_vn": "để mặc cho ai tự xoay sở lo liệu lấy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680659_77eaf12c29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680659_9355caf644_o.png",
+      "id_image": "device_1089199"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062335_0414a59121_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062335_c158ac1381_o.png",
+      "id_image": "device_1753657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680554_92ff3b620a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680554_6c3f853d8f_o.png",
+      "id_image": "device_2222831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062210_7a4e795f75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062210_8db42e99c9_o.png",
+      "id_image": "device_2844994"
+    }
+  ]
+}

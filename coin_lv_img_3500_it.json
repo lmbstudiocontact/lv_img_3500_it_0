@@ -1,0 +1,87 @@
+{
+  "english": "coin",
+  "phat_am": "[kɔin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồng tiền (tiền đồng, tiền kim loại); tiền",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pay someone in his own coin",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn miếng trả miếng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "false coin",
+              "full_vn": "đồng tiền giả; (nghĩa bóng) cái giả mạo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đúc (tiền); đúc (kim loại) thành tiền"
+        },
+        {
+          "m_full_vn": "tạo ra, đặt ra",
+          "list_one_mean": [
+            {
+              "id_full_en": "to coin it /money",
+              "list_im": [
+                {
+                  "im_full_vn": "hái ra tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to coin one's brains",
+              "list_im": [
+                {
+                  "im_full_vn": "vắt óc nghĩ mẹo làm tiền"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to coin a word",
+              "full_vn": "đặt ra một từ mới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323846_8d8350169e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323846_e460987f25_o.png",
+      "id_image": "coin_1055866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060880_0d3919d910_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060880_50427d980f_o.png",
+      "id_image": "coin_445250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439018_3253c6d308_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439018_44396ebba2_o.png",
+      "id_image": "coin_855396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679084_58be945e4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679084_4e6d754c96_o.png",
+      "id_image": "coin_868212"
+    }
+  ]
+}

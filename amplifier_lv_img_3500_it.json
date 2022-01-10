@@ -1,0 +1,49 @@
+{
+  "english": "amplifier",
+  "phat_am": "['æmplifaiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máy khuếch đại, bộ khuếch đại",
+          "list_en_vn": [
+            {
+              "full_en": "buffer amplifier",
+              "full_vn": "bộ khuếch đại đệm"
+            },
+            {
+              "full_en": "harmonic amplifier",
+              "full_vn": "máy khuếch đại tần hài"
+            },
+            {
+              "full_en": "pulse amplifier",
+              "full_vn": "bộ khuếch đại xung"
+            },
+            {
+              "full_en": "cascade amplifier",
+              "full_vn": "bộ khuếch đại có tầng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313911_d2026e8d04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313911_3971f85265_o.png",
+      "id_image": "amplifier_343021"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668644_13e736697f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668644_7913f17313_o.png",
+      "id_image": "amplifier_473663"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050465_395ca4ea2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050465_9af5058eaa_o.png",
+      "id_image": "amplifier_6383637"
+    }
+  ]
+}

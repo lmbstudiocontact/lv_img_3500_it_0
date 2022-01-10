@@ -1,0 +1,97 @@
+{
+  "english": "criminal",
+  "phat_am": "['kriminl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về tội hoặc phạm tội",
+          "list_en_vn": [
+            {
+              "full_en": "criminal offences , damage , negligence",
+              "full_vn": "những sự xúc phạm, phá hoại, cẩu thả có tính chất phạm tội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "liên quan đến tội phạm",
+          "list_en_vn": [
+            {
+              "full_en": "criminal law",
+              "full_vn": "luật hình sự"
+            },
+            {
+              "full_en": "a criminal lawyer",
+              "full_vn": "luật sư chuyên về lĩnh vực hình sự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhục nhã, vô đạo đức",
+          "list_one_mean": [
+            {
+              "id_full_en": "criminal conversation",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) conversation"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a criminal waste of public money",
+              "full_vn": "sự lãng phí công quỹ một cách vô đạo đức"
+            },
+            {
+              "full_en": "it's criminal the way she lies and cheats to get what she wants",
+              "full_vn": "cung cách cô ta nói dối và lừa gạt để giành lấy những gì cô ta muốn thật là nhục nhã"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kẻ phạm tội, tội phạm",
+          "list_en_vn": [
+            {
+              "full_en": "war criminal",
+              "full_vn": "tội phạm chiến tranh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320231_ed9a81d0fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320231_4765a2d0ff_o.png",
+      "id_image": "criminal_1331408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365052_46d17a740f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365052_8bc58494e8_o.png",
+      "id_image": "criminal_2302379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365022_1052a03e04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365022_854bf627be_o.png",
+      "id_image": "criminal_2861240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364952_82aef53da0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364952_ea910be7d9_o.png",
+      "id_image": "criminal_4321413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364907_21554dfc66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364907_9193957c7d_o.png",
+      "id_image": "criminal_5640938"
+    }
+  ]
+}

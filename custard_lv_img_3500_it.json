@@ -1,0 +1,32 @@
+{
+  "english": "custard",
+  "phat_am": "['kʌstəd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "món sữa trứng",
+          "list_en_vn": [
+            {
+              "full_en": "custard pie",
+              "full_vn": "vật giống như chiếc bánh mà các diễn viên hài thường ném vào nhau khi trình diễn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428698_5591816787_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428698_14fca8cdb6_o.png",
+      "id_image": "custard_1600906"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668579_7226f891df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668579_174c6c0d4c_o.png",
+      "id_image": "custard_6118315"
+    }
+  ]
+}

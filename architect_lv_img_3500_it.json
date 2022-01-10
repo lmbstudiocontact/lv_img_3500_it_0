@@ -1,0 +1,40 @@
+{
+  "english": "architect",
+  "phat_am": "['ɑ:kitekt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiến trúc sư"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người làm ra, người xây dựng, người sáng tạo",
+          "list_en_vn": [
+            {
+              "full_en": "to be the architect of one's own fortune",
+              "full_vn": "tự mình xây dựng cơ đồ; tự mình tạo ra cái số phận của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421933_8b3b9a2b81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421933_d0096e607d_o.png",
+      "id_image": "architect_1189931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421898_e36ec75543_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421898_94b8be508f_o.png",
+      "id_image": "architect_1189932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306701_2c82156eb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306701_c5d5fd9e4b_o.png",
+      "id_image": "architect_2644536"
+    }
+  ]
+}

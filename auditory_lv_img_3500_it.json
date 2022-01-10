@@ -1,0 +1,36 @@
+{
+  "english": "auditory",
+  "phat_am": "['ɔ:ditəri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) sự nghe; (thuộc) thính giác",
+          "list_en_vn": [
+            {
+              "full_en": "auditory organ",
+              "full_vn": "cơ quan thính giác"
+            },
+            {
+              "full_en": "auditory nerve",
+              "full_vn": "dây thần kinh thính giác"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326691_322811a325_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326691_e5733658ec_o.png",
+      "id_image": "auditory_4785808"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371372_be909126fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371372_1a1054d6b6_o.png",
+      "id_image": "auditory_4789372"
+    }
+  ]
+}

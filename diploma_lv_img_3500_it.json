@@ -1,0 +1,37 @@
+{
+  "english": "diploma",
+  "phat_am": "[di'ploumə]",
+  "list_type": [
+    {
+      "type": "danh từ, viết tắt là Dip",
+      "list_m": [
+        {
+          "m_full_vn": "giấy chứng chỉ cấp khi thi đỗ, hoàn thành một khoá học...; bằng cấp; văn bằng",
+          "list_en_vn": [
+            {
+              "full_en": "a diploma in architecture",
+              "full_vn": "bằng kiến trúc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057305_c53286f5e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057305_09cedb2b07_o.png",
+      "id_image": "diploma_124764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365487_93398ab7ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365487_9ff5f3a258_o.png",
+      "id_image": "diploma_225762"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675484_1ffbdcf3c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675484_c140247e09_o.png",
+      "id_image": "diploma_225764"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "english": "church",
+  "phat_am": "[t∫ə:t∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà thờ"
+        },
+        {
+          "m_full_vn": "buổi lễ (ở nhà thờ)",
+          "list_en_vn": [
+            {
+              "full_en": "what time does the church begin ?",
+              "full_vn": "buổi lễ bắt đầu lúc nào?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "Church giáo hội",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Catholic Church",
+              "list_im": [
+                {
+                  "im_full_vn": "Giáo hội Thiên chúa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as poor as a church mouse",
+              "list_im": [
+                {
+                  "im_full_vn": "nghèo xơ nghèo xác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go into the Church ; to enter the Church",
+              "list_im": [
+                {
+                  "im_full_vn": "đi tu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go to church",
+              "list_im": [
+                {
+                  "im_full_vn": "đi nhà thờ, đi lễ (nhà thờ)"
+                },
+                {
+                  "im_full_vn": "lấy vợ, lấy chồng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đưa (người đàn bà) đến nhà thờ chịu lễ giải cữ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307181_c544492e47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307181_d33656d4d2_o.png",
+      "id_image": "church_1339623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662469_55030b52e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662469_433133aaac_o.png",
+      "id_image": "church_257549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662439_014df7635b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662439_6f675b2ea7_o.png",
+      "id_image": "church_2776267"
+    }
+  ]
+}

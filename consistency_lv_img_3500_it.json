@@ -1,0 +1,50 @@
+{
+  "english": "consistency",
+  "phat_am": "[kən'sistənsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(như) consistence"
+        },
+        {
+          "m_full_vn": "tính kiên định, tính trước sau như một",
+          "list_en_vn": [
+            {
+              "full_en": "there is no consistency in this man",
+              "full_vn": "anh chàng này thiếu kiên định"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424998_973c84b21c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424998_e59e7f83c6_o.png",
+      "id_image": "consistency_4371255"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354122_69964af18a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354122_668047c446_o.png",
+      "id_image": "consistency_4729487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046785_fe243a33e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046785_7d698f9679_o.png",
+      "id_image": "consistency_5181960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046765_6388930139_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046765_19e23275c7_o.png",
+      "id_image": "consistency_5331506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046740_0026c5296f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046740_14c883c90f_o.png",
+      "id_image": "consistency_5396955"
+    }
+  ]
+}

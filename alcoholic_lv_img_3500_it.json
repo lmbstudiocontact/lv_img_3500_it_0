@@ -1,0 +1,58 @@
+{
+  "english": "alcoholic",
+  "phat_am": "[,ælkə'hɔlik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về hoặc chứa đựng cồn; gây nên bởi rượu",
+          "list_en_vn": [
+            {
+              "full_en": "alcoholic drinks",
+              "full_vn": "đồ uống có rượu"
+            },
+            {
+              "full_en": "alcoholic solution",
+              "full_vn": "dung dịch rượu"
+            },
+            {
+              "full_en": "to be in an alcoholic stupor",
+              "full_vn": "ở trong trạng thái ngây ngất vì rượu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người uống quá nhiều rượu hoặc mắc chứng nghiện rượu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361272_3fe514d0c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361272_4abdd2fe3d_o.png",
+      "id_image": "alcoholic_1366367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432113_d103946ba6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432113_8aa6d148eb_o.png",
+      "id_image": "alcoholic_261827"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317031_bf876d40fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317031_556f038d54_o.png",
+      "id_image": "alcoholic_311813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432038_e3d9ed8b70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432038_c32d400ab7_o.png",
+      "id_image": "alcoholic_343869"
+    }
+  ]
+}

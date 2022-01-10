@@ -1,0 +1,199 @@
+{
+  "english": "bill",
+  "phat_am": "[bil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái kéo liềm (để tỉa cành cây trên cao)"
+        },
+        {
+          "m_full_vn": "(sử học) cái kích (một thứ vũ khí)"
+        },
+        {
+          "m_full_vn": "mỏ (chim)"
+        },
+        {
+          "m_full_vn": "(hàng hải) đầu mũi neo"
+        },
+        {
+          "m_full_vn": "mũi biển hẹp"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chụm mỏ vào nhau (chim bồ câu)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bill and coo",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) coo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tờ quảng cáo; yết thị",
+          "list_en_vn": [
+            {
+              "full_en": "stick no bills",
+              "full_vn": "cấm dán quảng cáo"
+            },
+            {
+              "full_en": "a theatre bill",
+              "full_vn": "tờ quảng cáo ở rạp hát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoá đơn"
+        },
+        {
+          "m_full_vn": "luật dự thảo, dự luật",
+          "list_en_vn": [
+            {
+              "full_en": "to pass a bill",
+              "full_vn": "thông qua một dự luật"
+            },
+            {
+              "full_en": "to reject a bill",
+              "full_vn": "bác bỏ một dự luật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) giấy bạc"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) hối phiếu ( (cũng) bill of exchange )"
+        },
+        {
+          "m_full_vn": "(pháp lý) sự thưa kiện; đơn kiện",
+          "list_one_mean": [
+            {
+              "id_full_en": "bill of fare",
+              "list_im": [
+                {
+                  "im_full_vn": "thực đơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bill of health",
+              "list_im": [
+                {
+                  "im_full_vn": "giấy cấp cho thuyền trưởng để chứng nhận là có dịch bệnh trên tàu của ông ta hay không"
+                },
+                {
+                  "im_full_vn": "giấy khám sức khoẻ; giấy cho biết tình trạng sức khoẻ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bill of lading",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) ( số nhiều là bills of lading ) (viết tắt) là B/L danh sách ghi chi tiết hàng hoá trên một chiếc tàu chở hàng; vận đơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "butcher's bill",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) danh sách người chết trong chiến tranh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fill the bill",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) đáp ứng mọi yêu cầu, làm tất cả những gì cần thiết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to find a true bill",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa ra xử"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to foot (meet ) the bill",
+              "list_im": [
+                {
+                  "im_full_vn": "thanh toán hoá đơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ignore the bill",
+              "list_im": [
+                {
+                  "im_full_vn": "không xử, bác đơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to head / top the bill",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng đầu danh sách, dẫn đầu danh sách"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đăng lên quảng cáo; để vào chương trình",
+          "list_en_vn": [
+            {
+              "full_en": "to be billed to appear",
+              "full_vn": "được quảng cáo sẽ ra mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dán quảng cáo, dán yết thị"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) làm hoá đơn"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) làm danh sách"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420698_7f4c4e28eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420698_9021a8036b_o.png",
+      "id_image": "bill_1580789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305586_fa21d0d25f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305586_7a3a9eb4e4_o.png",
+      "id_image": "bill_1605273"
+    }
+  ]
+}

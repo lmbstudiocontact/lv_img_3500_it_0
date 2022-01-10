@@ -1,0 +1,130 @@
+{
+  "english": "button",
+  "phat_am": "['bʌtn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái khuy, cái cúc (áo)",
+          "list_en_vn": [
+            {
+              "full_en": "button-down collar",
+              "full_vn": "cổ áo có nút gài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái nút, cái núm, cái bấm (chuông điện...)"
+        },
+        {
+          "m_full_vn": "nụ hoa; búp mầm (chưa nở)"
+        },
+        {
+          "m_full_vn": "( số nhiều) (thông tục) chú bé phục vụ ở khách sạn ( (cũng) boy in buttons )",
+          "list_one_mean": [
+            {
+              "id_full_en": "not to care a brass button",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) cóc cần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the button",
+              "list_im": [
+                {
+                  "im_full_vn": "chính xác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as bright as a button",
+              "list_im": [
+                {
+                  "im_full_vn": "xem bright"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cài khuy, cài cúc; cài",
+          "list_en_vn": [
+            {
+              "full_en": "to button up one's coat",
+              "full_vn": "cài khuy áo lại"
+            },
+            {
+              "full_en": "this dress buttons down the back",
+              "full_vn": "cái áo này cài ở phía sau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đơm khuy, đơm cúc (áo)"
+        },
+        {
+          "m_full_vn": "( (thường) + up ) phủ kín áo lên (người hay súc vật mang trong người)",
+          "list_one_mean": [
+            {
+              "id_full_en": "buttoned up",
+              "list_im": [
+                {
+                  "im_full_vn": "dè dặt, kín đáo"
+                },
+                {
+                  "im_full_vn": "(quân sự), (từ lóng) tất cả đều đã sẵn sàng đâu vào đấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to button up one's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) im thin thít"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to button up one's purse",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) keo kiệt, bủn xỉn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307706_ece18a6634_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307706_f1cd9cf305_o.png",
+      "id_image": "button_1021330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662944_0551225f89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662944_ab407afb7d_o.png",
+      "id_image": "button_3179531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307751_01988b26af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307751_2d59125cea_o.png",
+      "id_image": "button_528081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351862_2367d37849_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351862_10da45bc9b_o.png",
+      "id_image": "button_917236"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "english": "application",
+  "phat_am": "[,æpli'kei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự gắn vào, sự áp vào, sự ghép vào, sự đính vào, sự đắp vào, sự tra vào ( (cũng) appliance )",
+          "list_en_vn": [
+            {
+              "full_en": "the application of a plaster to a wound",
+              "full_vn": "sự đắp thuốc vào vết thương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật gắn, vật áp, vật ghép, vật đính, vật đắp, vật tra"
+        },
+        {
+          "m_full_vn": "sự dùng, sự áp dụng, sự ứng dụng",
+          "list_en_vn": [
+            {
+              "full_en": "medicine for external application",
+              "full_vn": "thuốc dùng ngoài da"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chuyên cần, sự chuyên tâm",
+          "list_en_vn": [
+            {
+              "full_en": "a man of close application",
+              "full_vn": "một người rất chuyên cần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời xin, lời thỉnh cầu; đơn xin",
+          "list_en_vn": [
+            {
+              "full_en": "application for a job",
+              "full_vn": "đơn xin việc làm"
+            },
+            {
+              "full_en": "to make an application to someone for something",
+              "full_vn": "gửi đơn cho ai để xin việc gì"
+            },
+            {
+              "full_en": "to put in an application",
+              "full_vn": "đệ đơn xin, gửi đơn xin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) trình ứng dụng",
+          "list_en_vn": [
+            {
+              "full_en": "application software",
+              "full_vn": "phần mềm ứng dụng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352367_d70b8e3fac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352367_2dcc2dd17b_o.png",
+      "id_image": "applications_1776667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663424_2caa2e6d4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663424_a87c85001b_o.png",
+      "id_image": "applications_2472069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663409_803a647187_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663409_6893d8fc05_o.png",
+      "id_image": "applications_4412888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045185_e5ae4a4d37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045185_8afcea8b83_o.png",
+      "id_image": "application_1556243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045165_7cd7b4c63b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045165_418c8366a7_o.png",
+      "id_image": "application_2542466"
+    }
+  ]
+}

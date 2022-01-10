@@ -1,0 +1,71 @@
+{
+  "english": "defensive",
+  "phat_am": "[di'fensiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có tính chất bảo vệ, có tính chất phòng thủ, có tính chất chống giữ; để che chở, để bảo vệ, để phòng thủ",
+          "list_en_vn": [
+            {
+              "full_en": "a defensive weapon system to destroy missiles approaching the country",
+              "full_vn": "một hệ thống vũ khí phòng thủ để phá hủy các tên lửa tới gần đất nước"
+            },
+            {
+              "full_en": "defensive warfare",
+              "full_vn": "chiến tranh tự vệ"
+            },
+            {
+              "full_en": "to take defensive measures",
+              "full_vn": "có những biện pháp phòng thủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( defensive about somebody / something ) tỏ ra lo lắng nhằm tránh bị chỉ trích hoặc tiến công; che giấu khuyết điểm",
+          "list_en_vn": [
+            {
+              "full_en": "when asked to explain her behaviour , she gave a very defensive answer",
+              "full_vn": "khi được yêu cầu giải thích hành vi của mình, cô ta đã trả lời với tính cách tự vệ"
+            },
+            {
+              "full_en": "she's very defensive about her part in the affair",
+              "full_vn": "cô ta không tiết lộ việc mình tham gia vào vụ này"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thế thủ, thế phòng ngự",
+          "list_en_vn": [
+            {
+              "full_en": "to stand /be on the defensive",
+              "full_vn": "giữ thế thủ, giữ thế phòng ngự"
+            },
+            {
+              "full_en": "the team was thrown /put on /to the defensive as their opponents rallied",
+              "full_vn": "cả đội bị dồn vào thế phòng ngự khi đối phương tập hợp lại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661249_f055cb9d68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661249_1cc90ee9f8_o.png",
+      "id_image": "defensive_2748776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042785_866d681403_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042785_0c8098e467_o.png",
+      "id_image": "defensive_4443666"
+    }
+  ]
+}

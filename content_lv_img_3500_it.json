@@ -1,0 +1,140 @@
+{
+  "english": "content",
+  "phat_am": "[kən'tent]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(đứng sau một danh từ) lượng của cái gì chứa đựng trong một cái gì khác",
+          "list_en_vn": [
+            {
+              "full_en": "the silver content of a coin",
+              "full_vn": "hàm lượng bạc trong một đồng tiền"
+            },
+            {
+              "full_en": "food with a high fat content",
+              "full_vn": "thức ăn có hàm lượng béo cao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều được viết hoặc nói ra về một quyển sách, một bài báo, một bài diễn văn, một chương trình......; nội dung",
+          "list_en_vn": [
+            {
+              "full_en": "The content of his essay is excellent , but it's not very well expressed",
+              "full_vn": "Nội dung bài tiểu luận của cậu ta rất hay, nhưng cách diễn đạt không hay lắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) cái được chứa đựng trong cái gì; nội dung",
+          "list_one_mean": [
+            {
+              "id_full_en": "table of contents",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) table"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the contents of a box /bottle /pocket",
+              "full_vn": "những thứ đựng trong hộp/chai/túi"
+            },
+            {
+              "full_en": "the drawer had been emptied of its contents",
+              "full_vn": "chiếc ngăn kéo đã bị lôi hết các thứ chứa bên trong ra"
+            },
+            {
+              "full_en": "she hadn't read the letter and so was unaware of its contents",
+              "full_vn": "cô ấy chưa đọc bức thư, nên chẳng biết nội dung trong thư là gì"
+            },
+            {
+              "full_en": "at the front of the book is a table of contents , giving details of what is in the book",
+              "full_vn": "ở đầu quyển sách có bảng mục lục cho biết chi tiết về những gì có trong sách"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trạng thái bằng lòng",
+          "list_en_vn": [
+            {
+              "full_en": "the quiet content of a well-fed child",
+              "full_vn": "sự thoả mãn bình thản của một đứa bé được ăn uống đầy đủ"
+            },
+            {
+              "full_en": "to one's heart's content",
+              "full_vn": "cũng nhiều như ta mong muốn; như ý thích; tùy thích"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( content with something ; content to do something ) hài lòng với cái mình có; bằng lòng; toại nguyện",
+          "list_en_vn": [
+            {
+              "full_en": "are you content with your present salary ?",
+              "full_vn": "anh có bằng lòng với đồng lương hiện thời hay không?"
+            },
+            {
+              "full_en": "now that she has apologized , I am content",
+              "full_vn": "bây giờ cô ta xin lỗi rồi, thế là tôi vui lòng"
+            },
+            {
+              "full_en": "he's content to stay in his present job",
+              "full_vn": "anh ta bằng lòng ở lại với công việc hiện tại của mình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to content oneself with something ) chấp nhận cái gì dù vẫn muốn được hơn thế; tạm bằng lòng",
+          "list_en_vn": [
+            {
+              "full_en": "As there's no cream , we'll have to content ourselves with black coffee",
+              "full_vn": "Vì không có kem sữa, chúng tôi đành uống cà phê đen vậy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044275_2606c44f18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044275_c1e0e67a70_o.png",
+      "id_image": "content_2132256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307321_e56b9649cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307321_3dfbd00747_o.png",
+      "id_image": "content_2503644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422488_5c64368be1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422488_fa302096b8_o.png",
+      "id_image": "content_536871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662649_c5ab6c9e4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662649_14bf0ec0ed_o.png",
+      "id_image": "content_950572"
+    }
+  ]
+}

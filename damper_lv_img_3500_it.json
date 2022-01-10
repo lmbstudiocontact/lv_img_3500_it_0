@@ -1,0 +1,49 @@
+{
+  "english": "damper",
+  "phat_am": "['dæmpə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người làm ngã lòng, việc làm chán nản; người làm mất vui, việc làm mất vui, người làm cụt hứng, việc làm cụt hứng",
+          "list_en_vn": [
+            {
+              "full_en": "to cast a damper on a party",
+              "full_vn": "làm cho buổi liên hoan mất vui, giội một gáo nước lạnh vào buổi liên hoan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) cái giảm âm; cái chặn tiếng (đàn pi-a-nô)"
+        },
+        {
+          "m_full_vn": "máy thấm ướt tem (để dán)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật); (vật lý) bộ giảm âm, bộ giảm xóc, cái chống rung, cái tắt dao động; van khói kiểu lá chắn; mắt gió"
+        },
+        {
+          "m_full_vn": "( Uc) bánh không ủ men nướng dưới tro"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047985_2d8758d9fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047985_7dde6d6444_o.png",
+      "id_image": "damper_1656944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311256_e7ac70d880_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311256_46ab22b2b9_o.png",
+      "id_image": "damper_2061994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048005_43a7005953_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048005_4981e952e7_o.png",
+      "id_image": "damper_998298"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "english": "crash",
+  "phat_am": "[kræ∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vải thô (làm khăn lau...)"
+        },
+        {
+          "m_full_vn": "tiếng đổ vỡ loảng xoảng, tiếng va chạm loảng xoảng, tiếng đổ sầm, tiếng nổ (sét...)"
+        },
+        {
+          "m_full_vn": "sự rơi (máy bay); sự đâm sầm vào (ô tô)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự phá sản, sự sụp đổ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rơi vỡ loảng xoảng, đổ ầm xuống"
+        },
+        {
+          "m_full_vn": "đâm sầm xuống, đâm sầm vào",
+          "list_en_vn": [
+            {
+              "full_en": "the aeroplane crashed on the hillside",
+              "full_vn": "chiếc máy bay đâm sầm xuống sườn đồi"
+            },
+            {
+              "full_en": "the car crashed into the gate",
+              "full_vn": "chiếc xe hơi đâm sầm vào cổng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) phá sản"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phá tan tành, phá vụn"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) lẻn vào không có giấy mời, lẻn vào không có vé",
+          "list_one_mean": [
+            {
+              "id_full_en": "to crash in (on )",
+              "list_im": [
+                {
+                  "im_full_vn": "tràn vào, đột nhập vào, xâm nhập"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to crash a party",
+              "full_vn": "lẻn vào dự cuộc liên hoan không có giấy mời"
+            },
+            {
+              "full_en": "to crash the gate",
+              "full_vn": "lẻn vào cửa không có vé"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cấp tốc",
+          "list_en_vn": [
+            {
+              "full_en": "a crash course in business English",
+              "full_vn": "Lớp học cấp tốc về tiếng Anh thương mại"
+            },
+            {
+              "full_en": "a crash diet",
+              "full_vn": "chế độ ăn kiêng tăng cường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323631_f1818f0ab5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323631_69fb4f32c8_o.png",
+      "id_image": "crash_2040909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678849_9c33173525_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678849_887af81968_o.png",
+      "id_image": "crash_2041258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368507_aff1502cde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368507_2cb15e7abe_o.png",
+      "id_image": "crash_2084030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438678_25fa761481_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438678_90d6374edc_o.png",
+      "id_image": "crash_2372109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323481_f493e7f647_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323481_58fcc2667a_o.png",
+      "id_image": "crash_3729200"
+    }
+  ]
+}

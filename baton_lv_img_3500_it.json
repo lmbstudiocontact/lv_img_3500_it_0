@@ -1,0 +1,50 @@
+{
+  "english": "baton",
+  "phat_am": "['bætən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dùi cui (cảnh sát)"
+        },
+        {
+          "m_full_vn": "gậy chỉ huy",
+          "list_en_vn": [
+            {
+              "full_en": "Marshal's baton",
+              "full_vn": "gậy chỉ huy của nguyên soái"
+            },
+            {
+              "full_en": "conductor's baton",
+              "full_vn": "(âm nhạc) que của người chỉ huy dàn nhạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) que gỗ truyền tay (chạy tiếp sức)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh bằng dùi cui, đánh bằng gậy"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427938_5473604741_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427938_459c96bd36_o.png",
+      "id_image": "baton_2034949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427958_4ca90fa095_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427958_18b39d3814_o.png",
+      "id_image": "baton_387447"
+    }
+  ]
+}

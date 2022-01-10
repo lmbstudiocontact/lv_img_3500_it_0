@@ -1,0 +1,102 @@
+{
+  "english": "blame",
+  "phat_am": "[bleim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( blame for something ) trách nhiệm về một cái gì đã làm sai hoặc hỏng",
+          "list_en_vn": [
+            {
+              "full_en": "to bear /take /accept /get the blame for something",
+              "full_vn": "chịu, chấp nhận, lãnh lấy, bị sự khiển trách (về cái gì)"
+            },
+            {
+              "full_en": "where does the blame for this failure lie ?",
+              "full_vn": "ai chịu trách nhiệm về sự thất bại này?, trách nhiệm về sự thất bại này là do đâu?"
+            },
+            {
+              "full_en": "to lay the blame on somebody ; to lay the blame at somebody's door; to shift the blame on somebody",
+              "full_vn": "quy trách nhiệm về ai; đỗ lỗi cho ai"
+            },
+            {
+              "full_en": "to lay the blame at the right door (on the right shoulders )",
+              "full_vn": "quy trách nhiệm đúng vào người phải chịu trách nhiệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khiển trách; lời trách mắng",
+          "list_en_vn": [
+            {
+              "full_en": "to deserve blame",
+              "full_vn": "đáng bị khiển trách"
+            },
+            {
+              "full_en": "he incurred much blame for his stubborn attitude",
+              "full_vn": "anh ta bị khiển trách rất nhiều vì thái độ ngoan cố của mình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to blame somebody for something ; to blame something on somebody ) khiển trách, đổ lỗi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be to blame for something",
+              "list_im": [
+                {
+                  "im_full_vn": "đáng bị khiển trách về điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she was in no way to blame",
+                      "full_vn": "cô ta không có gì để người ta phải khiển trách"
+                    },
+                    {
+                      "full_en": "which driver was to blame for the accident ?",
+                      "full_vn": "tài xế nào phải chịu trách nhiệm về tai nạn này?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a bad workman blames his tools",
+              "list_im": [
+                {
+                  "im_full_vn": "thợ dở đổ lỗi cho đồ nghề, vụng múa chê đất lệch"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I don't blame you",
+              "full_vn": "tôi chẳng chê trách anh đâu"
+            },
+            {
+              "full_en": "the young wife blames her sterility on her old husband",
+              "full_vn": "cô vợ trẻ đổ lỗi cho ông chồng già về tình trạng vô sinh của cô"
+            },
+            {
+              "full_en": "he blamed me for his joblessness , he blamed his joblessness on me",
+              "full_vn": "ông ấy đổ lỗi cho tôi về việc ông ấy thất nghiệp, ông ấy cho rằng do tôi mà ông ấy thất nghiệp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302796_e6d368b742_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302796_065d0fc256_o.png",
+      "id_image": "blame_4525566"
+    }
+  ]
+}

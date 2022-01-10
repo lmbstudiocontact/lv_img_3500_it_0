@@ -1,0 +1,52 @@
+{
+  "english": "collective",
+  "phat_am": "[kə'lektiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tập thể; chung",
+          "list_en_vn": [
+            {
+              "full_en": "collective ownership of means of production",
+              "full_vn": "sở hữu tập thể về tư liệu sản xuất"
+            },
+            {
+              "full_en": "collective security",
+              "full_vn": "an ninh chung"
+            },
+            {
+              "full_en": "collective bargaining",
+              "full_vn": "sự thương lượng giữa công đoàn và người sử dụng lao động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) tập hợp",
+          "list_en_vn": [
+            {
+              "full_en": "collective noun",
+              "full_vn": "danh từ tập hợp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) danh từ tập hợp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058515_bb2b104cd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058515_e0cbd1ff1b_o.png",
+      "id_image": "collective_1402120"
+    }
+  ]
+}

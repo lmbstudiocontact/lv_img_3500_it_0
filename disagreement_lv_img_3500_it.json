@@ -1,0 +1,46 @@
+{
+  "english": "disagreement",
+  "phat_am": "[,disə'gri:mənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự khác nhau, sự không giống nhau"
+        },
+        {
+          "m_full_vn": "sự không hợp, sự không thích hợp"
+        },
+        {
+          "m_full_vn": "sự bất đồng, sự không đồng ý kiến",
+          "list_en_vn": [
+            {
+              "full_en": "to be in disagreement with someone",
+              "full_vn": "không đồng ý kiến với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bất hoà"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318851_e037e8d351_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318851_730a6735c2_o.png",
+      "id_image": "disagreement_1871108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363402_8179af058a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363402_45ff49b318_o.png",
+      "id_image": "disagreement_2577485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318796_a12cf62b82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318796_25e12cfd3c_o.png",
+      "id_image": "disagreement_4144567"
+    }
+  ]
+}

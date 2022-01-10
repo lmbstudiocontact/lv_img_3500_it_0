@@ -1,0 +1,32 @@
+{
+  "english": "autonomous",
+  "phat_am": "[ɔ:'tɔnəməs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tự trị",
+          "list_en_vn": [
+            {
+              "full_en": "an autonomous territory",
+              "full_vn": "lãnh thổ tự trị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369752_3f89da860b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369752_0acb08bf9a_o.png",
+      "id_image": "autonomous_2080825"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324881_132510cb20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324881_4da4281e69_o.png",
+      "id_image": "autonomous_5901702"
+    }
+  ]
+}

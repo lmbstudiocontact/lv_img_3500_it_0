@@ -1,0 +1,74 @@
+{
+  "english": "comment",
+  "phat_am": "['kɔment]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lời bình luận",
+          "list_en_vn": [
+            {
+              "full_en": "to make comments on an event",
+              "full_vn": "bình luận một sự kiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời chú giải, lời chú thích, lời dẫn giải"
+        },
+        {
+          "m_full_vn": "lời phê bình, lời chỉ trích"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bình luận",
+          "list_en_vn": [
+            {
+              "full_en": "to comment upon a text",
+              "full_vn": "bình luận một bài văn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chú thích, dẫn giải"
+        },
+        {
+          "m_full_vn": "phê bình, chỉ trích",
+          "list_en_vn": [
+            {
+              "full_en": "to comment on (upon ) someone's behaviour",
+              "full_vn": "phê bình hạnh kiểm của người nào"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319391_2d11ae0ec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319391_da8ec973c9_o.png",
+      "id_image": "comment_2482337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319321_f32dc775dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319321_57e5b0fb04_o.png",
+      "id_image": "comment_5638465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319261_bd61f4db8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319261_abb8e7dd50_o.png",
+      "id_image": "comment_5853658"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674339_9df644214d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674339_a370415241_o.png",
+      "id_image": "comment_655236"
+    }
+  ]
+}

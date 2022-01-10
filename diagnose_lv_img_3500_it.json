@@ -1,0 +1,45 @@
+{
+  "english": "diagnose",
+  "phat_am": "['daiəgnouz; ,daiəg'nous]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to diagnose something as something ) (y học) chẩn đoán",
+          "list_en_vn": [
+            {
+              "full_en": "The doctor diagnosed diabetes",
+              "full_vn": "Bác sĩ chẩn đoán bệnh tiểu đường"
+            },
+            {
+              "full_en": "His tumour is diagnosed as benign",
+              "full_vn": "Khối u của ông ấy được chẩn đoán là (khối u) lành"
+            },
+            {
+              "full_en": "The article diagnoses our present weaknesses and strengths",
+              "full_vn": "Bài báo chẩn đoán những mặt mạnh và yếu của chúng ta hiện nay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440043_45835d6e58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440043_a97b7de25a_o.png",
+      "id_image": "diagnose_1753229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680149_ca23d30391_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680149_8837c69729_o.png",
+      "id_image": "diagnose_2764443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061825_d536f8cb96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061825_7ea9dd79c7_o.png",
+      "id_image": "diagnose_5570859"
+    }
+  ]
+}

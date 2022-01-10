@@ -1,0 +1,61 @@
+{
+  "english": "aware",
+  "phat_am": "[ə'weə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có kiến thức hoặc nhận thức về ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to be aware of the risk /danger /threat",
+              "full_vn": "có ý thức về mối nguy cơ/nguy hiểm/đe doạ"
+            },
+            {
+              "full_en": "are you aware of the time ?",
+              "full_vn": "anh có biết là mấy giờ rồi hay không?"
+            },
+            {
+              "full_en": "it happened without my being aware of it",
+              "full_vn": "chuyện xảy ra mà tôi không hề biết"
+            },
+            {
+              "full_en": "I'm well aware that very few jobs are available",
+              "full_vn": "tôi biết rõ là rất ít chỗ làm còn trống"
+            },
+            {
+              "full_en": "she became aware that something was burning",
+              "full_vn": "cô ta nhận ra được là có cái gì đang cháy"
+            },
+            {
+              "full_en": "I don't think you're aware (of ) how much this means to me",
+              "full_vn": "tôi chắc anh không biết điều này có ý nghĩa lớn lao thế nào đối với tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thạo tin, quan tâm đến các sự kiện đang xảy ra",
+          "list_en_vn": [
+            {
+              "full_en": "she's always a politically aware person",
+              "full_vn": "cô ta xưa nay vôn là một người mẫn cảm về chính trị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438833_a39362cfd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438833_086ed173be_o.png",
+      "id_image": "aware_4785761"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060590_e356381a18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060590_ac3e7b2a97_o.png",
+      "id_image": "aware_4799080"
+    }
+  ]
+}

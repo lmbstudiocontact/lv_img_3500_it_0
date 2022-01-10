@@ -1,0 +1,59 @@
+{
+  "english": "badger",
+  "phat_am": "['bædʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tiếng địa phương) người bán hàng rong"
+        },
+        {
+          "m_full_vn": "(động vật học) con lửng"
+        },
+        {
+          "m_full_vn": "bút vẽ; chổi cạo râu; ruồi giả làm mồi câu (bằng lông con lửng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to draw the badger",
+              "list_im": [
+                {
+                  "im_full_vn": "suỵt cho lửng ra khỏi hang (để bắt)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) làm cho ai khai hết ra những điều bí mật"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm phiền, quấy rầy",
+          "list_en_vn": [
+            {
+              "full_en": "don't badger your mother into babying you",
+              "full_vn": "đừng có mè nheo bắt mẹ anh phải nuông chìu anh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365767_1fc1c32ea3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365767_9ff9926f19_o.png",
+      "id_image": "badger_185752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365732_ac04e89040_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365732_516069a143_o.png",
+      "id_image": "badger_371876"
+    }
+  ]
+}

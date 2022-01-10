@@ -1,0 +1,73 @@
+{
+  "english": "confident",
+  "phat_am": "['kɔnfidənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tin chắc, chắc chắn",
+          "list_en_vn": [
+            {
+              "full_en": "to be confident of sencess",
+              "full_vn": "tin chắc là thành công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tự tin"
+        },
+        {
+          "m_full_vn": "tin tưởng, tin cậy",
+          "list_en_vn": [
+            {
+              "full_en": "a confident smile",
+              "full_vn": "nụ cười tin tưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "liều, liều lĩnh"
+        },
+        {
+          "m_full_vn": "trơ tráo, mặt dạn mày dày; láo xược"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người tâm phúc, người tri kỷ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356597_f0286b2249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356597_c3bddf4566_o.png",
+      "id_image": "confidence_2037294"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049135_45b217cd21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049135_03270d7920_o.png",
+      "id_image": "confidence_5225011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049110_c7dc4b4b08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049110_e4dedf62b3_o.png",
+      "id_image": "confidence_5772957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427303_ea6aff8554_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427303_df84302989_o.png",
+      "id_image": "confidence_5906152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356507_657e2b4ba7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356507_c9988324d0_o.png",
+      "id_image": "confident_6000790"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "english": "choose",
+  "phat_am": "[t∫u:z]",
+  "list_type": [
+    {
+      "type": "động từ, thì quá khứ là chose , động tính từ quá khứ là chosen",
+      "list_m": [
+        {
+          "m_full_vn": "( to choose between A and B / A from B ) ( to choose somebody / something as something ) chọn; lựa",
+          "list_en_vn": [
+            {
+              "full_en": "to choose carefully",
+              "full_vn": "chọn lựa kỹ lưỡng"
+            },
+            {
+              "full_en": "it's not easy to choose a career",
+              "full_vn": "đâu phải dễ chọn một nghề"
+            },
+            {
+              "full_en": "they chose him as editor-in-chief /to be editor-in-chief",
+              "full_vn": "họ quyết định chọn ông ấy làm tổng biên tập"
+            },
+            {
+              "full_en": "choose for yourself",
+              "full_vn": "anh cứ việc chọn, anh cứ chọn lấy"
+            },
+            {
+              "full_en": "you may do as you choose",
+              "full_vn": "anh muốn làm gì thì cứ làm (anh cứ làm (như) ý anh)"
+            },
+            {
+              "full_en": "he had to choose resigning or retiring early",
+              "full_vn": "ông ta phải lựa chọn giữa việc từ chức hoặc về hưu non"
+            },
+            {
+              "full_en": "we offer a wide range of projects to choose from",
+              "full_vn": "chúng tôi đưa ra rất nhiều dự án để lựa chọn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyết định (làm hoặc không làm điều gì)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pick and choose",
+              "list_im": [
+                {
+                  "im_full_vn": "xem pick"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there is nothing , not much , little to choose between A and B",
+              "list_im": [
+                {
+                  "im_full_vn": "có rất ít sự khác biệt giữa A và B ( A và B (cũng) gần (như) nhau)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "On second thoughts , I chose not to help them",
+              "full_vn": "Sau khi suy nghĩ kỹ, tôi quyết định không giúp họ"
+            },
+            {
+              "full_en": "the author chooses to remain anonymous",
+              "full_vn": "tác giả quyết định không nêu tên mình ra (tác giả quyết định giấu tên)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352172_a35fe4e040_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352172_94abfe1f2c_o.png",
+      "id_image": "choose_3254763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423308_90f261506b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423308_fb7ede129a_o.png",
+      "id_image": "choose_648991"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423213_aa586e5741_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423213_9005b58094_o.png",
+      "id_image": "choosing_1412246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423133_3783e42542_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423133_f1b67e3a09_o.png",
+      "id_image": "choosing_6092505"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "english": "artillery",
+  "phat_am": "[ɑ:'tiləri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(quân sự) pháo",
+          "list_en_vn": [
+            {
+              "full_en": "heavy artillery",
+              "full_vn": "trọng pháo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "pháo binh"
+        },
+        {
+          "m_full_vn": "khoa nghiên cứu việc sử dụng pháo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659734_274db4aa84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659734_94b07cb512_o.png",
+      "id_image": "artillery_3857529"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "english": "alert",
+  "phat_am": "[ə'lə:t]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( alert to something ) cảnh giác; lanh lợi",
+          "list_en_vn": [
+            {
+              "full_en": "to be alert to possible dangers",
+              "full_vn": "cảnh giác với những nguy hiểm có thể xảy ra"
+            },
+            {
+              "full_en": "the alert listener will have noticed the error",
+              "full_vn": "người nghe tỉnh táo có thể đã nhận ra chỗ sai"
+            },
+            {
+              "full_en": "although he's over eighty , his mind is still remarkably alert",
+              "full_vn": "Tuy đã ngoài tám mươi tuổi, đầu óc ông ta vẫn còn lanh lợi lắm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự báo động, sự báo nguy, lệnh báo động, lệnh báo nguy",
+          "list_en_vn": [
+            {
+              "full_en": "to put /place on the alert",
+              "full_vn": "đặt trong tình trạng báo động"
+            },
+            {
+              "full_en": "to give /receive the alert",
+              "full_vn": "phát/nhận lệnh báo động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự báo động phòng không; thời gian báo động phòng không",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on the alert against /for something",
+              "list_im": [
+                {
+                  "im_full_vn": "cảnh giác và sẵn sàng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "police warned the public to be on the alert for suspected terrorists",
+                      "full_vn": "cảnh sát báo cho công chúng biết cần cảnh giác với những kẻ bị tình nghi là quân khủng bố"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "báo cho (binh lính...) phải đề phòngnguy hiểm và sẵn sàng hành động",
+          "list_en_vn": [
+            {
+              "full_en": "why weren't the police alerted ?",
+              "full_vn": "tại sao cảnh sát không được báo động?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to alert somebody to something ) báo cho ai biết điều gì",
+          "list_en_vn": [
+            {
+              "full_en": "to alert staff to the crisis facing the company",
+              "full_vn": "báo cho toàn thể cán bộ nhân viên biết về cuộc khủng hoảng mà công ty đang phải đối đầu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671509_4ca878fa22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671509_ee408734ac_o.png",
+      "id_image": "alert_1112521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361072_693d23ca5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361072_58b3d61ae5_o.png",
+      "id_image": "alert_1564310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671459_f0ab9065aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671459_1fc1d31608_o.png",
+      "id_image": "alert_1603195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053195_e2ca09052d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053195_05dc27dac2_o.png",
+      "id_image": "alert_2080911"
+    }
+  ]
+}

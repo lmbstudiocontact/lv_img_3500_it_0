@@ -1,0 +1,90 @@
+{
+  "english": "crawl",
+  "phat_am": "[krɔ:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ao nuôi cá"
+        },
+        {
+          "m_full_vn": "chỗ nuôi rùa; chỗ nuôi tôm"
+        },
+        {
+          "m_full_vn": "sự bò, sự trườn"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) lối bơi crôn, lối bơi trườn ( (cũng) crawl stroke )"
+        },
+        {
+          "m_full_vn": "sự kéo lê đi",
+          "list_en_vn": [
+            {
+              "full_en": "to go at a crawl",
+              "full_vn": "đi kéo lê, đi chậm rề rề, bò lê ra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bò, trườn"
+        },
+        {
+          "m_full_vn": "lê bước, lê chân, bò lê"
+        },
+        {
+          "m_full_vn": "bò nhung nhúc, bò lúc nhúc",
+          "list_en_vn": [
+            {
+              "full_en": "the ground crawls with ants",
+              "full_vn": "đất nhung nhúc kiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "luồn cúi, quỵ luỵ",
+          "list_en_vn": [
+            {
+              "full_en": "to crawl before somebody",
+              "full_vn": "luồn cúi ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sởn gai ốc",
+          "list_en_vn": [
+            {
+              "full_en": "it makes my flesh crawl",
+              "full_vn": "cái đó làm tôi sởn gai ốc lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) không giữ lời, nuốt lời, tháo lui"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438313_52278a1175_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438313_851c288a44_o.png",
+      "id_image": "crawl_2430098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323171_8cdf47cbc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323171_b185b41bdd_o.png",
+      "id_image": "crawl_5660203"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678344_02a76d834b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678344_6420aabe68_o.png",
+      "id_image": "crawl_5772836"
+    }
+  ]
+}

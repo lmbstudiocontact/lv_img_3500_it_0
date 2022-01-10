@@ -1,0 +1,72 @@
+{
+  "english": "complete",
+  "phat_am": "[kəm'pli:t]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đầy đủ, trọn vẹn, hoàn toàn",
+          "list_en_vn": [
+            {
+              "full_en": "a complete failure",
+              "full_vn": "một sự thất bại hoàn toàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn thành, xong",
+          "list_en_vn": [
+            {
+              "full_en": "when will the work be complete ?",
+              "full_vn": "khi nào công việc ấy sẽ hoàn thành?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) hoàn toàn, toàn diện (người)",
+          "list_en_vn": [
+            {
+              "full_en": "complete horseman",
+              "full_vn": "một người cưỡi ngựa giỏi hoàn toàn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoàn thành, làm xong"
+        },
+        {
+          "m_full_vn": "làm đầy đủ, bổ sung, làm cho trọn vẹn; làm cho hoàn toàn",
+          "list_en_vn": [
+            {
+              "full_en": "this completes my happiness",
+              "full_vn": "điều này làm cho niềm hạnh phúc của tôi thêm trọn vẹn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431083_c1a070940f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431083_043b5bb67d_o.png",
+      "id_image": "complete_1617768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431018_383cd43cbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431018_70abcded89_o.png",
+      "id_image": "complete_3860428"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052570_505ca8ccc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052570_b0352b5c6d_o.png",
+      "id_image": "complete_5059804"
+    }
+  ]
+}

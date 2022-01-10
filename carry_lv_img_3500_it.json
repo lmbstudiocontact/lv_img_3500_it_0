@@ -1,0 +1,398 @@
+{
+  "english": "carry",
+  "phat_am": "['kæri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(quân sự) tư thế cầm gươm chào; sự bồng vũ khí"
+        },
+        {
+          "m_full_vn": "tầm súng; tầm bắn xa"
+        },
+        {
+          "m_full_vn": "sự khiêng thuyền xuống (từ sông này sang sông khác); nơi kéo thuyền lên khỏi mặt nước (để chuyển đi nơi khác)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mang, vác, khuân, chở; ẵm",
+          "list_en_vn": [
+            {
+              "full_en": "railways and ships carry goods",
+              "full_vn": "xe lửa và tàu chở hàng"
+            },
+            {
+              "full_en": "to carry a baby in one's arms",
+              "full_vn": "ẵm em bé trong tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đem theo, đeo, mang theo; tích trữ (hàng hoá để bán); nhớ được",
+          "list_en_vn": [
+            {
+              "full_en": "to carry money with one",
+              "full_vn": "đem theo tiền"
+            },
+            {
+              "full_en": "can you carry all these figures in your head ?",
+              "full_vn": "anh có thể nhớ được tất cả những con số này không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mang lại, kèm theo, chứa đựng",
+          "list_en_vn": [
+            {
+              "full_en": "the loan carries 3 per cent interest",
+              "full_vn": "tiền cho vay ấy mang lại 3 phần trăm lãi"
+            },
+            {
+              "full_en": "power carries responsibility with it",
+              "full_vn": "quyền lực kèm theo trách nhiệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dẫn, đưa, truyền",
+          "list_en_vn": [
+            {
+              "full_en": "the oil is carried across the desert in pipelines",
+              "full_vn": "dầu được dẫn qua sa mạc bằng đường ống"
+            },
+            {
+              "full_en": "to carry conviction",
+              "full_vn": "truyền (cho ai) sự tin tưởng (của mình); có sức thuyết phục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chống, chống đỡ",
+          "list_en_vn": [
+            {
+              "full_en": "these pillars carry the weight of the roof",
+              "full_vn": "những cột này chống đỡ sức nặng của mái nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có tầm, đạt tới, tầm xa; tới, đi xa (tới), vọng xa",
+          "list_en_vn": [
+            {
+              "full_en": "these guns carry for enough",
+              "full_vn": "súng này bắn khá xa"
+            },
+            {
+              "full_en": "the sound of the guns carries many miles",
+              "full_vn": "tiếng súng vọng xa nhiều dặm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đăng (tin, bài) (tờ báo)",
+          "list_en_vn": [
+            {
+              "full_en": "todays' paper carries the news that ...",
+              "full_vn": "báo hôm nay đăng tin rằng..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) mang, sang, nhớ"
+        },
+        {
+          "m_full_vn": "làm dài ra, kéo cao lên, tiếp nối",
+          "list_en_vn": [
+            {
+              "full_en": "to carry a fence round a field",
+              "full_vn": "kéo dài bức rào quanh cánh đồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thắng, lấy được, chiếm được, đoạt được; thuyết phục được; vượt qua; được thông qua, được chấp nhận; giành được thắng lợi cho ta",
+          "list_en_vn": [
+            {
+              "full_en": "to carry the enemy's position",
+              "full_vn": "chiếm được vị trí địch"
+            },
+            {
+              "full_en": "to carry everything before one",
+              "full_vn": "vượt qua mọi trở lực thành công"
+            },
+            {
+              "full_en": "to carry one's audience with one",
+              "full_vn": "thuyết phục được thính giả của mình"
+            },
+            {
+              "full_en": "he carried his point",
+              "full_vn": "điều anh ta đưa ra được chấp nhận"
+            },
+            {
+              "full_en": "the resolution was carried",
+              "full_vn": "nghị quyết được thông qua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có dáng dấp, đi theo kiểu; giữ theo kiểu",
+          "list_en_vn": [
+            {
+              "full_en": "he carries himself like a soldier",
+              "full_vn": "anh ấy đi dáng như một quân nhân"
+            },
+            {
+              "full_en": "to carry sword",
+              "full_vn": "cầm gươm chào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thái độ, xử sự, cư xử, ăn ở",
+          "list_one_mean": [
+            {
+              "id_full_en": "to carry away",
+              "list_im": [
+                {
+                  "im_full_vn": "đem đi, mang đi, thổi bạt đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be carried away",
+              "list_im": [
+                {
+                  "im_full_vn": "bị lôi cuốn đi, bị làm cho say mê",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be carried away by one's enthusiasm",
+                      "full_vn": "bị nhiệt tình lôi cuốn đi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry forward",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa ra phía trước"
+                },
+                {
+                  "im_full_vn": "(toán học); (kế toán) mang sang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry off",
+              "list_im": [
+                {
+                  "im_full_vn": "đem đi, bắt đi, đưa đi khỏi chốn trần ai"
+                },
+                {
+                  "im_full_vn": "chiếm đoạt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to carry off all the prices",
+                      "full_vn": "đoạt được tất cả các giải"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "làm cho chấp nhận được, làm cho thông qua được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry on",
+              "list_im": [
+                {
+                  "im_full_vn": "xúc tiến, tiếp tục",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to carry on with one's work",
+                      "full_vn": "tiếp tục công việc của mình"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "điều khiển, trông nom"
+                },
+                {
+                  "im_full_vn": "(thông tục) có thái độ kỳ quặc; có thái độ nóng nảy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "don't carry on so",
+                      "full_vn": "đừng nóng nảy thế, hãy bình tĩnh"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tán tỉnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to carry on with somebody",
+                      "full_vn": "tán tỉnh ai; dan díu bí mật với ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry out",
+              "list_im": [
+                {
+                  "im_full_vn": "tiến hành, thực hiện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry over",
+              "list_im": [
+                {
+                  "im_full_vn": "mang sang bên kia; (kế toán) mang sang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry through",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn thành"
+                },
+                {
+                  "im_full_vn": "làm thoát khỏi, làm vượt qua được (khó khăn)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his courage will carry him through",
+                      "full_vn": "lòng can đảm của anh ta giúp anh ta vượt qua tất cả"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry coals to Newcastle",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) chở củi về rừng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry the day",
+              "list_im": [
+                {
+                  "im_full_vn": "thắng lợi thành công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry into practice (execution )",
+              "list_im": [
+                {
+                  "im_full_vn": "thực hành, thực hiện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry it",
+              "list_im": [
+                {
+                  "im_full_vn": "thắng lợi, thành công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry it off well",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ được thái độ đường hoàng; không hề nao núng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fetch and carry",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) fetch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as fast as one's legs can carry one",
+              "list_im": [
+                {
+                  "im_full_vn": "nhanh bằng hết sức của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry the can for sth",
+              "list_im": [
+                {
+                  "im_full_vn": "nhận trách nhiệm về cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry everything before one",
+              "list_im": [
+                {
+                  "im_full_vn": "thành công mỹ mãn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry one's points",
+              "list_im": [
+                {
+                  "im_full_vn": "thuyết phục người ta nghe mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry the war into the enemy's camp",
+              "list_im": [
+                {
+                  "im_full_vn": "tấn công (chứ không chỉ giữ thế thủ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry weight",
+              "list_im": [
+                {
+                  "im_full_vn": "có trọng lượng, có ảnh hưởng sâu sắc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he carries himself insolently",
+              "full_vn": "hắn có thái độ láo xược"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368352_fe656b7e8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368352_e5b7f94c98_o.png",
+      "id_image": "carrying_4770336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438618_2e77c69230_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438618_ca4d69a0ea_o.png",
+      "id_image": "carry_1165761"
+    }
+  ]
+}

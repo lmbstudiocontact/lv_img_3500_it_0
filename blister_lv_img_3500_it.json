@@ -1,0 +1,57 @@
+{
+  "english": "blister",
+  "phat_am": "['blistə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vết bỏng giộp; chỗ giộp da; chỗ phồng da",
+          "list_en_vn": [
+            {
+              "full_en": "to raise blisters",
+              "full_vn": "làm giộp da"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ bị phồng lên, chỗ bị giộp lên (sơn); chỗ rỗ (thuỷ tinh, kim loại)"
+        },
+        {
+          "m_full_vn": "(y học) thuốc làm giộp da, cao làm giộp da"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm giộp lên, làm phồng da lên; giộp lên; nổi phồng lên"
+        },
+        {
+          "m_full_vn": "(thông tục) đánh giập mông đít"
+        },
+        {
+          "m_full_vn": "(thông tục) quấy rầy, làm phiền"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066905_6df7b9e724_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066905_6100cdd959_o.png",
+      "id_image": "blister_1732558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066850_1b2242de8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066850_bd02b3c6d8_o.png",
+      "id_image": "blister_4290103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445033_aeeb7325a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445033_ccc6deb4bb_o.png",
+      "id_image": "blister_4646652"
+    }
+  ]
+}

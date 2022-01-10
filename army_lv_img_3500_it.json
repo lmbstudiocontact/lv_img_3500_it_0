@@ -1,0 +1,49 @@
+{
+  "english": "army",
+  "phat_am": "['ɑ:mi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quân đội",
+          "list_en_vn": [
+            {
+              "full_en": "regular army",
+              "full_vn": "quân chính quy"
+            },
+            {
+              "full_en": "standing army",
+              "full_vn": "quân thường trực"
+            },
+            {
+              "full_en": "to enter (go into , join ) the army",
+              "full_vn": "vào quân đội, nhập ngũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoàn, đám đông, nhiều vô số",
+          "list_en_vn": [
+            {
+              "full_en": "an army of workers",
+              "full_vn": "một đoàn công nhân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661029_62e3303cbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661029_ab28026c89_o.png",
+      "id_image": "army_1733969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420613_9269341736_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420613_41110bb692_o.png",
+      "id_image": "army_1750028"
+    }
+  ]
+}

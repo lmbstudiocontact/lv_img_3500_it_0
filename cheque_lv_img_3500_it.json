@@ -1,0 +1,49 @@
+{
+  "english": "cheque",
+  "phat_am": "[t∫ek]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "séc",
+          "list_en_vn": [
+            {
+              "full_en": "to cash a cheque",
+              "full_vn": "lĩnh tiền bằng séc"
+            },
+            {
+              "full_en": "to draw a cheque",
+              "full_vn": "viết séc (để lấy tiền)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047630_a568bf79d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047630_4f6fa21765_o.png",
+      "id_image": "cheque_1019608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310771_8c8e792ece_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310771_e6e79977f6_o.png",
+      "id_image": "cheque_1692651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310746_aaa3728a4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310746_57c75a53e6_o.png",
+      "id_image": "cheque_2542491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310831_d608b91d07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310831_ea8b58be78_o.png",
+      "id_image": "cheque_890383"
+    }
+  ]
+}

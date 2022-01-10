@@ -1,0 +1,63 @@
+{
+  "english": "currency",
+  "phat_am": "['kʌrənsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lưu hành; thời gian lưu hành ( (thường) nói về tiền tệ)"
+        },
+        {
+          "m_full_vn": "tiền, tiền tệ",
+          "list_en_vn": [
+            {
+              "full_en": "foreign currency",
+              "full_vn": "tiền nước ngoài, ngoại tệ"
+            },
+            {
+              "full_en": "paper currency",
+              "full_vn": "tiền giấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự phổ biến, sự thịnh hành",
+          "list_en_vn": [
+            {
+              "full_en": "to gain currency",
+              "full_vn": "trở thành phổ biến"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051450_a129f98cfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051450_fd46ed9b58_o.png",
+      "id_image": "currency_2078734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358997_32da8c35e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358997_dae4ccc726_o.png",
+      "id_image": "currency_2200843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358967_aa5a97fb28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358967_9417994d39_o.png",
+      "id_image": "currency_2654482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314851_7ed3dc78bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314851_cea271ab9c_o.png",
+      "id_image": "currency_2782059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429788_86c712a7e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429788_3dbe368fb3_o.png",
+      "id_image": "currency_333743"
+    }
+  ]
+}

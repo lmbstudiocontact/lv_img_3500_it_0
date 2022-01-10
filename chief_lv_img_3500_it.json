@@ -1,0 +1,86 @@
+{
+  "english": "chief",
+  "phat_am": "[t∫i:f]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người lãnh đạo (nhất là của một bộ lạc hoặc thị tộc); thủ lĩnh; tù trưởng"
+        },
+        {
+          "m_full_vn": "người có cấp bậc cao nhất trong một tổ chức, một cơ quan",
+          "list_en_vn": [
+            {
+              "full_en": "chief of police",
+              "full_vn": "cảnh sát trưởng"
+            },
+            {
+              "full_en": "Chief of Staff",
+              "full_vn": "tham mưu trưởng"
+            },
+            {
+              "full_en": "Chief Accountant",
+              "full_vn": "kế toán trưởng"
+            },
+            {
+              "full_en": "Editor-in-chief",
+              "full_vn": "tổng biên tập"
+            },
+            {
+              "full_en": "Commander-in-chief",
+              "full_vn": "tổng tư lệnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) ông sếp, ông chủ"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "quan trọng bậc nhất; chủ yếu; chính",
+          "list_en_vn": [
+            {
+              "full_en": "the chief thing to remember is ....",
+              "full_vn": "điều chủ yếu cần nhớ là..."
+            },
+            {
+              "full_en": "the chief rivers of India",
+              "full_vn": "những con sông chính ở Ấn Độ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có cấp bậc hoặc quyền hành cao nhất",
+          "list_one_mean": [
+            {
+              "id_full_en": "chief town",
+              "list_im": [
+                {
+                  "im_full_vn": "thủ phủ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the chief priest",
+              "full_vn": "linh mục thủ toà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665059_57ba848fe7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665059_3e4c45088f_o.png",
+      "id_image": "chief_4786257"
+    }
+  ]
+}

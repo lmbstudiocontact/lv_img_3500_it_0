@@ -1,0 +1,42 @@
+{
+  "english": "curriculum",
+  "phat_am": "[kə'rikjuləm]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều là curriculums hoặc curricula",
+      "list_m": [
+        {
+          "m_full_vn": "các môn học trong một khoá hoặc được giảng dạy ở một trường nào đó; chương trình giảng dạy",
+          "list_en_vn": [
+            {
+              "full_en": "Is French on your school's curriculum ?",
+              "full_vn": "Tiếng Pháp có trong chương trình giảng dạy của trường anh không?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669414_8c66f9cca4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669414_48f3be474f_o.png",
+      "id_image": "curriculum_1158404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358847_0bd79be81e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358847_088dbc41d1_o.png",
+      "id_image": "curriculum_2643483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051320_383cf0dea1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051320_3123259e59_o.png",
+      "id_image": "curriculum_306856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429593_82f10d2080_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429593_f7874c7608_o.png",
+      "id_image": "curriculum_4728722"
+    }
+  ]
+}

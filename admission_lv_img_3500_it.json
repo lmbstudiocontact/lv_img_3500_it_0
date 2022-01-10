@@ -1,0 +1,75 @@
+{
+  "english": "admission",
+  "phat_am": "[əd'mi∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( admission to / into something ) sự vào hoặc được nhận vào một toà nhà, tổ chức xã hội, trường học",
+          "list_en_vn": [
+            {
+              "full_en": "admission (to the club ) is restricted to members only",
+              "full_vn": "quyền vào cửa (câu lạc bộ) chỉ dành cho các hội viên mà thôi"
+            },
+            {
+              "full_en": "admission to British universities depends on examination results",
+              "full_vn": "việc được nhận vào các trường đại học Anh tùy thuộc kết quả thi cử"
+            },
+            {
+              "full_en": "a week after his admission into the army , he felt ill",
+              "full_vn": "một tuần sau khi nhập ngũ, anh ta bị ốm"
+            },
+            {
+              "full_en": "do they charge for admission ?",
+              "full_vn": "họ có bắt trả tiền nhập học hay không?"
+            },
+            {
+              "full_en": "how does one gain admission to the State Apartments ?",
+              "full_vn": "làm thế nào để được nhận vào ở căn hộ nhà nước?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền phải trả để được vào nơi công cộng, tiền vào cửa"
+        },
+        {
+          "m_full_vn": "( admission of something ; admission that ......) sự thú nhận, sự thừa nhận",
+          "list_one_mean": [
+            {
+              "id_full_en": "by /on one's own admission",
+              "list_im": [
+                {
+                  "im_full_vn": "như đã thú nhận",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he's a coward by his own admission",
+                      "full_vn": "hắn là một kẻ hèn nhát, như chính hắn từng thú nhận"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "an admission that one has lied",
+              "full_vn": "một lời thú nhận rằng ta đã nói dối"
+            },
+            {
+              "full_en": "her resignation amounts to an admission of failure",
+              "full_vn": "sự cam chịu của cô ấy rốt cuộc là thú nhận mình thất bại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435713_9b4eaf9a18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435713_f66e3835df_o.png",
+      "id_image": "admission_2387646"
+    }
+  ]
+}

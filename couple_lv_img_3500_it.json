@@ -1,0 +1,108 @@
+{
+  "english": "couple",
+  "phat_am": "['kʌpl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hai người hoặc vật được thấy đi với nhau hoặc kết hợp với nhau, nhất là người đàn ông và người đàn bà",
+          "list_en_vn": [
+            {
+              "full_en": "married couples",
+              "full_vn": "những cặp vợ chồng"
+            },
+            {
+              "full_en": "courting couples",
+              "full_vn": "những đôi trai gái đang tỏ tình"
+            },
+            {
+              "full_en": "several couples were on the dance floor",
+              "full_vn": "nhiều cặp đang ở trên sàn nhảy"
+            },
+            {
+              "full_en": "I won't have any more whiskies, I've had a couple already",
+              "full_vn": "tôi không uống úyt ki nữa đâu, tôi đã nốc hai ly rồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) cặp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hunt (go , run ) in couples",
+              "list_im": [
+                {
+                  "im_full_vn": "không lúc nào rời nhau, lúc nào cũng cặp kè bên nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in two /a couple of shakes",
+              "list_im": [
+                {
+                  "im_full_vn": "xem shake"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a couple of people /things",
+              "list_im": [
+                {
+                  "im_full_vn": "hai người/đồ vật; một số ít người/đồ vật"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "thermoelectric couple",
+              "full_vn": "cặp nhiệt điện"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to couple A on / to B ; to couple A and B together ) buộc hoặc nối (hai vật, nhất là hai toa xe lửa) với nhau",
+          "list_en_vn": [
+            {
+              "full_en": "to couple two railway carriages",
+              "full_vn": "nối hai toa xe lửa"
+            },
+            {
+              "full_en": "the dining-car was coupled on /to the last coach",
+              "full_vn": "toa ăn được nối vào toa hành khách sau cùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to couple somebody / something with somebody / something ) kết hợp ai/cái gì với ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "the name of Lenin is coupled with the October Revolution",
+              "full_vn": "tên tuổi của Lê-nin gắn liền với Cách mạng tháng mười"
+            },
+            {
+              "full_en": "the bad light , coupled with the wet ground , made play very difficult",
+              "full_vn": "ánh sáng không đủ, cộng với sân ẩm ướt khiến cuộc thi đấu thật khó khăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ, nghĩa cổ) (nói về hai người) giao hợp; giao cấu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682139_e262679884_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682139_15d1a4e5a9_o.png",
+      "id_image": "couple_332952"
+    }
+  ]
+}

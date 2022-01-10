@@ -1,0 +1,613 @@
+{
+  "english": "cut",
+  "phat_am": "[kʌt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cắt, sự đốn, sự chặt, sự thái; nhát chém, nhát thái, vết đứt, vết xẻ, vết mổ",
+          "list_en_vn": [
+            {
+              "full_en": "a deep cut in the leg",
+              "full_vn": "vết đứt sâu ở chân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giảm, sự hạ, sự cắt bớt",
+          "list_en_vn": [
+            {
+              "full_en": "a cut in prices",
+              "full_vn": "sự giảm giá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật cắt ra, miêng; đoạn cắt đi (của một vở kịch, cuốn tiểu thuyết...)",
+          "list_en_vn": [
+            {
+              "full_en": "a cut of beef",
+              "full_vn": "một miếng thịt bò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiểu cắt, kiểu may",
+          "list_en_vn": [
+            {
+              "full_en": "the cut of a coat",
+              "full_vn": "kiểu may một chiếc áo choàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) sự cắt bóng, sự cúp bóng",
+          "list_en_vn": [
+            {
+              "full_en": "a cut to the boundary",
+              "full_vn": "sự cắt bóng ra biên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhánh đường xe lửa; kênh đào"
+        },
+        {
+          "m_full_vn": "bản khắc gỗ ( (cũng) wood cut )"
+        },
+        {
+          "m_full_vn": "lời nói làm tổn thương tình cảm, hành động làm tổn thương tình cảm"
+        },
+        {
+          "m_full_vn": "sự phớt lờ",
+          "list_en_vn": [
+            {
+              "full_en": "to give someone the cut",
+              "full_vn": "phớt lờ ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sân khấu) khe hở để kéo phông",
+          "list_one_mean": [
+            {
+              "id_full_en": "a cut above",
+              "list_im": [
+                {
+                  "im_full_vn": "sự hơn một bậc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "short cut",
+              "list_im": [
+                {
+                  "im_full_vn": "lối đi tắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "cut and thrust",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc đánh giáp lá cà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to draw cuts",
+              "list_im": [
+                {
+                  "im_full_vn": "rút thăm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the cut of one's jib",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) jib"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cắt, chặt, chém, thái, xén, xẻo, hớt, xẻ, đào, khắc, gọt, chạm",
+          "list_en_vn": [
+            {
+              "full_en": "to cut one's nail",
+              "full_vn": "cắt móng tay"
+            },
+            {
+              "full_en": "to cut a canal",
+              "full_vn": "đào kênh"
+            },
+            {
+              "full_en": "to cut a road through the hill",
+              "full_vn": "xẻ đường qua đồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chia cắt, cắt đứt",
+          "list_en_vn": [
+            {
+              "full_en": "to cut connexion with somebody",
+              "full_vn": "cắt đứt quan hệ với ai"
+            },
+            {
+              "full_en": "to cut in two",
+              "full_vn": "chia cắt làm đôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cắt nhau, gặp nhau, giao nhau",
+          "list_en_vn": [
+            {
+              "full_en": "two lines cut each other",
+              "full_vn": "hai đường cắt nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giảm, hạ, cắt bớt",
+          "list_en_vn": [
+            {
+              "full_en": "to cut prices",
+              "full_vn": "giảm giá"
+            },
+            {
+              "full_en": "to cut a speech short",
+              "full_vn": "cắt bớt một bài nói, rút ngắn một bài nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm đau lòng, chạm tự ái, làm mếch lòng, làm tổn thương tình cảm",
+          "list_en_vn": [
+            {
+              "full_en": "it cut me to the heart",
+              "full_vn": "cái đó làm tôi đau lòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) làm đau đớn, làm buốt, cắt da cắt thịt (gió, rét...)",
+          "list_en_vn": [
+            {
+              "full_en": "the cold wind cuts me to the bone",
+              "full_vn": "gió rét làm tôi buốt tận xương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cắt, may (quần áo)"
+        },
+        {
+          "m_full_vn": "làm, thi hành",
+          "list_en_vn": [
+            {
+              "full_en": "to cut a joke",
+              "full_vn": "làm trò đùa, pha trò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cắt, cúp (bóng)"
+        },
+        {
+          "m_full_vn": "(đánh bài) đào (cổ bài)"
+        },
+        {
+          "m_full_vn": "phớt lờ, làm như không biết (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to cut someone dead",
+              "full_vn": "phớt lờ ai đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không dự, trốn, chuồn (một buổi họp...)",
+          "list_en_vn": [
+            {
+              "full_en": "to cut a lecture",
+              "full_vn": "không dự buổi diễn thuyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mọc (răng)",
+          "list_en_vn": [
+            {
+              "full_en": "baby is cutting his first tooth",
+              "full_vn": "bé mọc cái răng đầu tiên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cắt, gọt, chặt, thái...",
+          "list_en_vn": [
+            {
+              "full_en": "this knife cuts well",
+              "full_vn": "con dao này cắt ngọt"
+            },
+            {
+              "full_en": "this cheese cuts easily",
+              "full_vn": "miếng phó mát này dễ cắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi tắt",
+          "list_en_vn": [
+            {
+              "full_en": "to cut through a wood",
+              "full_vn": "đi tắt qua rừng"
+            },
+            {
+              "full_en": "to cut across a field",
+              "full_vn": "đi tắt qua cánh đồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) chuồn, trốn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cut away",
+              "list_im": [
+                {
+                  "im_full_vn": "cắt, chặt đi"
+                },
+                {
+                  "im_full_vn": "trốn, chuồn mất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut back",
+              "list_im": [
+                {
+                  "im_full_vn": "tỉa bớt, cắt bớt"
+                },
+                {
+                  "im_full_vn": "(điện ảnh) chiếu lại một đoạn (để làm tăng kịch tính)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut down",
+              "list_im": [
+                {
+                  "im_full_vn": "chặt, đốn (cây); gặt (lúa)"
+                },
+                {
+                  "im_full_vn": "giảm bớt, cắt bớt (chi tiêu...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut in",
+              "list_im": [
+                {
+                  "im_full_vn": "nói xen vào"
+                },
+                {
+                  "im_full_vn": "(đánh bài) thế chân (một người không được chơi nữa)"
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) chèn ngang"
+                },
+                {
+                  "im_full_vn": "chèn ngang sau khi đã vượt (xe ô tô)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut off",
+              "list_im": [
+                {
+                  "im_full_vn": "chặt phăng ra, cắt, cắt đứt ( (nghĩa đen) & (nghĩa bóng))",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to cut off all negotiations",
+                      "full_vn": "cắt đứt mọi cuộc thương lượng"
+                    },
+                    {
+                      "full_en": "to cut off the water supply",
+                      "full_vn": "cắt nước"
+                    },
+                    {
+                      "full_en": "to cut off all communications",
+                      "full_vn": "cắt đứt mọi phương tiện giao thông liên lạc"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "kết liễu đột ngột, làm chết đột ngột",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she was cut off in her prime",
+                      "full_vn": "cô ta chết đột ngột trong lúc còn thanh xuân"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut out",
+              "list_im": [
+                {
+                  "im_full_vn": "cắt ra, cắt bớt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to cut out a passage from a book",
+                      "full_vn": "cắt bớt một đoạn trong cuốn sách"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thôi (làm gì), thôi dùng (cái gì)"
+                },
+                {
+                  "im_full_vn": "làm mờ, áp đảo; hất cẳng (đối phương)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be totally cut out by one's rival",
+                      "full_vn": "bị địch thủ hoàn toàn áp đảo; bị địch thủ hất cẳng hắn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "khắc chạm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a huge figure of a lion cut out in the rock",
+                      "full_vn": "hình một con sư tử khổng lồ được khắc ở tảng đá"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "vạch ra trước, chuẩn bị trước",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he found his work cut out for him",
+                      "full_vn": "hắn thấy công việc của hắn đã được vạch ra từ trước"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) tách (súc vật) ra khỏi đàn; bắt (tàu địch) bằng cách len vào giữa nó và bờ; ngáng đường xe sau để vượt xe trước (xe ô tô)"
+                },
+                {
+                  "im_full_vn": "bị loại ra không được đánh bài nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut up",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) cắt ra từng mảnh, tiêu diệt (quân địch)"
+                },
+                {
+                  "im_full_vn": "chỉ trích gay gắt, phê bình nghiêm khắc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to cut up a writer",
+                      "full_vn": "chỉ trích gay gắt một nhà văn"
+                    },
+                    {
+                      "full_en": "to cut up a book",
+                      "full_vn": "phê bình gay gắt một cuốn sách"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "làm đau đớn, làm đau lòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be cut up by a piece of sad news",
+              "list_im": [
+                {
+                  "im_full_vn": "đau đớn do nhận được tin buồn"
+                },
+                {
+                  "im_full_vn": "(thông tục) để lại gia tài",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to cut up well",
+                      "full_vn": "để lại nhiều của"
+                    },
+                    {
+                      "full_en": "to cut both ways",
+                      "full_vn": "đòn xóc hai đầu, lá mặt lá trái"
+                    },
+                    {
+                      "full_en": "that argument cuts both ways",
+                      "full_vn": "lý lẽ đòn xóc hai đầu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut one's coat according to one's cloth",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) cloth"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut and come again",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn ngon miệng"
+                },
+                {
+                  "im_full_vn": "mời cứ tự nhiên đừng làm khách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut the Gordian knot",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) Gordian knot"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut the ground from under somebody's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) ground"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut it fat",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) lên mặt ta đây; làm bộ, làm tịch, nói thánh nói tướng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "cut it out !",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) thôi đi!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut it fine",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) fine"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut a loss",
+              "list_im": [
+                {
+                  "im_full_vn": "tránh được sự thua lỗ (do kịp thời thôi không đầu cơ nữa)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut no ice",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) không ăn thua gì, không nước mẹ gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut and run",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) run"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut short",
+              "list_im": [
+                {
+                  "im_full_vn": "ngắt, thu ngắn, rút ngắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut somebody off with a shilling",
+              "list_im": [
+                {
+                  "im_full_vn": "cắt hết phần gia tài của ai và chỉ chừa lại một siling"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut stick (dirt )",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) chuồn, tẩu, chạy trốn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut one's wisdom-teeth (eye-teeth )",
+              "list_im": [
+                {
+                  "im_full_vn": "mọc răng khôn; (nghĩa bóng) đã khôn ra, đã chín chắn hơn, đã có kinh nghiệm hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut up rusty",
+              "list_im": [
+                {
+                  "im_full_vn": "nổi giận, phát cáu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut up savage (ugly )",
+              "list_im": [
+                {
+                  "im_full_vn": "nổi cơn thịnh nộ, phát khùng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357202_bc49264e6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357202_e5c9033f13_o.png",
+      "id_image": "cut_1265885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667999_a0371e2294_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667999_6d14a1f8ce_o.png",
+      "id_image": "cut_1721425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049770_46e5d18772_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049770_8407f80168_o.png",
+      "id_image": "cut_264276"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428063_75bffe325d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428063_1f9a1cd0d5_o.png",
+      "id_image": "cut_269071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667974_ffc7cfa436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667974_d6fa344467_o.png",
+      "id_image": "cut_6347611"
+    }
+  ]
+}

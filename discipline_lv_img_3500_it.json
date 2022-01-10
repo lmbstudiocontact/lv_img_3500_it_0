@@ -1,0 +1,132 @@
+{
+  "english": "discipline",
+  "phat_am": "['disiplin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự rèn luyện về tinh thần và tính cách để tạo ra sự tự chủ hoặc sự phục tùng; kỷ luật",
+          "list_en_vn": [
+            {
+              "full_en": "school discipline",
+              "full_vn": "kỷ luật nhà trường"
+            },
+            {
+              "full_en": "monastic discipline",
+              "full_vn": "kỷ luật tu viện"
+            },
+            {
+              "full_en": "to keep under strict discipline",
+              "full_vn": "bắt theo kỷ luật nghiêm ngặt"
+            },
+            {
+              "full_en": "a breach of discipline",
+              "full_vn": "sự phạm kỷ luật"
+            },
+            {
+              "full_en": "strict discipline is imposed on army recruits",
+              "full_vn": "kỷ luật nghiêm được áp đặt với các tân binh"
+            },
+            {
+              "full_en": "the soldiers showed perfect discipline under fire",
+              "full_vn": "các binh sĩ tỏ ra có kỷ luật tuyệt đối dưới lửa đạn"
+            },
+            {
+              "full_en": "the children are happy at the school , but they lack discipline",
+              "full_vn": "ở trường, bọn trẻ đều vui vẻ, nhưng chúng thiếu kỷ luật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phương pháp rèn luyện",
+          "list_en_vn": [
+            {
+              "full_en": "yoga is a good discipline for learning to relax",
+              "full_vn": "yoga là một phương pháp tốt để học cách thư giãn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "những quy tắc được định ra cho cách ứng xử"
+        },
+        {
+          "m_full_vn": "sự thi hành kỷ luật",
+          "list_en_vn": [
+            {
+              "full_en": "the teacher's cruel discipline",
+              "full_vn": "sự thi hành kỷ luật độc ác của thầy giáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngành kiến thức; môn học",
+          "list_en_vn": [
+            {
+              "full_en": "scientific disciplines",
+              "full_vn": "các môn khoa học"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rèn luyện ( ai/cái gì) thành biết tuân lệnh, tự chủ, khéo léo...",
+          "list_en_vn": [
+            {
+              "full_en": "a well /badly disciplined orchestra /football team",
+              "full_vn": "một ban nhạc/đội bóng có kỷ luật chặt chẽ/lỏng lẻo"
+            },
+            {
+              "full_en": "parents have to discipline their children",
+              "full_vn": "phụ huynh phải rèn luyện con em mình vào kỷ luật"
+            },
+            {
+              "full_en": "you must discipline yourself to finish your work on time",
+              "full_vn": "anh phải tự khép mình vào kỷ luật để hoàn thành công việc đúng thời hạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thi hành kỷ luật đối với ai",
+          "list_en_vn": [
+            {
+              "full_en": "the teacher disciplined the class by giving them extra homework",
+              "full_vn": "thầy giáo thi hành kỷ luật cả lớp bằng cách ra thêm bài tập làm ở nhà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672919_93d5154c7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672919_e062b609c0_o.png",
+      "id_image": "discipline_2621828"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672879_bdc5c43e9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672879_30323a9365_o.png",
+      "id_image": "discipline_4215278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672829_060872b4ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672829_2f2451cc70_o.png",
+      "id_image": "discipline_5520996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362467_900ef3b2c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362467_1767d80d52_o.png",
+      "id_image": "discipline_5778404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362432_5c9516ebfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362432_e1b4c92aa7_o.png",
+      "id_image": "discipline_6193108"
+    }
+  ]
+}

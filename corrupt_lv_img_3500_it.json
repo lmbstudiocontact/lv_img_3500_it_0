@@ -1,0 +1,90 @@
+{
+  "english": "corrupt",
+  "phat_am": "[kə'rʌpt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhận của đút lót; ăn hối lộ; tham nhũng",
+          "list_en_vn": [
+            {
+              "full_en": "corrupt officials who won't issue permits unless you bribe them",
+              "full_vn": "các quan chức tham nhũng sẽ không cấp giấy phép nếu anh không đút lót cho họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồi bại; thối nát",
+          "list_en_vn": [
+            {
+              "full_en": "corrupt morals , behaviour",
+              "full_vn": "luân lý, tư cách đồi bại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bị sửa đổi lại; sai lạc đi (bài văn, ngôn ngữ...)",
+          "list_en_vn": [
+            {
+              "full_en": "a corrupt manuscript",
+              "full_vn": "bản thảo bị sửa đổi sai lạc đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bẩn; không sạch",
+          "list_one_mean": [
+            {
+              "id_full_en": "corrupt practices",
+              "list_im": [
+                {
+                  "im_full_vn": "những hành vi nhũng nhiễu (hối lộ và nhận hối lộ)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "corrupt air /blood",
+              "full_vn": "không khí/máu bẩn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mua chuộc; đút lót; hối lộ",
+          "list_en_vn": [
+            {
+              "full_en": "to corrupt a high-ranking official",
+              "full_vn": "mua chuộc một cán bộ cao cấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho đồi bại",
+          "list_en_vn": [
+            {
+              "full_en": "young people who morals have been corrupted",
+              "full_vn": "những người trẻ tuổi mà phần đạo đức đã hư hỏng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sửa đổi sai lạc đi (bài văn, ngôn ngữ...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067060_9f1c1d8c28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067060_b2d80a3b60_o.png",
+      "id_image": "corrupt_4542048"
+    }
+  ]
+}

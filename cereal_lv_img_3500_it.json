@@ -1,0 +1,53 @@
+{
+  "english": "cereal",
+  "phat_am": "['siəriəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) ngũ cốc",
+          "list_en_vn": [
+            {
+              "full_en": "cereal products",
+              "full_vn": "những sản phẩm ngũ cốc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( số nhiều) ngũ cốc"
+        },
+        {
+          "m_full_vn": "thức ăn làm từ hạt ngũ cốc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431123_4aeff6e46f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431123_eb84ec17e0_o.png",
+      "id_image": "cereals_3280135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360427_e623bef7a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360427_45f769683b_o.png",
+      "id_image": "cereals_5100894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670904_604e42f117_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670904_bcfd7d016d_o.png",
+      "id_image": "cereal_2357002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052700_ebf7956bdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052700_391a18cfb7_o.png",
+      "id_image": "cereal_3728198"
+    }
+  ]
+}

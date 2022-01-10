@@ -1,0 +1,62 @@
+{
+  "english": "curious",
+  "phat_am": "['kjuəriəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ham biết, muốn tìm hiểu",
+          "list_en_vn": [
+            {
+              "full_en": "curious about the origin of mankind",
+              "full_vn": "muốn tìm hiểu nguồn gốc loài người"
+            },
+            {
+              "full_en": "I'm curious to know what he said",
+              "full_vn": "tôi muốn biết anh ấy nói gì"
+            },
+            {
+              "full_en": "he's a curious boy who always questions",
+              "full_vn": "nó là một thằng bé thích tìm hiểu, gặp gì cũng hỏi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tò mò, hiếu kỳ, thọc mạch",
+          "list_en_vn": [
+            {
+              "full_en": "curious eyes",
+              "full_vn": "đôi mắt tò mò"
+            },
+            {
+              "full_en": "she's always curious about other people's business",
+              "full_vn": "cô ấy luôn tò mò về chuyện của người khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kỳ lạ, kỳ dị, lạ lùng",
+          "list_en_vn": [
+            {
+              "full_en": "a curious mistake",
+              "full_vn": "một lỗi lầm kỳ lạ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051705_d3e262323d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051705_edc28433c3_o.png",
+      "id_image": "curious_3362451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051660_538c22a4d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051660_6579eaf87f_o.png",
+      "id_image": "curious_5020323"
+    }
+  ]
+}

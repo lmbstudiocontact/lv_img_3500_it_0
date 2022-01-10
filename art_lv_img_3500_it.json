@@ -1,0 +1,153 @@
+{
+  "english": "art",
+  "phat_am": "[ɑ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghệ thuật; mỹ thuật",
+          "list_en_vn": [
+            {
+              "full_en": "the art of the Renaissance",
+              "full_vn": "nghệ thuật thời Phục Hưng"
+            },
+            {
+              "full_en": "her performance displayed great art",
+              "full_vn": "cuộc biểu diễn của cô ta biểu lộ một nghệ thuật độc đáo"
+            },
+            {
+              "full_en": "the art of letter-writing",
+              "full_vn": "nghệ thuật viết thư"
+            },
+            {
+              "full_en": "a work of art",
+              "full_vn": "một tác phẩm nghệ thuật"
+            },
+            {
+              "full_en": "an art critic /lover",
+              "full_vn": "nhà phê bình/người yêu nghệ thuật"
+            },
+            {
+              "full_en": "an art exhibition /gallery",
+              "full_vn": "cuộc triển lãm/phòng trưng bày nghệ thuật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) những đề tài nghiên cứu (ngôn ngữ, (văn học), lịch sử chẳng hạn) mà trong đó, tài sáng tạo và tưởng tượng cần thiết hơn là sự tính toán và đo lường chính xác",
+          "list_en_vn": [
+            {
+              "full_en": "Faculty of Arts",
+              "full_vn": "khoa văn (trường đại học Anh)"
+            },
+            {
+              "full_en": "an arts degree with honours in sociology",
+              "full_vn": "bằng cử nhân văn chương hạng ưu về xã hội học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tài riêng; sự khéo tay",
+          "list_en_vn": [
+            {
+              "full_en": "the art of cooking",
+              "full_vn": "tài nấu ăn"
+            },
+            {
+              "full_en": "threading a needle is an art in itself",
+              "full_vn": "việc xỏ kim tự nó cũng là một cái tài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mưu mẹo; thủ đoạn",
+          "list_one_mean": [
+            {
+              "id_full_en": "art is long , life is short",
+              "list_im": [
+                {
+                  "im_full_vn": "đời người thì ngắn ngủi, nhưng công trình nghệ thuật thì tồn tại mãi mãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be (have , take ) art and part in a crime",
+              "list_im": [
+                {
+                  "im_full_vn": "đồng mưu và có nhúng tay vào tội ác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "black art",
+              "list_im": [
+                {
+                  "im_full_vn": "ma thuật, yêu thuật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "manly art",
+              "list_im": [
+                {
+                  "im_full_vn": "quyền thuật, quyền Anh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get something down to a fine art",
+              "list_im": [
+                {
+                  "im_full_vn": "học làm cái gì một cách hoàn hảo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she's got the business of buying birthday presents down to a fine art",
+                      "full_vn": "cô ta rất sành việc mua quà sinh nhật"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "well practised in the arts of seduction",
+              "full_vn": "giàu kinh nghiệm trong ngón nghề quyến rũ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "(từ cổ,nghĩa cổ) ngôi 2 số ít thời hiện tại của be"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041690_66d16a9ec7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041690_a9ca12a657_o.png",
+      "id_image": "art_2361571"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660164_5509520654_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660164_3ef3294584_o.png",
+      "id_image": "art_2377412"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041655_fda8bba14f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041655_6ca57a9dea_o.png",
+      "id_image": "art_5699993"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660114_e2c038dc85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660114_2af8daac80_o.png",
+      "id_image": "art_5700452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348962_a0a6526136_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348962_20b183a5d0_o.png",
+      "id_image": "art_705058"
+    }
+  ]
+}

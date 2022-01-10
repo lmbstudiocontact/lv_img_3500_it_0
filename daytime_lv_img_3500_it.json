@@ -1,0 +1,27 @@
+{
+  "english": "daytime",
+  "phat_am": "['deitaim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thời gian giữa lúc mặt trời mọc và mặt trời lặn; ban ngày",
+          "list_en_vn": [
+            {
+              "full_en": "you hardly ever see owls in the daytime",
+              "full_vn": "ban ngày hầu như không bao giờ có thể trông thấy cú"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045910_9f14cc10be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045910_352e4214bd_o.png",
+      "id_image": "daytime_4062898"
+    }
+  ]
+}

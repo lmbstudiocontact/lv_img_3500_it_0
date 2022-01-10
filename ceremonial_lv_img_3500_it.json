@@ -1,0 +1,64 @@
+{
+  "english": "ceremonial",
+  "phat_am": "[,seri'mounjəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghi lễ; nghi thức",
+          "list_en_vn": [
+            {
+              "full_en": "ceremonials of religion",
+              "full_vn": "những nghi thức tôn giáo"
+            },
+            {
+              "full_en": "performed with due ceremonial",
+              "full_vn": "được tiến hành với đầy đủ nghi thức cần thiết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trịnh trọng; long trọng",
+          "list_en_vn": [
+            {
+              "full_en": "ceremonial dress",
+              "full_vn": "quần áo nghi lễ; lễ phục"
+            },
+            {
+              "full_en": "a ceremonial occasion",
+              "full_vn": "một dịp long trọng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052485_fe7e2c6862_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052485_516d5bcac6_o.png",
+      "id_image": "ceremonial_2412231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052510_a45669befe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052510_cda5dacf32_o.png",
+      "id_image": "ceremonial_422117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360247_aa9b2b0477_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360247_6fdd5cd377_o.png",
+      "id_image": "ceremony_1699158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315996_c8d3a6f272_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315996_e389d77d34_o.png",
+      "id_image": "ceremony_3965938"
+    }
+  ]
+}

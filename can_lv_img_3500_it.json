@@ -1,0 +1,267 @@
+{
+  "english": "can",
+  "phat_am": "[kæn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dụng cụ bằng kim loại hoặc chất dẻo để đựng hoặc chuyên chở chất lỏng",
+          "list_en_vn": [
+            {
+              "full_en": "oilcan",
+              "full_vn": "bình dầu"
+            },
+            {
+              "full_en": "a petrol can /can of petrol",
+              "full_vn": "bình xăng"
+            },
+            {
+              "full_en": "watering-can",
+              "full_vn": "bình tưới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(cũng) tin hộp thiếc hoặc sắt tây gắn kín đựng thức ăn hoặc đồ uống để bán; đồ hộp",
+          "list_en_vn": [
+            {
+              "full_en": "beer can",
+              "full_vn": "lon bia"
+            },
+            {
+              "full_en": "can opener",
+              "full_vn": "dụng cụ khui hộp; đồ khui"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái được chưa đựng hoặc khối lượng đựng trong một lon đồ hộp",
+          "list_en_vn": [
+            {
+              "full_en": "a can of peaches",
+              "full_vn": "một hộp đào"
+            },
+            {
+              "full_en": "he drank four cans of beer",
+              "full_vn": "anh ta uống bốn lon bia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the can ) nhà tù, trại tù"
+        },
+        {
+          "m_full_vn": "( the can ) nhà xí",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in the can",
+              "list_im": [
+                {
+                  "im_full_vn": "(về phim, băng ghi hình...) đã được ghi và xuất bản; đã hoàn thành và sẵn sàng cho sử dụng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry the can",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) chịu trách nhiệm, gánh trách nhiệm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng hộp (thịt, cá, quả...)",
+          "list_en_vn": [
+            {
+              "full_en": "canned fruit",
+              "full_vn": "quả đóng hộp"
+            },
+            {
+              "full_en": "canning factory",
+              "full_vn": "nhà máy làm đồ hộp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ghi vào băng ghi âm, thu vào đĩa (bản nhạc)"
+        },
+        {
+          "m_full_vn": "(từ lóng) đuổi ra khỏi trường (học sinh); đuổi ra, thải ra"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) chấm dứt, chặn lại, ngăn lại"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) bỏ tù, bắt giam"
+        }
+      ]
+    },
+    {
+      "type": "động từ khiếm khuyết, thể phủ định là cannot , rút gọn thành can't ; thời quá khứ là could (thể phủ định là could not , rút gọn thành couldn't )",
+      "list_m": [
+        {
+          "m_full_vn": "chỉ khả năng",
+          "list_en_vn": [
+            {
+              "full_en": "I can run fast",
+              "full_vn": "tôi có thể chạy nhanh"
+            },
+            {
+              "full_en": "can you call back tomorrow ?",
+              "full_vn": "ngày mai anh gọi lại được không?"
+            },
+            {
+              "full_en": "he couldn't answer the third question",
+              "full_vn": "nó không trả lời được câu hỏi thứ ba"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ kỹ năng hoặc kiến thức có được",
+          "list_en_vn": [
+            {
+              "full_en": "they can speak Vietnamese",
+              "full_vn": "họ nói được tiếng Việt"
+            },
+            {
+              "full_en": "can he cook ?",
+              "full_vn": "anh ta biết nấu ăn hay không?"
+            },
+            {
+              "full_en": "I could drive a car before I left school",
+              "full_vn": "tôi biết lái xe ô tô trước khi ra trường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ sự cho phép",
+          "list_en_vn": [
+            {
+              "full_en": "can I read your newspaper ?",
+              "full_vn": "tôi có thể đọc nhờ báo của ông được không?"
+            },
+            {
+              "full_en": "can I take you home ?",
+              "full_vn": "tôi đưa cô về nhà được chứ?"
+            },
+            {
+              "full_en": "you can take the car , if you want",
+              "full_vn": "nếu muốn, anh có thể lấy xe hơi mà đi"
+            },
+            {
+              "full_en": "we can't wear jeans at work",
+              "full_vn": "chúng ta không thể mặc quần bò khi làm việc"
+            },
+            {
+              "full_en": "the boys could play football but the girls had to go to the library",
+              "full_vn": "con trai có thể chơi đá bóng, nhưng con gái thì phải đến thư viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ lời yêu cầu, lời thỉnh cầu",
+          "list_en_vn": [
+            {
+              "full_en": "can you help me with this box ?",
+              "full_vn": "anh giúp tôi mở (nhấc, mang...) cái hộp này được không?"
+            },
+            {
+              "full_en": "can you feed the cat ?",
+              "full_vn": "anh cho con mèo ăn được chứ?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ sự có thể",
+          "list_en_vn": [
+            {
+              "full_en": "That can't be Mary - she's in hospital",
+              "full_vn": "Không thể là Mary được - cô ấy đang ở bệnh viện mà"
+            },
+            {
+              "full_en": "he can't have slept through all that noise",
+              "full_vn": "ồn đến thế thì nó không thể ngủ được"
+            },
+            {
+              "full_en": "There's someone outside - who can it be ?",
+              "full_vn": "Có ai đó ở bên ngoài - ai thế nhỉ?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ sự hoang mang hoặc không tin",
+          "list_en_vn": [
+            {
+              "full_en": "what can they be doing ?",
+              "full_vn": "chúng nó đang làm gì thế nhỉ?"
+            },
+            {
+              "full_en": "can he be serious ?",
+              "full_vn": "nó có nghiêm chỉnh thật hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mô tả cách cư xử hoặc trạng thái điển hình",
+          "list_en_vn": [
+            {
+              "full_en": "he can be very tactless sometimes",
+              "full_vn": "có thể đôi khi nó không lịch thiệp"
+            },
+            {
+              "full_en": "she can be very forgetful",
+              "full_vn": "có thể cô ấy rất hay quên"
+            },
+            {
+              "full_en": "it can be quite windy on the hills",
+              "full_vn": "trên các ngọn đồi có thể rất gió"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "diễn tả lời gợi ý",
+          "list_en_vn": [
+            {
+              "full_en": "we can eat in a restaurant , if you like",
+              "full_vn": "chúng ta có thể ăn nhà hàng nếu anh muốn"
+            },
+            {
+              "full_en": "I can take the car if necessary",
+              "full_vn": "tôi có thể lấy xe hơi đi nếu cần"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376107_124873dbde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376107_867cd86da6_o.png",
+      "id_image": "can_1676649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446338_917f9be12a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446338_dfd220218c_o.png",
+      "id_image": "can_1676653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376012_51f40f91f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376012_396e606708_o.png",
+      "id_image": "can_1676657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375977_6697c6e328_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375977_ce99a00666_o.png",
+      "id_image": "can_3005162"
+    }
+  ]
+}

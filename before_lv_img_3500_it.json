@@ -1,0 +1,164 @@
+{
+  "english": "before",
+  "phat_am": "[bi'fɔ:]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "trước, đằng trước",
+          "list_en_vn": [
+            {
+              "full_en": "to go before",
+              "full_vn": "đi trước"
+            },
+            {
+              "full_en": "before and behind",
+              "full_vn": "đằng trước và đằng sau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trước đây, ngày trước",
+          "list_one_mean": [
+            {
+              "id_full_en": "before long",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay bây giờ, chẳng bao lâu nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll be back before long",
+                      "full_vn": "tôi sẽ trở về ngay bây giờ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I have seen this before",
+              "full_vn": "trước đây tôi đã thấy cái này rồi"
+            },
+            {
+              "full_en": "long before",
+              "full_vn": "trước đây đã lâu"
+            },
+            {
+              "full_en": "before now",
+              "full_vn": "trước đây"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "trước, trước mắt, trước mặt",
+          "list_en_vn": [
+            {
+              "full_en": "before Christ",
+              "full_vn": "trước công lịch"
+            },
+            {
+              "full_en": "the question before us is a very difficult one",
+              "full_vn": "vấn đề trước mắt chúng ta là một vấn đề rất khó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hơn (về chức vị, khả năng...)",
+          "list_en_vn": [
+            {
+              "full_en": "he is before the other boys in his class",
+              "full_vn": "nó khá hơn các học sinh khác trong lớp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thà... còn hơn...;",
+          "list_one_mean": [
+            {
+              "id_full_en": "to carry all before one",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) carry"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a whole life before one",
+              "list_im": [
+                {
+                  "im_full_vn": "đời còn dài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sail before the mast",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) mast"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "death before dishonour",
+              "full_vn": "thà chết còn hơn chịu nhục"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "liên từ",
+      "list_m": [
+        {
+          "m_full_vn": "trước khi",
+          "list_en_vn": [
+            {
+              "full_en": "I must finish my work before I go home",
+              "full_vn": "tôi phải làm xong việc trước khi về nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thà... chứ không...",
+          "list_en_vn": [
+            {
+              "full_en": "he'd shoot himself before he apologized to me",
+              "full_vn": "nó thà chết chứ không xin lỗi tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308861_308f2dc361_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308861_42525998b9_o.png",
+      "id_image": "before_5200143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424048_aa5ae3512b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424048_76b53920b2_o.png",
+      "id_image": "before_5454100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664114_cd13841012_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664114_3043207c71_o.png",
+      "id_image": "before_5518098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045790_632683063f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045790_480c44c23a_o.png",
+      "id_image": "before_5659344"
+    }
+  ]
+}

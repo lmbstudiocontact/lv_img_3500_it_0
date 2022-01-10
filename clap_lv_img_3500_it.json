@@ -1,0 +1,152 @@
+{
+  "english": "clap",
+  "phat_am": "[klæp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng vỗ, tiếng kêu vang, tiếng nổ vang (sét đánh)",
+          "list_en_vn": [
+            {
+              "full_en": "a clap of thunder",
+              "full_vn": "tiếng sét nổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự vỗ; cái vỗ",
+          "list_en_vn": [
+            {
+              "full_en": "to give a clap on the shoulder",
+              "full_vn": "vỗ vai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng vỗ tay"
+        },
+        {
+          "m_full_vn": "bệnh lậu"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vỗ",
+          "list_en_vn": [
+            {
+              "full_en": "to clap one's hands",
+              "full_vn": "vỗ tay"
+            },
+            {
+              "full_en": "to clap someone on the shoulder",
+              "full_vn": "vỗ vai ai"
+            },
+            {
+              "full_en": "to clap the wings",
+              "full_vn": "vỗ cánh (chim)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vỗ tay (hoan hô ai)",
+          "list_en_vn": [
+            {
+              "full_en": "the audience clapped the singer",
+              "full_vn": "thính giả vỗ tay khen người hát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt mạnh, ấn mạnh; đặt nhanh, ấn nhanh; đánh",
+          "list_en_vn": [
+            {
+              "full_en": "to clap spurs to a horse",
+              "full_vn": "thúc mạnh gót đinh vào ngựa"
+            },
+            {
+              "full_en": "to clap a new tax on tea",
+              "full_vn": "đánh một thứ thuế mới vào trà"
+            },
+            {
+              "full_en": "to clap somebody to prison",
+              "full_vn": "tống ai vào tù"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vỗ tay"
+        },
+        {
+          "m_full_vn": "vỗ (cánh)",
+          "list_en_vn": [
+            {
+              "full_en": "its wings began to clap",
+              "full_vn": "cánh chim bắt đầu vỗ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đóng sập vào",
+          "list_one_mean": [
+            {
+              "id_full_en": "to clap eyes on",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) eye"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clap on all sails",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) căng buồm lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clap somebody on the back",
+              "list_im": [
+                {
+                  "im_full_vn": "vỗ tay động viên ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clap up the bargain",
+              "list_im": [
+                {
+                  "im_full_vn": "giải quyết thành việc mua bán"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clap up peace",
+              "list_im": [
+                {
+                  "im_full_vn": "nhanh chóng giảng hoà"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305346_6232c6c0af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305346_0c8f883b8c_o.png",
+      "id_image": "clap_3158967"
+    }
+  ]
+}

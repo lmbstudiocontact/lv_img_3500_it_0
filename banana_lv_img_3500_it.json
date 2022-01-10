@@ -1,0 +1,60 @@
+{
+  "english": "banana",
+  "phat_am": "[bə'nɑ:nə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây chuối"
+        },
+        {
+          "m_full_vn": "quả chuối",
+          "list_one_mean": [
+            {
+              "id_full_en": "banana republic",
+              "list_im": [
+                {
+                  "im_full_vn": "quốc gia nhỏ bé có nền kinh tế phụ thuộc vào việc xuất khẩu trái cây"
+                }
+              ]
+            },
+            {
+              "id_full_en": "banana skin",
+              "list_im": [
+                {
+                  "im_full_vn": "nguyên nhân gây khó khăn lúng túng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go bananas",
+              "list_im": [
+                {
+                  "im_full_vn": "trở nên điên rồ, giận dữ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a hand of bananas",
+              "full_vn": "một nải chuối"
+            },
+            {
+              "full_en": "a bunch of bananas",
+              "full_vn": "một buồng chuối"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432638_3c46443823_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432638_6d30d6d482_o.png",
+      "id_image": "banana_4796209"
+    }
+  ]
+}

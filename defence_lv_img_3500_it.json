@@ -1,0 +1,123 @@
+{
+  "english": "defence",
+  "phat_am": "[di'fens]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phòng thủ; vũ khí phòng thủ; hàng rào phòng thủ",
+          "list_en_vn": [
+            {
+              "full_en": "they planned the defence of the town",
+              "full_vn": "họ vạch kế hoạch phòng thủ thành phố"
+            },
+            {
+              "full_en": "to fight in defence of one's country",
+              "full_vn": "chiến đấu bảo vệ tổ quốc"
+            },
+            {
+              "full_en": "weapons of offence and defence",
+              "full_vn": "những vũ khí tấn công và phòng thủ"
+            },
+            {
+              "full_en": "the high wall was built as a defence against intruders",
+              "full_vn": "bức tường cao được dựng lên làm hàng rào phòng ngừa những kẻ đột nhập"
+            },
+            {
+              "full_en": "the country's defences are weak",
+              "full_vn": "vũ khí phòng thủ đất nước thật yếu kém"
+            },
+            {
+              "full_en": "coastal defences",
+              "full_vn": "tuyến phòng thủ ven biển"
+            },
+            {
+              "full_en": "antibodies are the body's defences against infection",
+              "full_vn": "kháng thể là vũ khí của cơ thể chống lại sự nhiễm trùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "những biện pháp quân sự để bảo vệ một nước; quốc phòng",
+          "list_en_vn": [
+            {
+              "full_en": "a lot of money is spent on defence",
+              "full_vn": "người ta đã chi nhiều tiền cho quốc phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời cãi; lời biện hộ",
+          "list_en_vn": [
+            {
+              "full_en": "counsel for the defence",
+              "full_vn": "luật sư bào chữa"
+            },
+            {
+              "full_en": "the lawyer produced a clever defence of his client",
+              "full_vn": "luật sư khéo léo biện hộ cho thâ chủ của ông ta"
+            },
+            {
+              "full_en": "she spoke in defence of her religious beliefs",
+              "full_vn": "bà ta lên tiếng bênh vực các tín ngưỡng tôn giáo của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the defence ) (các) luật sư bênh vực một bị cáo",
+          "list_en_vn": [
+            {
+              "full_en": "the defence argue /argues that the evidence is weak",
+              "full_vn": "luật sư của bị cáo lập luận rằng bằng chứng trên là yếu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bảo vệ cầu môn hoặc phần sân chơi chống lại những cuộc tiến công của đối phương; phòng ngự",
+          "list_en_vn": [
+            {
+              "full_en": "she plays in defence",
+              "full_vn": "cô ấy chơi lối phòng ngự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the defence ) những thành viên phụ trách việc phòng ngự trong một đội; hậu vệ",
+          "list_en_vn": [
+            {
+              "full_en": "he has been brought in to strengthen the defence",
+              "full_vn": "anh ta được đưa vào để tăng cường hàng hậu vệ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc thi đấu thể thao trong đó nhà vô địch bị thách thức",
+          "list_en_vn": [
+            {
+              "full_en": "his third successful defence of the title",
+              "full_vn": "lần thứ ba bảo vệ thành công danh hiệu vô địch của anh ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421163_5a1a622ed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421163_126fb2fc98_o.png",
+      "id_image": "defence_2534481"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421138_d2348be004_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421138_7dd4a2e374_o.png",
+      "id_image": "defence_2742145"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661429_8e0f81d443_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661429_21d8a8c222_o.png",
+      "id_image": "defence_4965937"
+    }
+  ]
+}

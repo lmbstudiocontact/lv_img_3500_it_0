@@ -1,0 +1,55 @@
+{
+  "english": "decree",
+  "phat_am": "[di'kri:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắc lệnh, nghị định, chiếu chỉ",
+          "list_en_vn": [
+            {
+              "full_en": "decree-law",
+              "full_vn": "sắc luật, pháp lệnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản án",
+          "list_en_vn": [
+            {
+              "full_en": "decree absolute & decree nisi",
+              "full_vn": "bản án cho phép ly hôn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ra lệnh, quy định bằng sắc lệnh",
+          "list_en_vn": [
+            {
+              "full_en": "the government decrees the cancellation of the illegal contracts",
+              "full_vn": "chính phủ ra lệnh hủy bỏ những hợp đồng bất hợp pháp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421608_ae13fde8d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421608_196d9ab04f_o.png",
+      "id_image": "decree_1428282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043485_4071cb616d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043485_ae6485547b_o.png",
+      "id_image": "decree_476758"
+    }
+  ]
+}

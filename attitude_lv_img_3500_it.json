@@ -1,0 +1,44 @@
+{
+  "english": "attitude",
+  "phat_am": "['ætitju:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thái độ, quan điểm",
+          "list_en_vn": [
+            {
+              "full_en": "one's attitude towards a question",
+              "full_vn": "quan điểm đối với một vấn đề"
+            },
+            {
+              "full_en": "an attitude of mind",
+              "full_vn": "quan điểm cách nhìn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tư thế, điệu bộ, dáng dấp",
+          "list_en_vn": [
+            {
+              "full_en": "in a listening attitude",
+              "full_vn": "với cái dáng đang nghe"
+            },
+            {
+              "full_en": "to strike an attitude",
+              "full_vn": "làm điệu bộ không tự nhiên (như) ở (sân khấu)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065140_7826751a91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065140_8a9df3c091_o.png",
+      "id_image": "attitude_6213219"
+    }
+  ]
+}

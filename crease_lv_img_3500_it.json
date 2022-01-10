@@ -1,0 +1,81 @@
+{
+  "english": "crease",
+  "phat_am": "[kri:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nếp trên vải, giấy... do bị vò nhàu, gấp hoặc bị là; nếp nhăn, nếp gấp, đường li",
+          "list_en_vn": [
+            {
+              "full_en": "to iron a crease into one's trousers",
+              "full_vn": "là thành một đường li trên quần"
+            },
+            {
+              "full_en": "crease-resistant cloth",
+              "full_vn": "vải không nhàu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vết nhăn trên da, nhất là ở mặt",
+          "list_en_vn": [
+            {
+              "full_en": "creases round an old man's eyes",
+              "full_vn": "những nếp nhăn quanh đôi mắt ông lão"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong môn cricket) vạch trắng kẻ ở hai đầu sân để đánh dấu vị trí đứng của cầu thủ phát bóng và cầu thủ chặn bóng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm nhàu; gấp nếp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to crease somebody up",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai thích thú"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "pack the clothes carefully so that you don't crease them",
+              "full_vn": "gói quần áo cẩn thận, đừng để nó bị nhàu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhàu; có nếp gấp",
+          "list_en_vn": [
+            {
+              "full_en": "material that creases easily",
+              "full_vn": "vải dễ nhàu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322441_ed6419f016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322441_f06910dddd_o.png",
+      "id_image": "crease_2856482"
+    }
+  ]
+}

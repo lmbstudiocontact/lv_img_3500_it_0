@@ -1,0 +1,32 @@
+{
+  "english": "asexual",
+  "phat_am": "[,ei'seksjuəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(sinh vật học) vô tính",
+          "list_en_vn": [
+            {
+              "full_en": "asexual reproduction",
+              "full_vn": "sinh sản vô tính"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041055_bf341484c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041055_bc5e1f9923_o.png",
+      "id_image": "asexual_1480851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304196_0edaa4d85f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304196_e70f2e16bc_o.png",
+      "id_image": "asexual_1480943"
+    }
+  ]
+}

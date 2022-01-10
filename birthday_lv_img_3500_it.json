@@ -1,0 +1,51 @@
+{
+  "english": "birthday",
+  "phat_am": "['bə:θdei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỷ niệm về) ngày sinh của một người; sinh nhật",
+          "list_one_mean": [
+            {
+              "id_full_en": "birthday suit",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) da người"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Happy birthday !",
+              "full_vn": "Chúc mừng sinh nhật!"
+            },
+            {
+              "full_en": "a birthday card /party /present",
+              "full_vn": "bưu thiếp/bữa tiệc/quà sinh nhật"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418608_c4c10b01f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418608_0399f6de5f_o.png",
+      "id_image": "birthday_2682174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418583_9c4323dffc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418583_d98951a80b_o.png",
+      "id_image": "birthday_4470531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418628_5a9e41d345_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418628_3ca78b4013_o.png",
+      "id_image": "birthday_696856"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "english": "direct",
+  "phat_am": "[di'rekt; dai'rekt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gửi (thư, bưu phẩm...)",
+          "list_en_vn": [
+            {
+              "full_en": "shall I direct the letter to his business address or to his home address ?",
+              "full_vn": "tôi gửi thư theo địa chỉ kinh doanh hay địa chỉ nhà riêng ông ấy?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hướng vào, nhằm vào",
+          "list_en_vn": [
+            {
+              "full_en": "the guide directed our attention to the other picture",
+              "full_vn": "người hướng dẫn hướng sự chú ý của chúng tôi vào một bức tranh khác"
+            },
+            {
+              "full_en": "we directed our steps towards home",
+              "full_vn": "chúng tôi quay bước đi về nhà"
+            },
+            {
+              "full_en": "to direct a blow at somebody's head",
+              "full_vn": "nhằm đánh vào đầu ai"
+            },
+            {
+              "full_en": "to direct one's eyes in some direction",
+              "full_vn": "hướng mắt nhìn về hướng nào"
+            },
+            {
+              "full_en": "let me direct these remarks to the younger students",
+              "full_vn": "hãy để tôi chuyển những nhận xét này đến lớp sinh viên trẻ"
+            },
+            {
+              "full_en": "advertising directed mainly at young consumers",
+              "full_vn": "quảng cáo chủ yếu nhằm vào lớp người tiêu thụ trẻ tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ đường; hướng dẫn",
+          "list_en_vn": [
+            {
+              "full_en": "can you direct me to the station ?",
+              "full_vn": "anh chỉ đường cho tôi đến nhà ga được không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quản lý; điều khiển",
+          "list_en_vn": [
+            {
+              "full_en": "to direct a business",
+              "full_vn": "điều khiển một công việc kinh doanh"
+            },
+            {
+              "full_en": "to direct the operations",
+              "full_vn": "(quân sự) chỉ huy những cuộc hành quân"
+            },
+            {
+              "full_en": "to direct a group of workers",
+              "full_vn": "điều khiển một nhóm công nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ra lệnh, chỉ thị",
+          "list_en_vn": [
+            {
+              "full_en": "the owners directed that the factory be closed",
+              "full_vn": "những người chủ ra lệnh đóng cửa nhà máy"
+            },
+            {
+              "full_en": "the officer directed them to advance",
+              "full_vn": "người sĩ quan ra lệnh cho họ tiến lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm đạo diễn (phim, kịch...)",
+          "list_en_vn": [
+            {
+              "full_en": "I'd rather act than direct",
+              "full_vn": "tôi thích đóng vai diễn hơn là làm đạo diễn"
+            },
+            {
+              "full_en": "who directed that play ?",
+              "full_vn": "ai đạo diễn vở kịch đó?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không uốn cong, không quanh co; thẳng",
+          "list_en_vn": [
+            {
+              "full_en": "to follow a direct course /route",
+              "full_vn": "theo hướng đi/con đường thẳng"
+            },
+            {
+              "full_en": "a direct flight",
+              "full_vn": "chuyến bay một mạch, chuyến bay trực chỉ (không ghé đâu cả)"
+            },
+            {
+              "full_en": "a direct train",
+              "full_vn": "tàu suốt (không dừng ở ga nào cả)"
+            },
+            {
+              "full_en": "a direct hit /shot",
+              "full_vn": "cú đấm/cú sút thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chẳng có gì hoặc không có người nào ở giữa; trực tiếp",
+          "list_en_vn": [
+            {
+              "full_en": "a direct result , link , connection",
+              "full_vn": "kết quả, mối liên lạc, sự quan hệ trực tiếp"
+            },
+            {
+              "full_en": "I'm in direct contact with the hijackers",
+              "full_vn": "tôi đang tiếp xúc trực tiếp với bọn không tặc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về dòng dõi trong gia đình) nối tiếp các thế hệ qua con, cháu nội (chứ không qua anh em, chị em, con cô cậu....); trực hệ",
+          "list_en_vn": [
+            {
+              "full_en": "she descends in a direct line from the country's first President",
+              "full_vn": "bà ta thuộc dòng dõi trực hệ của vị tổng thống đầu tiên của đất nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thẳng thắn, bộc trực",
+          "list_en_vn": [
+            {
+              "full_en": "a direct person , manner , answer",
+              "full_vn": "con người, cung cách, câu trả lời thẳng thắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn toàn, tuyệt đối",
+          "list_en_vn": [
+            {
+              "full_en": "the direct opposite",
+              "full_vn": "cái hoàn toàn đối lập"
+            },
+            {
+              "full_en": "your reply today is in direct contradiction to what you said last week",
+              "full_vn": "câu trả lời hôm nay của anh hoàn toàn mâu thuẫn với những điều anh nói tuần trước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thiên văn học) đi từ tây sang đông, thuận hành"
+        },
+        {
+          "m_full_vn": "(âm nhạc) không đảo"
+        },
+        {
+          "m_full_vn": "(vật lý) một chiều",
+          "list_en_vn": [
+            {
+              "full_en": "direct current",
+              "full_vn": "dòng điện một chiều"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "không gián đoạn, sử dụng đường đi thẳng",
+          "list_en_vn": [
+            {
+              "full_en": "the train goes there direct",
+              "full_vn": "tàu hoả đi thẳng ngay đến đấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không có ai làm trung gian, đích thân",
+          "list_en_vn": [
+            {
+              "full_en": "I prefer to deal with him direct",
+              "full_vn": "tôi muốn đích thân (trực tiếp) giải quyết với hắn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320166_6f3330dcaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320166_29310ba144_o.png",
+      "id_image": "directing_4834023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365162_e34aa0889f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365162_7dffd6d3d8_o.png",
+      "id_image": "direct_1390118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056950_a56331b1da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056950_b268fbb99d_o.png",
+      "id_image": "direct_2526506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675194_7ef35d9731_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675194_8171c9dd76_o.png",
+      "id_image": "direct_3983610"
+    }
+  ]
+}

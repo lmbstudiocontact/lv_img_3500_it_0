@@ -1,0 +1,48 @@
+{
+  "english": "civilization",
+  "phat_am": "[,sivəlai'zei∫n; ,sivəli'zei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự làm cho văn minh, sự khai hoá"
+        },
+        {
+          "m_full_vn": "nền văn minh",
+          "list_en_vn": [
+            {
+              "full_en": "the civilization of mankind",
+              "full_vn": "nền văn minh của loài người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "những nước văn minh, những dân tộc văn minh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661189_76cb7143ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661189_c1523c093c_o.png",
+      "id_image": "civilization_3317437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661179_242cac009e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661179_860cb477b9_o.png",
+      "id_image": "civilization_5234355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349957_1232ce6dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349957_e1b6a81374_o.png",
+      "id_image": "civilization_5998818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349902_451d234c1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349902_b601f97fd8_o.png",
+      "id_image": "civilization_6193005"
+    }
+  ]
+}

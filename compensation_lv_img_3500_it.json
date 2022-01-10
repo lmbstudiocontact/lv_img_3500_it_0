@@ -1,0 +1,50 @@
+{
+  "english": "compensation",
+  "phat_am": "[,kɔmpen'sei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đền bù, sự bồi thường; vật đền bù",
+          "list_en_vn": [
+            {
+              "full_en": "compensation of injured workers has cost the company a lot",
+              "full_vn": "việc bồi thường cho các công nhân bị thương đã khiến công ty tốn một khoản tiền lớn"
+            },
+            {
+              "full_en": "to receive 5000 dollars in compensation /by way of compensation /as a compensation for injury",
+              "full_vn": "nhận được 5000 đô la tiền bồi thường thương tổn"
+            },
+            {
+              "full_en": "my job is hard , but it has its compensations",
+              "full_vn": "công việc của tôi vất vả, nhưng cũng có những cái bù đắp lại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671609_6f826c50e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671609_a0c2359800_o.png",
+      "id_image": "compensation_2586927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431938_0f30a75be2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431938_ed86bc73d3_o.png",
+      "id_image": "compensation_2631378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431918_869805e848_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431918_3615650b8c_o.png",
+      "id_image": "compensation_2631381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053275_9574d589b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053275_f3f8641b00_o.png",
+      "id_image": "compensation_5781691"
+    }
+  ]
+}

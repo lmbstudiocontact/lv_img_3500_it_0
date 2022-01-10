@@ -1,0 +1,41 @@
+{
+  "english": "ammeter",
+  "phat_am": "['æmitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(điện học) thiết bị đo ampe",
+          "list_en_vn": [
+            {
+              "full_en": "thermoelectric ammeter",
+              "full_vn": "thiết bị đo ampe nhiệt điện"
+            },
+            {
+              "full_en": "electromagnetic ammeter",
+              "full_vn": "thiết bị đo ampe điện từ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669129_808d1be89e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669129_655edb55ca_o.png",
+      "id_image": "ammeter_1039060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669094_49e255211c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669094_576b4bda7a_o.png",
+      "id_image": "ammeter_1055060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050965_8bacbae214_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050965_0371fbb4c9_o.png",
+      "id_image": "ammeter_1870728"
+    }
+  ]
+}

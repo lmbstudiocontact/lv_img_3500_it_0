@@ -1,0 +1,40 @@
+{
+  "english": "cistern",
+  "phat_am": "['sistən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thùng chứa nước, bể chứa nước (ở trên nóc nhà)"
+        },
+        {
+          "m_full_vn": "bể chứa, bình chứa",
+          "list_en_vn": [
+            {
+              "full_en": "the cistern of a barometer",
+              "full_vn": "bình (chứa) thuỷ ngân của phong vũ biểu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661499_f88ff7e739_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661499_a12e06b943_o.png",
+      "id_image": "cistern_1111185"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661469_3013400e70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661469_32ee04e051_o.png",
+      "id_image": "cistern_2523127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043075_25ddd097ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043075_5cda176214_o.png",
+      "id_image": "cistern_6315528"
+    }
+  ]
+}

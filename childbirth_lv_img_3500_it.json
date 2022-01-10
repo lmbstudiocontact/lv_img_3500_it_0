@@ -1,0 +1,32 @@
+{
+  "english": "childbirth",
+  "phat_am": "['t∫aildbə:θ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sinh đẻ",
+          "list_en_vn": [
+            {
+              "full_en": "she died in childbirth",
+              "full_vn": "cô ấy chết lúc sinh con"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353777_492d457ed4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353777_227ed07165_o.png",
+      "id_image": "childbirth_1775611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424648_75ce3d986c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424648_e212a81e17_o.png",
+      "id_image": "childbirth_5233821"
+    }
+  ]
+}

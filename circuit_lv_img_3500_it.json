@@ -1,0 +1,85 @@
+{
+  "english": "circuit",
+  "phat_am": "['sə:kit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chu vi, đường vòng quanh",
+          "list_en_vn": [
+            {
+              "full_en": "the circuit of a town",
+              "full_vn": "chu vi thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đi vòng quanh",
+          "list_en_vn": [
+            {
+              "full_en": "to make a circuit of",
+              "full_vn": "đi vòng quanh (cái gì)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc kinh lý, cuộc tuần du, cuộc tuần tra (của các quan toà để xét xử); địa phận đi kinh lý"
+        },
+        {
+          "m_full_vn": "(vật lý) mạch",
+          "list_en_vn": [
+            {
+              "full_en": "electric circuit",
+              "full_vn": "mạch điện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) vòng đua"
+        },
+        {
+          "m_full_vn": "hệ thống rạp hát, rạp chiếu bóng (cùng chung một ban quản trị)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự nối tiếp của sự việc...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi vòng quanh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350617_a1580e62a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350617_3b395bec25_o.png",
+      "id_image": "circuit_3211832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421643_fe284f65e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421643_980312bb82_o.png",
+      "id_image": "circuit_4259332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306431_afbc7d76a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306431_b8af27fa8c_o.png",
+      "id_image": "circuit_4606967"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421568_5ee6cbfb77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421568_d8a1ba0b19_o.png",
+      "id_image": "circuit_4684553"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661839_22086a2e95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661839_5e833a7f4b_o.png",
+      "id_image": "circuit_675827"
+    }
+  ]
+}

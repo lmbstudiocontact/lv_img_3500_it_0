@@ -1,0 +1,172 @@
+{
+  "english": "box",
+  "phat_am": "[bɔks]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hộp, thùng, tráp, bao"
+        },
+        {
+          "m_full_vn": "chỗ ngồi (của người đánh xe ngựa)"
+        },
+        {
+          "m_full_vn": "lô (rạp hát); phòng nhỏ (khách sạn); ô (chuồng ngựa)"
+        },
+        {
+          "m_full_vn": "chòi, điếm (canh)"
+        },
+        {
+          "m_full_vn": "ghế (ở toà án, cho quan toà, nhân chứng...)"
+        },
+        {
+          "m_full_vn": "tủ sắt, két sắt (để bạc); ống, hộp (bỏ tiền)",
+          "list_en_vn": [
+            {
+              "full_en": "to put in the box",
+              "full_vn": "bỏ ống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quà (lễ giáng sinh)"
+        },
+        {
+          "m_full_vn": "lều nhỏ, chỗ trú chân (của người đi săn)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) hộp ống lót",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in the same box",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng chung một cảnh ngộ (với ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in one's thinking box",
+              "list_im": [
+                {
+                  "im_full_vn": "suy nghĩ chín chắn, thận trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in a tight box",
+              "list_im": [
+                {
+                  "im_full_vn": "lâm vào hoàn cảnh khó khăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in the wrong box",
+              "list_im": [
+                {
+                  "im_full_vn": "lâm vào tình thế khó xử"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ vào hộp"
+        },
+        {
+          "m_full_vn": "đệ (đơn) lên toà án"
+        },
+        {
+          "m_full_vn": "ngăn riêng ra; nhốt riêng vào từng ô chuồng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to box up",
+              "list_im": [
+                {
+                  "im_full_vn": "nhốt vào chuồng hẹp"
+                },
+                {
+                  "im_full_vn": "đóng kín vào hộp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to box the compass",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) compass"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái tát, cái bạt tai",
+          "list_en_vn": [
+            {
+              "full_en": "a box on the ear",
+              "full_vn": "cái bạt tai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tát, bạt (tai...)",
+          "list_en_vn": [
+            {
+              "full_en": "to box someone's ears",
+              "full_vn": "bạt tai ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh quyền Anh"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây hoàng dương"
+        },
+        {
+          "m_full_vn": "the Box chương trình truyền hình"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675039_e15cf3628b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675039_8eb2c2a3fc_o.png",
+      "id_image": "box_258500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675029_7ea3a680c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675029_a7b13e7a0b_o.png",
+      "id_image": "box_337150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435148_becbd98dc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435148_5b3dd848ae_o.png",
+      "id_image": "box_588424"
+    }
+  ]
+}

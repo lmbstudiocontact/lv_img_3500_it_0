@@ -1,0 +1,404 @@
+{
+  "english": "cast",
+  "phat_am": "[kɑ:st]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự quăng, sự ném (lưới...); sự thả (neo...); sự gieo (súc sắc...)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự thử làm, sự cầu may",
+          "list_en_vn": [
+            {
+              "full_en": "I'll have another cast yet",
+              "full_vn": "tôi sẽ làm thử một lần nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng ném; tầm xa (của mũi tên)"
+        },
+        {
+          "m_full_vn": "mồi và lưỡi câu; chỗ câu (câu cá)"
+        },
+        {
+          "m_full_vn": "đồ ăn tiêu mửa ra (chim ưng, cá...); cứt giun; vỏ lột, da lột (rắn...); xác (ve...); cái vứt bỏ đi"
+        },
+        {
+          "m_full_vn": "sự đúc, khuôn đúc; vật đúc; mẫu đúc; (ngành in) bản in đúc"
+        },
+        {
+          "m_full_vn": "sự cộng lại (các con số); sự tính"
+        },
+        {
+          "m_full_vn": "(sân khấu) sự phân phối các vai diễn, bảng phân phối các vai diễn"
+        },
+        {
+          "m_full_vn": "bố cục, cách bố trí, cách sắp đặt một câu"
+        },
+        {
+          "m_full_vn": "loại, vẻ, nét, tính tình, tính chất; thiên hướng",
+          "list_en_vn": [
+            {
+              "full_en": "a man of a different cast",
+              "full_vn": "một người thuộc loại khác"
+            },
+            {
+              "full_en": "to have a curious cast of mind",
+              "full_vn": "có tính tình kỳ cục"
+            },
+            {
+              "full_en": "cast of features",
+              "full_vn": "vẻ mặt, nét mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "màu, sắc thái",
+          "list_en_vn": [
+            {
+              "full_en": "there is a cast of green in this cloth",
+              "full_vn": "tấm vải này ánh lên một màu phơn phớt lục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hơi lác (mắt)",
+          "list_en_vn": [
+            {
+              "full_en": "to have a cast in one's eye",
+              "full_vn": "hơi lác mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đi nhờ xe bò, sự đi nhờ xe ngựa"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quăng, ném, liệng, thả",
+          "list_en_vn": [
+            {
+              "full_en": "to cast net",
+              "full_vn": "quăng lưới"
+            },
+            {
+              "full_en": "to cast anchor",
+              "full_vn": "thả neo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh gục, đánh ngã (trong cuộc đấu vật); thắng được (kiện)"
+        },
+        {
+          "m_full_vn": "lột, tuộc, mất, bỏ, thay",
+          "list_en_vn": [
+            {
+              "full_en": "snakes cast their skins",
+              "full_vn": "rắn lột da"
+            },
+            {
+              "full_en": "my horse has cast a shoe",
+              "full_vn": "con ngựa của tôi tuột mất móng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẻ non; rụng",
+          "list_en_vn": [
+            {
+              "full_en": "cow has cast calf",
+              "full_vn": "con bò đẻ non"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúc, nấu chảy, đổ khuôn (để đúc)"
+        },
+        {
+          "m_full_vn": "cộng lại, gộp lại, tính",
+          "list_en_vn": [
+            {
+              "full_en": "to cast accounts",
+              "full_vn": "tính toán"
+            },
+            {
+              "full_en": "to cast a horoscope",
+              "full_vn": "lấy số tử vi; đoán số tử vi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sân khấu) phân đóng vai (một vở kịch)"
+        },
+        {
+          "m_full_vn": "thải, loại ra",
+          "list_en_vn": [
+            {
+              "full_en": "a cast soldier",
+              "full_vn": "một người lính bị thải ra"
+            },
+            {
+              "full_en": "a cast horse",
+              "full_vn": "một con ngựa bị loại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhìn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cast about",
+              "list_im": [
+                {
+                  "im_full_vn": "đi tìm đằng này, đằng khác"
+                },
+                {
+                  "im_full_vn": "tìm cách, kiếm cớ, xoay sở (để làm gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast aside",
+              "list_im": [
+                {
+                  "im_full_vn": "vứt đi, loại ra, bỏ đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast away",
+              "list_im": [
+                {
+                  "im_full_vn": "liệng ném, quăng, vứt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to cast away all cares",
+                      "full_vn": "vứt hết những nỗi ưu tư"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be cast away",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) bị đắm (tàu)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast back",
+              "list_im": [
+                {
+                  "im_full_vn": "quay lại, trở lại"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) nhắc lại, hồi tưởng lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast down",
+              "list_im": [
+                {
+                  "im_full_vn": "vứt xuống, quăng xuống"
+                },
+                {
+                  "im_full_vn": "nhìn xuống (mắt)"
+                },
+                {
+                  "im_full_vn": "làm thất vọng, làm chán nản",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be cast down",
+                      "full_vn": "chán nản, thất vọng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast off",
+              "list_im": [
+                {
+                  "im_full_vn": "loại bỏ, thải, vứt bỏ, từ bỏ"
+                },
+                {
+                  "im_full_vn": "thả (chó)"
+                },
+                {
+                  "im_full_vn": "(hàng hải) thả, quăng (dây...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast out",
+              "list_im": [
+                {
+                  "im_full_vn": "đuổi ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast up",
+              "list_im": [
+                {
+                  "im_full_vn": "tính, cộng lại, gộp lại"
+                },
+                {
+                  "im_full_vn": "ngẩng (đầu); ngước mắt"
+                },
+                {
+                  "im_full_vn": "vứt lên, quăng lên, ném lên"
+                },
+                {
+                  "im_full_vn": "trách móc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to cast something up to someone",
+                      "full_vn": "trách móc ai về việc gì"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(y học) nôn ra, mửa ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast lot",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) lot"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast one's lot with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng chia sẻ một số phận với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast oneself on (upon ) somebody's mercy",
+              "list_im": [
+                {
+                  "im_full_vn": "trông ở lòng thương của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast something in someone's teeth",
+              "list_im": [
+                {
+                  "im_full_vn": "trách móc ai về việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast a vote",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ phiếu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the die is cast",
+              "list_im": [
+                {
+                  "im_full_vn": "một quyết định đã đưa ra thì không sửa đổi được nữa; bút sa gà chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast aspersions on sth /sb",
+              "list_im": [
+                {
+                  "im_full_vn": "bôi nhọ, nhục mạ, thoá mạ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast one's bread upon the waters",
+              "list_im": [
+                {
+                  "im_full_vn": "làm việc nghĩa mà không cần báo đền, thi ân bất cầu báo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast light on sth",
+              "list_im": [
+                {
+                  "im_full_vn": "soi sáng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast one's mind back to sth",
+              "list_im": [
+                {
+                  "im_full_vn": "nhớ lại điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast one's net wide",
+              "list_im": [
+                {
+                  "im_full_vn": "khuếch trương rộng rãi, mở rộng phạm vi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "cast pearls before swine",
+              "list_im": [
+                {
+                  "im_full_vn": "đàn gải tai trâu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast a spell on sb",
+              "list_im": [
+                {
+                  "im_full_vn": "mê hoặc, huyễn hoặc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to cast an eye (a look , a glance ...) at ...",
+              "full_vn": "đưa mắt nhìn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366202_fe20134fb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366202_acd788d2f1_o.png",
+      "id_image": "cast_5978862"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676359_f537656d4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676359_1c6e0910f2_o.png",
+      "id_image": "cast_814131"
+    }
+  ]
+}

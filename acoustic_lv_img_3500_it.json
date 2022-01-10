@@ -1,0 +1,43 @@
+{
+  "english": "acoustic",
+  "phat_am": "[ə'ku:stik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) âm thanh; (thuộc) âm học"
+        },
+        {
+          "m_full_vn": "(thuộc) thính giác",
+          "list_en_vn": [
+            {
+              "full_en": "acoustic nerves",
+              "full_vn": "dây thần kinh thính giác"
+            },
+            {
+              "full_en": "acoustic mine",
+              "full_vn": "mìn âm thanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không dùng điện (nhạc cụ)",
+          "list_en_vn": [
+            {
+              "full_en": "acoustic guitar",
+              "full_vn": "ghi ta thường (không dùng điện)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060150_431c422646_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060150_86cca090a1_o.png",
+      "id_image": "acoustic_352256"
+    }
+  ]
+}

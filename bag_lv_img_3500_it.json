@@ -1,0 +1,190 @@
+{
+  "english": "bag",
+  "phat_am": "[bæg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bao, túi, bị, xắc"
+        },
+        {
+          "m_full_vn": "mẻ săn",
+          "list_en_vn": [
+            {
+              "full_en": "to get a good bag",
+              "full_vn": "săn được nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(động vật học) túi, bọng, bọc",
+          "list_en_vn": [
+            {
+              "full_en": "honey bag",
+              "full_vn": "bọng ong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vú (bò)"
+        },
+        {
+          "m_full_vn": "chỗ húp lên (dưới mắt)"
+        },
+        {
+          "m_full_vn": "( số nhiều) của cải, tiền bạc"
+        },
+        {
+          "m_full_vn": "( số nhiều) (từ lóng) quần; chỗ phùng ra, chỗ lụng thụng (ở quần áo...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "bag of bones",
+              "list_im": [
+                {
+                  "im_full_vn": "người gầy giơ xương, người toàn xương"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bag of wind",
+              "list_im": [
+                {
+                  "im_full_vn": "kẻ lắm điều, kẻ hay ba hoa, kẻ hay bép xép, kẻ hay nói huyên thuyên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody the bag to hold",
+              "list_im": [
+                {
+                  "im_full_vn": "chuồn, bỏ mặc ai trong lúc khó khăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the bag",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) nắm chắc trong tay, chắc chắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the bottom of one's bag",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng kế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let the cat out of the bag",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) let"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pack up bag and baggage",
+              "list_im": [
+                {
+                  "im_full_vn": "cuốn gói trốn đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put somebody in a bag",
+              "list_im": [
+                {
+                  "im_full_vn": "thắng ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "whole bag of tricks",
+              "list_im": [
+                {
+                  "im_full_vn": "đủ các mưu mẹo, thiên phương bách kế"
+                },
+                {
+                  "im_full_vn": "tất cả không để lại cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ vào túi, bỏ vào bao"
+        },
+        {
+          "m_full_vn": "(săn bắn) bỏ vào túi săn; bắn giết, săn được"
+        },
+        {
+          "m_full_vn": "thu nhặt"
+        },
+        {
+          "m_full_vn": "(thông tục) lấy, ăn cắp"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phồng lên, nở ra, phùng ra",
+          "list_en_vn": [
+            {
+              "full_en": "these trousers bag at the knees",
+              "full_vn": "cái quần này phùng ra ở đầu gối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) thõng xuống (buồm)"
+        },
+        {
+          "m_full_vn": "đi chệch hướng (thuyền)",
+          "list_one_mean": [
+            {
+              "id_full_en": "I bag ; bags I ; bags !",
+              "list_im": [
+                {
+                  "im_full_vn": "(tiếng lóng trong nhà trường), đến lượt tớ, đến phiên tớ!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675534_f60543a7b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675534_158ed8c508_o.png",
+      "id_image": "bag_1088128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365562_29d7324ac0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365562_6ae3382f86_o.png",
+      "id_image": "bag_649218"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320581_a43e6a61e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320581_a2ecdf5389_o.png",
+      "id_image": "bag_673889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675574_c2ab9d577b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675574_2244e12b74_o.png",
+      "id_image": "bag_868188"
+    }
+  ]
+}

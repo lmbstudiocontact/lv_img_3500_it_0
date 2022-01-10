@@ -1,0 +1,121 @@
+{
+  "english": "bond",
+  "phat_am": "[bɔnd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giao kèo; khế ước; hợp đồng",
+          "list_en_vn": [
+            {
+              "full_en": "to enter into a bond to do something",
+              "full_vn": "ký giao kèo, cam kết làm điều gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) mối quan hệ; mối ràng buộc",
+          "list_en_vn": [
+            {
+              "full_en": "the bonds of friendship /affection",
+              "full_vn": "những mối liên kết bằng hữu/thương mến"
+            },
+            {
+              "full_en": "the trade agreement helped to strengthen the bonds between two countries",
+              "full_vn": "hiệp định thương mại đã giúp tăng cường các mối liên hệ giữa hai nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trạng thái gắn chặt",
+          "list_en_vn": [
+            {
+              "full_en": "this glue makes a good firm bond",
+              "full_vn": "keo này gắn chắc lắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tài chính) giấy chứng nhận do Nhà nước hoặc công ty phát hành xác nhận tiền đã cho vay và sẽ được trả lại cõlai kèm theo; kỳ phiếu; trái phiếu",
+          "list_en_vn": [
+            {
+              "full_en": "National Savings bonds",
+              "full_vn": "Trái phiếu tiết kiệm quốc gia"
+            },
+            {
+              "full_en": "Government bonds",
+              "full_vn": "Công trái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) gông cùm, xiềng xích, sự tù tội",
+          "list_en_vn": [
+            {
+              "full_en": "in bonds",
+              "full_vn": "bị gông cùm, bị giam cầm"
+            },
+            {
+              "full_en": "the bonds of oppression , tyranny , injustice",
+              "full_vn": "xiềng xích áp bức, bạo quyền, bất công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự gửi vào kho",
+          "list_en_vn": [
+            {
+              "full_en": "in bond",
+              "full_vn": "gửi vào kho (hàng hoá)"
+            },
+            {
+              "full_en": "to take goods out of bond",
+              "full_vn": "lấy hàng ở kho ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) sự liên kết",
+          "list_en_vn": [
+            {
+              "full_en": "atomic bond",
+              "full_vn": "liên kết nguyên tử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kiến trúc) kiểu xây ghép (gạch, đá) để làm cho tường vững"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gửi (hàng) vào kho"
+        },
+        {
+          "m_full_vn": "(kiến trúc) xây ghép (gạch, đá)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369882_f29b087f8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369882_0a449710bf_o.png",
+      "id_image": "bond_2719700"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325026_aa357e5577_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325026_e29a217b30_o.png",
+      "id_image": "bond_310061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324956_7b627799ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324956_44ea752aac_o.png",
+      "id_image": "bond_6159162"
+    }
+  ]
+}

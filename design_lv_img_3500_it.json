@@ -1,0 +1,134 @@
+{
+  "english": "design",
+  "phat_am": "[di'zain]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đề cương, bản phác thảo, phác hoạ, đồ án",
+          "list_en_vn": [
+            {
+              "full_en": "the design of a machine",
+              "full_vn": "bản đồ án thiết kế một cái máy"
+            },
+            {
+              "full_en": "the design of a book",
+              "full_vn": "đề cương một quyển sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý muốn, ý định, dự định, dự kiến, mục đích; ý đồ, mưu đồ",
+          "list_en_vn": [
+            {
+              "full_en": "by (with ) design",
+              "full_vn": "với ý định; với mục đích; cố ý"
+            },
+            {
+              "full_en": "whether by accident or design",
+              "full_vn": "vô tình hay hữu ý"
+            },
+            {
+              "full_en": "with a design to",
+              "full_vn": "nhằm mục đích để"
+            },
+            {
+              "full_en": "to have designs on (against ) somebody",
+              "full_vn": "có mưu đồ ám hại ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kế hoạch"
+        },
+        {
+          "m_full_vn": "cách sắp xếp, cách trình bày, cách trang trí",
+          "list_en_vn": [
+            {
+              "full_en": "a beautiful design of flowers",
+              "full_vn": "cách cắm hoa đẹp mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiểu, mẫu, loại, dạng",
+          "list_en_vn": [
+            {
+              "full_en": "cars of latest design",
+              "full_vn": "xe ô tô kiểu mới nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khả năng sáng tạo (kiểu, cách trình bày...), tài nghĩ ra (mưu kế...); sự sáng tạo"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phác hoạ, vẽ phác (tranh...), vẽ kiểu (quần áo, xe ô tô...), thiết kế, làm đồ án (nhà cửa), làm đề cương, phác thảo cách trình bày (sách, tranh ảnh (nghệ thuật))"
+        },
+        {
+          "m_full_vn": "có ý định, định, dự kiến, trù tính; có ý đồ, có mưu đồ",
+          "list_en_vn": [
+            {
+              "full_en": "to design to do (doing ) something",
+              "full_vn": "dự định làm việc gì"
+            },
+            {
+              "full_en": "we did not design this result",
+              "full_vn": "chúng tôi không dự kiến kết quả thế này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ định, để cho, dành cho",
+          "list_en_vn": [
+            {
+              "full_en": "this little sword was not designed for real fighting",
+              "full_vn": "thanh gươm nhỏ bé này không phải là để chiến đấu thực sự"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm nghề vẽ kiểu, làm nghề xây dựng đồ án"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373987_9151ff8c62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373987_c140400131_o.png",
+      "id_image": "design_2210196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373957_8291bd9195_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373957_07b09eeb9a_o.png",
+      "id_image": "design_2271575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329231_2deff37ca9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329231_8e2a54ceb3_o.png",
+      "id_image": "design_2752907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444123_10c77bff2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444123_1aa8babf9a_o.png",
+      "id_image": "design_4296000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374032_bbf78788b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374032_71d02ac632_o.png",
+      "id_image": "design_997305"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "english": "dash",
+  "phat_am": "[dæ∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự va chạm, sự đụng mạnh"
+        },
+        {
+          "m_full_vn": "tiếng nước vỗ bờ, tiếng nước vỗ"
+        },
+        {
+          "m_full_vn": "sự lao tới, sự xông tới, sự nhảy bổ vào",
+          "list_en_vn": [
+            {
+              "full_en": "to make a dash at (against ) the enemy",
+              "full_vn": "lao tới kẻ thù"
+            },
+            {
+              "full_en": "to make a dash for something",
+              "full_vn": "xống tới lấy cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hăng hái, sự hăm hở; nghị lực, tính táo bạo, tính kiên quyết",
+          "list_en_vn": [
+            {
+              "full_en": "a man of skill and dash",
+              "full_vn": "một người có kỹ năng và nghị lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vết, nét (tô màu trên bức hoạ...)"
+        },
+        {
+          "m_full_vn": "chút ít, ít, chút xíu",
+          "list_en_vn": [
+            {
+              "full_en": "a dash of vinegar",
+              "full_vn": "một tí giấm"
+            },
+            {
+              "full_en": "there is a romantic dash in it",
+              "full_vn": "có một chút gì lãng mạn trong đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vẻ phô trương, dáng chưng diện",
+          "list_en_vn": [
+            {
+              "full_en": "to cut a dash",
+              "full_vn": "có vẻ bảnh bao; làm ra vẻ làm ra dáng, loè, khoe khoang, phô trương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nét viết nhanh"
+        },
+        {
+          "m_full_vn": "gạch ngang (đầu dòng...)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cuộc đua ngắn",
+          "list_en_vn": [
+            {
+              "full_en": "hundredmetre dash",
+              "full_vn": "cuộc chạy đua 100 mét"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lao tới, xông tới",
+          "list_en_vn": [
+            {
+              "full_en": "the scoundrel dashed into the fisrt-aid ward",
+              "full_vn": "tên lưu manh xông vào khu cấp cứu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "va mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "waves dashed against the cliffs",
+              "full_vn": "sóng va mạnh vào vách đá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vất mạnh, ném mạnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "dash it !",
+              "list_im": [
+                {
+                  "im_full_vn": "mẹ kiếp!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dash something off",
+              "list_im": [
+                {
+                  "im_full_vn": "làm thật nhanh, làm vội",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the secretary dashed off the weekly report to his director",
+                      "full_vn": "người thư ký thảo vội bản báo cáo hàng tuần trình cho giám đốc"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "in her anger , the wife dashed her spectacles to the ground",
+              "full_vn": "trong cơn nóng giận, người vợ đã vất phăng mắt kính của mình xuống đất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047090_0dd45336c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047090_deec9de332_o.png",
+      "id_image": "dash_1183236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425268_b3b0d0e527_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425268_b0015c85b4_o.png",
+      "id_image": "dash_1183243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665424_811fb28bcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665424_2a8e9cd5e5_o.png",
+      "id_image": "dash_1674912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425198_2296b13fc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425198_68d1d654ef_o.png",
+      "id_image": "dash_1685689"
+    }
+  ]
+}

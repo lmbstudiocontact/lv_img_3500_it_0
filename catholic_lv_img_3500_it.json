@@ -1,0 +1,47 @@
+{
+  "english": "catholic",
+  "phat_am": "['kæθəlik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bao gồm tất cả, rộng khắp; phổ biến"
+        },
+        {
+          "m_full_vn": "đại lượng, rộng lượng, rộng rãi",
+          "list_en_vn": [
+            {
+              "full_en": "to have a catholic taste in literature",
+              "full_vn": "ham thích rộng rãi các ngành văn học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) đạo Thiên chúa, công giáo",
+          "list_en_vn": [
+            {
+              "full_en": "To be more Catholic than the pope",
+              "full_vn": "Quá hăng hái bảo vệ quyền lợi của người khác, đến nỗi chính người hưởng quyền lợi đó cũng chưa hăng hái bằng; Mộ đạo hơn cả giáo hoàng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người theo đạo Thiên chúa, tín đồ công giáo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674049_ac956b16c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674049_33d8589df5_o.png",
+      "id_image": "catholic_4319911"
+    }
+  ]
+}

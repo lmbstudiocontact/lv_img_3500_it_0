@@ -1,0 +1,124 @@
+{
+  "english": "current",
+  "phat_am": "['kʌrənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dòng (nước); luồng (gió, không khí); (điện học) dòng điện",
+          "list_en_vn": [
+            {
+              "full_en": "direct current",
+              "full_vn": "dòng điện một chiều"
+            },
+            {
+              "full_en": "alternative current",
+              "full_vn": "dòng điện xoay chiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dòng, luồng, chiều, hướng (dư luận, tư tưởng...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "against the current",
+              "list_im": [
+                {
+                  "im_full_vn": "ngược dòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to breast the current",
+              "list_im": [
+                {
+                  "im_full_vn": "đi ngược dòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go with the current",
+              "list_im": [
+                {
+                  "im_full_vn": "đi theo dòng, đi xuôi dòng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the current of time",
+              "full_vn": "dòng thời gian"
+            },
+            {
+              "full_en": "the current of thought",
+              "full_vn": "luồng tư tưởng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hiện hành, đang lưu hành",
+          "list_en_vn": [
+            {
+              "full_en": "current money",
+              "full_vn": "tiền đang lưu hành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phổ biến, thịnh hành, thông dụng",
+          "list_en_vn": [
+            {
+              "full_en": "current opinions",
+              "full_vn": "ý kiến (quan điểm) phổ biến"
+            },
+            {
+              "full_en": "current assets",
+              "full_vn": "vốn lưu động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiện thời, hiện nay, này",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go (pass , run ) current",
+              "list_im": [
+                {
+                  "im_full_vn": "được thừa nhận, được dư luận chung công nhận là đúng (là thật)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the current month",
+              "full_vn": "tháng này"
+            },
+            {
+              "full_en": "the current issue",
+              "full_vn": "số (báo) kỳ này"
+            },
+            {
+              "full_en": "current affairs",
+              "full_vn": "thời sự"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358922_313e2f2a15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358922_433d3f09a2_o.png",
+      "id_image": "current_2361619"
+    }
+  ]
+}

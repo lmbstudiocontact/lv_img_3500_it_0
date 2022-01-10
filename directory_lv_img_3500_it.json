@@ -1,0 +1,56 @@
+{
+  "english": "directory",
+  "phat_am": "[di'rektəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(sách có ghi) danh mục của những người thuê bao điện thoại, xịnghiêp, công ty... của một khu vực hoặc thành viên của một ngành nghề theo thứ tự ABC; danh bạ; danh bạ điện thoại",
+          "list_en_vn": [
+            {
+              "full_en": "a telephone directory",
+              "full_vn": "danh bạ điện thoại; niên giám điện thoại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Directory ) (sử học) Hội đồng Đốc chính (thời cách mạng Pháp gồm 5 uỷ viên, từ 1795 đến 1799)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) ban giám đốc"
+        },
+        {
+          "m_full_vn": "(tin học) thư mục"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364302_bc9891e420_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364302_41a43fdf68_o.png",
+      "id_image": "directory_1581020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056135_0f691ba485_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056135_97278fb1a3_o.png",
+      "id_image": "directory_1660963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364222_0096f49303_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364222_417a83cfa0_o.png",
+      "id_image": "directory_2720507"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319511_3efe4f85b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319511_7d2dae74dc_o.png",
+      "id_image": "directory_3892160"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056205_e763019e74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056205_6a08ef2608_o.png",
+      "id_image": "directory_485316"
+    }
+  ]
+}

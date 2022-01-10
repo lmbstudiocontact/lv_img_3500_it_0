@@ -1,0 +1,61 @@
+{
+  "english": "contribution",
+  "phat_am": "[,kɔntri'bju:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đóng góp, sự góp phần; phần đóng góp, phần gánh vác",
+          "list_en_vn": [
+            {
+              "full_en": "to lay under contribution",
+              "full_vn": "bắt đóng góp"
+            },
+            {
+              "full_en": "to pay one's contribution",
+              "full_vn": "trả phần góp của mình, trả hội phí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật đóng góp"
+        },
+        {
+          "m_full_vn": "bài báo",
+          "list_en_vn": [
+            {
+              "full_en": "contribution to a newspaper",
+              "full_vn": "bài viết cho một tờ báo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) đảm phụ quốc phòng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043380_0f3eee1eaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043380_30621c5716_o.png",
+      "id_image": "contribution_4525463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421498_684eb32647_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421498_f6df176498_o.png",
+      "id_image": "contribution_5520859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661679_d2a375e13f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661679_5957529375_o.png",
+      "id_image": "contribution_5520944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043320_1757b0ba9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043320_3682dfba87_o.png",
+      "id_image": "contribution_6313799"
+    }
+  ]
+}

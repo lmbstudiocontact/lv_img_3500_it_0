@@ -1,0 +1,82 @@
+{
+  "english": "combine",
+  "phat_am": "[kɔm'bain]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thương nghiệp) nhóm người hoặc công ty cùng hoạt động kinh doanh; tập đoàn",
+          "list_en_vn": [
+            {
+              "full_en": "a wheat combine",
+              "full_vn": "tập đoàn lúa mì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy nông nghiệp vừa gặt vừa đập; máy gặt-đập ( (cũng) combine harvester )"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to combine with something ) ( to combine A and B / A with B ) kết hợp; phối hợp",
+          "list_en_vn": [
+            {
+              "full_en": "To combine forces",
+              "full_vn": "Phối hợp các lực lượng"
+            },
+            {
+              "full_en": "Combined operation",
+              "full_vn": "(quân sự) cuộc hành quân phối hợp"
+            },
+            {
+              "full_en": "Success was achieved by the combined efforts of the whole team",
+              "full_vn": "Thắng lợi có được là nhờ sự cố gắng phối hợp của cả đội"
+            },
+            {
+              "full_en": "Hydrogen and oxygen combine /Hydrogen combines with oxygen to form water",
+              "full_vn": "Hyđrô và ôxy kết hợp với nhau/Hyđrô kết hợp với ôxy để tạo thành nước"
+            },
+            {
+              "full_en": "Circumstances have combined to ruin our plans for a holiday",
+              "full_vn": "Kế hoạch đi nghỉ của chúng tôi bị hỏng do nhiều hoàn cảnh kết hợp lại"
+            },
+            {
+              "full_en": "A kitchen and dining-room combined",
+              "full_vn": "Bếp và phòng ăn kết hợp (một phòng vừa dùng làm chỗ nấu nướng vừa dùng làm chỗ ăn uống)"
+            },
+            {
+              "full_en": "to combine business with pleasure",
+              "full_vn": "kết hợp công việc với sự giải trí"
+            },
+            {
+              "full_en": "he combines arrogance and incompetence in his dealings with the staff",
+              "full_vn": "ông ta vừa kiêu ngạo vừa bất tài trong việc đối xử với nhân viên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675209_0ed73b994c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675209_cdc18c6910_o.png",
+      "id_image": "combine_5360345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365087_db9a91e6ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365087_9df82de756_o.png",
+      "id_image": "combine_5376807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320176_22302617cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320176_99f9f2f1c4_o.png",
+      "id_image": "combine_5379833"
+    }
+  ]
+}

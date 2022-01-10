@@ -1,0 +1,62 @@
+{
+  "english": "dimension",
+  "phat_am": "[di'men∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chiều, kích thước, khổ, cỡ",
+          "list_en_vn": [
+            {
+              "full_en": "the three dimensions",
+              "full_vn": "ba chiều (dài, rộng và cao)"
+            },
+            {
+              "full_en": "of great dimensions",
+              "full_vn": "cỡ lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) thứ nguyên (của một đại lượng)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "định kích thước, đo kích thước (một vật gì)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321331_0743cba7b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321331_9d85c38117_o.png",
+      "id_image": "dimensions_1605816"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321476_66362b8e79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321476_92f836aacf_o.png",
+      "id_image": "dimensions_217221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058050_cde259affd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058050_88fafe7753_o.png",
+      "id_image": "dimensions_4761232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436723_4380e48f62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436723_3691e8405b_o.png",
+      "id_image": "dimension_4092787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436783_d87627a761_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436783_e0fb6d2964_o.png",
+      "id_image": "dimension_992621"
+    }
+  ]
+}

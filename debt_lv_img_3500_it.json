@@ -1,0 +1,146 @@
+{
+  "english": "debt",
+  "phat_am": "[det]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số tiền vay chưa trả; nợ",
+          "list_en_vn": [
+            {
+              "full_en": "if I pay all debts , I'll have no money left",
+              "full_vn": "tôi mà trả hết nợ thì chẳng còn đồng nào trong túi nữa"
+            },
+            {
+              "full_en": "we were poor , but we avoided debt",
+              "full_vn": "chúng tôi nghèo, nhưng tránh được cái khoản nợ nần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự mang ơn, sự biết ơn",
+          "list_one_mean": [
+            {
+              "id_full_en": "a bad debt",
+              "list_im": [
+                {
+                  "im_full_vn": "món nợ không hy vọng được trả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in debt to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "mắc nợ ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in debt ; to fall /get /run into debt",
+              "list_im": [
+                {
+                  "im_full_vn": "mang công mắc nợ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in somebody's debt",
+              "list_im": [
+                {
+                  "im_full_vn": "hàm ơn ai, mang ơn ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be deep (deeply ) in debt",
+              "list_im": [
+                {
+                  "im_full_vn": "nợ ngập đầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be /get out of debt ; to be clear of debt ; to rid oneself of debt",
+              "list_im": [
+                {
+                  "im_full_vn": "trả hết nợ; sạch nợ; thoát nợ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "he that dies pays all debts",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) chết là hết nợ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a debt of honour",
+              "list_im": [
+                {
+                  "im_full_vn": "nợ danh dự"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a debt of gratitude",
+              "list_im": [
+                {
+                  "im_full_vn": "sự hàm ơn, sự mang ơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay the debt of nature",
+              "list_im": [
+                {
+                  "im_full_vn": "chết, trả nợ đời"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I'm very happy to acknowledge my debt to my teachers",
+              "full_vn": "tôi rất sung sướng bày tỏ lòng biết ơn của tôi với các thầy"
+            },
+            {
+              "full_en": "to owe somebody a debt of gratitude",
+              "full_vn": "chịu ơn ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423228_322b12a299_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423228_e97f461a03_o.png",
+      "id_image": "debt_2398982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308026_5809993922_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308026_d9f78ee709_o.png",
+      "id_image": "debt_2762625"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307991_dc924f69b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307991_2e9d4d2c64_o.png",
+      "id_image": "debt_4334582"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663194_ed3dccc5b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663194_19a3db1197_o.png",
+      "id_image": "debt_5705208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423083_5d939d18d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423083_7b25e12c8e_o.png",
+      "id_image": "debt_6159704"
+    }
+  ]
+}

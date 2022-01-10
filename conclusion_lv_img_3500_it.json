@@ -1,0 +1,85 @@
+{
+  "english": "conclusion",
+  "phat_am": "[kən'klu:ʒn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kết thúc, sự chấm dứt; phần cuối",
+          "list_en_vn": [
+            {
+              "full_en": "at the conclusion of their report",
+              "full_vn": "ở phần cuối bản báo cáo của họ"
+            },
+            {
+              "full_en": "to bring the negotiation to a speedy conclusion",
+              "full_vn": "nhanh chóng kết thúc cuộc thương lượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự kết luận, phần kết luận",
+          "list_en_vn": [
+            {
+              "full_en": "They came to /reached the conclusion that I was guilty",
+              "full_vn": "Họ đi đến kết luận rằng tôi có tội"
+            },
+            {
+              "full_en": "what conclusions do you draw (from what he has just said )?",
+              "full_vn": "anh rút ra kết luận gì (từ những điều hắn vừa nói)?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ký kết (hiệp ước...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a foregone conclusion",
+              "list_im": [
+                {
+                  "im_full_vn": "một quyết định trước khi biết những yếu tố cần thiết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to jump to conclusions",
+              "list_im": [
+                {
+                  "im_full_vn": "vội vàng đưa ra kết luận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in conclusion",
+              "list_im": [
+                {
+                  "im_full_vn": "sau cùng; cuối cùng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "In conclusion , I'd like to say that ...",
+                      "full_vn": "Sau cùng, tôi muốn nói rằng..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the conflict ended with the conclusion of an armistice",
+              "full_vn": "cuộc xung đột kết thúc bằng việc ký hiệp định đình chiến"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313526_57b9841d1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313526_62e591c5e3_o.png",
+      "id_image": "conclusion_6079733"
+    }
+  ]
+}

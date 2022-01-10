@@ -1,0 +1,33 @@
+{
+  "english": "commander",
+  "phat_am": "[kə'mɑ:ndə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người cầm đầu; người chỉ huy",
+          "list_en_vn": [
+            {
+              "full_en": "the commander of an operation",
+              "full_vn": "người chỉ huy cuộc hành quân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sĩ quan hải quân Anh ngay dưới cấp đại tá; trung tá"
+        },
+        {
+          "m_full_vn": "sĩ quan cao cấp trong cảnh sát thủ đô Luân Đôn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319516_04432f375a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319516_1219d327d9_o.png",
+      "id_image": "commander_2809690"
+    }
+  ]
+}

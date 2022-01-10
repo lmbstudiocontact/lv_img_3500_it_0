@@ -1,0 +1,486 @@
+{
+  "english": "change",
+  "phat_am": "[t∫eindʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( change in / to something ) sự thay đổi hoặc trở nên khác với trước đây; sự thay đổi",
+          "list_en_vn": [
+            {
+              "full_en": "to undergo a complete change",
+              "full_vn": "thay đổi hoàn toàn"
+            },
+            {
+              "full_en": "a change in the weather",
+              "full_vn": "sự thay đổi thời tiết"
+            },
+            {
+              "full_en": "there has been a change in the programme",
+              "full_vn": "chương trình có sự thay đổi"
+            },
+            {
+              "full_en": "Government plans to make important changes to the tax system",
+              "full_vn": "chính phủ dự định đưa ra nhiều thay đổi quan trọng trong hệ thống thuế"
+            },
+            {
+              "full_en": "are you for or against change ?",
+              "full_vn": "anh tán thành hay phản đối sự thay đổi?"
+            },
+            {
+              "full_en": "just for a change",
+              "full_vn": "để cho thấy có sự thay đổi (cho có vẻ khác (thường)); để thay đổi một chút"
+            },
+            {
+              "full_en": "a change for the better",
+              "full_vn": "sự thay đổi theo chiều hướng tốt hơn"
+            },
+            {
+              "full_en": "a change for the worse",
+              "full_vn": "sự thay đổi theo chiều hướng xấu đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( change of something ) sự đổi cái này lấy cái khác; cái được dùng thay cho cái khác",
+          "list_en_vn": [
+            {
+              "full_en": "a change of air /climate",
+              "full_vn": "sự thay đổi không khí (bằng cách đi nghỉ mát chẳng hạn)"
+            },
+            {
+              "full_en": "a change of job",
+              "full_vn": "sự thay đổi nghề nghiệp"
+            },
+            {
+              "full_en": "please note my change of address",
+              "full_vn": "xin ghi lại sự thay đổi địa chỉ của tôi"
+            },
+            {
+              "full_en": "the party needs a change of leader",
+              "full_vn": "đảng này cần thay đổi thủ lĩnh"
+            },
+            {
+              "full_en": "don't forget to take a change of clothes",
+              "full_vn": "đừng quên mang theo quần áo thay đổi"
+            },
+            {
+              "full_en": "the change of life",
+              "full_vn": "như menopause"
+            },
+            {
+              "full_en": "the changes of life",
+              "full_vn": "những nỗi thăng trầm của cuộc sống"
+            },
+            {
+              "full_en": "change of mind (heart )",
+              "full_vn": "sự thay đổi ý kiến, sự thay đổi thái độ"
+            },
+            {
+              "full_en": "a welcome change from town to country life",
+              "full_vn": "một sự thay đổi thú vị từ cuộc sống thành thị sang cuộc sống nông thôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền lẻ",
+          "list_en_vn": [
+            {
+              "full_en": "Can you give me /Have you got change for a five-pound note ?",
+              "full_vn": "anh có thể/anh có tiền lẻ đổi cho tôi một tờ năm pao?"
+            },
+            {
+              "full_en": "I've no small change",
+              "full_vn": "tôi không có tiền lẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền thừa hoàn lại (cho khách hàng)",
+          "list_en_vn": [
+            {
+              "full_en": "don't forget your change !",
+              "full_vn": "chớ quên tiền thừa trả lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( change from something to something ) sự đổi từ đoàn tàu này sang đoàn tàu khác",
+          "list_en_vn": [
+            {
+              "full_en": "he had to make a quick change at Crewe",
+              "full_vn": "anh ta phải đổi tàu thật nhanh ở Crewe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giao dịch chứng khoán; thị trường chứng khoán (ở Luân-đôn) ( (cũng) Change , (viết tắt) của Exchange )"
+        },
+        {
+          "m_full_vn": "( số nhiều) trật tự rung chuông",
+          "list_one_mean": [
+            {
+              "id_full_en": "to get no change out of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "không địch lại được ai (trong cuộc tranh luận); không cạnh tranh nổi ai (trong việc buôn bán)"
+                },
+                {
+                  "im_full_vn": "(thông tục) không móc được của ai cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ring the changes on a subject",
+              "list_im": [
+                {
+                  "im_full_vn": "lặp đi lặp lại một vấn đề dưới hình thức khác nhau, nhai đi nhai lại một vấn đề dưới những hình thức khác nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take one's (the ) change out of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) trả thù ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho ai/cái gì trở nên khác; thay đổi",
+          "list_en_vn": [
+            {
+              "full_en": "you've changed a lot since I last saw you",
+              "full_vn": "anh đã thay đổi nhiều so với lần trước tôi gặp anh"
+            },
+            {
+              "full_en": "our plans have changed",
+              "full_vn": "kế hoạch của chúng tôi đã thay đổi"
+            },
+            {
+              "full_en": "to change one's attitude /opinion (mind )",
+              "full_vn": "thay đổi thái độ/ý kiến"
+            },
+            {
+              "full_en": "an event which changed the course of history",
+              "full_vn": "một sự kiện thay đổi dòng lịch sử"
+            },
+            {
+              "full_en": "to change one's doctor",
+              "full_vn": "thay bác sĩ"
+            },
+            {
+              "full_en": "to change one's job /address",
+              "full_vn": "đổi nghề/địa chỉ"
+            },
+            {
+              "full_en": "to change a light bulb",
+              "full_vn": "thay một cái bóng đèn"
+            },
+            {
+              "full_en": "to change gear",
+              "full_vn": "sang số (chuyển sang một số khác trên ô tô để đi nhanh hơn hoặc chậm hơn)"
+            },
+            {
+              "full_en": "the ship changed course",
+              "full_vn": "con tàu đã đổi hướng"
+            },
+            {
+              "full_en": "the wind has changed direction",
+              "full_vn": "gió đã đổi chiều"
+            },
+            {
+              "full_en": "all things change",
+              "full_vn": "mọi vật đều thay đổi"
+            },
+            {
+              "full_en": "to change one's coat",
+              "full_vn": "thay áo"
+            },
+            {
+              "full_en": "I must change these trousers - they've got oil on them",
+              "full_vn": "tôi phải thay cái quần này - nó bị dính dầu"
+            },
+            {
+              "full_en": "I'm thinking of changing my car for a bigger one",
+              "full_vn": "tôi đang nghĩ đến việc đổi chiếc xe của tôi lấy một chiếc to hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng với bổ ngữ số nhiều) (nói về hai người) trao đổi (vị trí, nơi...)",
+          "list_en_vn": [
+            {
+              "full_en": "Can we change seats /Can I change seats with you ?",
+              "full_vn": "Chúng ta đổi ghế cho nhau được không? Tôi đổi ghế với anh được không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to change somebody / something from something to / into something ) ( to change somebody / something from A to / into B ) (làm cho ai/cái gì) chuyển từ hình thái này sang hình thái khác; biến đổi; (làm cho ai/cái gì) chuyển từ giai đoạn này sang giai đoạn khác",
+          "list_en_vn": [
+            {
+              "full_en": "caterpillars change into butterflies or moths",
+              "full_vn": "con sâu biến thành bướm hoặc bướm đêm"
+            },
+            {
+              "full_en": "the witch changed the prince into a frog",
+              "full_vn": "mụ phù thủy biến hoàng tử thành con ếch"
+            },
+            {
+              "full_en": "the traffic lights have changed (from red to green )",
+              "full_vn": "đèn giao thông đã đổi (từ đỏ sang xanh)"
+            },
+            {
+              "full_en": "Britain changed to a metric system of currency in 1970",
+              "full_vn": "Anh quốc chuyển sang hệ thống tiền tệ thập phân năm 1970"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về trăng) sang tuần trăng mới; sang tuần trăng non",
+          "list_en_vn": [
+            {
+              "full_en": "when does the moon change ?",
+              "full_vn": "khi nào sang tuần trăng mới, khi nào có trăng non?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đổi ra tiền lẻ",
+          "list_en_vn": [
+            {
+              "full_en": "can you change a five-pound note ?",
+              "full_vn": "ông đổi hộ tờ năm pao ra tiền lẻ được không ạ?"
+            },
+            {
+              "full_en": "I need to change my dollars into francs",
+              "full_vn": "tôi cần đổi đô la sang frăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thay quần áo",
+          "list_en_vn": [
+            {
+              "full_en": "to change the baby",
+              "full_vn": "thay tã cho đứa bé"
+            },
+            {
+              "full_en": "I'll change and come down at once",
+              "full_vn": "tôi sẽ thay quần áo và xuống ngay"
+            },
+            {
+              "full_en": "to change for dinner",
+              "full_vn": "thay quần áo để ăn cơm tối"
+            },
+            {
+              "full_en": "go and change out of those damp clothes into something dry",
+              "full_vn": "đi thay hết quần áo ướt, rồi mặc quần áo khô vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đổi tàu xe",
+          "list_one_mean": [
+            {
+              "id_full_en": "to change the subject",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu nói sang chuyện khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to change over from something to something",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyển từ chế độ hoặc vị thế này sang chế độ hoặc vị thế khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to change step",
+              "list_im": [
+                {
+                  "im_full_vn": "điều chỉnh bước đi cho đúng nhịp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to change something back into something",
+              "list_im": [
+                {
+                  "im_full_vn": "trả tiền và nhận số tiền tương đương với loại tiền cũ của mình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to change back francs into dollars",
+                      "full_vn": "đổi tiền Frăng lấy lại đô la"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to change back into something",
+              "list_im": [
+                {
+                  "im_full_vn": "cởi quần áo ra để mặc quần áo đã mặc trước đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Can I change back into my jeans now ?",
+                      "full_vn": "bây giờ tôi có thể thay quần áo để mặc lại quần bò được không?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to change down",
+              "list_im": [
+                {
+                  "im_full_vn": "sang số thấp hơn (ô tô); về số, xuống số"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to change up",
+              "list_im": [
+                {
+                  "im_full_vn": "sang số cao hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to change colour",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) colour"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to change one's condition",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) condition"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to change front",
+              "list_im": [
+                {
+                  "im_full_vn": "đổi chiều đổi hướng (trong cuộc tranh luận...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to change hands",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyển sang sở hữu của một người khác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the house has changed hands several times recently",
+                      "full_vn": "gần đây ngôi nhà đã đổi chủ nhiều lần"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to change /swap horses in midstream",
+              "list_im": [
+                {
+                  "im_full_vn": "thay ngựa giữa dòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to change one's spots",
+              "list_im": [
+                {
+                  "im_full_vn": "làm điều gì trái với bản chất của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to change one's tune",
+              "list_im": [
+                {
+                  "im_full_vn": "thay đổi thái độ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to change one's ways",
+              "list_im": [
+                {
+                  "im_full_vn": "thay đổi cách sống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to chop and change",
+              "list_im": [
+                {
+                  "im_full_vn": "thay đổi ý kiến liên miên, không có thái độ dứt khoát"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "we must change at the next station",
+              "full_vn": "đến ga sau chúng ta sẽ phải đổi tàu"
+            },
+            {
+              "full_en": "this is where we change from car to bus",
+              "full_vn": "đây là chỗ chúng ta chuyển từ ô tô sang xe búyt"
+            },
+            {
+              "full_en": "all change !",
+              "full_vn": "mời mọi người xuống xe (tàu)!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429263_3107581854_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429263_152a81feaf_o.png",
+      "id_image": "change_1605275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050920_9076b2cecf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050920_01a4f26b67_o.png",
+      "id_image": "change_2164459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429178_9dd4b6e2c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429178_7daf379ac1_o.png",
+      "id_image": "change_4845867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050855_4ae4b9e05f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050855_4749eb7e9e_o.png",
+      "id_image": "change_6192275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669064_a307e0a2d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669064_8fd0b38d18_o.png",
+      "id_image": "change_939245"
+    }
+  ]
+}

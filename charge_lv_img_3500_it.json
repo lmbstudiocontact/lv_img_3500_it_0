@@ -1,0 +1,262 @@
+{
+  "english": "charge",
+  "phat_am": "[t∫ɑ:dʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật mang, vật chở, vật gánh; gánh nặng ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "to be a charge on someone",
+              "full_vn": "là gánh nặng cho ai, để cho ai phải nuôi nấng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số đạn nạp, số thuốc nạp (vào súng); điện tích (nạp vào ắc quy); sự nạp điện, sự tích điện"
+        },
+        {
+          "m_full_vn": "tiền phải trả, giá tiền, tiền công, tiền thù lao",
+          "list_en_vn": [
+            {
+              "full_en": "free of charge",
+              "full_vn": "không phải trả tiền"
+            },
+            {
+              "full_en": "no charge for admission",
+              "full_vn": "vào cửa không mất tiền"
+            },
+            {
+              "full_en": "list of charges",
+              "full_vn": "bảng giá (tiền)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự gánh vác (một khoản phí tổn, mọi sự chi phí)",
+          "list_en_vn": [
+            {
+              "full_en": "to do something at one's own charge",
+              "full_vn": "làm việc gì phải gánh vác lấy mọi khoản chi phí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhiệm vụ, bổn phận, trách nhiệm"
+        },
+        {
+          "m_full_vn": "sự trông nom, sự coi sóc",
+          "list_en_vn": [
+            {
+              "full_en": "to be in charge of somebody",
+              "full_vn": "phải trông nom ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người được giao cho trông nom, vật được giao cho trông nom"
+        },
+        {
+          "m_full_vn": "(tôn giáo) những con chiên của cha cố",
+          "list_en_vn": [
+            {
+              "full_en": "to take charge of something ; to take something in charge",
+              "full_vn": "chịu trách nhiệm trông nom cái gì"
+            },
+            {
+              "full_en": "to give somebody charge over",
+              "full_vn": "giao phó cho ai trông nom (cái gì); giao trách nhiệm cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mệnh lệnh, huấn thị, chỉ thị",
+          "list_en_vn": [
+            {
+              "full_en": "parting charge",
+              "full_vn": "những lời huấn thị cuối cùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời buộc tội; sự buộc tội",
+          "list_en_vn": [
+            {
+              "full_en": "to bring (lay ) a charge against somebody",
+              "full_vn": "buộc tội ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc tấn công dữ dội, cuộc đột kích ồ ạt",
+          "list_en_vn": [
+            {
+              "full_en": "bayonet charge",
+              "full_vn": "cuộc tấn công bằng lưỡi lê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) hiệu lệnh đột kích",
+          "list_one_mean": [
+            {
+              "id_full_en": "in charge",
+              "list_im": [
+                {
+                  "im_full_vn": "phụ trách, trưởng, đứng đầu; thường trực, trực",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the officer in charge",
+                      "full_vn": "sĩ quan chỉ huy, sĩ quan thường trực"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take charge",
+              "list_im": [
+                {
+                  "im_full_vn": "đảm đương, chịu trách nhiệm"
+                },
+                {
+                  "im_full_vn": "bị buông lơi, bị buông lỏng, không ai điều khiển",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "steering-wheel takes charge",
+                      "full_vn": "tay lái bị buông lỏng không ai cầm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take in charge",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt, bắt giam"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nạp đạn, nạp thuốc (vào súng); nạp điện"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tọng vào, nhồi nhét",
+          "list_en_vn": [
+            {
+              "full_en": "to charge a gun",
+              "full_vn": "nạp đạn vào súng"
+            },
+            {
+              "full_en": "to charge a battery",
+              "full_vn": "nạp điện ắc quy"
+            },
+            {
+              "full_en": "to charge one's memory with figures",
+              "full_vn": "nhồi nhét vào trí nhớ toàn những con số"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính giá, đòi trả",
+          "list_en_vn": [
+            {
+              "full_en": "how much do you charge for mending this pair of shoes ?",
+              "full_vn": "vá đôi giày này ông tính bao nhiêu?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính vào, bắt phải chịu phí tổn, bắt phải gánh vác; ghi sổ (nợ)",
+          "list_en_vn": [
+            {
+              "full_en": "please charge these goods to me",
+              "full_vn": "làm ơn ghi sổ những món hàng này cho tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giao nhiệm vụ, giao việc",
+          "list_en_vn": [
+            {
+              "full_en": "to be charged with an important mission",
+              "full_vn": "được giao một sứ mệnh quan trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "buộc tội",
+          "list_en_vn": [
+            {
+              "full_en": "to be charged with murder",
+              "full_vn": "bị buộc tội giết người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tấn công, đột kích",
+          "list_en_vn": [
+            {
+              "full_en": "to charge the enemy",
+              "full_vn": "tấn công quân địch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắc (súng...) đặt ngang (ngọn giáo...)"
+        },
+        {
+          "m_full_vn": "tấn công",
+          "list_one_mean": [
+            {
+              "id_full_en": "to charge down upon",
+              "list_im": [
+                {
+                  "im_full_vn": "đâm bổ vào, nhảy xổ vào"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "our guerillas charged again and again",
+              "full_vn": "du kích của chúng ta tấn công liên tục"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428458_a227d8269c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428458_6516d10bf0_o.png",
+      "id_image": "charge_1674050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050155_b1f7b72a4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050155_e14855dfd5_o.png",
+      "id_image": "charge_1972949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357637_59c366457c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357637_fe6c582dfb_o.png",
+      "id_image": "charge_5457829"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428348_a791998c8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428348_0132a84d08_o.png",
+      "id_image": "charge_5982305"
+    }
+  ]
+}

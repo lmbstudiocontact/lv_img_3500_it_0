@@ -1,0 +1,111 @@
+{
+  "english": "decline",
+  "phat_am": "[di'klain]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sụt, sự suy tàn, sự suy sụp, sự tàn tạ",
+          "list_en_vn": [
+            {
+              "full_en": "the decline of imperialism",
+              "full_vn": "sự suy tàn của chủ nghĩa đế quốc"
+            },
+            {
+              "full_en": "the decline of prices",
+              "full_vn": "sự sụt giá"
+            },
+            {
+              "full_en": "the decline of old age",
+              "full_vn": "sự tàn tạ của tuổi già"
+            },
+            {
+              "full_en": "the decline of the moon",
+              "full_vn": "lúc trăng tàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) bệnh gầy mòn, sự sụt sức",
+          "list_en_vn": [
+            {
+              "full_en": "to fall into a decline",
+              "full_vn": "mắc bệnh gầy mòn, bị sụt sức"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghiêng đi, dốc nghiêng đi"
+        },
+        {
+          "m_full_vn": "nghiêng mình, cúi mình, cúi đầu rũ xuống"
+        },
+        {
+          "m_full_vn": "tàn dần (ngày); xế, xế tà (mặt trời...); suy đi, suy dần (sức khoẻ); sụt xuống (giá cả...)"
+        },
+        {
+          "m_full_vn": "suy sụp, suy vi, tàn tạ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghiêng (mình), cúi (đầu)"
+        },
+        {
+          "m_full_vn": "từ chối, khước từ, không nhận, không chịu",
+          "list_en_vn": [
+            {
+              "full_en": "to decline an invitation",
+              "full_vn": "khước từ lời mời"
+            },
+            {
+              "full_en": "to decline battle",
+              "full_vn": "không chịu giao chiến"
+            },
+            {
+              "full_en": "to decline a challenge",
+              "full_vn": "không nhận lời thách"
+            },
+            {
+              "full_en": "to decline to do (doing ) something",
+              "full_vn": "từ chối không làm gì"
+            },
+            {
+              "full_en": "to decline with thanks",
+              "full_vn": "từ chối một cách khinh bỉ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) biến cách"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044175_77f92854d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044175_be022afc53_o.png",
+      "id_image": "decline_1977274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662454_5f9eb09d42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662454_f4016dc11e_o.png",
+      "id_image": "decline_5965800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307226_fd6c84723c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307226_82c2eb899b_o.png",
+      "id_image": "decline_970346"
+    }
+  ]
+}

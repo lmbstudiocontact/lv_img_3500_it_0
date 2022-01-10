@@ -1,0 +1,243 @@
+{
+  "english": "date",
+  "phat_am": "[deit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quả chà là"
+        },
+        {
+          "m_full_vn": "(thực vật học) cây chà là"
+        },
+        {
+          "m_full_vn": "ngày tháng; niên hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "what's the date today ?",
+              "full_vn": "hôm nay ngày bao nhiêu?"
+            },
+            {
+              "full_en": "today's date is the sixth of March",
+              "full_vn": "hôm nay là ngày 6 tháng 3"
+            },
+            {
+              "full_en": "has the date of the meeting been fixed ?",
+              "full_vn": "ngày họp đã được ấn định chưa?"
+            },
+            {
+              "full_en": "when was the date of the Battle of Waterloo?",
+              "full_vn": "trận Waterloo vào năm nào?"
+            },
+            {
+              "full_en": "there's no date on this cheque",
+              "full_vn": "ngân phiếu này chẳng đề ngày tháng gì cả"
+            },
+            {
+              "full_en": "that newspaper bears the date 6 March 1999; that newspaper is under date of 6 March 1999",
+              "full_vn": "tờ báo đó đề ngày 6 tháng 3 năm 1999"
+            },
+            {
+              "full_en": "date of birth",
+              "full_vn": "ngày tháng năm sinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) kỳ, kỳ hạn",
+          "list_en_vn": [
+            {
+              "full_en": "to pay at fixed dates",
+              "full_vn": "trả đúng kỳ hạn"
+            },
+            {
+              "full_en": "at long date",
+              "full_vn": "kỳ hạn dài"
+            },
+            {
+              "full_en": "at short date",
+              "full_vn": "kỳ hạn ngắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "niên đại; thời đại",
+          "list_en_vn": [
+            {
+              "full_en": "this vase is of an earlier date than that one",
+              "full_vn": "cái bình này có niên đại sớm hơn cái bình kia"
+            },
+            {
+              "full_en": "Roman date",
+              "full_vn": "thời đại La mã"
+            },
+            {
+              "full_en": "at that date , electric light was unknown",
+              "full_vn": "thời kỳ đó người ta chưa biết đến đèn điện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) sự hẹn gặp ai vào một thời điểm nhất định",
+          "list_en_vn": [
+            {
+              "full_en": "we made a date to go to the opera",
+              "full_vn": "chúng tôi đã hẹn ngày giờ gặp nhau đi xem ôpêra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc gặp một người khác phái, cuộc hẹn hò",
+          "list_one_mean": [
+            {
+              "id_full_en": "out of date",
+              "list_im": [
+                {
+                  "im_full_vn": "lỗi thời; không còn giá trị nữa, hết hạn, hết hiệu lực",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "will denim jeans ever go out of date ?",
+                      "full_vn": "liệu quần jin bằng vải bông chéo có bao giờ lỗi thời không?"
+                    },
+                    {
+                      "full_en": "out-of-date clothes /ideas /slang",
+                      "full_vn": "quần áo/tư tưởng/tiếng lóng lỗi thời"
+                    },
+                    {
+                      "full_en": "their licence is out of date",
+                      "full_vn": "giấy phép của họ hết hạn rồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to date",
+              "list_im": [
+                {
+                  "im_full_vn": "đến bây giờ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to date , I have not known how old he is",
+                      "full_vn": "đến bây giờ tôi vẫn chưa biết hắn mấy tuổi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "up to date",
+              "list_im": [
+                {
+                  "im_full_vn": "hiện đại, hợp thời trang, đúng mốt, cập nhật",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she always wears clothes that are right up to date",
+                      "full_vn": "cô ta lúc nào cũng mặc quần áo đúng mốt"
+                    },
+                    {
+                      "full_en": "the list is up to date now that we've added the new members' names",
+                      "full_vn": "chúng tôi đã điền thêm tên các thành viên mới, bây giờ bản danh sách đúng là cập nhật"
+                    },
+                    {
+                      "full_en": "up-to-date styles /methods",
+                      "full_vn": "phong cách/phương pháp mới nhất"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have a date with one's girl-friend",
+              "full_vn": "hẹn gặp bạn gái"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đề ngày tháng",
+          "list_en_vn": [
+            {
+              "full_en": "to date a letter",
+              "full_vn": "đề ngày tháng vào một bức thư"
+            },
+            {
+              "full_en": "his last letter was dated 16 February 1999",
+              "full_vn": "bức thư cuối cùng của hắn đề ngày 16 / 2 / 1999"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xác định niên đại, xác định thời đại",
+          "list_en_vn": [
+            {
+              "full_en": "to date an old statue",
+              "full_vn": "xác định niên đại của một pho tượng thời thượng cổ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đã tồn tại từ...; có từ...",
+          "list_en_vn": [
+            {
+              "full_en": "this manuscript dates from the XIVth century ; this manuscript dates back to the XIVth century",
+              "full_vn": "bản viết tay này có từ thế kỷ 14"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đã lỗi thời, đã cũ; trở nên lỗi thời",
+          "list_en_vn": [
+            {
+              "full_en": "young people's clothes date quickly nowadays",
+              "full_vn": "quần áo thanh niên bây giờ mau lỗi thời quá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) hẹn hò với bạn (bạn trai, bạn gái)",
+          "list_en_vn": [
+            {
+              "full_en": "they've been dating for a long time",
+              "full_vn": "họ hẹn hò nhau thường xuyên từ lâu rồi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046590_745d2579ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046590_0717f27e6b_o.png",
+      "id_image": "date_1031454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353737_69413c50f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353737_b83af482cc_o.png",
+      "id_image": "date_2231785"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046480_eece66160e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046480_ceaa70a07f_o.png",
+      "id_image": "date_5673763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424593_3345002efb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424593_040cbe06b5_o.png",
+      "id_image": "date_5739970"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "english": "counter",
+  "phat_am": "['kauntə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quầy hàng, quầy thu tiền",
+          "list_en_vn": [
+            {
+              "full_en": "to serve behind the counter",
+              "full_vn": "phục vụ ở quầy hàng, bán hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ghi-sê (ngân hàng)"
+        },
+        {
+          "m_full_vn": "máy đếm"
+        },
+        {
+          "m_full_vn": "thẻ (để đánh bạc thay tiền)"
+        },
+        {
+          "m_full_vn": "ức ngực"
+        },
+        {
+          "m_full_vn": "(hàng hải) thành đuôi tàu"
+        },
+        {
+          "m_full_vn": "miếng đệm lót giày"
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "đối lập, chống lại, trái lại, ngược lại",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go counter",
+              "list_im": [
+                {
+                  "im_full_vn": "đi ngược lại, làm trái lại"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to act counter to someone's wishes",
+              "full_vn": "hành động chống lại ý muốn của một người nào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phản đối, chống lại, làm trái ngược lại, nói ngược lại"
+        },
+        {
+          "m_full_vn": "chặn lại và đánh trả, phản công (đấu kiếm, quyền Anh)"
+        }
+      ]
+    },
+    {
+      "type": "tiền tố",
+      "list_m": [
+        {
+          "m_full_vn": "ngược lại",
+          "list_en_vn": [
+            {
+              "full_en": "counter-attraction",
+              "full_vn": "sức hút ngược lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chống lại; phản lại",
+          "list_en_vn": [
+            {
+              "full_en": "counter-revolutionary",
+              "full_vn": "phản cách mạng"
+            },
+            {
+              "full_en": "counter-productive",
+              "full_vn": "phản tác dụng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064185_449480db38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064185_334f1c7284_o.png",
+      "id_image": "counter_2403404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372117_d891db0b73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372117_5ab8597ae5_o.png",
+      "id_image": "counter_2596411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327381_2051bbfa52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327381_d94c002805_o.png",
+      "id_image": "counter_3884791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682459_8778020a31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682459_814c3e9c72_o.png",
+      "id_image": "counter_6090977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682414_7d201f4d4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682414_3c8bfc902d_o.png",
+      "id_image": "counter_6091461"
+    }
+  ]
+}

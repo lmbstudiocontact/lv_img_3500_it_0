@@ -1,0 +1,174 @@
+{
+  "english": "crop",
+  "phat_am": "[krɔp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vụ, mùa; thu hoạch của một vụ",
+          "list_en_vn": [
+            {
+              "full_en": "potato crop",
+              "full_vn": "vụ khoai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) cây trồng",
+          "list_en_vn": [
+            {
+              "full_en": "technical (industrial ) crops",
+              "full_vn": "cây công nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cụm, nhóm, loạt, tập",
+          "list_en_vn": [
+            {
+              "full_en": "a crop of questions",
+              "full_vn": "một loạt câu hỏi"
+            },
+            {
+              "full_en": "a crop of bills",
+              "full_vn": "tập hoá đơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(động vật học) diều (chim)"
+        },
+        {
+          "m_full_vn": "tay cầm (của roi da)"
+        },
+        {
+          "m_full_vn": "sự cắt tóc ngắn",
+          "list_en_vn": [
+            {
+              "full_en": "to have a close crop",
+              "full_vn": "cắt tóc ngắn quá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ da thuộc"
+        },
+        {
+          "m_full_vn": "đoạn cắt bỏ đầu, khúc cắt bỏ đầu"
+        },
+        {
+          "m_full_vn": "thịt bả vai (bò ngựa)",
+          "list_one_mean": [
+            {
+              "id_full_en": "neck and crop",
+              "list_im": [
+                {
+                  "im_full_vn": "toàn bộ, toàn thể"
+                }
+              ]
+            },
+            {
+              "id_full_en": "land in crop ; land under crop",
+              "list_im": [
+                {
+                  "im_full_vn": "đất đang được trồng trọt cày cấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "land out of crop",
+              "list_im": [
+                {
+                  "im_full_vn": "đất bỏ hoá"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gặm (cỏ)"
+        },
+        {
+          "m_full_vn": "gặt; hái"
+        },
+        {
+          "m_full_vn": "gieo, trồng (ruộng đất)",
+          "list_en_vn": [
+            {
+              "full_en": "to crop a land with potatoes",
+              "full_vn": "trồng khoai một thửa ruộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xén, hớt, cắt ngắn (tai, đuôi, tóc, mép sách, hàng rào...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thu hoạch",
+          "list_one_mean": [
+            {
+              "id_full_en": "to crop out (forth )",
+              "list_im": [
+                {
+                  "im_full_vn": "trồi lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to crop up",
+              "list_im": [
+                {
+                  "im_full_vn": "nảy ra, hiểu ra, nổi lên bất ngờ (khó khăn, vấn đề...)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the beans cropped well this year",
+              "full_vn": "năm nay đậu thu hoạch tốt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434463_488b17f7dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434463_01787d33c7_o.png",
+      "id_image": "crops_1686495"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434393_b2c0aa917f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434393_e034480659_o.png",
+      "id_image": "crops_3239276"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364062_8f478dbcc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364062_87420cdb8b_o.png",
+      "id_image": "crop_1583433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364017_27753b8833_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364017_13dab4260c_o.png",
+      "id_image": "crop_1791909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319401_03ccf0b88b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319401_a1143e621a_o.png",
+      "id_image": "crop_593505"
+    }
+  ]
+}

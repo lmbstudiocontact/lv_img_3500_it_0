@@ -1,0 +1,108 @@
+{
+  "english": "commercial",
+  "phat_am": "[kə'mə:∫l]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về hoặc dành cho thương mại",
+          "list_en_vn": [
+            {
+              "full_en": "commercial law",
+              "full_vn": "luật thương mại"
+            },
+            {
+              "full_en": "commercial activity /art",
+              "full_vn": "hoạt động/nghệ thuật thương mại"
+            },
+            {
+              "full_en": "doing a commercial course at the local college",
+              "full_vn": "mở một lớp về thương nghiệp ở trường chuyên nghiệp địa phương"
+            },
+            {
+              "full_en": "commercial vehicles",
+              "full_vn": "xe ô tô, toa xe lửa chở hàng"
+            },
+            {
+              "full_en": "commercial treaty",
+              "full_vn": "hiệp ước thương mại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tạo ra lợi nhuận; có lãi",
+          "list_one_mean": [
+            {
+              "id_full_en": "commercial broadcast",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) buổi phát thanh quảng cáo hàng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "commercial traveller",
+                      "full_vn": "người đi chào hàng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the play was a commercial success",
+              "full_vn": "vở kịch đã thành công về lợi nhuận"
+            },
+            {
+              "full_en": "commercial theatre /music",
+              "full_vn": "sân khấu/âm nhạc thương mại"
+            },
+            {
+              "full_en": "oil is present in commercial quantities",
+              "full_vn": "dầu có chất lượng thương phẩm khá"
+            },
+            {
+              "full_en": "her novels are well written and commercial as well",
+              "full_vn": "tiểu thuyết của bà ta vừa viết hay vừa bán được (có tính thương mại)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự quảng cáo trên vô tuyến truyền hình hoặc truyền thanh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055410_4cf1c12fbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055410_2323aa3933_o.png",
+      "id_image": "commercial_1734068"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434038_c2ee25b056_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434038_af1234d203_o.png",
+      "id_image": "commercial_2104099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318801_7101426695_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318801_f5ed48404e_o.png",
+      "id_image": "commercial_2494727"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673614_d2743a4e17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673614_6b1725e599_o.png",
+      "id_image": "commercial_3966313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055445_6b8c987c31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055445_b81ac4971b_o.png",
+      "id_image": "commercial_994621"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "english": "detail",
+  "phat_am": "['di:teil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kiện hoặc khoản nhỏ, riêng biệt; chi tiết; tiểu tiết",
+          "list_en_vn": [
+            {
+              "full_en": "the details of a story",
+              "full_vn": "chi tiết của một câu chuyện"
+            },
+            {
+              "full_en": "I checked every detail of her research",
+              "full_vn": "tôi đã kiểm tra mọi chi tiết trong công trình nghiên cứu của cô ấy"
+            },
+            {
+              "full_en": "to go (enter ) into details",
+              "full_vn": "đi sâu vào chi tiết"
+            },
+            {
+              "full_en": "spare me the details !",
+              "full_vn": "xin miễn cho tôi mọi chi tiết!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặc điểm, khía cạnh nhỏ, riêng biệt của cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "a good organizer pays attention to detail",
+              "full_vn": "một nhà tổ chức giỏi luôn chú ý đến các chi tiết"
+            },
+            {
+              "full_en": "a novelist with an eye for detail",
+              "full_vn": "một nhà văn chú ý đến từng chi tiết"
+            },
+            {
+              "full_en": "to explain /describe something in detail",
+              "full_vn": "giải thích/mô tả cái gì một cách tường tận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần nhỏ bé hoặc ít quan trọng trong một bức tranh",
+          "list_en_vn": [
+            {
+              "full_en": "the overall composition of the picture is good but some of the detail is distracting",
+              "full_vn": "bố cục chung của bức tranh thì đẹp, nhưng có vài chi tiết hơi lạc lõng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) nhóm binh lính được giao làm nhiệm vụ đặc biệt",
+          "list_en_vn": [
+            {
+              "full_en": "the cookhouse detail",
+              "full_vn": "nhóm binh cấp dưỡng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to detail something to / for somebody ) kể chi tiết, trình bày tỉ mỉ",
+          "list_en_vn": [
+            {
+              "full_en": "to detail a story",
+              "full_vn": "kể tỉ mỉ một câu chuyện"
+            },
+            {
+              "full_en": "to detail one's plan",
+              "full_vn": "trình bày chi tiết kế hoạch của mình"
+            },
+            {
+              "full_en": "an inventory detailing all the goods in a shop",
+              "full_vn": "một bản kiểm kê ghi rõ chi tiết tất cả hàng hoá trong cửa hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to detail somebody for something ) (quân sự) chọn hoặc chỉ định ai làm việc gì đặc biệt; cắt cử",
+          "list_en_vn": [
+            {
+              "full_en": "to detail soldiers for guard duty /to guard a bridge",
+              "full_vn": "cắt cử binh sĩ vào nhiệm vụ gác/gác cầu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372162_f3555a60cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372162_c9551268d4_o.png",
+      "id_image": "detail_3527250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372107_9f738248dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372107_4fc219ebbd_o.png",
+      "id_image": "detail_3534606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372052_712ed9d220_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372052_18bd06d4a2_o.png",
+      "id_image": "detail_5673243"
+    }
+  ]
+}

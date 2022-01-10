@@ -1,0 +1,74 @@
+{
+  "english": "available",
+  "phat_am": "[ə'veiləbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sẵn có để dùng, sẵn sàng để dùng, có thể dùng được",
+          "list_en_vn": [
+            {
+              "full_en": "by all available means",
+              "full_vn": "bằng mọi phương tiện sẵn có"
+            },
+            {
+              "full_en": "available funds",
+              "full_vn": "vốn sẵn có để dùng, vốn tự có"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể kiếm được, có thể mua được",
+          "list_en_vn": [
+            {
+              "full_en": "this book is not available",
+              "full_vn": "quyển sách này không thể mua được (không thể kiếm đâu ra được)"
+            },
+            {
+              "full_en": "tickets are available at the box office",
+              "full_vn": "vé có thể mua được ở quầy bán vé"
+            },
+            {
+              "full_en": "you will be informed when the book becomes available",
+              "full_vn": "khi nào có sách anh sẽ được thông báo"
+            },
+            {
+              "full_en": "that was the only available room",
+              "full_vn": "đó là căn phòng duy nhất có thể kiếm được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có hiệu lực, có giá trị",
+          "list_en_vn": [
+            {
+              "full_en": "ticket available for one day only",
+              "full_vn": "chỉ có giá trị trong một ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về người) rỗi để được gặp, được nói chuyện với....",
+          "list_en_vn": [
+            {
+              "full_en": "I'm available in the afternoon",
+              "full_vn": "Tôi rỗi vào buổi chiều"
+            },
+            {
+              "full_en": "The Prime Minister was not available for comment",
+              "full_vn": "Ngài Thủ tướng không sẵn sàng bình luận"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679749_92c8eab5a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679749_8672dd4fa7_o.png",
+      "id_image": "available_408314"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "authorize",
+  "phat_am": "['ɔ:θəraiz]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho quyền, uỷ quyền, cho phép",
+          "list_en_vn": [
+            {
+              "full_en": "to authorize someone to do something",
+              "full_vn": "cho quyền ai được làm việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "là căn cứ, là cái cớ chính đáng",
+          "list_one_mean": [
+            {
+              "id_full_en": "Authorised Version",
+              "list_im": [
+                {
+                  "im_full_vn": "bản dịch kinh thánh xuất bản lần đầu tiên năm 1611, và được vua James I cho phép dùng trong các nhà thờ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "his conduct authorized your suspicion",
+              "full_vn": "tư cách của hắn thật là đúng là cái cớ để cho anh nghi ngờ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370852_4d8eb7daa8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370852_4444369222_o.png",
+      "id_image": "authorize_4133338"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "english": "bang",
+  "phat_am": "[bæη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tóc cắt ngang trán"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cắt (tóc) ngang trán"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng sập mạnh; tiếng nổ lớn",
+          "list_en_vn": [
+            {
+              "full_en": "to shut the door with a bang",
+              "full_vn": "sập cửa đánh rầm một cái"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh mạnh, đập mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "to bang one's fist on the table",
+              "full_vn": "đập bàn thình thình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nện đau, đánh, đấm"
+        },
+        {
+          "m_full_vn": "(từ lóng) trôi hơn, vượt hơn"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sập mạnh; nổ vang",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bang off",
+              "list_im": [
+                {
+                  "im_full_vn": "bắn hết (đạn)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the gun banged",
+              "full_vn": "tiếng súng nổ vang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "thình lình; thẳng ngay vào; đánh rầm một cái; vang lên",
+          "list_en_vn": [
+            {
+              "full_en": "to go bang at somebody",
+              "full_vn": "thình lình lao vào ai"
+            },
+            {
+              "full_en": "the ball hit him bang in the eye",
+              "full_vn": "quả bóng tin trúng ngay vào mắt nó"
+            },
+            {
+              "full_en": "to go bang",
+              "full_vn": "nổ (súng)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "pằng, pằng!, bùm, bùm!"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053505_dcdbebbb4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053505_8c7b42fb33_o.png",
+      "id_image": "bang_3770909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053465_91dddc71ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053465_6536d5b1a9_o.png",
+      "id_image": "bang_5928138"
+    }
+  ]
+}

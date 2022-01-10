@@ -1,0 +1,58 @@
+{
+  "english": "chemistry",
+  "phat_am": "['kemistri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngành hoá học; môn hoá học, hoá học",
+          "list_en_vn": [
+            {
+              "full_en": "analytic chemistry",
+              "full_vn": "hoá phân tích"
+            },
+            {
+              "full_en": "synthetic chemistry",
+              "full_vn": "hoá tổng hợp"
+            },
+            {
+              "full_en": "organic chemistry",
+              "full_vn": "hoá hữu cơ"
+            },
+            {
+              "full_en": "inorganic (mineral ) chemistry",
+              "full_vn": "hoá vô cơ"
+            },
+            {
+              "full_en": "pharmaceutical chemistry",
+              "full_vn": "hoá dược"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355152_c7f6986254_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355152_26b938ce74_o.png",
+      "id_image": "chemistry_1741996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355267_8fbca9d90a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355267_11895b3ca4_o.png",
+      "id_image": "chemistry_546648"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355237_e5f344ec02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355237_7fccc34aa8_o.png",
+      "id_image": "chemistry_649157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426003_4f7646b51d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426003_1cc6da75ac_o.png",
+      "id_image": "chemistry_995446"
+    }
+  ]
+}

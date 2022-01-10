@@ -1,0 +1,70 @@
+{
+  "english": "crisis",
+  "phat_am": "['kraisis]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều crises",
+      "list_m": [
+        {
+          "m_full_vn": "sự khủng hoảng; cơn khủng hoảng",
+          "list_en_vn": [
+            {
+              "full_en": "political crisis",
+              "full_vn": "khủng hoảng chính trị"
+            },
+            {
+              "full_en": "a cabinet crisis",
+              "full_vn": "khủng hoảng nội các"
+            },
+            {
+              "full_en": "economic crisis",
+              "full_vn": "khủng hoảng kinh tế"
+            },
+            {
+              "full_en": "to come to /reach a crisis",
+              "full_vn": "đạt đến thời điểm khủng hoảng"
+            },
+            {
+              "full_en": "to pass through a crisis",
+              "full_vn": "qua một cơn khủng hoảng"
+            },
+            {
+              "full_en": "in times of crisis , it's good to have a friend to turn to",
+              "full_vn": "trong những lúc khủng hoảng, có một người bạn để trông cậy là một điều tốt lành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) cơn (bệnh); sự lên cơn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056665_8560956f25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056665_098e0a3d70_o.png",
+      "id_image": "crisis_2361976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056635_fb42b181ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056635_e32542532b_o.png",
+      "id_image": "crisis_2471336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435123_8220bcde8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435123_ea6a8f9b25_o.png",
+      "id_image": "crisis_3773119"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435093_31ebcd2c6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435093_0769dfdc59_o.png",
+      "id_image": "crisis_3977933"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319951_562f26a284_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319951_d785cf4152_o.png",
+      "id_image": "crisis_6159668"
+    }
+  ]
+}

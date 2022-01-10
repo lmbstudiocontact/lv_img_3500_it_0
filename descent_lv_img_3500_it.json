@@ -1,0 +1,51 @@
+{
+  "english": "descent",
+  "phat_am": "[di'sent]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xuống",
+          "list_en_vn": [
+            {
+              "full_en": "to make a parachute descent",
+              "full_vn": "nhảy dù xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hạ thấp xuống (độ nhiệt...)"
+        },
+        {
+          "m_full_vn": "sự dốc xuống; con đường dốc"
+        },
+        {
+          "m_full_vn": "nguồn gốc, dòng dõi; thế hệ, đời",
+          "list_en_vn": [
+            {
+              "full_en": "to be of good descents",
+              "full_vn": "truyền nhiều đời tốt đẹp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự truyền lại; sự để lại (tài sản...)"
+        },
+        {
+          "m_full_vn": "(quân sự) cuộc tấn công bất ngờ, cuộc đột kích (từ đường biển vào)"
+        },
+        {
+          "m_full_vn": "sự sa sút, sự suy sụp, sự xuống dốc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329721_caaa15b7bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329721_f5fcb157e7_o.png",
+      "id_image": "descent_4344686"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "confrontation",
+  "phat_am": "[,kɔnfrʌn'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đương đầu; sự đối đầu",
+          "list_en_vn": [
+            {
+              "full_en": "a confrontation between the Government and the unions",
+              "full_vn": "cuộc đối đầu giữa chính phủ và các công đoàn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312081_7bb04d6b06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312081_8c6ec1d38a_o.png",
+      "id_image": "confrontation_4144507"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426903_2f39915163_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426903_f7c251a01b_o.png",
+      "id_image": "confrontation_4144578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356082_44d0a7040d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356082_8d6902bbbd_o.png",
+      "id_image": "confrontation_4144620"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666854_a8fa3aa3ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666854_1365e9210a_o.png",
+      "id_image": "confrontation_4144646"
+    }
+  ]
+}

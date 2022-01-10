@@ -1,0 +1,125 @@
+{
+  "english": "clip",
+  "phat_am": "[klip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái ghim, cái cặp, cái kẹp",
+          "list_en_vn": [
+            {
+              "full_en": "paper clip",
+              "full_vn": "cái kẹp giấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) cái nạp đạn"
+        },
+        {
+          "m_full_vn": "sự xén, sự cắt, sự hớt (lông cừu)"
+        },
+        {
+          "m_full_vn": "mớ lông (cừu...) xén ra"
+        },
+        {
+          "m_full_vn": "cú đánh mạnh, cú quật mạnh"
+        },
+        {
+          "m_full_vn": "( số nhiều) kéo xén; tông-đơ; cái bấm móng tay"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cắt, cắt rời ra, xén, hớt (lông cừu, ngựa)",
+          "list_en_vn": [
+            {
+              "full_en": "to clip sheep",
+              "full_vn": "xén lông cừu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rút ngắn, cô lại",
+          "list_en_vn": [
+            {
+              "full_en": "to clip a speech",
+              "full_vn": "rút ngắn bài nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bấm, xé đầu (vé, phiếu... để loại đi)"
+        },
+        {
+          "m_full_vn": "nuốt, bỏ bớt, đọc không rõ",
+          "list_en_vn": [
+            {
+              "full_en": "to clip one's words",
+              "full_vn": "đọc nhanh nuốt chữ đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) đấm mạnh, đánh, nện"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đi nhanh",
+          "list_en_vn": [
+            {
+              "full_en": "at a fast clip",
+              "full_vn": "đi rất nhanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đứa bé láo xược, ranh con hỗn xược"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi nhanh; chạy"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068230_16c933c1a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068230_87334f76e8_o.png",
+      "id_image": "clip_2003509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068170_492f020a6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068170_35648e57bf_o.png",
+      "id_image": "clip_2249530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686424_fb02c21cf0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686424_2318c7dfc9_o.png",
+      "id_image": "clip_2598013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331356_6b1caac6e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331356_b0bd7f658b_o.png",
+      "id_image": "clip_2748981"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446308_f8ae1a41b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446308_f7ecdf6f3d_o.png",
+      "id_image": "clip_4684452"
+    }
+  ]
+}

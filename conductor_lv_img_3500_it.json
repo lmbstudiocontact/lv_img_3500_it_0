@@ -1,0 +1,74 @@
+{
+  "english": "conductor",
+  "phat_am": "[kən'dʌktə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người chỉ huy; người chỉ đạo; người điều khiển",
+          "list_en_vn": [
+            {
+              "full_en": "the conductor of an orchestra",
+              "full_vn": "người chỉ huy dàn nhạc"
+            },
+            {
+              "full_en": "the conductor of an expedition",
+              "full_vn": "người chỉ đạo đoàn thám hiểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người bán vé (xe điện, xe buýt)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) người chịu trách nhiệm về một đoàn tàu; trưởng tàu (cũng) guard"
+        },
+        {
+          "m_full_vn": "(vật lý) chất dẫn (điện, nhiệt)",
+          "list_en_vn": [
+            {
+              "full_en": "metals are good conductors",
+              "full_vn": "kim loại là những chất dẫn tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) dây dẫn",
+          "list_one_mean": [
+            {
+              "id_full_en": "conductor rail",
+              "list_im": [
+                {
+                  "im_full_vn": "đường dẫn điện cung ứng điện cho đầu máy xe lửa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313206_706f35ff2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313206_8722bc02fa_o.png",
+      "id_image": "conductor_1776623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049635_faaa384e32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049635_fbf164733d_o.png",
+      "id_image": "conductor_2855708"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357102_9da4fee4cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357102_0777a1b086_o.png",
+      "id_image": "conductor_2855768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427943_d814cc3a72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427943_12392a5720_o.png",
+      "id_image": "conductor_6101682"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "compost",
+  "phat_am": "['kɔmpɔst]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phân trộn; phân compôt"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm thành phân trộn",
+          "list_en_vn": [
+            {
+              "full_en": "to compost the kitchen waste",
+              "full_vn": "chế chất thải của nhà bếp thành phân trộn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bón phân trộn",
+          "list_en_vn": [
+            {
+              "full_en": "to compost the flower-beds",
+              "full_vn": "bón phân trộn cho các luống hoa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051650_c589ccae9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051650_e7fcde5296_o.png",
+      "id_image": "compost_1208497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051635_3f20dc49cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051635_0b8bcfcbd4_o.png",
+      "id_image": "compost_4660787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315081_9fc55e0537_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315081_b628ff29f3_o.png",
+      "id_image": "compost_4745537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315071_2217b11bcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315071_4ae73dc23d_o.png",
+      "id_image": "compost_6041349"
+    }
+  ]
+}

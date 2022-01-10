@@ -1,0 +1,64 @@
+{
+  "english": "description",
+  "phat_am": "[dis'krip∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tả, sự diễn tả, sự mô tả, sự miêu tả",
+          "list_en_vn": [
+            {
+              "full_en": "beyond description",
+              "full_vn": "không thể tả được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "diện mạo, tướng mạo, hình dạng"
+        },
+        {
+          "m_full_vn": "sự vạch, sự vẽ (hình)"
+        },
+        {
+          "m_full_vn": "(thông tục) hạng, loại",
+          "list_en_vn": [
+            {
+              "full_en": "books of every description",
+              "full_vn": "sách đủ các loại"
+            },
+            {
+              "full_en": "a person of such description",
+              "full_vn": "người thuộc hạng như thế ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghề nghiệp, công tác (ở hộ chiếu, giấy chứng minh...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684629_4bab7971a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684629_a63f5f9934_o.png",
+      "id_image": "description_1907446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444583_96363dbbcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444583_249204c3f1_o.png",
+      "id_image": "description_2036986"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684554_3d6ec2cf8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684554_9235134d96_o.png",
+      "id_image": "description_2620330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066305_c822a6c72d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066305_523c1f940f_o.png",
+      "id_image": "description_2620334"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "conception",
+  "phat_am": "[kən'sep∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quan niệm",
+          "list_en_vn": [
+            {
+              "full_en": "the plan , brilliant in its conception , failed because of inadequate preparation",
+              "full_vn": "kế hoạch này, tuy xuất sắc về quan niệm, nhưng đã thất bại vì không được chuẩn bị chu đáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý niệm; ý đồ",
+          "list_en_vn": [
+            {
+              "full_en": "the new play is a brilliant conception",
+              "full_vn": "vở kịch mới là một ý đồ rất hay"
+            },
+            {
+              "full_en": "I've no conception of what you mean",
+              "full_vn": "tôi chẳng có một ý niệm nào về điều ông nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thụ thai hoặc được thụ thai",
+          "list_en_vn": [
+            {
+              "full_en": "the moment of conception",
+              "full_vn": "lúc thụ thai"
+            },
+            {
+              "full_en": "an unplanned conception",
+              "full_vn": "sự có mang ngoài dự kiến"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428728_fd63943598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428728_6bd94d0afc_o.png",
+      "id_image": "conception_2733398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050565_ebfc2895bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050565_a07e04a32b_o.png",
+      "id_image": "concept_2111175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668664_18757759df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668664_ca08e93ffd_o.png",
+      "id_image": "concept_2311639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428758_3cb2793963_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428758_bb3cddf717_o.png",
+      "id_image": "concept_4234369"
+    }
+  ]
+}

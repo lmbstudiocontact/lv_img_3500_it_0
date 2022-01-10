@@ -1,0 +1,60 @@
+{
+  "english": "assurance",
+  "phat_am": "[ə'∫uərəns, ə'∫ɔ:rəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chắc chắn; sự tin chắc; điều chắc chắn, điều tin chắc"
+        },
+        {
+          "m_full_vn": "sự quả quyết, sự cam đoan; sự đảm bảo"
+        },
+        {
+          "m_full_vn": "sự tự tin ( (cũng) self-assurance )"
+        },
+        {
+          "m_full_vn": "sự trơ tráo, sự vô liêm sỉ",
+          "list_en_vn": [
+            {
+              "full_en": "to have the assurance to do something",
+              "full_vn": "dám trơ tráo làm việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) bảo hiểm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make assurance double sure",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho hoàn toàn chắc chắn; làm cho không thể nghi ngờ vào đâu được"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "life assurance",
+              "full_vn": "bảo hiểm nhân thọ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809657994_eab84eebf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809657994_614ca9dbac_o.png",
+      "id_image": "assurance_4157207"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039305_fcfcfd1f62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039305_bd4452f73c_o.png",
+      "id_image": "assurance_5386984"
+    }
+  ]
+}

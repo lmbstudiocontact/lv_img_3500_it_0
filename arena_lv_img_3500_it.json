@@ -1,0 +1,45 @@
+{
+  "english": "arena",
+  "phat_am": "[ə'ri:nə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khu vực bằng phẳng ở giữa một đài vòng hoặc sân vận động; đấu trường"
+        },
+        {
+          "m_full_vn": "nơi diễn ra một hoạt động hoặc xung đột; trường đấu tranh; vũ đài",
+          "list_en_vn": [
+            {
+              "full_en": "in the international arena",
+              "full_vn": "trên vũ đài quốc tế"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043270_9f9c3773d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043270_d1f22368af_o.png",
+      "id_image": "arena_1413064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350377_62acc9a939_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350377_461a71670f_o.png",
+      "id_image": "arena_1620444"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306196_b3187393a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306196_76b3bf5fd0_o.png",
+      "id_image": "arena_1622495"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421308_e5a9343541_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421308_3ea78ae261_o.png",
+      "id_image": "arena_5265516"
+    }
+  ]
+}

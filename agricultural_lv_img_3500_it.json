@@ -1,0 +1,42 @@
+{
+  "english": "agricultural",
+  "phat_am": "[,ægri'kʌlt∫ərəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) nông nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "his company specializes in exporting agricultural products",
+              "full_vn": "công ty của anh ta chuyên xuất khẩu nông sản (sản phẩm (nông nghiệp))"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673044_2fa1eb140c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673044_d08a9e967f_o.png",
+      "id_image": "agricultural_1610474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433403_07434c1e75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433403_3b73a79f16_o.png",
+      "id_image": "agricultural_2286155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433358_4f6e2b7eeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433358_2f57a64098_o.png",
+      "id_image": "agricultural_3075200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362622_a48730a20d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362622_d95467260d_o.png",
+      "id_image": "agricultural_4829646"
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "english": "break",
+  "phat_am": "[breik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe vực ngựa (tập cho ngựa kéo xe)"
+        },
+        {
+          "m_full_vn": "xe ngựa không mui"
+        },
+        {
+          "m_full_vn": "sự gãy, sự kéo, sự đứt, sự ngắt"
+        },
+        {
+          "m_full_vn": "chỗ vỡ, chỗ nứt, chỗ rạn"
+        },
+        {
+          "m_full_vn": "sự nghỉ, sự dừng lại, sự gián đoạn",
+          "list_en_vn": [
+            {
+              "full_en": "without a break",
+              "full_vn": "không ngừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ nhà trường) giờ nghỉ, giờ ra chơi, giờ giải lao"
+        },
+        {
+          "m_full_vn": "sự cắt đứt quan hệ, sự tuyệt giao",
+          "list_en_vn": [
+            {
+              "full_en": "to make a break with somebody",
+              "full_vn": "cắt đứt quan hệ với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự lỡ lời; sự lầm lỗi"
+        },
+        {
+          "m_full_vn": "sự vỡ nợ, sự bị phá sản"
+        },
+        {
+          "m_full_vn": "sự thay đổi thời tiết"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự thụt giá thình lình"
+        },
+        {
+          "m_full_vn": "(thông tục) dịp may, cơ hội",
+          "list_en_vn": [
+            {
+              "full_en": "to get the breaks",
+              "full_vn": "gặp cơ hội thuận lợi, gặp may"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) sự đổi giọng; sự chuyển âm vực"
+        },
+        {
+          "m_full_vn": "mục xen vào chương trình rađiô (hoặc truyền hình) đang phát",
+          "list_one_mean": [
+            {
+              "id_full_en": "break in the clouds",
+              "list_im": [
+                {
+                  "im_full_vn": "tia hy vọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "break of day",
+              "list_im": [
+                {
+                  "im_full_vn": "bình minh, rạng đông"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ bất quy tắc broke ; broken",
+      "list_m": [
+        {
+          "m_full_vn": "làm gãy, bẻ gãy, làm đứt, làm vỡ, đập vỡ",
+          "list_en_vn": [
+            {
+              "full_en": "to break one's arm",
+              "full_vn": "bị gãy tay"
+            },
+            {
+              "full_en": "to break a cup",
+              "full_vn": "đập vỡ cái tách"
+            },
+            {
+              "full_en": "to break clods",
+              "full_vn": "đập nhỏ những cục đất"
+            },
+            {
+              "full_en": "to break ground",
+              "full_vn": "động thổ, bắt đầu một công việc, khởi công, bắt đầu bao vây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cắt, ngắt, làm gián đoạn, ngừng phá",
+          "list_en_vn": [
+            {
+              "full_en": "to break a journey",
+              "full_vn": "ngừng cuộc hành trình"
+            },
+            {
+              "full_en": "to break the silence",
+              "full_vn": "phá tan sự yên lặng"
+            },
+            {
+              "full_en": "to break the spell",
+              "full_vn": "giải mê, giải bùa"
+            },
+            {
+              "full_en": "to break a sleep",
+              "full_vn": "làm mất giấc ngủ"
+            },
+            {
+              "full_en": "to break the telephone communications",
+              "full_vn": "làm gián đoạn sự liên lạc bằng điện thoại"
+            },
+            {
+              "full_en": "to break a record",
+              "full_vn": "phá kỷ lục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xua tan, làm tan tác",
+          "list_en_vn": [
+            {
+              "full_en": "to break the ranks",
+              "full_vn": "phá bỏ hàng ngũ"
+            },
+            {
+              "full_en": "to break the clouds",
+              "full_vn": "xua tan những đám mây"
+            },
+            {
+              "full_en": "to break bulk",
+              "full_vn": "bắt đầu dỡ hàng (trên tàu thuỷ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xâm phạm, vi phạm",
+          "list_en_vn": [
+            {
+              "full_en": "to break the law",
+              "full_vn": "phạm luật"
+            },
+            {
+              "full_en": "to break one's promise (word ); to break faith with someone",
+              "full_vn": "bội ước, không giữ lời hứa với ai"
+            },
+            {
+              "full_en": "to break the peace",
+              "full_vn": "gây rối trật tự công cộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "truyền đạt, báo (tin)",
+          "list_en_vn": [
+            {
+              "full_en": "to break one's mind to ...",
+              "full_vn": "truyền đạt ý kiến của mình cho..."
+            },
+            {
+              "full_en": "to break news",
+              "full_vn": "báo tin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm suy sụp, làm nhụt (ý chí...), làm mất hết",
+          "list_en_vn": [
+            {
+              "full_en": "to break someone's health",
+              "full_vn": "làm ai mất sức, làm ai suy nhược"
+            },
+            {
+              "full_en": "to break someone's courage",
+              "full_vn": "làm ai mất hết can đảm"
+            },
+            {
+              "full_en": "to break someone's will",
+              "full_vn": "làm nhụt ý chí của ai"
+            },
+            {
+              "full_en": "to break someone's heart",
+              "full_vn": "làm ai đau lòng"
+            },
+            {
+              "full_en": "to break bank",
+              "full_vn": "ăn hết tiền của nhà cái"
+            },
+            {
+              "full_en": "to break an officer",
+              "full_vn": "(quân sự) tước quân hàm (lột lon) một sĩ quan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngăn đỡ, làm yếu đi, làm nhẹ đi",
+          "list_en_vn": [
+            {
+              "full_en": "to break a current",
+              "full_vn": "ngăn dòng nước"
+            },
+            {
+              "full_en": "to break the force of a blow",
+              "full_vn": "đỡ một miếng đòn"
+            },
+            {
+              "full_en": "to break a fall",
+              "full_vn": "đỡ cho khỏi bị ngã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho thuần thục; tập luyện",
+          "list_en_vn": [
+            {
+              "full_en": "to break a horse",
+              "full_vn": "tập ngựa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đập tan; đàn áp, trấn áp",
+          "list_en_vn": [
+            {
+              "full_en": "to break a rebellion",
+              "full_vn": "đàn áp một cuộc nổi loạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sửa chữa",
+          "list_en_vn": [
+            {
+              "full_en": "to break someone of a habit",
+              "full_vn": "sửa chữa cho ai một thói quen"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mở, mở tung ra, cạy tung ra",
+          "list_en_vn": [
+            {
+              "full_en": "to break a letter open",
+              "full_vn": "xé lá thư"
+            },
+            {
+              "full_en": "to break a way",
+              "full_vn": "mở đường"
+            },
+            {
+              "full_en": "to break gaol",
+              "full_vn": "vượt ngục"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gãy, đứt, vỡ",
+          "list_en_vn": [
+            {
+              "full_en": "the branch broke",
+              "full_vn": "cành cây gãy"
+            },
+            {
+              "full_en": "the abscess breaks",
+              "full_vn": "nhọt vỡ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chạy tán loạn, tan tác",
+          "list_en_vn": [
+            {
+              "full_en": "enemy troops break",
+              "full_vn": "quân địch bỏ chạy tán loạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ló ra, hé ra, hiện ra",
+          "list_en_vn": [
+            {
+              "full_en": "day broke",
+              "full_vn": "trời bắt đầu hé sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thoát khỏi; sổ ra; ( (thể dục,thể thao)) buông ra (quyền Anh)",
+          "list_en_vn": [
+            {
+              "full_en": "to break from someone's bonds",
+              "full_vn": "thoát khỏi sự ràng buộc của ai"
+            },
+            {
+              "full_en": "to break free (loose )",
+              "full_vn": "trốn (chạy) thoát; sổ ra, sổ lồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "suy nhược, yếu đi; suy sụp, sa sút, phá sản",
+          "list_en_vn": [
+            {
+              "full_en": "his health is breaking",
+              "full_vn": "sức khoẻ của anh ta sút đi"
+            },
+            {
+              "full_en": "his heart breaks",
+              "full_vn": "anh ta đau lòng đứt ruột"
+            },
+            {
+              "full_en": "a merchant breaks",
+              "full_vn": "một nhà buôn bị phá sản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thay đổi",
+          "list_en_vn": [
+            {
+              "full_en": "the weather begins to break",
+              "full_vn": "thời tiết bắt đầu thay đổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vỡ tiếng, nức nở, nghẹn ngào (tiếng nói)",
+          "list_en_vn": [
+            {
+              "full_en": "his voice breaks",
+              "full_vn": "hắn ta vỡ tiếng; giọng nói của anh ta nghẹn ngào (vì xúc động)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đột nhiên làm; phá lên",
+          "list_en_vn": [
+            {
+              "full_en": "to break into tears",
+              "full_vn": "khóc oà lên"
+            },
+            {
+              "full_en": "to break into a gallop",
+              "full_vn": "đột nhiên chồm lên phi nước đại (ngựa)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cắt đứt quan hệ, tuyệt giao",
+          "list_en_vn": [
+            {
+              "full_en": "to break with somebody",
+              "full_vn": "cắt đứt quan hệ với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phá mà vào, phá mà ra, xông vào nhà; phá cửa vào nhà, bẻ khoá vào nhà",
+          "list_one_mean": [
+            {
+              "id_full_en": "housebreaking",
+              "list_im": [
+                {
+                  "im_full_vn": "sự bẻ khoá trèo tường vào nhà người khác để ăn trộm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break away (from somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "trốn; thoát khỏi"
+                },
+                {
+                  "im_full_vn": "rời bỏ một đảng phái, đoàn thể để lập một đảng, đoàn thể mới",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The prisoner broke away from his guards",
+                      "full_vn": "tù nhân trốn thoát khỏi lính gác"
+                    },
+                    {
+                      "full_en": "Several Labour MPs broke away to join the Social Democrats",
+                      "full_vn": "Nhiều nghị sĩ Công Đảng đã ly khai để gia nhập Đảng dân chủ xã hội"
+                    },
+                    {
+                      "full_en": "A province has broken away to form a state",
+                      "full_vn": "Một tỉnh đã tách ra để lập một bang mới"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break down",
+              "list_im": [
+                {
+                  "im_full_vn": "đập vỡ, đạp tan, đạp đổ, xô đổ; sụp đổ, đổ vỡ tan tành",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to break down a wall",
+                      "full_vn": "đạp đổ bức tường"
+                    },
+                    {
+                      "full_en": "to break down the enemy's resistance",
+                      "full_vn": "đập tan sự kháng cự của quân địch"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "suy nhược, kiệt sức; làm sa sút, làm suy nhược (sức khoẻ, tinh thần...)"
+                },
+                {
+                  "im_full_vn": "vỡ nợ, phá sản, thất cơ lỡ vận"
+                },
+                {
+                  "im_full_vn": "bị pan, bị hỏng (xe cộ)"
+                },
+                {
+                  "im_full_vn": "phân ra từng món (chi tiêu...); (hoá) phân nhỏ, phân tích"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break forth",
+              "list_im": [
+                {
+                  "im_full_vn": "vỡ ra, nổ ra; vọt ra, bắn ra, tuôn ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break in",
+              "list_im": [
+                {
+                  "im_full_vn": "xông vào, phá mà vào (nhà...)"
+                },
+                {
+                  "im_full_vn": "ngắt (lời); chặn (lời); cắt ngang (câu chuyện)"
+                },
+                {
+                  "im_full_vn": "can thiệp vào"
+                },
+                {
+                  "im_full_vn": "tập luyện (ngựa...); cho vào khuôn phép, dạy dỗ (trẻ con...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break off",
+              "list_im": [
+                {
+                  "im_full_vn": "rời ra, lìa ra, long ra, bị gãy rời ra"
+                },
+                {
+                  "im_full_vn": "ngừng sững lại, đột nhiên ngừng lại, thôi"
+                },
+                {
+                  "im_full_vn": "cắt đứt quan hệ, tuyệt giao",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to break off with someone",
+                      "full_vn": "cắt đứt quan hệ với ai, tuyệt giao với ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break out",
+              "list_im": [
+                {
+                  "im_full_vn": "(về những sự kiện dữ dội) khởi phát bất thình lình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "War broke out in 1939",
+                      "full_vn": "Chiến tranh bùng nổ năm 1939"
+                    },
+                    {
+                      "full_en": "Fire broke out during the night",
+                      "full_vn": "Hoả hoạn bất thình lình xảy ra ban đêm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break out of something",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng vũ lực để trốn thoát khỏi nơi nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "several prisoners broke out of the jail",
+                      "full_vn": "vài tù nhân đã vượt ngục"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break out in something",
+              "list_im": [
+                {
+                  "im_full_vn": "bỗng nhiên bị cái gì phủ lên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his face broke out in a rash",
+                      "full_vn": "mặt nó bỗng phát ban"
+                    },
+                    {
+                      "full_en": "he broke out in a cold sweat",
+                      "full_vn": "anh ta bỗng toát mồ hôi lạnh (vì quá sợ)"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bất thần biểu lộ cảm xúc mạnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she broke out in a rage",
+                      "full_vn": "cô ta bỗng nổi xung lên"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break up",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy toán loạn, tan tác, tản ra; giải tán (hội nghị, đám đông, mây...)"
+                },
+                {
+                  "im_full_vn": "chia lìa, chia ly, lìa nhau"
+                },
+                {
+                  "im_full_vn": "nghỉ hè (trường học)"
+                },
+                {
+                  "im_full_vn": "sụt lở; làm sụt lở (đường sá)"
+                },
+                {
+                  "im_full_vn": "thay đổi (thời tiết)"
+                },
+                {
+                  "im_full_vn": "suy yếu đi (người)"
+                },
+                {
+                  "im_full_vn": "đập vụn, đập nát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break bread with",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn ở nhà ai, được (ai) mời ăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break even",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) even"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break the ice",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) ice"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break a lance with someone",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) lance"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break the neck of",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) neck"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break Priscian's head",
+              "list_im": [
+                {
+                  "im_full_vn": "nói (viết) sai ngữ pháp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break on the wheel",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) wheel"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to break out of prison",
+              "full_vn": "phá ngục mà ra; vượt ngục"
+            },
+            {
+              "full_en": "to break through obstacles",
+              "full_vn": "vượt qua mọi trở ngại"
+            },
+            {
+              "full_en": "to break through the enemy's line",
+              "full_vn": "chọc thủng phòng tuyến của địch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361957_3dce06cfc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361957_e46b4d71d6_o.png",
+      "id_image": "breakage_2928720"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054220_117823c504_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054220_47a8166329_o.png",
+      "id_image": "break_2799938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362022_dc263845ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362022_8d80087f60_o.png",
+      "id_image": "break_4243801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317701_9d4f767d51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317701_d1ba101993_o.png",
+      "id_image": "break_769662"
+    }
+  ]
+}

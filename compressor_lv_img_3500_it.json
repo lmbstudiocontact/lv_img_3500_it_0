@@ -1,0 +1,46 @@
+{
+  "english": "compressor",
+  "phat_am": "[kəmˈpres.ɚ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) máy nén, máy ép",
+          "list_en_vn": [
+            {
+              "full_en": "air compressor",
+              "full_vn": "máy nén không khí"
+            },
+            {
+              "full_en": "gas compressor",
+              "full_vn": "máy nén khí"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051230_c89fcff9a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051230_35833a9e15_o.png",
+      "id_image": "compressor_1486189"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314681_a0dbd8e35b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314681_68b6c9a8d9_o.png",
+      "id_image": "compressor_2825465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358762_dbc0fab6bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358762_d6f9f7d415_o.png",
+      "id_image": "compressor_5760155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358712_7d95981e10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358712_d9eda4ede7_o.png",
+      "id_image": "compressor_6227129"
+    }
+  ]
+}

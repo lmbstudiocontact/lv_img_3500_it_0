@@ -1,0 +1,142 @@
+{
+  "english": "bay",
+  "phat_am": "[bei]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hồng",
+          "list_en_vn": [
+            {
+              "full_en": "a bay horse",
+              "full_vn": "ngựa hồng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngựa hồng"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) vịnh"
+        },
+        {
+          "m_full_vn": "gian nhà; ô chuồng ngựa"
+        },
+        {
+          "m_full_vn": "phần nhà xây lồi ra ngoài"
+        },
+        {
+          "m_full_vn": "nhịp cầu"
+        },
+        {
+          "m_full_vn": "(quân sự) chỗ tránh nhau trong chiến hào"
+        },
+        {
+          "m_full_vn": "(thực vật học) cây nguyệt quế"
+        },
+        {
+          "m_full_vn": "( số nhiều) vòng nguyệt quế"
+        },
+        {
+          "m_full_vn": "tiếng chó sủa",
+          "list_one_mean": [
+            {
+              "id_full_en": "sick bay",
+              "list_im": [
+                {
+                  "im_full_vn": "một phần của tàu thủy, trường học... được ngăn ra làm phòng săn sóc người ốm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the bomb-bay",
+              "list_im": [
+                {
+                  "im_full_vn": "khoang chứa bom trong máy bay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be (stand ) at bay",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng đường; bị dồn vào nước đường cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring (drive ) to bay",
+              "list_im": [
+                {
+                  "im_full_vn": "dồn vào nước đường cùng, dồn vào chân tường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold (keep ) somebody at bay",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ không cho ai lại gần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn to bay",
+              "list_im": [
+                {
+                  "im_full_vn": "chống lại một cách tuyệt hảo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sủa (chó)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bay the moon",
+              "list_im": [
+                {
+                  "im_full_vn": "sủa trăng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049010_5043348301_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049010_61917c5b6b_o.png",
+      "id_image": "bay_2290284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667314_24d2b4d9ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667314_5901fb9b23_o.png",
+      "id_image": "bay_3338327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356367_0be025a038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356367_d15c810d50_o.png",
+      "id_image": "bay_5026470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048950_d6d6202367_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048950_0c2d04ac6a_o.png",
+      "id_image": "bay_6253474"
+    }
+  ]
+}

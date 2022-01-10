@@ -1,0 +1,48 @@
+{
+  "english": "digestive",
+  "phat_am": "[di'dʒestiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiêu hoá",
+          "list_en_vn": [
+            {
+              "full_en": "digestive system",
+              "full_vn": "bộ máy tiêu hoá"
+            },
+            {
+              "full_en": "digestive troubles",
+              "full_vn": "rối loạn tiêu hoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giúp cho dễ tiêu"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) thuốc tiêu"
+        },
+        {
+          "m_full_vn": "thuốc đắp làm mưng mủ"
+        },
+        {
+          "m_full_vn": "bánh quy làm từ bột mì chưa rây"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058640_2962aaf6a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058640_98ee2565b7_o.png",
+      "id_image": "digestive_2721094"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "english": "agree",
+  "phat_am": "[ə'gri:]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to agree to something ) bằng lòng, đồng ý cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "I asked for a pay rise and she agreed",
+              "full_vn": "tôi đề nghị tăng lương và bà ấy đã đồng ý"
+            },
+            {
+              "full_en": "is he going to agree to our suggestion ?",
+              "full_vn": "liệu ông ấy có tán thành lời gợi ý của chúng ta hay không?"
+            },
+            {
+              "full_en": "he agreed to let me go home early",
+              "full_vn": "ông ấy bằng lòng để tôi về nhà sớm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to agree with somebody about / on something ) đồng ý với ai về điều gì",
+          "list_en_vn": [
+            {
+              "full_en": "when he said that , I had to agree",
+              "full_vn": "anh ta nói vậy thì tôi phải đồng ý"
+            },
+            {
+              "full_en": "do you agree with me about the need for more schools ?",
+              "full_vn": "anh có đồng ý với tôi về việc cần có thêm trường học hay không?"
+            },
+            {
+              "full_en": "we couldn't agree on a date /agree when to meet",
+              "full_vn": "chúng tôi không thoả thuận được với nhau về ngày gặp/không thoả thuận được với nhau là khi nào sẽ gặp nhau"
+            },
+            {
+              "full_en": "we agreed to start early",
+              "full_vn": "chúng tôi đồng ý với nhau sẽ bắt đầu sớm"
+            },
+            {
+              "full_en": "do we all agree that the proposal is a good one ?",
+              "full_vn": "tất cả chúng ta có đồng ý với nhau rằng đề nghị này là một đề nghị tốt hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to agree with something ) phù hợp với, khớp với",
+          "list_en_vn": [
+            {
+              "full_en": "the two accounts do not agree",
+              "full_vn": "hai bản kế toán này không khớp nhau"
+            },
+            {
+              "full_en": "your account of the affair does not agree with mine",
+              "full_vn": "bản tường trình của anh về việc này không khớp với bản tường trình của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to agree with somebody ) (nhất là trong câu phủ định và câu hỏi) phù hợp với sức khoẻ hoặc sự tiêu hoá của ai",
+          "list_en_vn": [
+            {
+              "full_en": "the humid climate didn't agree with him",
+              "full_vn": "khí hậu ẩm không thích hợp với anh ấy"
+            },
+            {
+              "full_en": "I like mushrooms but unfortunately , they don't agree with me",
+              "full_vn": "tôi thích nấm, nhưng tiếc là nấm lại không hợp với tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vui vẻ với nhau, hoà thuận với nhau",
+          "list_en_vn": [
+            {
+              "full_en": "brothers and sisters never seem to agree (together )",
+              "full_vn": "dường như anh em, chị em chẳng bao giờ hoà thuận với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) phù hợp (với một từ hoặc cụm từ) về số, ngôi...",
+          "list_en_vn": [
+            {
+              "full_en": "the verb agrees with its subject in number and person",
+              "full_vn": "động từ phù hợp với chủ ngữ của nó về số và ngôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đạt tới cùng một ý kiến về điều gì; thoả thuận",
+          "list_en_vn": [
+            {
+              "full_en": "can we agree a price ?",
+              "full_vn": "chúng ta có thể thoả thuận với nhau về một cái giá nào đó hay không?"
+            },
+            {
+              "full_en": "they met at the agreed time",
+              "full_vn": "họ gặp nhau vào thời điểm đã thoả thuận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chấp nhận cái gì là đúng; tán thành",
+          "list_one_mean": [
+            {
+              "id_full_en": "agreed !",
+              "list_im": [
+                {
+                  "im_full_vn": "đồng ý!, tán thành!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to agree like cats and dogs",
+              "list_im": [
+                {
+                  "im_full_vn": "sống với nhau như chó với mèo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to agree to differ",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) differ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be agreed (on /about something ); to be agreed that .....",
+              "list_im": [
+                {
+                  "im_full_vn": "(với it hoặc một chủ ngữ số nhiều) đã đạt tới một sự đồng ý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "couldn't agree with somebody more",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn đồng ý với ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the tax inspector agreed the figures",
+              "full_vn": "viên thanh tra thuế tán thành các số liệu báo cáo"
+            },
+            {
+              "full_en": "next year's budget has been agreed",
+              "full_vn": "ngân sách cho sang năm đã được chấp nhận"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362807_bfbb666b95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362807_43ac182370_o.png",
+      "id_image": "agreement_1284687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054845_407233b5c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054845_7ce62500ef_o.png",
+      "id_image": "agreement_1566554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054825_e25052760c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054825_f9d55b3838_o.png",
+      "id_image": "agreement_1728967"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433618_564dc46045_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433618_29bea3792c_o.png",
+      "id_image": "agree_1989978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054980_9a4fc89ab1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054980_d757c1d8b4_o.png",
+      "id_image": "agree_4150694"
+    }
+  ]
+}

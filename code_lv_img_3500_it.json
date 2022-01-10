@@ -1,0 +1,81 @@
+{
+  "english": "code",
+  "phat_am": "[koud]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tập hợp các luật hoặc quy tắc sắp xếp theo hệ thống; bộ luật",
+          "list_en_vn": [
+            {
+              "full_en": "labour code",
+              "full_vn": "bộ luật lao động"
+            },
+            {
+              "full_en": "penal code",
+              "full_vn": "bộ luật hình sự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tập hợp các chuẩn mực đạo đức mà một xã hội hoặc một cộng đồng chấp nhận",
+          "list_en_vn": [
+            {
+              "full_en": "code of behaviour /honour",
+              "full_vn": "luân thường đạo lý"
+            },
+            {
+              "full_en": "code of practice",
+              "full_vn": "quy tắc hành nghề"
+            },
+            {
+              "full_en": "the code of the school",
+              "full_vn": "điều lệ nhà trường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mã, mật mã",
+          "list_en_vn": [
+            {
+              "full_en": "morse code",
+              "full_vn": "mã moóc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "viết bằng mã, viết bằng mật mã (bức điện)",
+          "list_en_vn": [
+            {
+              "full_en": "a coded telegram",
+              "full_vn": "bức điện viết bằng mật mã"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325371_c2995aff8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325371_d471191a02_o.png",
+      "id_image": "code_2419238"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062110_1484f34863_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062110_1a8bbb9b39_o.png",
+      "id_image": "code_3380517"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440293_cf66ed1310_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440293_d73db44be2_o.png",
+      "id_image": "code_5322098"
+    }
+  ]
+}

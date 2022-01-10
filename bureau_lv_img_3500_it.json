@@ -1,0 +1,51 @@
+{
+  "english": "bureau",
+  "phat_am": "[bjuə'rou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều bureaux , bureaus",
+      "list_m": [
+        {
+          "m_full_vn": "cục, nha, vụ",
+          "list_en_vn": [
+            {
+              "full_en": "the Bureau of Information",
+              "full_vn": "cục thông tin (từ Mỹ,nghĩa Mỹ)"
+            },
+            {
+              "full_en": "the Federal Bureau of Investigation",
+              "full_vn": "cục điều tra liên bang ( Mỹ)"
+            },
+            {
+              "full_en": "the Bureau of Personnel",
+              "full_vn": "vụ tổ chức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bàn làm việc, bàn giấy"
+        },
+        {
+          "m_full_vn": "tủ có ngăn kéo, tủ com mốt (có gương)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424783_806b0e4d9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424783_9030d540eb_o.png",
+      "id_image": "bureau_3035263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353882_1059b15c00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353882_6012866a1b_o.png",
+      "id_image": "bureau_3232916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664944_1dda66ea9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664944_7cf676d515_o.png",
+      "id_image": "bureau_4353003"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "english": "contempt",
+  "phat_am": "[kən'tempt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( contempt for somebody / something ) sự coi khinh; sự coi thường; sự khinh rẻ; sự khinh miệt",
+          "list_en_vn": [
+            {
+              "full_en": "to feel contempt for something",
+              "full_vn": "coi thường cái gì"
+            },
+            {
+              "full_en": "to show contempt for someone",
+              "full_vn": "tỏ vẻ khinh rẻ ai"
+            },
+            {
+              "full_en": "to treat someone with contempt",
+              "full_vn": "đối xử ai một cách khinh miệt; coi không ra gì"
+            },
+            {
+              "full_en": "to hold somebody in contempt",
+              "full_vn": "coi khinh ai"
+            },
+            {
+              "full_en": "to incur someone's contempt",
+              "full_vn": "bị ai khinh rẻ"
+            },
+            {
+              "full_en": "to fall into contempt",
+              "full_vn": "bị khinh rẻ, bị khinh miệt"
+            },
+            {
+              "full_en": "to bring someone into contempt",
+              "full_vn": "làm cho ai bị khinh miệt"
+            },
+            {
+              "full_en": "beneath contempt",
+              "full_vn": "hoàn toàn đáng khinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( contempt of / for something ) sự bất chấp (quy tắc, nguy hiểm...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "familiarity breeds contempt ; too much familiarity breeds contempt",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) gần chùa gọi bụt bằng anh; thân quá hoá nhờn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he rushed forward in contempt of danger",
+              "full_vn": "anh ta xông lên bất chấp nguy hiểm"
+            },
+            {
+              "full_en": "contempt of court",
+              "full_vn": "sự không tuân lệnh toà; sự xúc phạm quan toà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044395_8d28f4486d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044395_6490cf9eb1_o.png",
+      "id_image": "contempt_3362329"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307396_0335161590_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307396_0b21d0b6a9_o.png",
+      "id_image": "contempt_4138777"
+    }
+  ]
+}

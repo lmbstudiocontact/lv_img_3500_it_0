@@ -1,0 +1,55 @@
+{
+  "english": "blockade",
+  "phat_am": "[blɔ'keid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phong toả, sự bao vây",
+          "list_en_vn": [
+            {
+              "full_en": "to raise a blockade",
+              "full_vn": "rút bỏ một phong toả"
+            },
+            {
+              "full_en": "to run the blockade",
+              "full_vn": "tránh thoát vòng vây"
+            },
+            {
+              "full_en": "paper blockade",
+              "full_vn": "sự phong toả trên giấy tờ (có tuyên bố nhưng không thực hiện)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự ùn lại, sự tắc nghẽn (xe cộ)"
+        },
+        {
+          "m_full_vn": "sự mắc nghẽn (vì tuyết, băng...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phong toả, bao vây"
+        },
+        {
+          "m_full_vn": "che mất (mắt)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) làm tắc nghẽn, làm trở ngại (lối đi lại)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066430_e33ea8ab65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066430_3f48561bfd_o.png",
+      "id_image": "blockade_1699753"
+    }
+  ]
+}

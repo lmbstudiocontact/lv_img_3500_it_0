@@ -1,0 +1,996 @@
+{
+  "english": "come",
+  "phat_am": "[kʌm]",
+  "list_type": [
+    {
+      "type": "nội động từ came ; come",
+      "list_m": [
+        {
+          "m_full_vn": "đến, tới, đi đến, đi tới, đi lại",
+          "list_en_vn": [
+            {
+              "full_en": "light come light go ; easy come easy go",
+              "full_vn": "dễ đến thì lại dễ đi; dễ được thì lại dễ mất"
+            },
+            {
+              "full_en": "she came into the room and shut the door",
+              "full_vn": "cô ta bước vào phòng và đóng cửa lại"
+            },
+            {
+              "full_en": "she came slowly down the stairs",
+              "full_vn": "cô ta bước xuống cầu thang một cách chậm chạp"
+            },
+            {
+              "full_en": "he has come all the way from Leeds to look for a job",
+              "full_vn": "anh ta đã rời thành phố Leeds đi khắp mọi ngả để tìm việc làm"
+            },
+            {
+              "full_en": "come here !",
+              "full_vn": "lại đây!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sắp đến, sắp tới",
+          "list_en_vn": [
+            {
+              "full_en": "in years to come",
+              "full_vn": "trong những năm sắp tới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xảy ra, xảy đến",
+          "list_en_vn": [
+            {
+              "full_en": "ill luck came to him",
+              "full_vn": "sự không may đã xảy đến với hắn; nó gặp sự không may"
+            },
+            {
+              "full_en": "come what may",
+              "full_vn": "dù có xảy ra việc gì, dù có thế nào, dù sự thể thế nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thấy, ở, thấy ở",
+          "list_en_vn": [
+            {
+              "full_en": "that word comes on page six",
+              "full_vn": "từ đó ở trang sáu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nên, thành ra, hoá ra, trở nên, trở thành",
+          "list_en_vn": [
+            {
+              "full_en": "dream comes true",
+              "full_vn": "ước mơ trở thành sự thật"
+            },
+            {
+              "full_en": "it comes expensive in the long run",
+              "full_vn": "thế mà hoá ra là đắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hình thành; đặc lại, đông lại (nước xốt, tiết canh...)",
+          "list_en_vn": [
+            {
+              "full_en": "this duck's blood won't come",
+              "full_vn": "tiết canh vịt không đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( lời mệnh lệnh) nào! nào, nào!; thế, thế!",
+          "list_en_vn": [
+            {
+              "full_en": "come ! take courage",
+              "full_vn": "nào! can đảm lên chứ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) hành động, làm, xử sự",
+          "list_one_mean": [
+            {
+              "id_full_en": "to come to blows",
+              "list_im": [
+                {
+                  "im_full_vn": "xem blow"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be as clever /stupid as they come",
+              "list_im": [
+                {
+                  "im_full_vn": "rất thông minh/ngớ ngẩn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come about",
+              "list_im": [
+                {
+                  "im_full_vn": "xảy ra, xảy đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "how could this come about ?",
+                      "full_vn": "sao việc đó có thể xảy ra được?"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đối chiếu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the wind had come about",
+                      "full_vn": "gió đã đổi chiều"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come after",
+              "list_im": [
+                {
+                  "im_full_vn": "theo sau, đi theo"
+                },
+                {
+                  "im_full_vn": "nối dòng, nối nghiệp, kế nghiệp, kế thừa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "come again ?",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để yêu cầu ai nhắc lại cái gì mình không hiểu hoặc cái gì mình khó tin)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "'She's an entomologist' - 'Come again ? ' - 'An entomologist . She studies insects'",
+                      "full_vn": "'Cô ấy là một nhà côn trùng học' - 'Nhắc lại xem nào! ' - 'Nhà côn trùng học. Cô ấy nghiên cứu sâu bọ'"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come against",
+              "list_im": [
+                {
+                  "im_full_vn": "đụng phải, va phải"
+                }
+              ]
+            },
+            {
+              "id_full_en": "To come across somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "Tình cờ gặp ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come and go",
+              "list_im": [
+                {
+                  "im_full_vn": "tồn tại hoặc xuất hiện một thời gian ngắn ở đâu đó, rồi không ở đó nữa hoặc ra đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the pain in my leg comes and goes",
+                      "full_vn": "chân tôi bị đau rồi lại khỏi"
+                    },
+                    {
+                      "full_en": "governments come and go but does anything really change ?",
+                      "full_vn": "các chính phủ được thành lập rồi lại đổ, nhưng có gì thực sự thay đổi chăng?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come apart (asunder )",
+              "list_im": [
+                {
+                  "im_full_vn": "tách ra, lìa ra, rời ra, bung ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come at",
+              "list_im": [
+                {
+                  "im_full_vn": "đạt tới, đến được, nắm được, thấy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I could not easily come at the document now",
+                      "full_vn": "bây giờ thì tôi không dễ gì mà nắm được tài liệu đó"
+                    },
+                    {
+                      "full_en": "to come at the truth",
+                      "full_vn": "thấy sự thật"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "xổ vào, xông vào (tấn công)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the dog came at me",
+                      "full_vn": "con chó xổ vào tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come away",
+              "list_im": [
+                {
+                  "im_full_vn": "đi xa, đi khỏi, rời khỏi"
+                },
+                {
+                  "im_full_vn": "lìa ra, rời ra, bung ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come back",
+              "list_im": [
+                {
+                  "im_full_vn": "quay lại, trở lại (địa vị, quyền lợi...)"
+                },
+                {
+                  "im_full_vn": "được, nhớ lại"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đáp lại, cãi lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come between",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng giữa (làm môi giới, điều đình)"
+                },
+                {
+                  "im_full_vn": "can thiệp vào, xen vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come by",
+              "list_im": [
+                {
+                  "im_full_vn": "qua, đi qua"
+                },
+                {
+                  "im_full_vn": "có được, kiếm được, vớ được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "how did you come by this document ?",
+                      "full_vn": "làm sao mà anh kiếm được tài liệu này?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come down",
+              "list_im": [
+                {
+                  "im_full_vn": "xuống, đi xuống",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "prices are coming down",
+                      "full_vn": "giá đang xuống"
+                    },
+                    {
+                      "full_en": "coat comes down to heels",
+                      "full_vn": "áo dài xuống tận gót"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "được truyền lại, được để lại (phong tục, tập quán, truyền thống...)"
+                },
+                {
+                  "im_full_vn": "sụp đổ (nhà cửa...)"
+                },
+                {
+                  "im_full_vn": "sa sút, suy vị, xuống dốc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to come down in the world",
+                      "full_vn": "sa sút, xuống dốc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come down upon (on )",
+              "list_im": [
+                {
+                  "im_full_vn": "mắng nhiếc, xỉ vả; trừng phạt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to come down upon (on ) somebody like a cart-load of bricks",
+                      "full_vn": "mắng nhiếc ai thậm tệ; mắng như tát nước vào mặt ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đòi tiền; đòi bồi thường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come down with",
+              "list_im": [
+                {
+                  "im_full_vn": "xuất tiền, trả tiền, chi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come easily /naturally to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "dễ dàng/tự nhiên đối với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "acting comes naturally to her",
+                      "full_vn": "diễn xuất là điều dễ dàng đối với cô ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come forward",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng ra; xung phong; ra trình diện",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to come forward with help",
+                      "full_vn": "đứng ra giúp đỡ"
+                    },
+                    {
+                      "full_en": "to come forward as a candidate",
+                      "full_vn": "đứng ra ứng cử"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come in",
+              "list_im": [
+                {
+                  "im_full_vn": "đi vào, trở vào"
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) về đích (chạy đua)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to come in third",
+                      "full_vn": "về thứ ba"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "được tuyển, được bầu; lên nắm quyền"
+                },
+                {
+                  "im_full_vn": "vào két, nhập két, thu về (tiền)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "money is always coming in to him",
+                      "full_vn": "tiền vào nhà nó như nước"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "lên, dâng (thuỷ triều); bắt đầu (mùa)"
+                },
+                {
+                  "im_full_vn": "thành mốt, thành thời trang"
+                },
+                {
+                  "im_full_vn": "tỏ ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to come in useful",
+                      "full_vn": "tỏ ra là có ích; dùng được (vào việc gì)"
+                    },
+                    {
+                      "full_en": "I don't see where the joke comes in",
+                      "full_vn": "tôi không thấy có cái gì (tỏ ra) là hay ho trong câu nói đùa đó"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come in for",
+              "list_im": [
+                {
+                  "im_full_vn": "có phần, được hưởng phần",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he will come in for most of his uncle's property",
+                      "full_vn": "nó sẽ được hưởng phần lớn tài sản của ông chú nó"
+                    },
+                    {
+                      "full_en": "I came in for 6d",
+                      "full_vn": "phần của tôi là 6 đồng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come in upon",
+              "list_im": [
+                {
+                  "im_full_vn": "ngắt lời, chận lời, nói chặn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come into",
+              "list_im": [
+                {
+                  "im_full_vn": "to come into the world ra đời; to come into power nắm chính quyền; to come into being ( existence ) hình thành, ra đời; to come into fashion thành mốt; to come into force ( effect ) có hiệu lực; to come into notice làm cho phải chú ý"
+                },
+                {
+                  "im_full_vn": "được hưởng, thừa hưởng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to come into a property",
+                      "full_vn": "thừa hưởng một tài sản"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come of",
+              "list_im": [
+                {
+                  "im_full_vn": "do... mà ra, bởi... mà ra; là kết quả của",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that comes of being quick- tempered",
+                      "full_vn": "cái đó là do tính khí nóng nảy quá"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "xuất thân từ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to come of a working family",
+                      "full_vn": "xuất thân từ một gia đình lao động"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come off",
+              "list_im": [
+                {
+                  "im_full_vn": "bong ra, tróc ra, rời ra, bật ra"
+                },
+                {
+                  "im_full_vn": "thoát khỏi vòng khó khăn, xoay xở xong",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to come off victoriously",
+                      "full_vn": "vượt được vòng khó khăn một cách thắng lợi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "được thực hiện, được hoàn thành",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "plan comes off satisfactorily",
+                      "full_vn": "kế hoạch được thực hiện tốt đẹp"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(thông tục) come off it ! thôi câm mồm đi! thôi đi, đừng có nói như vậy!; thôi đừng có giở cái giọng ấy ra nữa!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come on",
+              "list_im": [
+                {
+                  "im_full_vn": "đi tiếp, đi tới"
+                },
+                {
+                  "im_full_vn": "tiến lên, tới gần",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the enemy were coming on",
+                      "full_vn": "quân địch đang tới gần"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nổi lên thình lình (gió, bão), phát ra thình lình (bệnh); tiến bộ, tiếp tục phát triển, mau lớn (cây, đứa bé...)"
+                },
+                {
+                  "im_full_vn": "được đem ra thảo luận (vấn đề, dự luật...)"
+                },
+                {
+                  "im_full_vn": "được trình diễn trên sân khấu"
+                },
+                {
+                  "im_full_vn": "ra sân khấu (diễn viên)"
+                },
+                {
+                  "im_full_vn": "ra toà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "come on !",
+                      "full_vn": "đi nào, đi đi!; cứ việc!; cứ thử đi, ta thách đấy!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come out",
+              "list_im": [
+                {
+                  "im_full_vn": "ra, đi ra"
+                },
+                {
+                  "im_full_vn": "đình công"
+                },
+                {
+                  "im_full_vn": "vượt khỏi (thử thách với ít nhiều thành công)"
+                },
+                {
+                  "im_full_vn": "lộ ra ( (nghĩa đen) & (nghĩa bóng))",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the truth comes out",
+                      "full_vn": "sự thật lộ ra"
+                    },
+                    {
+                      "full_en": "to come out against somebody",
+                      "full_vn": "ra mặt chống lại ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "được xuất bản; ra (sách, báo)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to come out on Saturday",
+                      "full_vn": "ra ngày thứ bảy (báo)"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "được xếp (trong kỳ thi)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Tam came out first",
+                      "full_vn": "Tam thi đã được xếp đứng đầu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "mới ra đời; mới lên sân khấu lần đầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come over",
+              "list_im": [
+                {
+                  "im_full_vn": "vượt (biển), băng (đồng...)"
+                },
+                {
+                  "im_full_vn": "sang phe, theo phe",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he has come over to us",
+                      "full_vn": "hắn đã sang phe chúng tôi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "choán, trùm lên (người nào)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a fear comes over me",
+                      "full_vn": "cơn sợ trùm lên tôi, tôi sợ hãi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come over dizzy /faint /giddy",
+              "list_im": [
+                {
+                  "im_full_vn": "bất ngờ cảm thấy choáng váng/chóng mặt/lảo đảo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come round",
+              "list_im": [
+                {
+                  "im_full_vn": "đi nhanh, đi vòng"
+                },
+                {
+                  "im_full_vn": "hồi phục (sức khoẻ sau trận ốm); hồi tỉnh, tỉnh lại (sau cơn ngất, sau khi bị đánh thuốc mê); nguôi đi, dịu đi (sau cơn giận...)"
+                },
+                {
+                  "im_full_vn": "trở lại, quay lại, tới (có định kỳ)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "when Spring comes round",
+                      "full_vn": "khi mùa xuân trở lại, khi xuân về"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tạt lại chơi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "do come round one evening",
+                      "full_vn": "thế nào cũng tạt lại chơi tôi một buổi chiều nào đó"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thay đổi hẳn ý kiến, thay đổi hẳn quan điểm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come to",
+              "list_im": [
+                {
+                  "im_full_vn": "đến, đi đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to come to a decision",
+                      "full_vn": "đi tới một quyết định"
+                    },
+                    {
+                      "full_en": "to come to nothing ; not to come to anything",
+                      "full_vn": "xem nothing"
+                    },
+                    {
+                      "full_en": "to come to the point",
+                      "full_vn": "đi vào vấn đề, đi vào việc"
+                    },
+                    {
+                      "full_en": "to come to a standstill",
+                      "full_vn": "ngừng lại; đi đến chỗ bế tắc"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "hồi tỉnh, tỉnh lại; tỉnh trí lại; tỉnh ngộ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to come to one's senses",
+                      "full_vn": "tỉnh lại; tỉnh trí lại; tỉnh ngộ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thừa hưởng, được hưởng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to come to one's own",
+                      "full_vn": "được hưởng phần của mình"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "lên tới",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it comes to one thousand",
+                      "full_vn": "số tiền lên tới một nghìn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(hàng hải) bỏ neo; dừng lại (tàu)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come to oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "trở lại trạng thái bình thường; hồi tỉnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the shock made her hesitate for a moment , but she quickly came to herself again",
+                      "full_vn": "cú sốc khiến cô ta ngập ngừng giây lát, nhưng rồi cô ta đã hồi tỉnh thật nhanh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "come to that ; if it comes to that",
+              "list_im": [
+                {
+                  "im_full_vn": "vả lại; thêm vào đó; hơn nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come under",
+              "list_im": [
+                {
+                  "im_full_vn": "rơi vào loại, nằn trong loại"
+                },
+                {
+                  "im_full_vn": "rơi vào, chịu (ảnh hưởng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come up",
+              "list_im": [
+                {
+                  "im_full_vn": "tới gần, đến gần (ai, một nơi nào)"
+                },
+                {
+                  "im_full_vn": "được nêu lên, được đặt ra (vấn đề để thảo luận)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to come up for discussion",
+                      "full_vn": "được nêu lên để thảo luận"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ hiếm,nghĩa hiếm) thành mốt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "high collars are coming up",
+                      "full_vn": "cổ cồn cao đang trở thành mốt"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "lên tới, đạt tới, theo kịp, bắt kịp",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the water came up to his chin",
+                      "full_vn": "nước lên tới cằm nó"
+                    },
+                    {
+                      "full_en": "the performance did not come up to what we expected",
+                      "full_vn": "buổi biểu diễn không (đạt tới) thành công như ý chúng tôi mong đợi"
+                    },
+                    {
+                      "full_en": "I came up with them just outside the town",
+                      "full_vn": "ra khỏi thành phố thì tôi bắt kịp chúng nó"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "vào đại học"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come upon",
+              "list_im": [
+                {
+                  "im_full_vn": "tấn công bất thình lình, đột kích"
+                },
+                {
+                  "im_full_vn": "chợt gặp, bắt gặp, chợt thấy"
+                },
+                {
+                  "im_full_vn": "chợt nảy ra trong óc, chợt có ý nghĩ"
+                },
+                {
+                  "im_full_vn": "là một gánh nặng cho, đè lên đầu (ai); yêu cầu đòi hỏi, bắt chịu trách nhiệm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he came upon me for damages",
+                      "full_vn": "nó bắt tôi chịu trách nhiệm bồi thường cho nó"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come across the mind",
+              "list_im": [
+                {
+                  "im_full_vn": "chợt nảy ra ý nghĩ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come a cropper",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) cropper"
+                }
+              ]
+            },
+            {
+              "id_full_en": "come along",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đi nào; mau lên, nhanh lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come clean",
+              "list_im": [
+                {
+                  "im_full_vn": "thú nhận, nói hết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come natural to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "không có gì khó khăn đối với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come home",
+              "list_im": [
+                {
+                  "im_full_vn": "trở về nhà, trở lại nhà"
+                },
+                {
+                  "im_full_vn": "gây ấn tượng, được hiểu rõ, có hiệu lực, có hiệu quả; đánh trúng, đánh trúng vào chỗ yếu, chạm nọc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his remark came home to them",
+                      "full_vn": "lời nhận xét của anh ta đánh trúng vào chỗ yếu của họ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come near",
+              "list_im": [
+                {
+                  "im_full_vn": "đến gần, suýt nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to come near failing",
+                      "full_vn": "suýt nữa hỏng, suýt nữa thất bại"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come of age",
+              "list_im": [
+                {
+                  "im_full_vn": "đến tuổi trưởng thành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "come off your high horse (your perch )!",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) đừng có làm bộ làm tịch nữa!, đừng có lên râu nữa!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "come out with it !",
+              "list_im": [
+                {
+                  "im_full_vn": "muốn nói gì thì nói đi!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come right",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng (tính...)"
+                },
+                {
+                  "im_full_vn": "thu xếp, ổn thoả, thu xếp xong xuôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come short",
+              "list_im": [
+                {
+                  "im_full_vn": "không đạt được, thất bại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come short of",
+              "list_im": [
+                {
+                  "im_full_vn": "thiếu, không đủ đáp ứng yêu cầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "first come first served",
+              "list_im": [
+                {
+                  "im_full_vn": "đến trước thì được giải quyết trước, đến trước thì được phục vụ trước"
+                }
+              ]
+            },
+            {
+              "id_full_en": "how come ?",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) thế nào?, sao?"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it comes hard on him",
+              "list_im": [
+                {
+                  "im_full_vn": "thật là một vố đau cho nó"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he comes it too strong",
+              "full_vn": "nó làm quá; nó nói quá, nó cường điệu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364947_9d2da0dfe4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364947_ee881d6e80_o.png",
+      "id_image": "come_2165937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364892_2d2c9b3cfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364892_e6e4d451c7_o.png",
+      "id_image": "come_6401042"
+    }
+  ]
+}

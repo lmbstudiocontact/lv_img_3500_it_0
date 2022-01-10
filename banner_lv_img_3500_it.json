@@ -1,0 +1,92 @@
+{
+  "english": "banner",
+  "phat_am": "['bænə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngọn cờ",
+          "list_en_vn": [
+            {
+              "full_en": "the banner of freedom",
+              "full_vn": "ngọn cờ tự do"
+            },
+            {
+              "full_en": "under the banner of Lenin",
+              "full_vn": "dưới ngọn cờ của Lênin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biểu ngữ; băng-rôn"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đầu đề chữ lớn suốt mặt trang báo"
+        }
+      ]
+    },
+    {
+      "type": "định ngữ",
+      "list_m": [
+        {
+          "m_full_vn": "tốt; quan trọng; hạng nhất",
+          "list_one_mean": [
+            {
+              "id_full_en": "to carry the banner",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (mỉa mai) đi lang thang suốt đêm không có chỗ trú chân (những người thất nghiệp)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to follow (join ) the banner of ...",
+              "list_im": [
+                {
+                  "im_full_vn": "đi theo ngọn cờ của..., theo phe đảng của..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "to unfurl one's banner",
+              "list_im": [
+                {
+                  "im_full_vn": "tuyên bố chương trình của mình; bày tỏ quan điểm của mình"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "banner year",
+              "full_vn": "năm kỷ lục"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431178_28d1998561_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431178_261b316e4b_o.png",
+      "id_image": "banner_1879673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431163_14ed5d215f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431163_45067443d7_o.png",
+      "id_image": "banner_3956673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670989_9346089c48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670989_e1a0d200e9_o.png",
+      "id_image": "banner_876235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052745_bff2ed4155_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052745_4e4bbc0b46_o.png",
+      "id_image": "banner_939238"
+    }
+  ]
+}

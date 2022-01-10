@@ -1,0 +1,45 @@
+{
+  "english": "accuracy",
+  "phat_am": "['ækjurəsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đúng đắn, sự chính xác; độ chính xác",
+          "list_en_vn": [
+            {
+              "full_en": "accuracy of fire",
+              "full_vn": "sự bắn chính xác"
+            },
+            {
+              "full_en": "high accuracy",
+              "full_vn": "độ chính xác cao"
+            },
+            {
+              "full_en": "accuracy of measurement",
+              "full_vn": "độ chính xác của phép đo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369182_704bb7811a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369182_8683ebc6c4_o.png",
+      "id_image": "accuracy_2519340"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439343_792c8f8912_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439343_41ffe05418_o.png",
+      "id_image": "accuracy_2519393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439308_aeefd09927_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439308_583cf23408_o.png",
+      "id_image": "accuracy_4729465"
+    }
+  ]
+}

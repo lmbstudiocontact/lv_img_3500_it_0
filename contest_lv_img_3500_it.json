@@ -1,0 +1,112 @@
+{
+  "english": "contest",
+  "phat_am": "[kən'test]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc tranh luận, cuộc tranh cãi",
+          "list_en_vn": [
+            {
+              "full_en": "beyond contest",
+              "full_vn": "không thể tranh cãi vào đâu được nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cuộc thi; trận đấu, trận giao tranh",
+          "list_en_vn": [
+            {
+              "full_en": "musical contest",
+              "full_vn": "cuộc thi âm nhạc"
+            },
+            {
+              "full_en": "a boxing contest",
+              "full_vn": "trận đấu quyền Anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc chiến đấu, cuộc đấu tranh"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tranh cãi, tranh luận (một vấn đề gì với ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to contest with someone",
+              "full_vn": "tranh cãi với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt vấn đề nghi ngờ không thừa nhận",
+          "list_en_vn": [
+            {
+              "full_en": "to contest someone's right",
+              "full_vn": "không thừa nhận quyền của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tranh, tranh giành, tranh đoạt",
+          "list_en_vn": [
+            {
+              "full_en": "to contest for a prize",
+              "full_vn": "tranh giải"
+            },
+            {
+              "full_en": "the enemy contested every inch of ground",
+              "full_vn": "quân địch cố giành từng tấc đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tranh cử (nghị viện)",
+          "list_en_vn": [
+            {
+              "full_en": "to contest a seat in the parliament",
+              "full_vn": "tranh một ghế ở nghị viện"
+            },
+            {
+              "full_en": "a contested election",
+              "full_vn": "cuộn bầu cử có nhiều người ra tranh cử"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351337_10549a77b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351337_302355596f_o.png",
+      "id_image": "contest_1999359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044200_42fb9be635_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044200_07569e8d72_o.png",
+      "id_image": "contest_2132592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307231_03042ef760_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307231_bbd07f6ffe_o.png",
+      "id_image": "contest_2534496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662479_5eabe7cb32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662479_79fe6be6e7_o.png",
+      "id_image": "contest_2621842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307176_b67515b6fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307176_b1b01364ba_o.png",
+      "id_image": "contest_4350623"
+    }
+  ]
+}

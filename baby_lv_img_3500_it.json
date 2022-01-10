@@ -1,0 +1,140 @@
+{
+  "english": "baby",
+  "phat_am": "['beibi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đứa bé mới sinh; trẻ thơ"
+        },
+        {
+          "m_full_vn": "người tính trẻ con"
+        },
+        {
+          "m_full_vn": "( định ngữ) nhỏ; xinh xinh",
+          "list_en_vn": [
+            {
+              "full_en": "a baby car",
+              "full_vn": "chiếc ôtô nhỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) người yêu; con gái",
+          "list_one_mean": [
+            {
+              "id_full_en": "to carry (hold ) the baby",
+              "list_im": [
+                {
+                  "im_full_vn": "phải gánh một trách nhiệm không thích thú gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it's our baby",
+              "list_im": [
+                {
+                  "im_full_vn": "đó là việc riêng của chúng tôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody a baby to hold",
+              "list_im": [
+                {
+                  "im_full_vn": "bó chân bó tay ai"
+                },
+                {
+                  "im_full_vn": "bắt ai phải gánh một trách nhiệm không thích thú gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play the baby",
+              "list_im": [
+                {
+                  "im_full_vn": "nghịch cái kiểu trẻ con; làm ra vẻ trẻ con"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to plead the baby act",
+              "list_im": [
+                {
+                  "im_full_vn": "trốn trách nhiệm lấy cớ là không có kinh nghiệm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to smell of the baby",
+              "list_im": [
+                {
+                  "im_full_vn": "có vẻ trẻ con; có tính trẻ con"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to start a baby",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu có mang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sugar baby",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) người yêu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw the baby out with the bath water",
+              "list_im": [
+                {
+                  "im_full_vn": "vô tình vất bỏ cái quý giá trong đống lộn xộn cần vất đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as smooth as a baby's bottom",
+              "list_im": [
+                {
+                  "im_full_vn": "xem bottom"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đối xử như trẻ con, nuông chìu",
+          "list_en_vn": [
+            {
+              "full_en": "it is not recommended to baby the naughty children",
+              "full_vn": "không nên nuông chìu những đứa con hư hỏng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323056_981579cda2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323056_715f517355_o.png",
+      "id_image": "baby_1702330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678239_170e0072e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678239_39eacba956_o.png",
+      "id_image": "baby_204646"
+    }
+  ]
+}

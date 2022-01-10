@@ -1,0 +1,53 @@
+{
+  "english": "baggage",
+  "phat_am": "['bægidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) hành lý"
+        },
+        {
+          "m_full_vn": "(quân sự) trang bị cầm tay (của quân đội trong lúc hành quân)"
+        },
+        {
+          "m_full_vn": "(thông tục); con mụ vô dụng, con mụ vô tích sự; con ranh con",
+          "list_en_vn": [
+            {
+              "full_en": "impudent baggage",
+              "full_vn": "con ranh con, con mặt cứ trơ ra, con ranh con mặt dày mày dạn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057015_e72cdacab1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057015_ebf46108e0_o.png",
+      "id_image": "baggage_2327395"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365122_499dc1ec88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365122_ff2a9b4122_o.png",
+      "id_image": "baggage_2332030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056925_08c3bec744_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056925_e59c8ec583_o.png",
+      "id_image": "baggage_5207642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365067_1d2e255bd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365067_d17570dfbb_o.png",
+      "id_image": "baggage_5772870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365222_e91ba0cbdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365222_97b04b7562_o.png",
+      "id_image": "baggage_824214"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "english": "attribution",
+  "phat_am": "[,ætri'bju:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự quy kết"
+        },
+        {
+          "m_full_vn": "quyền hạn được giao, thẩm quyền",
+          "list_en_vn": [
+            {
+              "full_en": "functions and attributions of the administrative tribunal",
+              "full_vn": "chức năng và quyền hạn của toà án hành chính"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064480_2b1a2142a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064480_9ae8a33029_o.png",
+      "id_image": "attribution_2450847"
+    }
+  ]
+}

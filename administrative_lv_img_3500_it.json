@@ -1,0 +1,50 @@
+{
+  "english": "administrative",
+  "phat_am": "[əd'ministrətiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về hoặc dính dáng tới việc quản lý các việc dân sự hoặc kinh doanh; hành chính",
+          "list_en_vn": [
+            {
+              "full_en": "administrative affairs",
+              "full_vn": "công việc hành chính"
+            },
+            {
+              "full_en": "an administrative post , problem",
+              "full_vn": "một chức vụ hành chính, vấn đề thuộc lĩnh vực hành chính"
+            },
+            {
+              "full_en": "her duties are purely administrative",
+              "full_vn": "nhiệm vụ của cô ta là thuần túy hành chính"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057525_ab5eb0d174_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057525_0d621586ef_o.png",
+      "id_image": "administrative_2191436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365662_3b7877c9c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365662_e4ea725c76_o.png",
+      "id_image": "administrative_4016067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365627_68bcb97d8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365627_2f5a91e2c0_o.png",
+      "id_image": "administrative_4079125"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365592_63442b70f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365592_5e8a2541c7_o.png",
+      "id_image": "administrative_4133322"
+    }
+  ]
+}

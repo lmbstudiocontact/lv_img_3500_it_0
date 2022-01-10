@@ -1,0 +1,106 @@
+{
+  "english": "atom",
+  "phat_am": "['ætəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nguyên tử",
+          "list_en_vn": [
+            {
+              "full_en": "struck atom",
+              "full_vn": "nguyên tử bị bắn phá"
+            },
+            {
+              "full_en": "hydrogen-like atom",
+              "full_vn": "nguyên tử kiểu hydrô"
+            },
+            {
+              "full_en": "excited atom",
+              "full_vn": "nguyên tử bị kích thích"
+            },
+            {
+              "full_en": "hot atom",
+              "full_vn": "nguyên tử nóng"
+            },
+            {
+              "full_en": "product (daughter ) atom",
+              "full_vn": "nguyên tử con"
+            },
+            {
+              "full_en": "naturally radioactive atom",
+              "full_vn": "nguyên tử phóng xạ tự nhiên"
+            },
+            {
+              "full_en": "light atom",
+              "full_vn": "nguyên tử nhẹ"
+            },
+            {
+              "full_en": "parent atom",
+              "full_vn": "nguyên tử mẹ"
+            },
+            {
+              "full_en": "neutral atom",
+              "full_vn": "nguyên tử trung hoà"
+            },
+            {
+              "full_en": "radioactive atom",
+              "full_vn": "nguyên tử phóng xạ"
+            },
+            {
+              "full_en": "free atom",
+              "full_vn": "nguyên tử tự do"
+            },
+            {
+              "full_en": "heavy atom",
+              "full_vn": "nguyên tử nặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) mảnh nhỏ, vật nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "to break (snash ) into atoms",
+              "full_vn": "đập vụn ra từng mảnh"
+            },
+            {
+              "full_en": "there is not an atom of evidence",
+              "full_vn": "không một chứng cớ nhỏ nào"
+            },
+            {
+              "full_en": "not an atom of sense",
+              "full_vn": "không có một tý ý thức nào; không hiểu tý gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( định ngữ) (thuộc) nguyên tử",
+          "list_en_vn": [
+            {
+              "full_en": "atom bomb",
+              "full_vn": "bom nguyên tử"
+            },
+            {
+              "full_en": "atom ship",
+              "full_vn": "tàu thuỷ nguyên tử"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810036690_bbf8e90c75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810036690_505a38d293_o.png",
+      "id_image": "atom_1682111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810036685_58c7f2960f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810036685_1d70e5c242_o.png",
+      "id_image": "atom_4455456"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "english": "devil",
+  "phat_am": "['devl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ma, quỷ",
+          "list_en_vn": [
+            {
+              "full_en": "go to the devil !",
+              "full_vn": "quỷ tha ma bắt mày đi!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều quái gỡ, điều ghê gớm, điều khủng khiếp",
+          "list_en_vn": [
+            {
+              "full_en": "what the devil are you doing ?",
+              "full_vn": "cậu làm cái quái gì đấy?"
+            },
+            {
+              "full_en": "to work like the devil",
+              "full_vn": "làm việc hăng quá"
+            },
+            {
+              "full_en": "it's the devil of a way",
+              "full_vn": "đường xa kinh khủng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giận dữ, sự tức giận",
+          "list_en_vn": [
+            {
+              "full_en": "to raise the devil in someone",
+              "full_vn": "làm cho ai tức điên lên, làm cho ai nổi tam bành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người hung ác, người nanh ác, người ác độc"
+        },
+        {
+          "m_full_vn": "người quỷ quyệt, người xảo quyệt"
+        },
+        {
+          "m_full_vn": "người khốn khổ; người bất hạnh, người vô phúc"
+        },
+        {
+          "m_full_vn": "thư ký riêng (của luật sư, của nhà văn); người học việc (ở xưởng in)"
+        },
+        {
+          "m_full_vn": "thịt nướng tẩm nhiều tiêu ớt"
+        },
+        {
+          "m_full_vn": "lò than, lò nung"
+        },
+        {
+          "m_full_vn": "máy xé (vải vụn, giẻ rách)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a devil of a boy",
+              "list_im": [
+                {
+                  "im_full_vn": "thằng quỷ ranh (hoặc tỏ ý chê là khó ưa, khó chịu, hoặc tỏ ý khen ai là đáng chú ý, vui tính...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the devil among the tailors",
+              "list_im": [
+                {
+                  "im_full_vn": "sự cãi lộn; sự lộn xộn; sự ồn ào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the devil and all",
+              "list_im": [
+                {
+                  "im_full_vn": "tất cả cái gì xấu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the devil's own luck",
+              "list_im": [
+                {
+                  "im_full_vn": "vận may hiếm thấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have the devil of a job doing sth",
+              "list_im": [
+                {
+                  "im_full_vn": "thấy việc gì rất khó làm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the devil take the hindmost",
+              "list_im": [
+                {
+                  "im_full_vn": "khôn sống mống chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "between the devil and the deep sea",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) between"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give the devil his due",
+              "list_im": [
+                {
+                  "im_full_vn": "đối xử công bằng ngay cả với kẻ không xứng đáng; đối xử công bằng ngay cả với kẻ mình không ưa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "someone (something ) is the devil",
+              "list_im": [
+                {
+                  "im_full_vn": "người (điều) phiền toái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play the devil with , to raise the devil",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) raise"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk of the devil and he will appear",
+              "list_im": [
+                {
+                  "im_full_vn": "vừa nói đến ai thì người đó đã đến ngay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the devil looks after his own",
+              "list_im": [
+                {
+                  "im_full_vn": "mèo mù vớ cá rán, chó ngáp phải ruồi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the devil makes work for idle hands",
+              "list_im": [
+                {
+                  "im_full_vn": "nhàn cư vi bất thiện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "devil's advocate",
+              "list_im": [
+                {
+                  "im_full_vn": "người kịch liệt phản đối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "needs must when the devil drives",
+              "list_im": [
+                {
+                  "im_full_vn": "túng phải tính"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there'll be the devil to pay",
+              "list_im": [
+                {
+                  "im_full_vn": "sắp có chuyện gay cấn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the world , the flesh and the devil",
+              "list_im": [
+                {
+                  "im_full_vn": "mọi thứ phàm tục trên cõi đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "be a devil !",
+              "list_im": [
+                {
+                  "im_full_vn": "hãy can đảm lên!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the (very ) devil",
+              "list_im": [
+                {
+                  "im_full_vn": "(cái gì) khó khăn, hóc búa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the devil you will / won't , she can / can't ....",
+              "list_im": [
+                {
+                  "im_full_vn": "(nhấn mạnh một lời từ chối, sự kinh ngạc...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm going to a party - The devil you are !",
+                      "full_vn": "Tôi sẽ đi dự liên hoan - Đừng hòng!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "What /Who /Why ?Where the devil is that ?",
+              "list_im": [
+                {
+                  "im_full_vn": "Cái quái quỷ gì thế? Thằng quỷ nào vậy? Tại sao quỷ quái đến thế? Cái đó ở cái hốc nào?"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a devil of a something",
+              "list_im": [
+                {
+                  "im_full_vn": "vật hoặc người rất xuất sắc, rất khó tính, rất vụng về...."
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a /the devil of a job doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "cảm thấy cái gì hóc búa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm thư ký riêng (cho một luật sư); viết văn thuê (cho nhà văn)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nướng (thịt...) sau khi tẩm tiêu ớt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680354_9c71d2a389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680354_2fe782bcb0_o.png",
+      "id_image": "devil_1815202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680314_814c9b5dcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680314_b09e28d142_o.png",
+      "id_image": "devil_3508419"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440158_4db89c4cd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440158_aee7272e2b_o.png",
+      "id_image": "devil_4701965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325126_23484375ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325126_8168db0cc0_o.png",
+      "id_image": "devil_4860781"
+    }
+  ]
+}

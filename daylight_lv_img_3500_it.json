@@ -1,0 +1,113 @@
+{
+  "english": "daylight",
+  "phat_am": "['deilait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ánh nắng ban ngày; (nghĩa bóng) sự công khai",
+          "list_en_vn": [
+            {
+              "full_en": "the colors look different when viewed in daylight",
+              "full_vn": "nhìn dưới ánh sáng ban ngày, màu sắc sẽ khác đi"
+            },
+            {
+              "full_en": "in broad daylight",
+              "full_vn": "giữa ban ngày, thanh thiên bạch nhật; ai cũng biết, mọi người đều thấy"
+            },
+            {
+              "full_en": "before daylight",
+              "full_vn": "trước lúc rạng đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng trống, khoảng cách giữa hai vật gì (như) giữa hai con thuyền trong cuộc đua, giữa ngấn rượu với mép cốc...",
+          "list_one_mean": [
+            {
+              "id_full_en": "to admit (knock , let , shoot ) daylight into somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) đâm ai; bắn ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let daylight into something",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đưa cái gì ra công khai, công bố cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it's daylight robbery !",
+              "list_im": [
+                {
+                  "im_full_vn": "cứ như cướp giữa chợ! (ý nói giá đắt quá)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see daylight",
+              "list_im": [
+                {
+                  "im_full_vn": "hiểu cái gì trước đây làm ta bối rối; hiểu ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat /knock the (living ) daylights out of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh ai tơi bời; đánh ai nhừ tử"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to frighten /scare the living daylights out of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai kinh hoảng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "no daylight",
+              "full_vn": "đổ thật đầy (rượu vào cốc)"
+            },
+            {
+              "full_en": "to show daylight",
+              "full_vn": "rách, hở nhiều chỗ (quần áo)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045990_2a4f06017f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045990_06ca45c76f_o.png",
+      "id_image": "daylight_2130685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308991_d1a06912ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308991_f63f201b9d_o.png",
+      "id_image": "daylight_2358493"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353167_cd7cf58af2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353167_02c7351819_o.png",
+      "id_image": "daylight_4661013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045915_51ec26488f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045915_c2190c7f3e_o.png",
+      "id_image": "daylight_6316156"
+    }
+  ]
+}

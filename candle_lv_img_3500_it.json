@@ -1,0 +1,87 @@
+{
+  "english": "candle",
+  "phat_am": "['kændl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cây nến"
+        },
+        {
+          "m_full_vn": "(vật lý) nến ( (cũng) candle power )",
+          "list_one_mean": [
+            {
+              "id_full_en": "to burn the candle at both ends",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) burn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "can't hold a candle to somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "không đáng so sánh với ai/cái gì; kém xa ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she writes quite amusing stories but she can't hold a candle to the serious novelists",
+                      "full_vn": "cô ta viết truyện vui nhưng vẫn kém xa các nhà tiểu thuyết nghiêm túc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the game is not worth the candle",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) game"
+                }
+              ]
+            },
+            {
+              "id_full_en": "when candles are out , all cats are grey",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) tắt đèn nhà ngói cũng như nhà tranh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "soi (trứng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303811_4d8491fe9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303811_4f1dc22a3e_o.png",
+      "id_image": "candle_488344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418793_d4ab4e5478_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418793_e6a9c06c42_o.png",
+      "id_image": "candle_589802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040570_02e5fbb1a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040570_69694e42fb_o.png",
+      "id_image": "candle_616087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040560_57555d7c82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040560_ebc00b4d0d_o.png",
+      "id_image": "candle_648806"
+    }
+  ]
+}

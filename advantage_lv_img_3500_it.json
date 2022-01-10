@@ -1,0 +1,91 @@
+{
+  "english": "advantage",
+  "phat_am": "[əd'vɑ:ntidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thuận lợi, hoàn cảnh thuận lợi; mối lợi",
+          "list_en_vn": [
+            {
+              "full_en": "to be of great advantage to",
+              "full_vn": "có lợi lớn cho"
+            },
+            {
+              "full_en": "to take advantage of an opportunity",
+              "full_vn": "lợi dụng cơ hội"
+            },
+            {
+              "full_en": "to take advantage of somebody",
+              "full_vn": "lợi dụng ai"
+            },
+            {
+              "full_en": "to turn something into advantage",
+              "full_vn": "khai thác sử dụng cái gì"
+            },
+            {
+              "full_en": "to the best advantage",
+              "full_vn": "cho có lợi nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lợi thế",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take somebody at advantage",
+              "list_im": [
+                {
+                  "im_full_vn": "bất ngờ chộp được ai, thình lình chộp được ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to gain (get ) an advantage over somebody",
+              "full_vn": "giành được lợi thế hơn ai"
+            },
+            {
+              "full_en": "to have the advantage over somebody",
+              "full_vn": "có lợi thế hơn ai"
+            },
+            {
+              "full_en": "to have the advantage of something",
+              "full_vn": "có lợi thế do có được cái gì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đem lợi ích cho, có lợi cho, mang thuận lợi cho"
+        },
+        {
+          "m_full_vn": "giúp cho; thúc đẩy, làm cho tiến lên"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056690_b3b012e7db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056690_b601faa579_o.png",
+      "id_image": "advance_3775997"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675024_16de3b7572_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675024_ba3ce2b68c_o.png",
+      "id_image": "advantage_1622582"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364762_86cf567855_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364762_e3e2cae3ef_o.png",
+      "id_image": "advantage_5999981"
+    }
+  ]
+}

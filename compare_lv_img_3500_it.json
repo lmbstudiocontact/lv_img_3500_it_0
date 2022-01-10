@@ -1,0 +1,113 @@
+{
+  "english": "compare",
+  "phat_am": "[kəm'peə]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "so sánh; ví",
+          "list_en_vn": [
+            {
+              "full_en": "to compare (the style of ) the two poems",
+              "full_vn": "so sánh (phong cách của) hai bài thơ"
+            },
+            {
+              "full_en": "if you compare her work with his /If you compare their work , you'll find hers is much better",
+              "full_vn": "nếu anh so sánh tác phẩm của cô ấy với tác phẩm của anh ta/nếu anh so sánh tác phẩm của họ với nhau, anh sẽ thấy tác phẩm của cô ấy hay hơn nhiều"
+            },
+            {
+              "full_en": "to compare the original with the copy",
+              "full_vn": "so nguyên bản với bản sao"
+            },
+            {
+              "full_en": "poets often compare sleep to death",
+              "full_vn": "các nhà thơ thường so sánh giấc ngủ với cái chết"
+            },
+            {
+              "full_en": "a beginner's painting can't be compared to that of an expert",
+              "full_vn": "tranh của người mới vào nghề vẽ không thể sánh với tranh của một chuyên gia được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) tạo cấp so sánh và cấp cao nhất (của tính từ, phó từ)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể sánh với ai/cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "to compare notes (with somebody)",
+              "list_im": [
+                {
+                  "im_full_vn": "trao đổi ý kiến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we saw the play separately and compared notes afterwards",
+                      "full_vn": "mỗi người chúng tôi tự xem vở kịch, rồi trao đổi ý kiến với nhau"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "no work can compare with it",
+              "full_vn": "không tác phẩm nào có thể so sánh được với nó"
+            },
+            {
+              "full_en": "he cannot compare with Shakespeare as a writer of tragedies",
+              "full_vn": "ông ta không thể sánh với Shakespeare về việc soạn bi kịch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) sự so sánh",
+          "list_en_vn": [
+            {
+              "full_en": "beyond (without , past ) compare",
+              "full_vn": "không thể so sánh được, không thể bì được"
+            },
+            {
+              "full_en": "she's lovely beyond compare",
+              "full_vn": "cô ta dễ thương không ai bì được"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432498_8c174769dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432498_9914153174_o.png",
+      "id_image": "compare_2036930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672084_a2b1218dbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672084_8a6fdb4076_o.png",
+      "id_image": "compare_2748413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672049_f2f4bacc9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672049_dcc64a2ff1_o.png",
+      "id_image": "compare_2782038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361612_1e7c63dbe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361612_d594b135e7_o.png",
+      "id_image": "compare_4410211"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "english": "cheer",
+  "phat_am": "[t∫iə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vui vẻ, sự khoái trá"
+        },
+        {
+          "m_full_vn": "sự cổ vũ, sự khuyến khích",
+          "list_en_vn": [
+            {
+              "full_en": "words of cheer",
+              "full_vn": "những lời khuyến khích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hoan hô; tiếng hoan hô",
+          "list_en_vn": [
+            {
+              "full_en": "to give three cheers for someone",
+              "full_vn": "hoan hô (ai) ba lần"
+            },
+            {
+              "full_en": "the cheer-leader",
+              "full_vn": "người kích động cho những người khác reo hò cổ vũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồ ăn ngon, món ăn thịnh soạn",
+          "list_en_vn": [
+            {
+              "full_en": "to make good cheer",
+              "full_vn": "ăn món ăn thịnh soạn, ăn uống linh đình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khí sắc; thể trạng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be of good cheer",
+              "list_im": [
+                {
+                  "im_full_vn": "đầy dũng cảm; đầy hy vọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the fewer people , the better cheer",
+              "list_im": [
+                {
+                  "im_full_vn": "càng ít người, càng được ăn nhiều"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "what cheer this morning ?",
+              "full_vn": "sáng nay anh thấy thể trạng thế nào?, sáng nay anh cảm thấy trong người thế nào?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm vui mừng, làm phấn khởi; làm hớn hở",
+          "list_en_vn": [
+            {
+              "full_en": "he was greatly cheered by the news",
+              "full_vn": "ông ta hết sức vui mừng vì tin đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to cheer somebody on ) khích lệ, cổ vũ",
+          "list_en_vn": [
+            {
+              "full_en": "the crowd cheered the runners on as they started the last lap",
+              "full_vn": "đám đông reo hò cổ vũ các vận động viên chạy khi họ bắt đầu vòng chạy cuối cùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoan hô, tung hô",
+          "list_en_vn": [
+            {
+              "full_en": "the crowd cheered loudly as the Queen appeared",
+              "full_vn": "dân chúng tung hô ầm ĩ khi Nữ hoàng xuất hiện"
+            },
+            {
+              "full_en": "the winning team were cheered by their supporters",
+              "full_vn": "đội chiến thắng được những người ủng hộ hoan hô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to cheer somebody up ) (làm cho ai) phấn khởi, phấn chấn, hớn hở, vui vẻ lên, hăng hái lên",
+          "list_en_vn": [
+            {
+              "full_en": "cheer up , boys !",
+              "full_vn": "vui vẻ lên, hăng hái lên nào các cậu!"
+            },
+            {
+              "full_en": "flowers always cheer a room up",
+              "full_vn": "hoa luôn làm cho căn phòng vui mắt lên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426773_d9ef166a17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426773_5275bc2325_o.png",
+      "id_image": "cheer_1623196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355992_6f464414cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355992_eea497da22_o.png",
+      "id_image": "cheer_3776028"
+    }
+  ]
+}

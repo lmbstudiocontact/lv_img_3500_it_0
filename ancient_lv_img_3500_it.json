@@ -1,0 +1,71 @@
+{
+  "english": "ancient",
+  "phat_am": "['ein∫ənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xưa, cổ",
+          "list_en_vn": [
+            {
+              "full_en": "ancient Rome",
+              "full_vn": "cổ La mã (trước khi đế quốc La Mã tan rã)"
+            },
+            {
+              "full_en": "ancient world",
+              "full_vn": "đời thượng cổ"
+            },
+            {
+              "full_en": "ancient history",
+              "full_vn": "lịch sử cổ đại"
+            },
+            {
+              "full_en": "ancient monument",
+              "full_vn": "di tích cổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "già, cao tuổi"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "the ancients người La Mã và Hy lạp cổ đại"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) lá cờ, cờ hiệu; người cầm cờ hiệu"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) tác giả cổ điển"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312921_285c562e67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312921_ce2d5fe23e_o.png",
+      "id_image": "ancient_2446833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312996_dcf07ab7c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312996_343b1b6eb4_o.png",
+      "id_image": "ancient_306829"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049395_fd5d669ea8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049395_b3d2b0b0a0_o.png",
+      "id_image": "ancient_3883031"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312956_1b6433d69a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312956_6244b3be2d_o.png",
+      "id_image": "ancient_499250"
+    }
+  ]
+}

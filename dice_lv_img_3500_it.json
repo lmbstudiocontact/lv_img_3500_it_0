@@ -1,0 +1,98 @@
+{
+  "english": "dice",
+  "phat_am": "[dais]",
+  "list_type": [
+    {
+      "type": "danh từ ( số nhiều không đổi)",
+      "list_m": [
+        {
+          "m_full_vn": "hình khối nhỏ bằng gỗ, xương, nhựa..., mỗi mặt có một số chấm từ 1 đến 6, dùng trong các trò chơi may rủi; súc sắc",
+          "list_en_vn": [
+            {
+              "full_en": "a pair of dice",
+              "full_vn": "một đôi súc sắc"
+            },
+            {
+              "full_en": "to shake /roll /throw the dice",
+              "full_vn": "lắc/lăn/gieo súc sắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trò chơi súc sắc",
+          "list_one_mean": [
+            {
+              "id_full_en": "no dice",
+              "list_im": [
+                {
+                  "im_full_vn": "không được! (biểu lộ sự không đồng ý)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to play dice",
+              "full_vn": "chơi súc sắc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thái (thịt, rau...) thành những miếng vuông nhỏ, thái hạt lựu"
+        },
+        {
+          "m_full_vn": "kẻ ô vuông, vạch ô vuông (trên vải)"
+        },
+        {
+          "m_full_vn": "đánh bạc bằng súc sắc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to dice with death",
+              "list_im": [
+                {
+                  "im_full_vn": "liều mạng; bạt mạng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dice away",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh súc sắc thua sạch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to dice away one's fortune",
+                      "full_vn": "đánh súc sắc thua sạch tài sản"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059985_90dd3ba95f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059985_46a4f9c9ea_o.png",
+      "id_image": "dice_1469811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059935_0ed78b7389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059935_d96af5ffb8_o.png",
+      "id_image": "dice_2228426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060020_c18acea3ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060020_4b3b8b6bed_o.png",
+      "id_image": "dice_606002"
+    }
+  ]
+}

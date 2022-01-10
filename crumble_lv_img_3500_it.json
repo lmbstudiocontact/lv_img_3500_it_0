@@ -1,0 +1,73 @@
+{
+  "english": "crumble",
+  "phat_am": "['krʌmbl]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vỡ vụn, đổ nát, bở",
+          "list_en_vn": [
+            {
+              "full_en": "rocks crumble",
+              "full_vn": "những hòn bi đá vỡ vụn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sụp đổ, tan ra mây khói",
+          "list_en_vn": [
+            {
+              "full_en": "a great empire crumbled",
+              "full_vn": "một đế quốc lớn sụp đổ"
+            },
+            {
+              "full_en": "hope crumbles",
+              "full_vn": "hy vọng tan ra mây khói"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bẻ vụn, bóp vụn, đập vụn",
+          "list_en_vn": [
+            {
+              "full_en": "to crumble one's bread",
+              "full_vn": "bẻ vụn bánh mì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bánh hấp",
+          "list_en_vn": [
+            {
+              "full_en": "apple crumble",
+              "full_vn": "bánh hấp phết táo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672429_8847be83e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672429_d7515f06f2_o.png",
+      "id_image": "crumble_2289922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672404_edc7edd91f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672404_fc401c31f1_o.png",
+      "id_image": "crumble_2349513"
+    }
+  ]
+}

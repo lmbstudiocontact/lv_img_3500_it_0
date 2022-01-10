@@ -1,0 +1,77 @@
+{
+  "english": "chapter",
+  "phat_am": "['t∫æps]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chương (sách)"
+        },
+        {
+          "m_full_vn": "đề tài, vấn đề"
+        },
+        {
+          "m_full_vn": "(tôn giáo) toàn bộ giáo sĩ trong một thánh đường; toàn bộ thành viên của một tu viện"
+        },
+        {
+          "m_full_vn": "chi nhánh của một hiệp hội/tổ chức tại một địa phương; chi hội",
+          "list_one_mean": [
+            {
+              "id_full_en": "chapter of accidents",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) accident"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the end of the chapter",
+              "list_im": [
+                {
+                  "im_full_vn": "đến cùng; mãi mãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cite (give , have ) chapter and verse",
+              "list_im": [
+                {
+                  "im_full_vn": "nói có sách, mách có chứng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "The Chicago chapter is admitting new members this year",
+              "full_vn": "Năm nay chi hội (ở) Chicago kết nạp được nhiều thành viên mới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314001_f307c67319_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314001_f0a87decb7_o.png",
+      "id_image": "chapter_5115465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358212_47a58bca40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358212_dd64266e12_o.png",
+      "id_image": "chapter_6347479"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428833_13928456e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428833_66a6eaf0f3_o.png",
+      "id_image": "chapter_6347512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313916_710587f45c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313916_448869fa0f_o.png",
+      "id_image": "chapter_6348276"
+    }
+  ]
+}

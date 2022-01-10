@@ -1,0 +1,41 @@
+{
+  "english": "ascension",
+  "phat_am": "[ə'sen∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lên",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Ascension",
+              "list_im": [
+                {
+                  "im_full_vn": "sự kiện chúa Giêsu rời mặt đất bay lên trời; sự thăng thiên"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "balloon ascension",
+              "full_vn": "sự bay lên bằng khí cầu"
+            },
+            {
+              "full_en": "ascension to power",
+              "full_vn": "(từ Mỹ,nghĩa Mỹ) sự lên nắm chính quyền"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348467_c963081f7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348467_91d39f6cdf_o.png",
+      "id_image": "ascension_2545669"
+    }
+  ]
+}

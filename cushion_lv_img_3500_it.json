@@ -1,0 +1,78 @@
+{
+  "english": "cushion",
+  "phat_am": "['ku∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái đệm, cái nệm"
+        },
+        {
+          "m_full_vn": "đường biên bàn bi a"
+        },
+        {
+          "m_full_vn": "cái độn tóc"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) miếng đệm đầu trục, cuxinê"
+        },
+        {
+          "m_full_vn": "(cơ khí) hơi đệm (hơi còn lại trong xylanh để đệm pittông)"
+        },
+        {
+          "m_full_vn": "thịt mông (lợn...)"
+        },
+        {
+          "m_full_vn": "kẹo hình nệm"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lót nệm",
+          "list_en_vn": [
+            {
+              "full_en": "cushioned seats",
+              "full_vn": "ghế có lót nệm, ghế nệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt ngồi trên nệm; che bằng nệm; (nghĩa bóng) nâng niu, chiều chuộng"
+        },
+        {
+          "m_full_vn": "làm nhẹ bớt, làm yếu đi",
+          "list_en_vn": [
+            {
+              "full_en": "to cushion a shock",
+              "full_vn": "làm cho sự va chạm yếu đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dập đi; dìm đi; làm cho yếu đi (lời kêu nài, than vãn...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050495_54de8a7222_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050495_0c8766ea5a_o.png",
+      "id_image": "cushion_194428"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428753_697133ac76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428753_a3b8cf5970_o.png",
+      "id_image": "cushion_2382956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357992_29a9f7bc09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357992_9436bff4c4_o.png",
+      "id_image": "cushion_2803350"
+    }
+  ]
+}

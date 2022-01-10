@@ -1,0 +1,74 @@
+{
+  "english": "blast",
+  "phat_am": "[blɑ:st]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "luồng gió; luồng hơi (bễ lò), hơi (bom...)"
+        },
+        {
+          "m_full_vn": "tiếng kèn",
+          "list_en_vn": [
+            {
+              "full_en": "the blast of a trumpet",
+              "full_vn": "tiếng kèn trompet"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nổ (mìn)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm tàn, làm khô héo, làm thui chột",
+          "list_en_vn": [
+            {
+              "full_en": "frost blasts buds",
+              "full_vn": "sương giá làm thui chột nụ cây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm nổ tung, phá (bằng mìn)"
+        },
+        {
+          "m_full_vn": "phá hoại, làm tan vỡ (hạnh phúc, kế hoạch...); làm mất danh dự"
+        },
+        {
+          "m_full_vn": "gây hoạ; nguyền rủa",
+          "list_one_mean": [
+            {
+              "id_full_en": "blast you !",
+              "list_im": [
+                {
+                  "im_full_vn": "đồ trời đánh thánh vật!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "tức thật! tức muốn chết đi được!"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658004_72f7885fd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658004_0eb293474d_o.png",
+      "id_image": "blast_3426129"
+    }
+  ]
+}

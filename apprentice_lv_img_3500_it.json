@@ -1,0 +1,70 @@
+{
+  "english": "apprentice",
+  "phat_am": "[ə'prentis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người học việc, người học nghề",
+          "list_en_vn": [
+            {
+              "full_en": "to bind somebody apprentice",
+              "full_vn": "nhận cho ai học việc"
+            },
+            {
+              "full_en": "to be bound apprentice to a tailor",
+              "full_vn": "học nghề ở nhà một ông thợ may"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người mới vào nghề, người mới tập sự"
+        },
+        {
+          "m_full_vn": "(hàng hải) thuỷ thủ mới vào nghề; hoa tiêu mới tập sự"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho học việc, cho học nghề",
+          "list_en_vn": [
+            {
+              "full_en": "to apprentice somebody to a tailor",
+              "full_vn": "cho ai học việc ở nhà ông thợ may"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đang học nghề, đang học việc",
+          "list_en_vn": [
+            {
+              "full_en": "an apprentice tailor",
+              "full_vn": "người học nghề may"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044665_f9a35343a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044665_b3b3ccae85_o.png",
+      "id_image": "apprentice_2621567"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662899_11da6125f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662899_57460d5411_o.png",
+      "id_image": "apprentice_2720607"
+    }
+  ]
+}

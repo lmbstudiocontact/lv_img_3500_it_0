@@ -1,0 +1,93 @@
+{
+  "english": "assembly",
+  "phat_am": "[ə'sembli]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hội họp của một nhóm người vì một mục đích rõ ràng",
+          "list_en_vn": [
+            {
+              "full_en": "morning assembly is held in the school hall",
+              "full_vn": "cuộc họp buổi sáng được tổ chức trong hội trường của trường học"
+            },
+            {
+              "full_en": "to deny somebody the right of assembly",
+              "full_vn": "không cho ai quyền được hội họp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm người trong một cuộc họp như thế",
+          "list_en_vn": [
+            {
+              "full_en": "the motion was put to the assembly",
+              "full_vn": "bản kiến nghị đã được đưa ra tại cuộc họp"
+            },
+            {
+              "full_en": "the national assembly",
+              "full_vn": "quốc hội"
+            },
+            {
+              "full_en": "the legislative assemblies of the USA",
+              "full_vn": "các hội đồng lập pháp của Hoa Kỳ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) tiếng kèn tập hợp"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) hành động hoặc quá trình lắp ráp các bộ phận của cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "the assembly of cars is often done by machines",
+              "full_vn": "xe hơi thường được lắp ráp bằng máy"
+            },
+            {
+              "full_en": "each component is carefully checked before assembly",
+              "full_vn": "mỗi bộ phận đều được kiểm tra kỹ trước khi lắp ráp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đơn vị gồm có những bộ phận chế tạo nhỏ hơn đã được lắp vào với nhau; bộ phận lắp ráp",
+          "list_en_vn": [
+            {
+              "full_en": "the tail assembly of an aircraft",
+              "full_vn": "bộ phận đuôi máy bay đã được lắp ráp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040315_5e900deb61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040315_7d2fd9aca8_o.png",
+      "id_image": "assemble_3103949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418578_50be6442be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418578_a68f53a8be_o.png",
+      "id_image": "assembling_6310902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040285_845614da88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040285_8f9b517648_o.png",
+      "id_image": "assembly_1453773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418548_3b127cd19a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418548_3c2813f40f_o.png",
+      "id_image": "assembly_2082147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658769_b244e97dd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658769_2e6501be45_o.png",
+      "id_image": "assembly_2752790"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "dam",
+  "phat_am": "[dæm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) vật mẹ",
+          "list_one_mean": [
+            {
+              "id_full_en": "the devil and his dam",
+              "list_im": [
+                {
+                  "im_full_vn": "ma quỷ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đập (ngăn nước)"
+        },
+        {
+          "m_full_vn": "nước ngăn lại, bể nước"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xây đập (ở nơi nào); ngăn (nước) bằng đập"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ( (thường) + up ) ghìm lại, kiềm chế lại",
+          "list_en_vn": [
+            {
+              "full_en": "to dam up one's emotion",
+              "full_vn": "kiềm chế nỗi xúc động"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311596_3349a64370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311596_ceb22d3d9d_o.png",
+      "id_image": "dam_2321431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311541_d1495d51a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311541_ae5a2f744b_o.png",
+      "id_image": "dam_3722851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048175_18657f3016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048175_16955a6fb4_o.png",
+      "id_image": "dam_5782512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426493_ef76a28a22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426493_899359629c_o.png",
+      "id_image": "dam_778653"
+    }
+  ]
+}

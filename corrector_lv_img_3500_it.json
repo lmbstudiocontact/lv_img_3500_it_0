@@ -1,0 +1,62 @@
+{
+  "english": "corrector",
+  "phat_am": "[kə'rektə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người sửa, người hiệu chỉnh",
+          "list_en_vn": [
+            {
+              "full_en": "corrector of the press",
+              "full_vn": "người sửa bản in"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người phê bình, người kiểm duyệt"
+        },
+        {
+          "m_full_vn": "(điện học) cái hiệu chỉnh",
+          "list_en_vn": [
+            {
+              "full_en": "phase corrector",
+              "full_vn": "cái hiệu chỉnh pha"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người trừng phạt, người trừng trị"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330731_ce34d9a40d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330731_b132902f07_o.png",
+      "id_image": "corrector_2244262"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330696_416d98686f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330696_32cce1e5a9_o.png",
+      "id_image": "corrector_2312091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067460_9a591ac502_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067460_a4866147de_o.png",
+      "id_image": "corrector_2312095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067570_a906fa2bb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067570_b5847ae731_o.png",
+      "id_image": "corrector_546638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067435_cc4180bf71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067435_1bf4fb5a42_o.png",
+      "id_image": "corrector_5881605"
+    }
+  ]
+}

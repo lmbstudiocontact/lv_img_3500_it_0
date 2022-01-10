@@ -1,0 +1,81 @@
+{
+  "english": "delay",
+  "phat_am": "[di'lei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chậm trễ; sự trì hoãn",
+          "list_en_vn": [
+            {
+              "full_en": "to act without delay",
+              "full_vn": "hành động không chậm trễ (không trì hoãn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều làm trở ngại; sự cản trở"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm chậm trễ"
+        },
+        {
+          "m_full_vn": "hoãn lại (cuộc họp, chuyến đi...)"
+        },
+        {
+          "m_full_vn": "làm trở ngại, cản trở",
+          "list_en_vn": [
+            {
+              "full_en": "to delay the traffic",
+              "full_vn": "làm trở ngại giao thông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) ủ, ram (thép)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chậm trễ, lần lữa, kề cà"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305611_ca99598e3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305611_36a13c81cb_o.png",
+      "id_image": "delay_3103094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420668_c4b52d45ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420668_06e234fbfa_o.png",
+      "id_image": "delay_3103420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042555_1f3439042c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042555_dfaba90510_o.png",
+      "id_image": "delay_4271279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042540_4a90e16f74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042540_d4ec39563f_o.png",
+      "id_image": "delay_4271651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661039_f92ba5c794_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661039_bd859fb177_o.png",
+      "id_image": "delay_4412665"
+    }
+  ]
+}

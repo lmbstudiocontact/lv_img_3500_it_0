@@ -1,0 +1,226 @@
+{
+  "english": "cold",
+  "phat_am": "[kould]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lạnh, lạnh lẽo, nguội",
+          "list_en_vn": [
+            {
+              "full_en": "cold water",
+              "full_vn": "nước lạnh"
+            },
+            {
+              "full_en": "I'm cold",
+              "full_vn": "tôi cảm thấy lạnh, tôi lạnh"
+            },
+            {
+              "full_en": "cold meat",
+              "full_vn": "thịt nguội"
+            },
+            {
+              "full_en": "cold shoulder",
+              "full_vn": "vai cừu quay để nguội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phớt lạnh, lạnh lùng, lạnh nhạt, hờ hững, không nhiệt tình",
+          "list_en_vn": [
+            {
+              "full_en": "a cold greeting",
+              "full_vn": "sự đón tiếp lạnh nhạt"
+            },
+            {
+              "full_en": "a cold look",
+              "full_vn": "cái nhìn hờ hững lạnh nhạt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm chán nản, làm thất vọng, nhạt nhẽo, không có gì thú vị",
+          "list_en_vn": [
+            {
+              "full_en": "cold news",
+              "full_vn": "những tin tức làm chán nản"
+            },
+            {
+              "full_en": "cold comfort",
+              "full_vn": "lời an ủi nhạt nhẽo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "yếu, khó ngửi thấy (màu, hơi con thú đang bị săn đuổi)",
+          "list_en_vn": [
+            {
+              "full_en": "cold scent",
+              "full_vn": "hơi (con thú đang bị săn đuổi) yếu, khó ngửi thấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mát (màu sắc)",
+          "list_one_mean": [
+            {
+              "id_full_en": "in cold blood",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) blood"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give the cold shoulder to someone",
+              "list_im": [
+                {
+                  "im_full_vn": "đối xử lạnh nhạt với ai, hờ hững với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to blow hot and cold",
+              "list_im": [
+                {
+                  "im_full_vn": "dao động, không giữ vững lập trường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "cold turkey",
+              "list_im": [
+                {
+                  "im_full_vn": "sự cai nghiện bằng cách cắt đứt mọi nguồn cung cấp ma túy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have somebody cold",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm trong tay số phận của ai; bắt ai thế nào cũng phải chịu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make someone's blood run cold",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai sợ khiếp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw cold water on",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) water"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "cold colours",
+              "full_vn": "những màu mát"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lạnh nhạt, sự lạnh lẽo",
+          "list_en_vn": [
+            {
+              "full_en": "the cold of winter",
+              "full_vn": "sự lạnh lẽo của mùa đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cảm lạnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "cold in the head",
+              "list_im": [
+                {
+                  "im_full_vn": "nhức đầu sổ mũi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "cold on the chest",
+              "list_im": [
+                {
+                  "im_full_vn": "cảm ho"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be left out in the cold",
+              "list_im": [
+                {
+                  "im_full_vn": "bị bỏ rơi không có ai chăm sóc đến; bị xa lánh; bị đối xử nhạt nhẽo thờ ơ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in the cold",
+              "list_im": [
+                {
+                  "im_full_vn": "sống một mình, cô độc hiu quạnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have cold feet",
+              "list_im": [
+                {
+                  "im_full_vn": "sợ hãi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to catch cold",
+              "full_vn": "cảm lạnh, nhiễm lạnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059945_7d32fa4c1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059945_d4a06937d5_o.png",
+      "id_image": "cold_1146841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059900_7e51a3bda8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059900_eba3fa1726_o.png",
+      "id_image": "cold_4647942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323126_76b2d5771d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323126_45d656c772_o.png",
+      "id_image": "cold_5110580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059820_9f2f9fabe9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059820_a0515de4af_o.png",
+      "id_image": "cold_5492994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323186_d835a76b89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323186_73fcb81f5f_o.png",
+      "id_image": "cold_645709"
+    }
+  ]
+}

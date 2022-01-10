@@ -1,0 +1,48 @@
+{
+  "english": "diagonal",
+  "phat_am": "[dai'ægənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chéo",
+          "list_en_vn": [
+            {
+              "full_en": "diagonal cloth",
+              "full_vn": "vải chéo go"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường chéo"
+        },
+        {
+          "m_full_vn": "vải chéo go"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324431_d86245c118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324431_e460026d04_o.png",
+      "id_image": "diagonal_1827164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679594_4b687c3260_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679594_502b4bb36b_o.png",
+      "id_image": "diagonal_2748798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439543_7329350428_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439543_1399e4fea8_o.png",
+      "id_image": "diagonal_538813"
+    }
+  ]
+}

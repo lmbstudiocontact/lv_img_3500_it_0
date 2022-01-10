@@ -1,0 +1,72 @@
+{
+  "english": "analysis",
+  "phat_am": "[ə'næləsis]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều analyses",
+      "list_m": [
+        {
+          "m_full_vn": "sự phân tích; phép phân tích",
+          "list_en_vn": [
+            {
+              "full_en": "close analysis of sales figures shows clear regional variations",
+              "full_vn": "việc phân tích kỹ các con số tiêu thụ cho thấy có sự khác nhau rõ rệt giữa các vùng"
+            },
+            {
+              "full_en": "qualitative analysis",
+              "full_vn": "phép phân tích định tính"
+            },
+            {
+              "full_en": "quantitative analysis",
+              "full_vn": "phép phân tích định lượng"
+            },
+            {
+              "full_en": "in the last /final analysis",
+              "full_vn": "phân tích cho đến cùng; suy cho cùng"
+            },
+            {
+              "full_en": "In the final analysis , I think our sympathy lies with the heroine of the play",
+              "full_vn": "Suy cho cùng, tôi nghĩ rằng thiện cảm của chúng ta nghiêng về nhân vật nữ chính trong vở kịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản phân tích",
+          "list_en_vn": [
+            {
+              "full_en": "to present a detailed analysis of the situation",
+              "full_vn": "trình bày một bản phân tích tỉ mỉ về tình hình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357537_f21665ec14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357537_e0b56bf3dc_o.png",
+      "id_image": "analysis_1281688"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428263_4a2dea2045_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428263_9eeae551a8_o.png",
+      "id_image": "analysis_1382093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357462_d49bc9f875_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357462_5f56d0f7e3_o.png",
+      "id_image": "analysis_1382100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428228_3db0c0058c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428228_35272d8823_o.png",
+      "id_image": "analysis_1382127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357567_c8abebd62f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357567_8842a0f72f_o.png",
+      "id_image": "analysis_411737"
+    }
+  ]
+}

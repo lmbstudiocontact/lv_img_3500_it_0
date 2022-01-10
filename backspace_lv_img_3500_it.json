@@ -1,0 +1,32 @@
+{
+  "english": "backspace",
+  "phat_am": "['bækspeis]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuyển cần máy chữ ngược lại một hoặc nhiều khoảng, bằng cách bấm vào một phím đặc biệt dành cho việc này",
+          "list_en_vn": [
+            {
+              "full_en": "To backspace twice",
+              "full_vn": "Xoá lùi hai ký tự"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058765_1fbc4c7fa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058765_2f874544b2_o.png",
+      "id_image": "backspace_5115783"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322006_13e98587f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322006_1fbc4c7fa9_o.png",
+      "id_image": "backspace_5261292"
+    }
+  ]
+}

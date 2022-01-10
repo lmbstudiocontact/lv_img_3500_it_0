@@ -1,0 +1,175 @@
+{
+  "english": "action",
+  "phat_am": "['æk∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành động, hành vi; hoạt động; công việc, việc làm",
+          "list_en_vn": [
+            {
+              "full_en": "a man of action",
+              "full_vn": "con người hành động"
+            },
+            {
+              "full_en": "to take prompt action",
+              "full_vn": "hành động tức khắc, hành động kịp thời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tác động, tác dụng, ảnh hưởng",
+          "list_en_vn": [
+            {
+              "full_en": "the sunlight has action on certain materials",
+              "full_vn": "ánh nắng có tác động đến một số chất"
+            },
+            {
+              "full_en": "action of acid",
+              "full_vn": "tác dụng của axit"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chiến đấu, trận đánh",
+          "list_en_vn": [
+            {
+              "full_en": "to go into action",
+              "full_vn": "bắt đầu đánh nhau, bắt đầu chiến đấu"
+            },
+            {
+              "full_en": "to break off an action",
+              "full_vn": "ngừng chiến đấu, ngừng bắn"
+            },
+            {
+              "full_en": "to be killed in action",
+              "full_vn": "bị hy sinh trong chiến đấu"
+            },
+            {
+              "full_en": "to be put out of action",
+              "full_vn": "bị loại khỏi vòng chiến đấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc kiện cáo, việc tố tụng",
+          "list_en_vn": [
+            {
+              "full_en": "to take /bring an action against somebody",
+              "full_vn": "kiện ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) quyền đi kiện; tố quyền"
+        },
+        {
+          "m_full_vn": "sự diễn biến, quá trình diễn biến (của vở kịch)"
+        },
+        {
+          "m_full_vn": "động tác, dáng điệu, bộ điệu, bộ tịch",
+          "list_en_vn": [
+            {
+              "full_en": "action of a player",
+              "full_vn": "bộ điệu của một diễn viên"
+            },
+            {
+              "full_en": "action of a horse",
+              "full_vn": "dáng đi của một con ngựa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ máy, cơ cấu (đàn pianô, máy...); sự hoạt động của bộ máy",
+          "list_one_mean": [
+            {
+              "id_full_en": "action committee",
+              "list_im": [
+                {
+                  "im_full_vn": "uỷ ban hành động"
+                }
+              ]
+            },
+            {
+              "id_full_en": "action position",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) vị trí của quân đội trước khi bước vào chiến đấu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "actions speak louder than words",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) speak"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take evasive action",
+              "list_im": [
+                {
+                  "im_full_vn": "tránh né để khỏi xảy ra chuyện đáng tiếc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "where the action is",
+              "list_im": [
+                {
+                  "im_full_vn": "nơi tưng bừng sức sống, nơi tràn đầy sinh khí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "action stations",
+              "list_im": [
+                {
+                  "im_full_vn": "vị trí các binh sĩ phải đến khi cuộc chiến đấu bắt đầu; vị trí chiến đấu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Action stations : I can hear the boss coming",
+                      "full_vn": "Vào vị trí ngay : Tôi nghe thấy tiếng ông chủ đang đến"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiện, thưa kiện"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678029_6ea0415b29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678029_fe3ff0ea2f_o.png",
+      "id_image": "action_1750430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322841_58fdb536b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322841_8640623b37_o.png",
+      "id_image": "action_1787483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367837_d4802c2e02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367837_0f2afe97e4_o.png",
+      "id_image": "action_188952"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677934_5be5202d0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677934_e9d102833c_o.png",
+      "id_image": "action_1900154"
+    }
+  ]
+}

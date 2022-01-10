@@ -1,0 +1,48 @@
+{
+  "english": "announce",
+  "phat_am": "[ə'nauns]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho mọi người biết điều gì; báo; loan báo",
+          "list_en_vn": [
+            {
+              "full_en": "they announced their engagement to their family",
+              "full_vn": "họ báo cho gia đình biết họ đã hứa hôn"
+            },
+            {
+              "full_en": "The chairman announced that he would retire early",
+              "full_vn": "ông chủ tịch cho biết rằng mình sẽ về hưu sớm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thông báo sự có mặt hoặc đến của ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "would you announce the guests as they come in ?",
+              "full_vn": "ông có thể thông tên các vị khách khi họ đến hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giới thiệu (một người thuyết minh, ca sĩ...) trên truyền thanh, truyền hình...."
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666724_bc2795db4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666724_eee9935703_o.png",
+      "id_image": "announce_1477637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426568_fbc76f9588_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426568_e26bd143f1_o.png",
+      "id_image": "announce_1622675"
+    }
+  ]
+}

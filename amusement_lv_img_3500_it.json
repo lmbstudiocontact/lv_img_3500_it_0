@@ -1,0 +1,57 @@
+{
+  "english": "amusement",
+  "phat_am": "[ə'mju:zmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trò vui; trò giải trí, trò tiêu khiển",
+          "list_en_vn": [
+            {
+              "full_en": "to choose something as an amusement",
+              "full_vn": "chọn cái gì làm trò tiêu khiển"
+            },
+            {
+              "full_en": "the hotel offers its guests a wide variety of amusements",
+              "full_vn": "khách sạn phục vụ khách rất nhiều trò giải trí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thích thú",
+          "list_en_vn": [
+            {
+              "full_en": "with a look of amusement",
+              "full_vn": "với vẻ thích thú"
+            },
+            {
+              "full_en": "she couldn't disguise her amusement at his mistake",
+              "full_vn": "cô ta không giấu được nỗi thích thú của mình trước sự nhầm lẫn của anh ấy"
+            },
+            {
+              "full_en": "to my great amusement , his false beard fell off",
+              "full_vn": "tôi rất buồn cười khi thấy bộ râu giả của nó rớt xuống"
+            },
+            {
+              "full_en": "I only do it for amusement",
+              "full_vn": "tôi làm vậy để đùa vui thôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668469_4829448b5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668469_5bb63e55ce_o.png",
+      "id_image": "amusement_359979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313651_cc8a82d552_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313651_22a5c76091_o.png",
+      "id_image": "amusement_6332632"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "english": "bad",
+  "phat_am": "[bæd]",
+  "list_type": [
+    {
+      "type": "thời quá khứ của bid"
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xấu, tồi, dở",
+          "list_en_vn": [
+            {
+              "full_en": "bad weather",
+              "full_vn": "thời tiết xấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ác, bất lương, xấu",
+          "list_en_vn": [
+            {
+              "full_en": "bad man",
+              "full_vn": "người ác, người xấu"
+            },
+            {
+              "full_en": "bad blood",
+              "full_vn": "ác cảm"
+            },
+            {
+              "full_en": "bad action",
+              "full_vn": "hành động ác, hành động bất lương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có hại cho, nguy hiểm cho",
+          "list_en_vn": [
+            {
+              "full_en": "be bad for health",
+              "full_vn": "có hại cho sức khoẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nặng, trầm trọng",
+          "list_en_vn": [
+            {
+              "full_en": "to have a bad cold",
+              "full_vn": "bị cảm nặng"
+            },
+            {
+              "full_en": "bad blunder",
+              "full_vn": "sai lầm trầm trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ươn, thiu, thối, hỏng",
+          "list_en_vn": [
+            {
+              "full_en": "bad fish",
+              "full_vn": "cá ươn"
+            },
+            {
+              "full_en": "to go bad",
+              "full_vn": "bị thiu, thối, hỏng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khó chịu",
+          "list_one_mean": [
+            {
+              "id_full_en": "bad character (halfpenny , lot , penny , sort )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đồ bất lương, kẻ thành tích bất hảo, đồ vô lại; đồ đê tiện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bad debt",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) debt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bad egg",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) egg"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bad hat",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hat"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bad food",
+              "list_im": [
+                {
+                  "im_full_vn": "thức ăn không bổ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bad form",
+              "list_im": [
+                {
+                  "im_full_vn": "sự mất dạy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bad shot",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) shot"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bad tooth",
+              "list_im": [
+                {
+                  "im_full_vn": "răng đau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go from bad to worse",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) worse"
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing is so bad as not to be good for something",
+              "list_im": [
+                {
+                  "im_full_vn": "không có cái gì là hoàn toàn xấu; trong cái không may cũng có cái may"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with a bad grace",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) grace"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "bad smell",
+              "full_vn": "mùi khó chịu"
+            },
+            {
+              "full_en": "to feel bad",
+              "full_vn": "cảm thấy khó chịu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vận rủi, vận không may, vận xấu; cái xấu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go to the bad",
+              "list_im": [
+                {
+                  "im_full_vn": "phá sản; sa ngã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the bad",
+              "list_im": [
+                {
+                  "im_full_vn": "bị thiệt, bị lỗ; còn thiếu, còn nợ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he is 100$ to the bad",
+                      "full_vn": "nó bị thiệt một trăm đồng; nó còn thiếu một trăm đồng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to take the bad with the good",
+              "full_vn": "nhận cả cái may lẫn cái không may"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057895_8c20e9d300_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057895_7bf787eb91_o.png",
+      "id_image": "bad_1027568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321081_e15a8368f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321081_43e522bcab_o.png",
+      "id_image": "bad_2473030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365957_f35c43243f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365957_e01ff5a2a6_o.png",
+      "id_image": "bad_4795885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321026_35250112a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321026_c89b467563_o.png",
+      "id_image": "bad_6064925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436433_bea49c74eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436433_8b8aaf4673_o.png",
+      "id_image": "bad_751812"
+    }
+  ]
+}

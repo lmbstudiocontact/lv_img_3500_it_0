@@ -1,0 +1,228 @@
+{
+  "english": "command",
+  "phat_am": "[kə'mɑ:nd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lệnh, mệnh lệnh",
+          "list_en_vn": [
+            {
+              "full_en": "to give a command",
+              "full_vn": "ra mệnh lệnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyền chỉ huy, quyền điều khiển",
+          "list_en_vn": [
+            {
+              "full_en": "command post",
+              "full_vn": "sở chỉ huy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự làm chủ",
+          "list_en_vn": [
+            {
+              "full_en": "the command of the sea",
+              "full_vn": "sự làm chủ trên mặt biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự kiềm chế, sự nén",
+          "list_en_vn": [
+            {
+              "full_en": "command of one's emotion",
+              "full_vn": "sự nén xúc động"
+            },
+            {
+              "full_en": "command over oneself",
+              "full_vn": "sự tự chủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tinh thông, sự thành thạo",
+          "list_en_vn": [
+            {
+              "full_en": "to have a great command of a language",
+              "full_vn": "thông thạo một thứ tiếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đội quân (dưới quyền chỉ huy của một sĩ quan)"
+        },
+        {
+          "m_full_vn": "bộ tư lệnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "at command",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng để tuỳ ý sử dụng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the word of command",
+              "list_im": [
+                {
+                  "im_full_vn": "khi mệnh lệnh được ban ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "command night",
+              "list_im": [
+                {
+                  "im_full_vn": "đêm biểu diễn theo lệnh của vua",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "command performance",
+                      "full_vn": "buổi biểu diễn theo lệnh của vua"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in command of",
+              "list_im": [
+                {
+                  "im_full_vn": "điều khiển, chỉ huy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under the command of",
+              "list_im": [
+                {
+                  "im_full_vn": "dưới quyền chỉ huy của"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take command of",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm quyền chỉ huy"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the Higher Command ; the Supreme Command",
+              "full_vn": "bộ tư lệnh tối cao"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ra lệnh, hạ lệnh",
+          "list_en_vn": [
+            {
+              "full_en": "the officer commanded his men to fire",
+              "full_vn": "viên sĩ quan hạ lệnh cho quân mình bắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ huy, điều khiển",
+          "list_en_vn": [
+            {
+              "full_en": "to command a regiment",
+              "full_vn": "chỉ huy trung đoàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chế ngự, kiềm chế, nén",
+          "list_en_vn": [
+            {
+              "full_en": "to command oneself",
+              "full_vn": "tự kiềm chế, tự chủ"
+            },
+            {
+              "full_en": "to command one's temper",
+              "full_vn": "nén giận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sẵn, có sẵn (để sử dụng)",
+          "list_en_vn": [
+            {
+              "full_en": "to command a vast sum of money",
+              "full_vn": "có sẵn một món tiền lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đủ tư cách để, đáng được; bắt phải, khiến phải",
+          "list_en_vn": [
+            {
+              "full_en": "he commanded our sympathy",
+              "full_vn": "anh ta đáng được chúng ta đồng tình"
+            },
+            {
+              "full_en": "to command respect",
+              "full_vn": "khiến phải kính trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bao quát",
+          "list_en_vn": [
+            {
+              "full_en": "the hill commands the plain below",
+              "full_vn": "quả đồi bao quát cánh đồng phía dưới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ra lệnh, hạ lệnh"
+        },
+        {
+          "m_full_vn": "chỉ huy, điều khiển"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319636_312dbba471_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319636_a5e7ba69f9_o.png",
+      "id_image": "command_1553236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674484_6a3e524758_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674484_0f5afe7fd1_o.png",
+      "id_image": "command_3602408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056125_3930f24941_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056125_b3a735029b_o.png",
+      "id_image": "command_3602425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364247_727b7cc965_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364247_e470a11fa8_o.png",
+      "id_image": "command_5954961"
+    }
+  ]
+}

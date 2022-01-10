@@ -1,0 +1,52 @@
+{
+  "english": "bilingual",
+  "phat_am": "[bai'liηgwəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sử dụng hai thứ tiếng; thông thạo hai thứ tiếng; song ngữ",
+          "list_en_vn": [
+            {
+              "full_en": "a bilingual document",
+              "full_vn": "tài liệu song ngữ"
+            },
+            {
+              "full_en": "Canada is a bilingual nation (French and English languages )",
+              "full_vn": "Canada là quốc gia sử dụng hai thứ tiếng ( Pháp và Anh ngữ)"
+            },
+            {
+              "full_en": "a bilingual encyclopedia",
+              "full_vn": "bộ từ điển bách khoa song ngữ"
+            },
+            {
+              "full_en": "he's bilingual (in French and English )",
+              "full_vn": "anh ấy thông thạo hai thứ tiếng ( Pháp và Anh)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người nói hai thứ tiếng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420763_6708491eeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420763_fff3c84b2f_o.png",
+      "id_image": "bilingual_2014348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042595_f080e75d96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042595_1f066cb803_o.png",
+      "id_image": "bilingual_4509776"
+    }
+  ]
+}

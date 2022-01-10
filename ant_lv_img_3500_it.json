@@ -1,0 +1,60 @@
+{
+  "english": "ant",
+  "phat_am": "[ænt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con kiến",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have ants in one's pants",
+              "list_im": [
+                {
+                  "im_full_vn": "bồn chồn lo lắng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "red (wood ) ant",
+              "full_vn": "kiến lửa"
+            },
+            {
+              "full_en": "winged ant",
+              "full_vn": "kiến cánh"
+            },
+            {
+              "full_en": "white ant",
+              "full_vn": "con mối"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047525_19b8e6c4c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047525_753731bb60_o.png",
+      "id_image": "ant_1357483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665864_90a9fd5c6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665864_81599e2008_o.png",
+      "id_image": "ant_1357515"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354942_0e127e5a49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354942_d328c5f5d4_o.png",
+      "id_image": "ant_616644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425748_8c0b1f04c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425748_1f717d10a8_o.png",
+      "id_image": "ant_809038"
+    }
+  ]
+}

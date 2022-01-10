@@ -1,0 +1,54 @@
+{
+  "english": "attorney",
+  "phat_am": "[ə'tə:ni]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người được chỉ định hành động thay cho một người khác trong những công việc kinh doanh hoặc pháp lý; người được ủy quyền; người thụ ủy",
+          "list_en_vn": [
+            {
+              "full_en": "power of attorney",
+              "full_vn": "quyền ủy nhiệm (quyền hành động với tư cách là người thụ ủy)"
+            },
+            {
+              "full_en": "letter (warrant ) of attorney",
+              "full_vn": "giấy ủy quyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "luật sư (người được trao tư cách để hành động cho khách hàng tại toà án)",
+          "list_one_mean": [
+            {
+              "id_full_en": "Attorney General (Atty-Gen )",
+              "list_im": [
+                {
+                  "im_full_vn": "viên chưởng lý"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373047_ba967663b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373047_d1b5e635d3_o.png",
+      "id_image": "attorney_2310222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328246_2bcf2d8743_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328246_6ddc58fec5_o.png",
+      "id_image": "attorney_2861226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683324_4bbb93427d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683324_8674449ed1_o.png",
+      "id_image": "attorney_6333136"
+    }
+  ]
+}

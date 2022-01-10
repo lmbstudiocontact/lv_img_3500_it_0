@@ -1,0 +1,42 @@
+{
+  "english": "chess",
+  "phat_am": "[t∫es]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cờ",
+          "list_en_vn": [
+            {
+              "full_en": "to play [at ] chess",
+              "full_vn": "đánh cờ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354792_214b12534d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354792_bba5092f66_o.png",
+      "id_image": "chess_1021364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425623_f1b291ebf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425623_2d3fc49363_o.png",
+      "id_image": "chess_3184082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425568_453ea5e886_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425568_816dfc3ba9_o.png",
+      "id_image": "chess_4099803"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354837_c6c04fddcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354837_4700574864_o.png",
+      "id_image": "chess_530007"
+    }
+  ]
+}

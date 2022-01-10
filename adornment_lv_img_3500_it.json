@@ -1,0 +1,40 @@
+{
+  "english": "adornment",
+  "phat_am": "[ə'dɔ:nmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tô điểm, sự trang trí, sự trang hoàng"
+        },
+        {
+          "m_full_vn": "đồ trang điểm; đồ trang trí",
+          "list_en_vn": [
+            {
+              "full_en": "personal adornments",
+              "full_vn": "đồ tư trang"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320281_f8a28f4bd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320281_975dbe2de0_o.png",
+      "id_image": "adornment_1753149"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365097_ec4e9dff62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365097_f4372e515b_o.png",
+      "id_image": "adornment_2849717"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435413_e1baf84aa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435413_c468febb8c_o.png",
+      "id_image": "adornment_360127"
+    }
+  ]
+}

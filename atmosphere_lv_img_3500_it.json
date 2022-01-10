@@ -1,0 +1,80 @@
+{
+  "english": "atmosphere",
+  "phat_am": "['ætməsfiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khí quyển",
+          "list_en_vn": [
+            {
+              "full_en": "upper atmosphere",
+              "full_vn": "tầng khí quyển cao"
+            },
+            {
+              "full_en": "outer atmosphere",
+              "full_vn": "tầng khí quyển ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không khí (nghĩa đen) & (nghĩa bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "the noisy atmosphere of a big city",
+              "full_vn": "không khí náo nhiệt của một thành phố lớn"
+            },
+            {
+              "full_en": "tense atmosphere",
+              "full_vn": "không khí căng thẳng"
+            },
+            {
+              "full_en": "the meeting between the two religious leaders took place in a cordial atmosphere",
+              "full_vn": "cuộc gặp gỡ giữa hai vị lãnh tụ tôn giáo diễn ra trong bầu không khí thân mật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) át-mốt-phe",
+          "list_en_vn": [
+            {
+              "full_en": "absolute atmosphere",
+              "full_vn": "át-mốt-phe tuyệt đối"
+            },
+            {
+              "full_en": "normal atmosphere",
+              "full_vn": "át-mốt-phe tiêu chuẩn"
+            },
+            {
+              "full_en": "technical atmosphere",
+              "full_vn": "át-mốt-phe kỹ thuật"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809655354_a2fec70144_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809655354_bb1bd459e1_o.png",
+      "id_image": "atmosphere_3075011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809655339_481f9c8c60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809655339_9911b7caef_o.png",
+      "id_image": "atmosphere_4364030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810036825_0d8e88a9f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810036825_92152e132a_o.png",
+      "id_image": "atmosphere_5207610"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810036775_aa82183205_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810036775_c8191f8aae_o.png",
+      "id_image": "atmosphere_5570607"
+    }
+  ]
+}

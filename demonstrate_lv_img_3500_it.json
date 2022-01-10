@@ -1,0 +1,102 @@
+{
+  "english": "demonstrate",
+  "phat_am": "['demənstreit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to demonstrate something to somebody ) chứng minh, giải thích",
+          "list_en_vn": [
+            {
+              "full_en": "to demonstrate the truth of a statement",
+              "full_vn": "chứng minh sự thật của một lời tuyên bố"
+            },
+            {
+              "full_en": "how do you demonstrate that the pressure remains constant ?",
+              "full_vn": "làm sao anh chứng minh được là áp suất không thay đổi?"
+            },
+            {
+              "full_en": "an assistant demonstrated the washing-machine to customers",
+              "full_vn": "người bán hàng giải thích cho khách hàng hiểu cách vận hành của máy giặt"
+            },
+            {
+              "full_en": "she demonstrated how best to defend oneself",
+              "full_vn": "cô ta trình bày cách tốt nhất để tự vệ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "là điển hình của cái gì; chứng tỏ",
+          "list_en_vn": [
+            {
+              "full_en": "the election demonstrates democracy in action",
+              "full_vn": "cuộc bầu cử là một điển hình của chế độ dân chủ trong hành động"
+            },
+            {
+              "full_en": "his sudden departure demonstrates that he's unreliable /how unreliable he is",
+              "full_vn": "việc anh ta đột ngột bỏ đi chứng tỏ anh ta là người không đáng tin cậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biểu hiện cái gì bằng hành động; biểu thị",
+          "list_en_vn": [
+            {
+              "full_en": "workers have already demonstrated their opposition to the plans",
+              "full_vn": "công nhân biểu thị sự phản đối các kế hoạch"
+            },
+            {
+              "full_en": "to demonstrate strong feelings",
+              "full_vn": "biểu thị những tình cảm mạnh mẽ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to demonstrate in favour of / against somebody / something ) tham gia một cuộc tập dượt công khai.. để ủng hộ hoặc phản đối; biểu tình",
+          "list_en_vn": [
+            {
+              "full_en": "thousands demonstrated against the price increases",
+              "full_vn": "hàng ngàn người biểu tình chống tăng giá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) thao diễn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377747_2184cb3054_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377747_bd8321ea91_o.png",
+      "id_image": "demonstration_5065552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069690_612e1011d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069690_08def79e99_o.png",
+      "id_image": "demonstration_5389904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687824_dd227ea10b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687824_b300b50fd4_o.png",
+      "id_image": "demonstration_5389914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377632_744dab417e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377632_d8964c8845_o.png",
+      "id_image": "demonstration_5392334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332791_1d531ff7dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332791_3fa1f6c789_o.png",
+      "id_image": "demonstration_5635508"
+    }
+  ]
+}

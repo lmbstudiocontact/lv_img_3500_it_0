@@ -1,0 +1,65 @@
+{
+  "english": "calendar",
+  "phat_am": "['kælində]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lịch (ghi năm tháng)",
+          "list_en_vn": [
+            {
+              "full_en": "calendar month",
+              "full_vn": "tháng dương lịch"
+            },
+            {
+              "full_en": "calendar year",
+              "full_vn": "niên lịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lịch công tác"
+        },
+        {
+          "m_full_vn": "(tôn giáo) danh sách các vị thánh"
+        },
+        {
+          "m_full_vn": "(pháp lý) danh sách những vụ án được đem ra xét xử"
+        },
+        {
+          "m_full_vn": "sổ hằng năm (của trường đại học)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) chương trình nghị sự (của nghị viện...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghi vào lịch"
+        },
+        {
+          "m_full_vn": "ghi vào danh sách"
+        },
+        {
+          "m_full_vn": "sắp xếp (tài liệu) theo trình tự thời gian"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042775_4063b04597_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042775_5c8b00b24e_o.png",
+      "id_image": "calendar_124770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350042_84ae7fe393_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350042_71057e868a_o.png",
+      "id_image": "calendar_183292"
+    }
+  ]
+}

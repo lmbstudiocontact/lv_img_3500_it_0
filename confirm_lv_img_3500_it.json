@@ -1,0 +1,72 @@
+{
+  "english": "confirm",
+  "phat_am": "[kən'fə:m]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xác nhận; chứng thực",
+          "list_en_vn": [
+            {
+              "full_en": "to confirm someone's statement",
+              "full_vn": "xác nhận lời tuyên bố của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thừa nhận, phê chuẩn",
+          "list_en_vn": [
+            {
+              "full_en": "to confirm a treaty",
+              "full_vn": "phê chuẩn một bản hiệp ước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm vững chắc, củng cố",
+          "list_en_vn": [
+            {
+              "full_en": "to confirm one's power",
+              "full_vn": "củng cố quyền lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho (ai) nhiễm sâu (một thói quen, một nếp nghĩ...)",
+          "list_en_vn": [
+            {
+              "full_en": "to confirm someone in his chain-smoking",
+              "full_vn": "làm cho ai nhiễm sâu cái tật hút thuốc lá liên tục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) làm lễ kiên tín cho ai"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356382_63080b5b28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356382_b04e652bf7_o.png",
+      "id_image": "confirm_1401064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356347_e019cbf7de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356347_641612db83_o.png",
+      "id_image": "confirm_2394259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048940_fd077d1d1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048940_081e640075_o.png",
+      "id_image": "confirm_4357384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048910_f1c392a5a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048910_c45fc23e22_o.png",
+      "id_image": "confirm_4735923"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "chemical",
+  "phat_am": "['kemikl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) hoá học",
+          "list_en_vn": [
+            {
+              "full_en": "chemical warfare",
+              "full_vn": "chiến tranh hoá học"
+            },
+            {
+              "full_en": "chemical technology /engineering",
+              "full_vn": "công nghệ hoá học"
+            },
+            {
+              "full_en": "chemical engineer",
+              "full_vn": "kỹ sư hoá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất hoá học; hoá chất"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311221_b028e004a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311221_36c0347513_o.png",
+      "id_image": "chemicals_1486187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311171_46edb995b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311171_82305289e7_o.png",
+      "id_image": "chemicals_1631455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426203_d8a1e2a227_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426203_d2fb6fb108_o.png",
+      "id_image": "chemical_1420272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048000_e6b83fede2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048000_acf43450ef_o.png",
+      "id_image": "chemical_416192"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047975_352ec4f41e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047975_e727a60014_o.png",
+      "id_image": "chemical_752552"
+    }
+  ]
+}

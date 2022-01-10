@@ -1,0 +1,78 @@
+{
+  "english": "alarm",
+  "phat_am": "[ə'lɑ:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng động hoặc tín hiệu báo nguy; sự báo động; sự báo nguy",
+          "list_en_vn": [
+            {
+              "full_en": "air-raid alarm",
+              "full_vn": "báo động phòng không"
+            },
+            {
+              "full_en": "to give /raise /sound the alarm",
+              "full_vn": "báo động/phát tín hiệu/rung chuông/kéo còi báo động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "còi báo động; chuông báo động",
+          "list_en_vn": [
+            {
+              "full_en": "where's the fire alarm ?",
+              "full_vn": "còi báo cháy ở đâu?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như alarm-clock"
+        },
+        {
+          "m_full_vn": "sự sợ hãi; sự lo sợ; sự hoảng hốt; sự hoảng sợ",
+          "list_en_vn": [
+            {
+              "full_en": "this news fills him with alarm",
+              "full_vn": "tin này làm cho ông ta lo sợ"
+            },
+            {
+              "full_en": "to jump up in alarm",
+              "full_vn": "hốt hoảng nhảy chồm dậy"
+            },
+            {
+              "full_en": "there's no cause for alarm",
+              "full_vn": "chẳng có lý do gì phải hốt hoảng cả"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho hoảng sợ; làm cho lo lắng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361597_666d7f1d82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361597_253964f88d_o.png",
+      "id_image": "alarm_1010961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053755_f7e87582d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053755_ed7b7484f2_o.png",
+      "id_image": "alarm_121187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361622_04603bb0ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361622_b16d81a015_o.png",
+      "id_image": "alarm_388490"
+    }
+  ]
+}

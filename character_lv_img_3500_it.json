@@ -1,0 +1,144 @@
+{
+  "english": "character",
+  "phat_am": "['kæriktə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính nết; tính cách; cá tính",
+          "list_en_vn": [
+            {
+              "full_en": "what does her handwriting tell you about her character ?",
+              "full_vn": "chữ viết của cô ấy cho anh thấy gì về tính cách của cô ấy?"
+            },
+            {
+              "full_en": "his character is quite different from his father's",
+              "full_vn": "tính cách của nó khác hẳn với bố nó"
+            },
+            {
+              "full_en": "The British character is often said to be phlegmatic",
+              "full_vn": "Người ta thường nói cá tính của người Anh là lạnh lùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặc tính, đặc điểm; nét đặc sắc",
+          "list_en_vn": [
+            {
+              "full_en": "the character of the desert landscape",
+              "full_vn": "đặc điểm của phong cảnh sa mạc"
+            },
+            {
+              "full_en": "the wedding took on the character of a farce when the vicar fell flat on his face",
+              "full_vn": "lễ cưới đã mang tính cách một trò hề khi vị cha sở ngã sấp mặt xuống đất"
+            },
+            {
+              "full_en": "drab houses with no character",
+              "full_vn": "những ngôi nhà nâu xám chẳng có gì đặc sắc"
+            },
+            {
+              "full_en": "character reference",
+              "full_vn": "giấy chứng nhận hạnh kiểm tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chí khí; nghị lực",
+          "list_en_vn": [
+            {
+              "full_en": "a man of character",
+              "full_vn": "người có chí khí"
+            },
+            {
+              "full_en": "it takes character to subsist in such circumstances",
+              "full_vn": "phải có nghị lực mới sống được trong hoàn cảnh như vậy"
+            },
+            {
+              "full_en": "some people think military service is character-building",
+              "full_vn": "có người cho rằng việc phục vụ trong quân đội làm cho con người có chí khí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhân vật (trong tiểu thuyết, kịch, phim...)",
+          "list_en_vn": [
+            {
+              "full_en": "the characters in a novel",
+              "full_vn": "những nhân vật trong một quyển tiểu thuyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "danh tiếng; thanh danh",
+          "list_en_vn": [
+            {
+              "full_en": "to damage somebody's character",
+              "full_vn": "làm tổn hại thanh danh của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người lập dị; người có cá tính",
+          "list_en_vn": [
+            {
+              "full_en": "he looks a suspicious character",
+              "full_vn": "trông hắn có vẻ như một kẻ đáng ngờ"
+            },
+            {
+              "full_en": "she's a real /quite a character !",
+              "full_vn": "cô ta quả là người có cá tính!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chữ; ký tự",
+          "list_one_mean": [
+            {
+              "id_full_en": "in /out of character",
+              "list_im": [
+                {
+                  "im_full_vn": "tiêu biểu/không tiêu biểu cho tính cách của ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his role in this movie is quite out of character",
+                      "full_vn": "vai diễn của ông ta trong bộ phim này hoàn toàn không phù hợp với tính cách của ông ta"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Chinese /Greek characters",
+              "full_vn": "chữ Trung Quốc/Hy Lạp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313891_6b6f2ec6a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313891_46895451f3_o.png",
+      "id_image": "character_213272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358062_6395fbb590_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358062_d696d43215_o.png",
+      "id_image": "character_4352110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668604_a1d9753e56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668604_eb785265df_o.png",
+      "id_image": "character_4402843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357967_e025c2f977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357967_ef529948c9_o.png",
+      "id_image": "character_4402868"
+    }
+  ]
+}

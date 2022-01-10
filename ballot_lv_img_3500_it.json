@@ -1,0 +1,78 @@
+{
+  "english": "ballot",
+  "phat_am": "['bælət]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "như ballot-paper"
+        },
+        {
+          "m_full_vn": "sự bỏ phiếu kín; hệ thống bỏ phiếu kín",
+          "list_en_vn": [
+            {
+              "full_en": "elected by ballot",
+              "full_vn": "được bầu bằng cách bỏ phiếu kín"
+            },
+            {
+              "full_en": "to hold a ballot of members",
+              "full_vn": "tiến hành bỏ phiếu kín để bầu các thành viên"
+            },
+            {
+              "full_en": "we should put it to a ballot",
+              "full_vn": "chúng ta cần đưa vấn đề này ra biểu quyết bằng phiếu kín"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tổng số phiếu bầu ghi được trong lần bỏ phiếu kín"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to ballot for somebody / something ) bỏ phiếu kín cho ai/cái gì"
+        },
+        {
+          "m_full_vn": "( to ballot somebody about / on something ) cho ai phải bỏ phiếu kín về điều gì",
+          "list_en_vn": [
+            {
+              "full_en": "the union balloted its members on the proposed changes",
+              "full_vn": "liên đoàn đã cho các đoàn viên bỏ phiếu kín về những thay đổi đã đề nghị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672764_03b464798a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672764_8a639709a5_o.png",
+      "id_image": "ballot_1666054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362387_d98443f692_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362387_077e7e230b_o.png",
+      "id_image": "ballot_1844805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317891_27fa8ee5e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317891_081d143daa_o.png",
+      "id_image": "ballot_2472927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054455_31789bd055_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054455_19f73b0839_o.png",
+      "id_image": "ballot_4474030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054590_c89959e5b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054590_e968a556ec_o.png",
+      "id_image": "ballot_927297"
+    }
+  ]
+}

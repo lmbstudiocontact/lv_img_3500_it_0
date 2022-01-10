@@ -1,0 +1,58 @@
+{
+  "english": "cripple",
+  "phat_am": "['kripl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người què"
+        },
+        {
+          "m_full_vn": "cái thang đứng, cái giá (của thợ quét vôi...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm què, làm tàn tật"
+        },
+        {
+          "m_full_vn": "làm hỏng, phá hỏng; làm lụn bại",
+          "list_en_vn": [
+            {
+              "full_en": "the ship was crippled by the storm",
+              "full_vn": "chiếc tàu đã bị bão làm hỏng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm tê liệt",
+          "list_en_vn": [
+            {
+              "full_en": "to cripple someone's efforts",
+              "full_vn": "làm tê liệt cố gắng của ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + along ) đi khập khiễng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056695_2d2c9b3cfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056695_ce44bd5456_o.png",
+      "id_image": "cripple_2317729"
+    }
+  ]
+}

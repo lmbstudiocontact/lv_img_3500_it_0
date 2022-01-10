@@ -1,0 +1,65 @@
+{
+  "english": "angry",
+  "phat_am": "['æηgri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( angry with somebody ) ( angry at / about something ) giận, tức giận, cáu",
+          "list_en_vn": [
+            {
+              "full_en": "to be /get angry at being delayed /about the delay",
+              "full_vn": "tức giận vì bị chậm trễ/về sự chậm trễ"
+            },
+            {
+              "full_en": "I was angry with myself for making such a stupid mistake",
+              "full_vn": "tôi tự giận mình đã phạm một sai lầm ngu ngốc như thế"
+            },
+            {
+              "full_en": "the sea /sky looks angry",
+              "full_vn": "biển/trời có vẻ giận dữ"
+            },
+            {
+              "full_en": "angry winds",
+              "full_vn": "gió dữ"
+            },
+            {
+              "full_en": "angry waves",
+              "full_vn": "sóng dữ"
+            },
+            {
+              "full_en": "to make someone angry",
+              "full_vn": "làm cho ai tức giận, chọc tức ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhức nhối, viêm tấy (vết thương)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312351_e4a71ab16d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312351_8e40b4548b_o.png",
+      "id_image": "angry_1128924"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048955_9c60814331_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048955_a11085d113_o.png",
+      "id_image": "angry_1805157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356312_cff5f7b1d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356312_34cf28b83c_o.png",
+      "id_image": "angry_1805186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048920_723ee44466_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048920_d773c920de_o.png",
+      "id_image": "angry_1815379"
+    }
+  ]
+}

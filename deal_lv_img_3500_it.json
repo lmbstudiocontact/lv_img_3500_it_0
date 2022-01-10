@@ -1,0 +1,252 @@
+{
+  "english": "deal",
+  "phat_am": "[di:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gỗ thông hoặc tùng",
+          "list_en_vn": [
+            {
+              "full_en": "made of white deal",
+              "full_vn": "làm bằng gỗ thông trắng"
+            },
+            {
+              "full_en": "a deal table /floor",
+              "full_vn": "cái bàn/sàn nhà bằng gỗ thông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thoả thuận (nhất là trong kinh doanh)",
+          "list_en_vn": [
+            {
+              "full_en": "to make /conclude /close /finalize a deal with somebody",
+              "full_vn": "làm/ký kết/kết thúc/hoàn tất một sự thoả thuận mua bán với ai"
+            },
+            {
+              "full_en": "we did a deal with the management on overtime",
+              "full_vn": "chúng tôi đã thoả thuận với ban giám đốc về giờ làm thêm"
+            },
+            {
+              "full_en": "It's a deal !",
+              "full_vn": "Xong! ( Tôi đồng ý với điều kiện của anh)"
+            },
+            {
+              "full_en": "the deal fell through",
+              "full_vn": "sự thương lượng đã thất bại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong trò chơi) sự chia bài",
+          "list_one_mean": [
+            {
+              "id_full_en": "big deal !",
+              "list_im": [
+                {
+                  "im_full_vn": "xem big"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a fair /square deal",
+              "list_im": [
+                {
+                  "im_full_vn": "sự đối xử thẳng thắn, công bằng trong kinh doanh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we offer you a fair deal on furniture",
+                      "full_vn": "chúng tôi cho ông cái giá rất phải chăng về đồ đạc trong nhà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make the best of a bad deal",
+              "list_im": [
+                {
+                  "im_full_vn": "xem best"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a raw /rough deal",
+              "list_im": [
+                {
+                  "im_full_vn": "sự đối xử không thẳng thắn, không công bằng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a good /great deal of something",
+              "list_im": [
+                {
+                  "im_full_vn": "nhiều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to spend a good deal of money",
+                      "full_vn": "tiêu nhiều tiền"
+                    },
+                    {
+                      "full_en": "to take a great deal of trouble",
+                      "full_vn": "tốn nhiều công khó nhọc"
+                    },
+                    {
+                      "full_en": "to be a great deal better",
+                      "full_vn": "tốt hơn nhiều"
+                    },
+                    {
+                      "full_en": "to see somebody a great deal",
+                      "full_vn": "gặp ai nhiều lần, gặp ai hoài"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "after the deal , play begins",
+              "full_vn": "sau khi chia bài, cuộc chơi bắt đầu"
+            },
+            {
+              "full_en": "it's your deal",
+              "full_vn": "đến lượt anh chia bài"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ, thì quá khứ và động tính từ quá khứ là dealt",
+      "list_m": [
+        {
+          "m_full_vn": "( to deal something out ; to deal something to somebody ) chia (bài)",
+          "list_en_vn": [
+            {
+              "full_en": "whose turn is it to deal ?",
+              "full_vn": "đến lượt ai chia bài?"
+            },
+            {
+              "full_en": "she dealt me four cards",
+              "full_vn": "cô ấy chia cho tôi bốn lá bài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to deal somebody / something a blow ; to deal a blow to somebody / something ) nện cho ai/cái gì một đòn; gây cho ai thất bại, khiến ai choáng váng",
+          "list_en_vn": [
+            {
+              "full_en": "she dealt him a tremendous blow with a poker",
+              "full_vn": "cô ấy lấy cái que cời giáng cho hắn một cú trời giáng"
+            },
+            {
+              "full_en": "her death dealt us a terrible blow",
+              "full_vn": "cái chết của cô ấy khiến chúng tôi choáng váng ghê gớm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to deal well , badly ... by / with somebody ) đối xử tốt, tệ với ai"
+        },
+        {
+          "m_full_vn": "( to deal in something ) bán cái gì, buôn bán cái gì; quan tâm đến cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "my bank deals in stocks and shares now",
+              "full_vn": "ngân hàng của tôi bây giờ buôn bán chứng khoán và cổ phần"
+            },
+            {
+              "full_en": "to deal in gossip and slander",
+              "full_vn": "thích ngồi lê đôi mách và nói xấu thiên hạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to deal somebody in ) trao bài cho (một người mới nhập cuộc chơi)"
+        },
+        {
+          "m_full_vn": "( to deal something out ) phân phát, phân phối",
+          "list_en_vn": [
+            {
+              "full_en": "the profits will be dealt out among the investors",
+              "full_vn": "lãi sẽ được chia cho những người đầu tư"
+            },
+            {
+              "full_en": "the judge dealt out harsh sentences to the rioters",
+              "full_vn": "quan toà ra những hình phạt nghiêm khắc cho những kẻ bạo loạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to deal with somebody / something ) đối phó, giải quyết, xử lý",
+          "list_en_vn": [
+            {
+              "full_en": "how would you deal with an armed burglar ?",
+              "full_vn": "anh đối phó thế nào với một tên trộm có vũ khí?"
+            },
+            {
+              "full_en": "they try to deal politely with angry customers",
+              "full_vn": "họ cố đối xử lịch sự với những khách hàng nóng nảy"
+            },
+            {
+              "full_en": "you dealt with an awkward situation very tactfully",
+              "full_vn": "anh đã xử lý rất khéo một tình huống khó xử"
+            },
+            {
+              "full_en": "haven't you dealt with that letter yet ?",
+              "full_vn": "anh giải quyết (trả lời) bức thư đó chưa?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to deal with somebody / something ) giao du, giao thiệp",
+          "list_en_vn": [
+            {
+              "full_en": "I hate dealing with large impersonal companies",
+              "full_vn": "tôi ghét giao thiệp với những công ty lớn nhưng thiếu tình người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to deal with something ) bàn về cái gì, đề cập",
+          "list_en_vn": [
+            {
+              "full_en": "the next chapter deals with verbs",
+              "full_vn": "chương kế tiếp bàn về động từ"
+            },
+            {
+              "full_en": "I'll deal with decimals in the next lesson",
+              "full_vn": "tôi sẽ đề cập đến phân số thập phân trong bài sau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352757_84fb0815e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352757_1337e0ddcd_o.png",
+      "id_image": "deal_1312290"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308576_4bd2888714_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308576_f2b8e5caba_o.png",
+      "id_image": "deal_1441352"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663769_f0a5004481_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663769_a1735b83bb_o.png",
+      "id_image": "deal_4433157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045475_7c669aa762_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045475_67fd96a572_o.png",
+      "id_image": "deal_5928167"
+    }
+  ]
+}

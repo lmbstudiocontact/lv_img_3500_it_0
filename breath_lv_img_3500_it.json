@@ -1,0 +1,171 @@
+{
+  "english": "breath",
+  "phat_am": "[breθ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hơi thở, hơi",
+          "list_en_vn": [
+            {
+              "full_en": "to take a deep breath",
+              "full_vn": "hít một hơi dài"
+            },
+            {
+              "full_en": "to hold (catch ) one's breath",
+              "full_vn": "nín hơi, nín thở"
+            },
+            {
+              "full_en": "to lose one's breath",
+              "full_vn": "hết hơi"
+            },
+            {
+              "full_en": "to recover one's breath",
+              "full_vn": "lấy lại hơi"
+            },
+            {
+              "full_en": "to take breath",
+              "full_vn": "nghỉ lấy hơi"
+            },
+            {
+              "full_en": "out of breath",
+              "full_vn": "hết hơi, đứt hơi"
+            },
+            {
+              "full_en": "all in a breath ; all in the same breath",
+              "full_vn": "một hơi, một mạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơn gió nhẹ; làn hương thoảng",
+          "list_en_vn": [
+            {
+              "full_en": "there wasn't a breath of air",
+              "full_vn": "chẳng có tí gió nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng thì thào",
+          "list_one_mean": [
+            {
+              "id_full_en": "breath of life",
+              "list_im": [
+                {
+                  "im_full_vn": "điều cần thiết, điều bắt buộc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's breath to cool one's porridge",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) porridge"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to speak under one's breath",
+              "list_im": [
+                {
+                  "im_full_vn": "nói khẽ, nói thì thầm, nói thì thào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take one's breath away",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ngạc nhiên, làm kinh ngạc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to waste one's breath",
+              "list_im": [
+                {
+                  "im_full_vn": "hoài hơi, phí lời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to draw one's first /last breath",
+              "list_im": [
+                {
+                  "im_full_vn": "chào đời/qua đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be out of breath",
+              "list_im": [
+                {
+                  "im_full_vn": "thở dốc, thở hổn hển"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's last /dying /breath",
+              "list_im": [
+                {
+                  "im_full_vn": "hơi thở cuối cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to save one's breath",
+              "list_im": [
+                {
+                  "im_full_vn": "khỏi phí lời, khỏi nói những điều vô bổ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you can save your breath: he never listens to anyone in the world",
+                      "full_vn": "anh khỏi phải phí lời: hắn chẳng bao giờ nghe ai trên đời này cả"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "with bated breath",
+              "list_im": [
+                {
+                  "im_full_vn": "náo nức, hồi hộp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053540_b73ece527c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053540_ab84c10477_o.png",
+      "id_image": "breathing_2877810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432168_2a7e9342bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432168_114812f698_o.png",
+      "id_image": "breathing_3890925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671779_edcf2aea41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671779_614614302c_o.png",
+      "id_image": "breathing_4694655"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361497_76a3bbfe43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361497_e8d19d0561_o.png",
+      "id_image": "breath_2451263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317171_d15bc195eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317171_706bd3a7b2_o.png",
+      "id_image": "breath_2688252"
+    }
+  ]
+}

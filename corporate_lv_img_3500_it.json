@@ -1,0 +1,69 @@
+{
+  "english": "corporate",
+  "phat_am": "['kɔ:pərit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về hoặc chung nhau giữa những thành viên của một nhóm; tập thể; đoàn thể",
+          "list_en_vn": [
+            {
+              "full_en": "corporate responsibility /action",
+              "full_vn": "trách nhiệm/hành động của từng người trong đoàn thể"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "về hoặc thuộc về liên hiệp công ty",
+          "list_en_vn": [
+            {
+              "full_en": "corporate planning , policy",
+              "full_vn": "kế hoạch, chính sách của liên hiệp công ty"
+            },
+            {
+              "full_en": "corporate executives usually have high salaries",
+              "full_vn": "ủy viên ban quản trị của liên hiệp công ty thường hưởng lương cao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hợp thành một nhóm độc nhất",
+          "list_en_vn": [
+            {
+              "full_en": "a corporate body",
+              "full_vn": "cơ quan hợp nhất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068240_400e74f6a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068240_737a59c956_o.png",
+      "id_image": "corporate_1924394"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331451_5a5d20d0b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331451_daaa86b87d_o.png",
+      "id_image": "corporate_2112400"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686429_7d4b4a5d1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686429_978da84e00_o.png",
+      "id_image": "corporate_2191157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446368_9a95e80e39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446368_7ffc3dcc80_o.png",
+      "id_image": "corporate_2573076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446313_4da912e2ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446313_4636bed2de_o.png",
+      "id_image": "corporate_5308235"
+    }
+  ]
+}

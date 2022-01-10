@@ -1,0 +1,55 @@
+{
+  "english": "component",
+  "phat_am": "[kəm'pounənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hợp thành, cấu thành",
+          "list_en_vn": [
+            {
+              "full_en": "component parts",
+              "full_vn": "những bộ phận cấu thành"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành phần, phần hợp thành"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359667_e6fac890dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359667_f90012f266_o.png",
+      "id_image": "component_5830299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315631_c6ef19f5ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315631_8997552cd2_o.png",
+      "id_image": "component_915755"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359762_c21ffe46e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359762_5b371a1112_o.png",
+      "id_image": "component_915756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052025_2112dd70e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052025_5a5a3a0419_o.png",
+      "id_image": "component_915757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430408_efc8a144f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430408_dc22729566_o.png",
+      "id_image": "component_915758"
+    }
+  ]
+}

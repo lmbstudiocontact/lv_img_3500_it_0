@@ -1,0 +1,61 @@
+{
+  "english": "charcoal",
+  "phat_am": "['t∫ɑ:koul]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "than (củi)",
+          "list_en_vn": [
+            {
+              "full_en": "animal charcoal",
+              "full_vn": "than xương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chì than (để vẽ)"
+        },
+        {
+          "m_full_vn": "bức vẽ bằng chì than"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bôi than; viết bằng chì than, vẽ bằng than"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357882_fe652b4c36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357882_8505b55b32_o.png",
+      "id_image": "charcoal_1939665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313711_7b6093ea61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313711_23cf05d030_o.png",
+      "id_image": "charcoal_2333799"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428568_bc86304eb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428568_61148b6007_o.png",
+      "id_image": "charcoal_3828192"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668449_d70b27131e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668449_4319be0a42_o.png",
+      "id_image": "charcoal_6331992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428643_307a956bf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428643_f856e0a715_o.png",
+      "id_image": "charcoal_933265"
+    }
+  ]
+}

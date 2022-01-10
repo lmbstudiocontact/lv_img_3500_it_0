@@ -1,0 +1,30 @@
+{
+  "english": "crux",
+  "phat_am": "[krʌks]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều cruxes",
+      "list_m": [
+        {
+          "m_full_vn": "vấn đề nan giải, mối khó khăn"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) điểm chính, cái nút, điểm then chốt",
+          "list_en_vn": [
+            {
+              "full_en": "the crux of the matter",
+              "full_vn": "cái nút của vấn đề, điểm then chốt của vấn đề"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317261_0ce6076b2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317261_acfdb0f2d4_o.png",
+      "id_image": "crux_3982010"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "english": "complain",
+  "phat_am": "[kəm'plein]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to complain to somebody at / about something ) kêu ca, kêu nài, phàn nàn, than phiền; oán trách",
+          "list_en_vn": [
+            {
+              "full_en": "You're always complaining !",
+              "full_vn": "Lúc nào anh cũng kêu ca!"
+            },
+            {
+              "full_en": "She complained to me about his rudeness",
+              "full_vn": "Bà ta than phiền với tôi về hành động thô lỗ của hắn"
+            },
+            {
+              "full_en": "He complained to the waiter that the meal was cold",
+              "full_vn": "Ông ấy phàn nàn với người hầu bàn rằng thức ăn đã nguội"
+            },
+            {
+              "full_en": "If your work is too hard , complain to your teacher about it",
+              "full_vn": "nếu công việc của anh quá khó khăn thì anh cứ thưa với thầy giáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to complain of something ) kể lại; trình bày (một sự đau đớn...)",
+          "list_en_vn": [
+            {
+              "full_en": "He complained of a pain in the head",
+              "full_vn": "anh ta kêu đau đầu"
+            },
+            {
+              "full_en": "The patient is complaining of acute earache",
+              "full_vn": "Bệnh nhân kêu là đau tai quá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052800_b0ca40b253_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052800_6508868891_o.png",
+      "id_image": "complain_2016314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316381_d9ec73c210_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316381_dc92d43022_o.png",
+      "id_image": "complain_5692381"
+    }
+  ]
+}

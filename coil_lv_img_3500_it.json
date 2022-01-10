@@ -1,0 +1,87 @@
+{
+  "english": "coil",
+  "phat_am": "[kɔil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộn",
+          "list_en_vn": [
+            {
+              "full_en": "a coil of rope",
+              "full_vn": "cuộn thừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vòng, cuộn (con rắn...)"
+        },
+        {
+          "m_full_vn": "mớ tóc quăn"
+        },
+        {
+          "m_full_vn": "(điện học) cuộn (dây)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) ống xoắn ruột gà"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ), (thơ ca) sự thăng trầm, sóng gió (của cuộc đời)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộn, quấn",
+          "list_en_vn": [
+            {
+              "full_en": "the snake coiled up in the sun",
+              "full_vn": "con rắn nằm cuộn tròn dưới ánh mặt trời"
+            },
+            {
+              "full_en": "to coil oneself in bed",
+              "full_vn": "nằm cuộn tròn trong giường, nằm co con tôm trong giường"
+            },
+            {
+              "full_en": "the snake coiled [itself ] round the branch",
+              "full_vn": "con rắn quấn quanh cành cây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quanh co, uốn khúc, ngoằn ngoèo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679359_ffb463a9fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679359_0f366d4ef5_o.png",
+      "id_image": "coil_1686314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439173_e3e5b09f98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439173_864044ace5_o.png",
+      "id_image": "coil_2399565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679304_a331116a50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679304_771b28c57e_o.png",
+      "id_image": "coil_2861566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679274_68140626cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679274_47ea61ce2c_o.png",
+      "id_image": "coil_4152056"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679189_28a769cbef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679189_494061848b_o.png",
+      "id_image": "coil_5387159"
+    }
+  ]
+}

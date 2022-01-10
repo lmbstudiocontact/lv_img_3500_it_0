@@ -1,0 +1,73 @@
+{
+  "english": "chew",
+  "phat_am": "[t∫u:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhai",
+          "list_en_vn": [
+            {
+              "full_en": "to have a chew at something",
+              "full_vn": "nhai vật gì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhai"
+        },
+        {
+          "m_full_vn": "ngẫm nghĩ, nghiền ngẫm nghĩ tới nghĩ lui",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bite off more than one can chew",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bite"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to chew the cud",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) cud"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to chew the rag (the fat )",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) lải nhải ca cẩm, làu nhàu"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) nói chuyện phiếm, tán dóc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to chew upon (over ) something",
+              "full_vn": "ngẫm nghĩ cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047055_6d20cb6a96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047055_4cd5c3f87d_o.png",
+      "id_image": "chewing_1117233"
+    }
+  ]
+}

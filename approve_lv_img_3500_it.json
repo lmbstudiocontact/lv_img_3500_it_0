@@ -1,0 +1,77 @@
+{
+  "english": "approve",
+  "phat_am": "[ə'pru:v]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chấp thuận; phê chuẩn; phê duyệt; chuẩn y",
+          "list_en_vn": [
+            {
+              "full_en": "that peace treaty has been approved by the national assembly",
+              "full_vn": "hoà ước ấy đã được sự phê chuẩn của quốc hội"
+            },
+            {
+              "full_en": "the auditors approved the company's accounts",
+              "full_vn": "các kiểm định viên đã chấp thuận các chứng từ thanh toán của công ty"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chứng tỏ; tỏ ra",
+          "list_en_vn": [
+            {
+              "full_en": "to approve one's valour",
+              "full_vn": "chứng tỏ lòng can đảm"
+            },
+            {
+              "full_en": "he approved himself to be a good pianist",
+              "full_vn": "anh ta tỏ ra là một người chơi pianô giỏi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to approve of somebody / something ) tán thành; ưng thuận; bằng lòng",
+          "list_en_vn": [
+            {
+              "full_en": "to approve of the proposal",
+              "full_vn": "tán thành lời đề nghị"
+            },
+            {
+              "full_en": "Lan doesn't want to take her new boyfriend home in case her parents don't approve of him",
+              "full_vn": "Lan không muốn đưa anh bạn mới quen về nhà nếu bố mẹ không ưng thuận anh ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351587_a19db1c606_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351587_7e8881afa5_o.png",
+      "id_image": "approve_4462857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662734_40b0034679_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662734_5a6334f729_o.png",
+      "id_image": "approve_4462913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044405_020c95c224_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044405_ac817f11d2_o.png",
+      "id_image": "approve_5492638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307391_cd8bf72b6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307391_69a4fc1b59_o.png",
+      "id_image": "approve_6383812"
+    }
+  ]
+}

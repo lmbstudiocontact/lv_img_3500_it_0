@@ -1,0 +1,96 @@
+{
+  "english": "agent",
+  "phat_am": "['eidʒənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người hoạt động cho một doanh nghiệp hoặc quản lý công việc của người khác trong một doanh nghiệp; đại lý",
+          "list_en_vn": [
+            {
+              "full_en": "a travel agent",
+              "full_vn": "đại lý của công ty du lịch"
+            },
+            {
+              "full_en": "an insurance agent",
+              "full_vn": "nhân viên bảo hiểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tác nhân; chất",
+          "list_en_vn": [
+            {
+              "full_en": "physical agent",
+              "full_vn": "tác nhân vật lý"
+            },
+            {
+              "full_en": "chemical agent",
+              "full_vn": "tác nhân hoá học"
+            },
+            {
+              "full_en": "catalytic agent",
+              "full_vn": "chất xúc tác"
+            },
+            {
+              "full_en": "fireproof agent",
+              "full_vn": "chất chịu lửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhân viên mật vụ; đặc vụ; trinh thám",
+          "list_one_mean": [
+            {
+              "id_full_en": "road agent",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) kẻ cướp đường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "secret agent",
+              "list_im": [
+                {
+                  "im_full_vn": "đặc vụ, trinh thám"
+                }
+              ]
+            },
+            {
+              "id_full_en": "ticket agent",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) người giữ quỹ phòng bán vé"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318731_f8ecb0880c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318731_659ac9cffe_o.png",
+      "id_image": "agent_1018648"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673544_75c98c4274_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673544_cee1157589_o.png",
+      "id_image": "agent_1064339"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433873_d114f745f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433873_61c936efa2_o.png",
+      "id_image": "agent_2238321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673454_a501091467_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673454_18cb7b7c1c_o.png",
+      "id_image": "agent_4515750"
+    }
+  ]
+}

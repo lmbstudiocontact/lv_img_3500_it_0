@@ -1,0 +1,108 @@
+{
+  "english": "career",
+  "phat_am": "[kə'riə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghề nghiệp hoặc công việc có những cơ hội để thăng tiến hoặc được đề bạt; sự nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "she chose an academic career",
+              "full_vn": "bà ấy đã chọn sự nghiệp học thuật"
+            },
+            {
+              "full_en": "a career in accountancy /journalism /politics",
+              "full_vn": "sự nghiệp trong nghề kế toán/làm báo/chính trị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nghiệp (của một người); đời hoạt động; quá trình phát triển (của một đảng phái, một nguyên tắc)",
+          "list_en_vn": [
+            {
+              "full_en": "at the end of his career",
+              "full_vn": "vào cuối đời hoạt động của anh ta"
+            },
+            {
+              "full_en": "to look back on a successful career",
+              "full_vn": "nhìn lại một sự nghiệp có nhiều thành công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tốc lực; sự chạy nhanh; sự lao nhanh; đà lao nhanh",
+          "list_en_vn": [
+            {
+              "full_en": "in full career",
+              "full_vn": "hết tốc lực"
+            },
+            {
+              "full_en": "to stop somebody in mid career",
+              "full_vn": "chặn người nào khi anh ta đang lao nhanh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuyên nghiệp; nhà nghề",
+          "list_en_vn": [
+            {
+              "full_en": "a career diplomat",
+              "full_vn": "một nhà ngoại giao chuyên nghiệp"
+            },
+            {
+              "full_en": "a career criminal",
+              "full_vn": "một tên tội phạm chuyên nghiệp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chạy nhanh, lao nhanh",
+          "list_en_vn": [
+            {
+              "full_en": "to career down the road on a bicycle",
+              "full_vn": "đạp xe lao nhanh xuống đường"
+            },
+            {
+              "full_en": "the car careered off the road into the ditch",
+              "full_vn": "chiếc xe hơi lao ra khỏi đường đâm xuống một cái hào"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062490_f258a0b258_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062490_09ffc8f200_o.png",
+      "id_image": "career_2597120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325656_f946f1e32f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325656_e77d68c84b_o.png",
+      "id_image": "career_4576932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440633_aa0bf6e686_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440633_d5e426d187_o.png",
+      "id_image": "career_5672132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062390_22caf8d254_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062390_384f65e397_o.png",
+      "id_image": "career_6182835"
+    }
+  ]
+}

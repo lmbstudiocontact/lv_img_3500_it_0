@@ -1,0 +1,106 @@
+{
+  "english": "casual",
+  "phat_am": "['kæʒjuəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tình cờ, bất chợt, ngẫu nhiên, vô tình, không có chủ định",
+          "list_en_vn": [
+            {
+              "full_en": "a casual meetting /visit /encounter",
+              "full_vn": "cuộc gặp gỡ/thăm viếng/chạm trán tình cờ"
+            },
+            {
+              "full_en": "a casual glance",
+              "full_vn": "cái nhìn bất chợt"
+            },
+            {
+              "full_en": "a casual inspection",
+              "full_vn": "một cuộc kiểm tra tình cờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được làm không cẩn thận lắm hoặc thiếu suy nghĩ kỹ; không chuẩn bị trước",
+          "list_en_vn": [
+            {
+              "full_en": "a casual remark",
+              "full_vn": "một lời nhận xét tùy tiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không để ý, thiếu trách nhiệm, hững hờ",
+          "list_en_vn": [
+            {
+              "full_en": "his attitude to his job is rather casual",
+              "full_vn": "thái độ của anh ta với công việc có phần hững hờ"
+            },
+            {
+              "full_en": "a casual observer",
+              "full_vn": "một người quan sát hững hờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) tự nhiên, không trịnh trọng, bình thường, thường",
+          "list_en_vn": [
+            {
+              "full_en": "clothes for casual wear",
+              "full_vn": "quần áo mặc những lúc bình thường, quần áo bình thường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không đều, thất thường, lúc có lúc không",
+          "list_en_vn": [
+            {
+              "full_en": "to earn one's living by casual labour",
+              "full_vn": "kiếm sống bằng lao động thất thường"
+            },
+            {
+              "full_en": "casual labourer",
+              "full_vn": "người lao công có việc làm thất thường, người lao công không có việc làm cố định"
+            },
+            {
+              "full_en": "casual sex",
+              "full_vn": "tình dục ngẫu hứng (không gắn liền với quan hệ lâu dài)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nông cạn",
+          "list_en_vn": [
+            {
+              "full_en": "a casual acquaintance",
+              "full_vn": "một sự quen biết sơ sơ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người không có việc làm cố định ( (cũng) casual labourer )"
+        },
+        {
+          "m_full_vn": "người nghèo túng thường phải nhận tiền cứu tế ( (cũng) casual poor )"
+        },
+        {
+          "m_full_vn": "( số nhiều) quần áo bình thường, không trang trọng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435898_4a5c0a5977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435898_9d94a40177_o.png",
+      "id_image": "casual_1720728"
+    }
+  ]
+}

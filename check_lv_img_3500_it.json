@@ -1,0 +1,193 @@
+{
+  "english": "check",
+  "phat_am": "[t∫ek]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) như cheque"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cản trở, sự ngăn cản; sự kìm hãm; sự hạn chế; sự chặn lại; người chống cự, người ngăn cản, vật cản",
+          "list_en_vn": [
+            {
+              "full_en": "to put a check on something",
+              "full_vn": "cản trở việc gì; kìm hãm việc gì; hạn chế việc gì"
+            },
+            {
+              "full_en": "to keep a check on ; to keep in check",
+              "full_vn": "hạn chế; kìm hãm"
+            },
+            {
+              "full_en": "to hold someone in check",
+              "full_vn": "cản ai tiến lên, chặn đứng lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(săn bắn) sự mất vết, sự mất hơi",
+          "list_en_vn": [
+            {
+              "full_en": "to come to a check",
+              "full_vn": "mất vết, mất hơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự dừng lại, sự ngừng lại"
+        },
+        {
+          "m_full_vn": "(quân sự) sự thua nhẹ",
+          "list_en_vn": [
+            {
+              "full_en": "to meet with a check",
+              "full_vn": "bị thua nhẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự kiểm tra, sự kiểm soát, sự kiểm lại; dấu ghi đã kiểm tra (đã kiểm soát)"
+        },
+        {
+          "m_full_vn": "hoá đơn, giấy ghi tiền (khách hàng phải trả ở khách sạn)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (đánh bài) thẻ"
+        },
+        {
+          "m_full_vn": "kiểu kẻ ô vuông, kiểu ca-rô; vải kẻ ô vuông, vải ca-rô"
+        },
+        {
+          "m_full_vn": "(đánh cờ) sự chiếu tướng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pass in (cash , hand in ) one's check",
+              "list_im": [
+                {
+                  "im_full_vn": "chết"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "check !",
+              "full_vn": "chiếu tướng!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cản, cản trở; chăn, ngăn chặn; kìm, kiềm chế, nén, dằn (lòng)",
+          "list_en_vn": [
+            {
+              "full_en": "he couldn't check his anger",
+              "full_vn": "hắn không kìm được tức giận"
+            },
+            {
+              "full_en": "we must check the bloody hand of imperialism",
+              "full_vn": "chúng ta phải chặn bàn tay đẫm máu của chủ nghĩa đế quốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiểm tra, kiểm soát; kiểm lại; đánh dấu đã kiểm soát",
+          "list_en_vn": [
+            {
+              "full_en": "please , check these figures",
+              "full_vn": "làm ơn soát lại những con số này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quở trách, trách mắng"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) gửi, ký gửi",
+          "list_en_vn": [
+            {
+              "full_en": "have you checked all your luggage ?",
+              "full_vn": "anh đã gửi hết hành lý chưa?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh cờ) chiếu (tướng)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngập ngừng, do dự"
+        },
+        {
+          "m_full_vn": "dừng lại, đứng lại (chó săn; vì lạc vết, hoặc để đánh hơi)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to check in",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi tên khi đến"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) ghi tên lấy phòng ở khách sạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to check out",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi tên khi ra về (sau ngày làm việc)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) trả buồng khách sạn"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) chết ngoẻo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to check up",
+              "list_im": [
+                {
+                  "im_full_vn": "kiểm tra, soát lại; chữa (bài)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356667_084bd0f39c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356667_3997d88a42_o.png",
+      "id_image": "check_832851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667454_52726af10e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667454_858571e6f7_o.png",
+      "id_image": "check_927316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667434_83f28ce589_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667434_00cecdbffc_o.png",
+      "id_image": "check_979714"
+    }
+  ]
+}

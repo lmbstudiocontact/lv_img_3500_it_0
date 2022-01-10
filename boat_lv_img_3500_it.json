@@ -1,0 +1,109 @@
+{
+  "english": "boat",
+  "phat_am": "[bout]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tàu thuyền",
+          "list_en_vn": [
+            {
+              "full_en": "to take a boat for ...",
+              "full_vn": "đáp tàu đi..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đĩa hình thuyền (để đựng nước thịt...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in the same boat",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng hội cùng thuyền, cùng chung cảnh ngộ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sail in the same boat",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) cùng hành động, hành động chung"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sail one's own boat",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) hành động riêng lẻ; tự làm lấy; theo con đường riêng của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn one's boat",
+              "list_im": [
+                {
+                  "im_full_vn": "không thể làm lại từ đầu, không thể trở về tình trạng ban đầu nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rock the boat",
+              "list_im": [
+                {
+                  "im_full_vn": "xoay chuyển tình thế, đảo ngược tình thế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to miss the boat",
+              "list_im": [
+                {
+                  "im_full_vn": "lỡ chuyến tàu, để mất cơ hội quý báu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi chơi bằng thuyền"
+        },
+        {
+          "m_full_vn": "đi tàu, đi thuyền"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chở bằng tàu, chở bằng thuyền"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327041_61394002f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327041_31fa32f7e8_o.png",
+      "id_image": "boat_1019373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682189_141a88429c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682189_c0bcbc8a1c_o.png",
+      "id_image": "boat_1669484"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442138_7e30a542fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442138_62969f8671_o.png",
+      "id_image": "boat_372094"
+    }
+  ]
+}

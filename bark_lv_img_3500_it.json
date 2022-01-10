@@ -1,0 +1,140 @@
+{
+  "english": "bark",
+  "phat_am": "[bɑ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng sủa"
+        },
+        {
+          "m_full_vn": "tiếng quát tháo"
+        },
+        {
+          "m_full_vn": "tiếng súng nổ"
+        },
+        {
+          "m_full_vn": "(từ lóng) tiếng ho",
+          "list_one_mean": [
+            {
+              "id_full_en": "his bark is worse than his bite",
+              "list_im": [
+                {
+                  "im_full_vn": "hắn chỉ quát tháo thế thôi, thực ra tâm địa không có gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sủa",
+          "list_en_vn": [
+            {
+              "full_en": "to bark at the moon",
+              "full_vn": "sủa vu vơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quát tháo"
+        },
+        {
+          "m_full_vn": "(từ lóng) ho",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bark up the wrong tree",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) nhầm lẫn, lầm lạc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vỏ cây"
+        },
+        {
+          "m_full_vn": "(từ lóng) da"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) vỏ canh ki na ( (cũng) Peruvian bark , Jesuits' bark )",
+          "list_one_mean": [
+            {
+              "id_full_en": "to come (go ) between the bark and the tree",
+              "list_im": [
+                {
+                  "im_full_vn": "dính vào chuyện gia đình nhà người ta, can thiệp vào chuyện riêng của vợ chồng người ta"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a man with the bark on",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) người thô lỗ, vụng về"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the bark off something",
+              "list_im": [
+                {
+                  "im_full_vn": "làm giảm giá trị của cái gì; làm giảm vẻ đẹp của cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lột vỏ, bóc vỏ (cây)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) làm sầy da, làm tuột da"
+        },
+        {
+          "m_full_vn": "phủ một lớp vỏ cứng"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuyền ba buồm"
+        },
+        {
+          "m_full_vn": "(thơ ca) thuyền"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670009_309e22dbd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670009_b9dcced28e_o.png",
+      "id_image": "bark_5660504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359507_8b5dea35b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359507_fa3cf13511_o.png",
+      "id_image": "bark_5660523"
+    }
+  ]
+}

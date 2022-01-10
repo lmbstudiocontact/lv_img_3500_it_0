@@ -1,0 +1,151 @@
+{
+  "english": "compound",
+  "phat_am": "[kəm'paund]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hoá học) hợp chất",
+          "list_en_vn": [
+            {
+              "full_en": "organic compound",
+              "full_vn": "hợp chất hữu cơ"
+            },
+            {
+              "full_en": "common salt is a compound of sodium and chlorine",
+              "full_vn": "muối thường là một hợp chất natri và clo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) từ ghép",
+          "list_en_vn": [
+            {
+              "full_en": "' Cattle-truck ' , ' sharp-sighted ' and ' pressman ' are compounds",
+              "full_vn": "'Cattle-truck', 'sharp-sighted' và 'pressman' là những từ ghép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khu vực có các toà nhà vây quanh (nhất làtrong trại lính hoặc trại tù); khu vực có hàng rào vây quanh"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "kép, ghép, phức, phức hợp, đa hợp",
+          "list_one_mean": [
+            {
+              "id_full_en": "compound fracture",
+              "list_im": [
+                {
+                  "im_full_vn": "gẫy xương hở; gẫy chồi xương"
+                }
+              ]
+            },
+            {
+              "id_full_en": "compound householder",
+              "list_im": [
+                {
+                  "im_full_vn": "người ở thuê trả cả tiền thuê nhà lẫn tiền thuế"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "compound word",
+              "full_vn": "từ ghép"
+            },
+            {
+              "full_en": "compound sentence",
+              "full_vn": "câu ghép"
+            },
+            {
+              "full_en": "compound function",
+              "full_vn": "(toán học) hàm đa hợp"
+            },
+            {
+              "full_en": "compound interrest",
+              "full_vn": "lãi kép (lãi cho vốn gốc cộng với lãi)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to compound something of / from something ) trộn; pha trộn",
+          "list_en_vn": [
+            {
+              "full_en": "the vat in which the chemicals are compounded",
+              "full_vn": "cái thùng trong đó pha trộn các hoá chất"
+            },
+            {
+              "full_en": "a medicine compounded of herbs",
+              "full_vn": "thuốc gồm nhiều dược thảo pha trộn nhau"
+            },
+            {
+              "full_en": "her character was compounded in equal parts of meanness and generosity",
+              "full_vn": "bủn xỉn và hào phóng là hai phần bằng nhau cấu thành tính nết của cô ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho tồi tệ thêm",
+          "list_en_vn": [
+            {
+              "full_en": "initial planning errors were compounded by carelessness in carrying the plan out",
+              "full_vn": "những sai lầm ban đầu về việc hoạch định càng thêm tồi tệ vì sự cẩu thả trong việc thực hiện kế hoạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) không tố giác; làm ngơ",
+          "list_en_vn": [
+            {
+              "full_en": "guilty of compounding a felony",
+              "full_vn": "can tội không tố giác một trọng tội"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to compound with somebody for something ) đạt được sự thoả thuận về điều gì; thanh toán (một món nợ...); điều đình; dàn xếp",
+          "list_en_vn": [
+            {
+              "full_en": "to compound with one's creditors",
+              "full_vn": "dàn xếp với các chủ nợ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359097_1d9f983ece_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359097_ff2f61d267_o.png",
+      "id_image": "compound_2927559"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314976_3a9368126d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314976_70be719c26_o.png",
+      "id_image": "compound_5966313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051475_88eb3276e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051475_4824fe41b4_o.png",
+      "id_image": "compound_6257174"
+    }
+  ]
+}

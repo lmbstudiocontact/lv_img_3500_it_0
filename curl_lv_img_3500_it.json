@@ -1,0 +1,86 @@
+{
+  "english": "curl",
+  "phat_am": "[kə:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lọn tóc quăn"
+        },
+        {
+          "m_full_vn": "sự uốn quăn; sự quăn",
+          "list_en_vn": [
+            {
+              "full_en": "to keep the hair in curl",
+              "full_vn": "giữ cho tóc quăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làn (khói...); cuộn; cái bĩu (môi)"
+        },
+        {
+          "m_full_vn": "bệnh xoắn lá (của khoai tây)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "uốn, uốn quăn, làm xoăn",
+          "list_en_vn": [
+            {
+              "full_en": "to curl the hair",
+              "full_vn": "uốn tóc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quăn, xoắn, cuộn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to curl up",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộn lại, xoắn lại; cuồn cuộn lên (khói)"
+                },
+                {
+                  "im_full_vn": "co tròn lại, thu mình lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to lie curled up",
+                      "full_vn": "nằm co tròn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ lóng) ngã sụp xuống (vì mệt, vì trúng đạn...)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "hair curls naturally",
+              "full_vn": "tóc quăn tự nhiên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430013_f15114e9d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430013_a934ac7c66_o.png",
+      "id_image": "curl_1403050"
+    }
+  ]
+}

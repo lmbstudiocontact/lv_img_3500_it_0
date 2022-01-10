@@ -1,0 +1,68 @@
+{
+  "english": "administration",
+  "phat_am": "[əd,minis'trei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( administration of something ) sự thi hành; sự ban cấp",
+          "list_en_vn": [
+            {
+              "full_en": "to be responsible for the administration of justice , the law , an oath",
+              "full_vn": "chịu trách nhiệm thi hành công lý, luật pháp, một lời thề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự quản lý; sự quản trị",
+          "list_en_vn": [
+            {
+              "full_en": "he works in hospital administration",
+              "full_vn": "anh ta làm việc trong ban quản trị bệnh viện"
+            },
+            {
+              "full_en": "business administration school",
+              "full_vn": "trường quản trị kinh doanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the Administration ) chinh phủ; chính quyền",
+          "list_en_vn": [
+            {
+              "full_en": "during the Reagan Administration",
+              "full_vn": "trong thời chính quyền Reagan"
+            },
+            {
+              "full_en": "successive administrations have failed to solve the country's economic crisis",
+              "full_vn": "các chính quyền kế tiếp nhau đều không giải quyết được tình trạng khủng hoảng kinh tế của đất nước"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436083_236833eef4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436083_fc63581e5a_o.png",
+      "id_image": "administration_1719507"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675919_578e0359b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675919_35d0f3e5d0_o.png",
+      "id_image": "administration_1730171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436003_9a2a98b1ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436003_b9012a7a04_o.png",
+      "id_image": "administration_1731955"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320786_605292cf53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320786_ae3db94eb9_o.png",
+      "id_image": "administration_1734146"
+    }
+  ]
+}

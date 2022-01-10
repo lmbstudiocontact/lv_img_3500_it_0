@@ -1,0 +1,52 @@
+{
+  "english": "anxiety",
+  "phat_am": "[æη'zaiəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mối lo âu; mối băn khoăn; sự lo lắng",
+          "list_en_vn": [
+            {
+              "full_en": "we waited for news with a growing sense of anxiety",
+              "full_vn": "chúng tôi ngày càng lo âu trông đợi tin tức"
+            },
+            {
+              "full_en": "he caused his parents great anxiety by cycling long distances alone",
+              "full_vn": "việc nó đạp xe một mình đi xa đã khiến cha mẹ nó hết sức lo lắng"
+            },
+            {
+              "full_en": "the anxieties of the past week had left her exhausted",
+              "full_vn": "những nỗi lo lắng của tuần lễ trước đó đã khiến bà ta kiệt sức"
+            },
+            {
+              "full_en": "the doctor's report removed all their anxieties",
+              "full_vn": "báo cáo của bác sĩ đã xua tan mọi nỗi lo âu của họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( anxiety for something / to do something ) lòng ước ao mạnh mẽ hoặc hăng đối với điều gì/làm điều gì"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424738_77c0d61348_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424738_66abc9be85_o.png",
+      "id_image": "anxiety_1488096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353772_d8e8527244_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353772_607e1ddc26_o.png",
+      "id_image": "anxiety_2036890"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046535_e5d622f9a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046535_3d6df3c01d_o.png",
+      "id_image": "anxiety_2689659"
+    }
+  ]
+}

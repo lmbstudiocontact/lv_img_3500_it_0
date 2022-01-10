@@ -1,0 +1,73 @@
+{
+  "english": "crane",
+  "phat_am": "[krein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con sếu"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cần trục"
+        },
+        {
+          "m_full_vn": "xiphông"
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) vòi lấy nước ( (cũng) water crane )"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nâng (hàng) bằng cần trục"
+        },
+        {
+          "m_full_vn": "vươn, nghển",
+          "list_en_vn": [
+            {
+              "full_en": "to crane one's neck",
+              "full_vn": "nghển cổ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vươn cổ, nghển cổ"
+        },
+        {
+          "m_full_vn": "( crane at ) chùn lại, chùn bước, dừng lại",
+          "list_en_vn": [
+            {
+              "full_en": "to crane at a hedge",
+              "full_vn": "(nói về ngựa) chùn bước lại, không dám nhảy qua hàng rào"
+            },
+            {
+              "full_en": "to crane at a difficulty",
+              "full_vn": "chùn bước trước khó khăn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438828_c42127a672_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438828_2b61074d39_o.png",
+      "id_image": "crane_2002985"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060600_201e6c2edc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060600_476eb036db_o.png",
+      "id_image": "crane_3462111"
+    }
+  ]
+}

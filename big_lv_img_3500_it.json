@@ -1,0 +1,184 @@
+{
+  "english": "big",
+  "phat_am": "[big]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "to, lớn",
+          "list_en_vn": [
+            {
+              "full_en": "a big tree",
+              "full_vn": "cây to"
+            },
+            {
+              "full_en": "big repair",
+              "full_vn": "sửa chữa lớn, đại tu"
+            },
+            {
+              "full_en": "Big Three",
+              "full_vn": "ba nước lớn"
+            },
+            {
+              "full_en": "Big Five",
+              "full_vn": "năm nước lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bụng to, có mang, có chửa",
+          "list_en_vn": [
+            {
+              "full_en": "big with news",
+              "full_vn": "đầy tin, nhiều tin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quan trọng",
+          "list_en_vn": [
+            {
+              "full_en": "a big man",
+              "full_vn": "nhân vật quan trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hào hiệp, phóng khoáng, rộng lượng",
+          "list_en_vn": [
+            {
+              "full_en": "he has a big heart",
+              "full_vn": "anh ta là người hào hiệp"
+            },
+            {
+              "full_en": "to be a big eater /spender",
+              "full_vn": "là người ăn/chi tiêu rất nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "huênh hoang, khoác lác",
+          "list_one_mean": [
+            {
+              "id_full_en": "too big for one's boots (breeches , shoes , trousers )",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) quá tự tin, tự phụ tự mãn; làm bộ làm tịch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a big cheese",
+              "list_im": [
+                {
+                  "im_full_vn": "nhân vật tai to mặt lớn, nhân vật quan trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "big deal !",
+              "list_im": [
+                {
+                  "im_full_vn": "làm như ghê gớm lắm!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the big stick",
+              "list_im": [
+                {
+                  "im_full_vn": "sự phô trương thanh thế, sự biểu dương lực lượng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the big time",
+              "list_im": [
+                {
+                  "im_full_vn": "đỉnh cao của sự thành đạt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give someone a big hand",
+              "list_im": [
+                {
+                  "im_full_vn": "nhiệt liệt hoan nghênh ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get a big hand",
+              "list_im": [
+                {
+                  "im_full_vn": "được hoan nghênh nồng nhiệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in a big way",
+              "list_im": [
+                {
+                  "im_full_vn": "trong phạm vi lớn, trên bình diện rộng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sb's eyes are bigger than his belly / stomach",
+              "list_im": [
+                {
+                  "im_full_vn": "mắt to hơn bụng, no bụng đói con mắt, tham lam"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have bigger fish to fry",
+              "list_im": [
+                {
+                  "im_full_vn": "có việc quan trọng cần làm hơn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "big words",
+              "full_vn": "những lời nói huênh hoang khoác lác"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ra vẻ quan trọng, với vẻ quan trọng",
+          "list_en_vn": [
+            {
+              "full_en": "to look big",
+              "full_vn": "làm ra vẻ quan trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "huênh hoang khoác lác",
+          "list_en_vn": [
+            {
+              "full_en": "to talk big",
+              "full_vn": "nói huênh hoang, nói phách"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421008_311a6fbdf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421008_80d63ec0b2_o.png",
+      "id_image": "big_2210699"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "english": "bow",
+  "phat_am": "[bau]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái cung",
+          "list_en_vn": [
+            {
+              "full_en": "to draw (bend ) the bow",
+              "full_vn": "giương cung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vĩ ( vi-ô-lông)"
+        },
+        {
+          "m_full_vn": "cầu vồng"
+        },
+        {
+          "m_full_vn": "cái nơ con bướm"
+        },
+        {
+          "m_full_vn": "cốt yên ngựa ( (cũng) saddle )"
+        },
+        {
+          "m_full_vn": "(điện học) cần lấy điện (xe điện...)"
+        },
+        {
+          "m_full_vn": "(kiến trúc) vòm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to draw the long bow",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) nói ngoa; cường điệu, nói phóng đại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have two strings to one's bow",
+              "list_im": [
+                {
+                  "im_full_vn": "có phương sách dự phòng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(âm nhạc) kéo vĩ ( viôlông)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chào, sự cúi chào, sự cúi đầu",
+          "list_en_vn": [
+            {
+              "full_en": "to make one's bow",
+              "full_vn": "cúi đầu chào"
+            },
+            {
+              "full_en": "to return a bow",
+              "full_vn": "chào đáp lại"
+            },
+            {
+              "full_en": "to take one's bow",
+              "full_vn": "chào cảm ơn sự hoan nghênh nồng nhiệt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cúi (đầu, mình); khòm, khom (lưng); quỳ (gối)"
+        },
+        {
+          "m_full_vn": "cúi đầu, cúi chào, cúi mình, khòm lưng quỳ gối",
+          "list_en_vn": [
+            {
+              "full_en": "to bow under the weight of years",
+              "full_vn": "còng lưng vì tuổi già"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhượng bộ, đầu hàng, chịu khuất phục, luồn cúi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bow down",
+              "list_im": [
+                {
+                  "im_full_vn": "cúi đầu, cúi mình, cong xuống",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be bowed down by care",
+                      "full_vn": "còng lưng đi vì lo nghĩ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "uốn cong, bẻ cong; bẻ gãy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bow in",
+              "list_im": [
+                {
+                  "im_full_vn": "gật đầu bảo ra; chào mời ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bow oneself out",
+              "list_im": [
+                {
+                  "im_full_vn": "chào để đi ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bowing acquaintance",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) accquaintance"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to bow to the inevitable",
+              "full_vn": "chịu khuất phục trước điều không thể tránh khỏi"
+            },
+            {
+              "full_en": "never to bow to the enemy",
+              "full_vn": "không bao giờ đầu hàng kẻ thù"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mũi tàu"
+        },
+        {
+          "m_full_vn": "người chèo mũi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365282_60db7a3edb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365282_3029ce2217_o.png",
+      "id_image": "bow_6240552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675364_f44e54f618_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675364_dc105eb15f_o.png",
+      "id_image": "bow_827173"
+    }
+  ]
+}

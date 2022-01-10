@@ -1,0 +1,341 @@
+{
+  "english": "count",
+  "phat_am": "[kaunt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bá tước ở Pháp hoặc ý (ngang hàng với earl ở Anh)"
+        },
+        {
+          "m_full_vn": "hành động đếm; sự đếm; số đạt được sau khi đếm; tổng số đếm được",
+          "list_en_vn": [
+            {
+              "full_en": "a second count of the votes in an election",
+              "full_vn": "đếm phiếu lần 2 trong cuộc bầu cử"
+            },
+            {
+              "full_en": "I want you to start on a count of 5",
+              "full_vn": "tôi muốn anh bắt đầu sau khi tôi đếm đến 5"
+            },
+            {
+              "full_en": "by my count , that's five cakes you've had already",
+              "full_vn": "theo tôi đếm được thì cậu đã xơi năm cái bánh rồi"
+            },
+            {
+              "full_en": "a high pollen count",
+              "full_vn": "tổng số phấn hoa đếm được rất nhiều"
+            },
+            {
+              "full_en": "body count",
+              "full_vn": "việc đếm xác (sau một trận đánh)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the count ) sự tuyên bố ai bị đo ván (quyền Anh)",
+          "list_en_vn": [
+            {
+              "full_en": "Little Jimmy was really out for the count after that long tiring day",
+              "full_vn": "Little Jimmy thực sự kiệt sức hẳn sau cái ngày mệt mỏi kéo dài đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) bất cứ vi phạm nào trong số những vi phạm mà một người bị buộc tội; điểm buộc tội",
+          "list_en_vn": [
+            {
+              "full_en": "she was found guilty on all counts",
+              "full_vn": "người ta xét thấy cô ta có tội so với tất cả các điểm buộc tội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hoãn họp (khi chỉ có dưới 40 nghị viên có mặt) (nghị viện Anh) ( (cũng) count-out )"
+        },
+        {
+          "m_full_vn": "vấn đề được đưa ra để thảo luận hoặc tranh cãi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to keep count of ...",
+              "list_im": [
+                {
+                  "im_full_vn": "biết đã đếm được bao nhiêu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose count of ...",
+              "list_im": [
+                {
+                  "im_full_vn": "không nhớ đã đếm được bao nhiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đếm; tính",
+          "list_en_vn": [
+            {
+              "full_en": "he can't count yet",
+              "full_vn": "nó chưa biết đếm"
+            },
+            {
+              "full_en": "to count from 1 to 20",
+              "full_vn": "đếm từ 1 đến 20"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính tổng số của cái gì; cộng",
+          "list_en_vn": [
+            {
+              "full_en": "don't forget to count your change",
+              "full_vn": "nhớ đếm lại tiền lẻ trả lại"
+            },
+            {
+              "full_en": "have the votes been counted up ?",
+              "full_vn": "đã đếm tổng số phiếu bầu chưa?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kể cả, gồm cả, tính đến, kể đến",
+          "list_en_vn": [
+            {
+              "full_en": "there were forty people there , not counting the children",
+              "full_vn": "có bốn mươi người ở đây, không kể trẻ em"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có giá trị; đáng quan tâm",
+          "list_en_vn": [
+            {
+              "full_en": "her opinion counts because of her experience",
+              "full_vn": "ý kiến bà ta có giá trị vì bà ta có kinh nghiệm"
+            },
+            {
+              "full_en": "knowledge without common sense counts for little",
+              "full_vn": "có kiến thức mà thiếu lương tri thì cũng không có giá trị bao nhiêu"
+            },
+            {
+              "full_en": "we've a few bullets left , so make each one count",
+              "full_vn": "chúng tôi chỉ còn vài viên đạn, nên phải tính từng phát một"
+            },
+            {
+              "full_en": "a few lines of rhyming doggerel don't count as poetry",
+              "full_vn": "vài câu vè có vần đâu thể coi là thơ được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "coi là, coi như, cho là",
+          "list_one_mean": [
+            {
+              "id_full_en": "to count down",
+              "list_im": [
+                {
+                  "im_full_vn": "đếm ngược từ 10 đến 0 (trong các cuộc thí nghiệm...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to count on /upon somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "hy vọng ở ai/cái gì, trông mong ở ai/cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to count something out",
+              "list_im": [
+                {
+                  "im_full_vn": "đếm (đồ vật) từng cái một",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the old lady counted out thirty pence and gave it to the shop assistant",
+                      "full_vn": "bạ cụ đếm ba mươi pen chậm chạp từng đồng một, rồi đưa cho người bán hàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to count somebody out",
+              "list_im": [
+                {
+                  "im_full_vn": "đếm đến mười (một võ sĩ quyền Anh đã bị đánh ngã) cho biết là anh ta đã bị đo ván; (thông tục) không kể đến ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the referee counted him out in the first round",
+                      "full_vn": "trọng tài tuyên bố là anh ấy đã bị đo ván ở hiệp một"
+                    },
+                    {
+                      "full_en": "if it's going to be a rowdy party , you can count me out",
+                      "full_vn": "nếu sẽ là một buổi liên hoan om sòm thì anh có thể coi như không có tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to count towards something",
+              "list_im": [
+                {
+                  "im_full_vn": "được bao gồm để tính vào cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "these payments will count towards your pension",
+                      "full_vn": "những khoản tiền trẻ này sẽ được tính vào lương hưu của anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to count up to something",
+              "list_im": [
+                {
+                  "im_full_vn": "đạt đến tổng số đã được nói rõ; cộng thêm vào cái gì; cộng sổ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "these small contributions soon count up to a sizeable amount",
+                      "full_vn": "chẳng bao lâu những đóng góp nhỏ đó cộng lại sẽ thành một con số lớn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to count the cost (of something )",
+              "list_im": [
+                {
+                  "im_full_vn": "gánh chịu hậu quả của hành động dại dột",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the town is now counting the cost of its failure to provide adequate flood protection",
+                      "full_vn": "thành phố hiện đang gánh lấy hậu quả của việc thiếu biện pháp phòng ngừa lũ lụt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to count somebody /something as (for ) dead (lost )",
+              "list_im": [
+                {
+                  "im_full_vn": "coi như đã chết (mất)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to count for much (little , nothing )",
+              "list_im": [
+                {
+                  "im_full_vn": "rất (ít, không) có giá trị, rất (ít, không) có tác dụng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to count one's chickens (before they are hatched)",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa đẻ đã vội đặt tên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "count your blessings !",
+              "list_im": [
+                {
+                  "im_full_vn": "hãy biết ơn Chúa về những gì anh đang có!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to count against somebody ; to count something against somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "bị coi là cái gì bất lợi cho ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "your criminal record could count against you in finding a job",
+                      "full_vn": "hồ sơ tội phạm có thể bất lợi cho anh trong vấn đề tìm việc làm"
+                    },
+                    {
+                      "full_en": "he's young and inexperienced , but please do not count that against",
+                      "full_vn": "anh ta trẻ và ít kinh nghiệm, nhưng đừng xem đó là điều bất lợi cho anh ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to count among somebody /something ; to count somebody /something among somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "xem ai/cái gì như một bộ phận của một nhóm đã nói",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she counts among the most gifted of the current generation of composers",
+                      "full_vn": "bà ấy thuộc trong số những người có tài nhất của thế hệ những nhà soạn nhạc hiện nay"
+                    },
+                    {
+                      "full_en": "I no longer count him among my friends",
+                      "full_vn": "tôi không còn coi anh ta nằm trong số bạn bè tôi nữa"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to count oneself fortunate",
+              "full_vn": "tự coi là mình gặp may"
+            },
+            {
+              "full_en": "I count him a self-motivated student",
+              "full_vn": "tôi cho anh ta là một sinh viên năng nổ"
+            },
+            {
+              "full_en": "we count her as one of our habitual customers",
+              "full_vn": "chúng tôi xem bà ấy như một trong những thân chủ của chúng tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064490_82c6b4132d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064490_375a2d0586_o.png",
+      "id_image": "count_3155259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327761_7edec116e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327761_dc98599dd5_o.png",
+      "id_image": "count_5291791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064395_1d8854b25d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064395_fe8626c87e_o.png",
+      "id_image": "count_5605901"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442693_dbe1424c94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442693_f0fdb2fd47_o.png",
+      "id_image": "count_5979299"
+    }
+  ]
+}

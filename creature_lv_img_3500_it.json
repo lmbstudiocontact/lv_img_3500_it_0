@@ -1,0 +1,56 @@
+{
+  "english": "creature",
+  "phat_am": "['kri:t∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sinh vật, loài vật"
+        },
+        {
+          "m_full_vn": "người, kẻ",
+          "list_en_vn": [
+            {
+              "full_en": "a poor creature",
+              "full_vn": "kẻ đáng thương"
+            },
+            {
+              "full_en": "a good creature",
+              "full_vn": "kẻ có lòng tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kẻ dưới, tay sai, bộ hạ",
+          "list_en_vn": [
+            {
+              "full_en": "creature of the dictator",
+              "full_vn": "tay sai của tên độc tài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the creature ) rượu uytky; rượu mạnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "creature comforts",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) comfort"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676944_6df95c5b14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676944_f8b69e909e_o.png",
+      "id_image": "creature_3539381"
+    }
+  ]
+}

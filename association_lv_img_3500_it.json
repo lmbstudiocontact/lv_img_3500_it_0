@@ -1,0 +1,47 @@
+{
+  "english": "association",
+  "phat_am": "[ə,sousi'ei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kết hợp, sự liên hợp, sự liên kết; sự liên đới"
+        },
+        {
+          "m_full_vn": "sự kết giao, sự giao thiệp"
+        },
+        {
+          "m_full_vn": "sự liên tưởng"
+        },
+        {
+          "m_full_vn": "hội, hội liên hiệp; đoàn thể, công ty",
+          "list_en_vn": [
+            {
+              "full_en": "deed of association",
+              "full_vn": "điều lệ của một công ty trách nhiệm hữu hạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) quần hợp"
+        },
+        {
+          "m_full_vn": "môn bóng đá ( (cũng) association football )"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302846_fd6414b49c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302846_fdb9de9da8_o.png",
+      "id_image": "association_1622586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302826_cd62f495cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302826_1c4b0058a5_o.png",
+      "id_image": "association_2517375"
+    }
+  ]
+}

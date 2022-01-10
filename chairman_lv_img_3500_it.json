@@ -1,0 +1,36 @@
+{
+  "english": "chairman",
+  "phat_am": "['t∫eəmən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người điều khiển một cuộc họp; chủ toạ; chủ tịch",
+          "list_en_vn": [
+            {
+              "full_en": "'Madam Chairman , ladies and gentlemen'",
+              "full_vn": "'Thưa bà chủ tịch, thưa quý vị'"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người thường xuyên điều khiển một ủy ban, một hội đồng...",
+          "list_en_vn": [
+            {
+              "full_en": "chairman of the board of governors (of a school )",
+              "full_vn": "chủ tịch hội đồng quản trị (một trường học)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315371_f14ef3b99d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315371_e2cf15f1a8_o.png",
+      "id_image": "chairman_2361599"
+    }
+  ]
+}

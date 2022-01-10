@@ -1,0 +1,81 @@
+{
+  "english": "breakdown",
+  "phat_am": "['breikdaun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hỏng máy (ô tô, xe lửa)",
+          "list_en_vn": [
+            {
+              "full_en": "Our car /We had a breakdown on the motorway",
+              "full_vn": "Xe chúng tôi/Chúng tôi bị hỏng máy trên xa lộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự suy sụp tinh thần",
+          "list_en_vn": [
+            {
+              "full_en": "nervous breakdown",
+              "full_vn": "sự suy nhược thần kinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tan vỡ, sự sụp đổ, sự thất bại",
+          "list_en_vn": [
+            {
+              "full_en": "the breakdown of the Roman Empire",
+              "full_vn": "sự tan vỡ của đế quốc La Mã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) sự đánh thủng",
+          "list_en_vn": [
+            {
+              "full_en": "electric breakdown",
+              "full_vn": "sự đánh thủng điện môi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phân tích bằng thống kê",
+          "list_en_vn": [
+            {
+              "full_en": "a breakdown of expenditure",
+              "full_vn": "sự phân ra từng món chi tiêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điệu múa bricđao (của người da đen)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672344_491ff05149_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672344_1e7df1b446_o.png",
+      "id_image": "breakdown_923813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317551_5f03b15626_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317551_78a680701d_o.png",
+      "id_image": "breakdown_926689"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432628_2bbeff75ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432628_805fa0ec5f_o.png",
+      "id_image": "breakdown_950422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053985_3246b4ca8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053985_cc27db99eb_o.png",
+      "id_image": "breakdown_950426"
+    }
+  ]
+}

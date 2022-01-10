@@ -1,0 +1,59 @@
+{
+  "english": "ambulance",
+  "phat_am": "['æmbjuləns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe cứu thương; xe cấp cứu",
+          "list_en_vn": [
+            {
+              "full_en": "vehicles must make way for an ambulance with a patient inside",
+              "full_vn": "xe cộ phải nhường đường cho xe cứu thương có người bệnh bên trong"
+            },
+            {
+              "full_en": "ambulance car",
+              "full_vn": "xe ô tô cứu thương"
+            },
+            {
+              "full_en": "ambulance train",
+              "full_vn": "xe lửa cứu thương"
+            },
+            {
+              "full_en": "ambulance airplane",
+              "full_vn": "máy bay cứu thương"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429603_aafb13f963_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429603_570dfb3a5b_o.png",
+      "id_image": "ambulance_1192533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669339_bc82486aac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669339_f3eb93c638_o.png",
+      "id_image": "ambulance_1312880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314671_f1fb423877_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314671_6679e973e0_o.png",
+      "id_image": "ambulance_1340004"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314636_797b1927b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314636_7a5cbc4d27_o.png",
+      "id_image": "ambulance_1429164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358707_3304ab8270_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358707_22190304ab_o.png",
+      "id_image": "ambulance_1433418"
+    }
+  ]
+}

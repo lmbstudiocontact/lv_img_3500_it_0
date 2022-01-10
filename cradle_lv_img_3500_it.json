@@ -1,0 +1,113 @@
+{
+  "english": "cradle",
+  "phat_am": "['kreidl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái nôi"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nguồn gốc, gốc, nơi bắt nguồn, cái nôi",
+          "list_en_vn": [
+            {
+              "full_en": "the cradle of the Anglo-Saxon",
+              "full_vn": "nguồn gốc người Ang-lô Xắc-xông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) giàn giữ tàu (khi đóng hoặc sửa chữa)"
+        },
+        {
+          "m_full_vn": "cái khung gạt"
+        },
+        {
+          "m_full_vn": "thùng đãi vàng"
+        },
+        {
+          "m_full_vn": "giá để ống nghe (của máy điện thoại)",
+          "list_one_mean": [
+            {
+              "id_full_en": "from the cradle",
+              "list_im": [
+                {
+                  "im_full_vn": "từ khi còn nằm nôi, từ khi mới lọt lòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from the cradle to the grave",
+              "list_im": [
+                {
+                  "im_full_vn": "từ khi chào đời đến lúc nhắm mắt xuôi tay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the cradle of the deep",
+              "list_im": [
+                {
+                  "im_full_vn": "(thơ ca) biển cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rob the cradle",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) tìm hiểu (lấy) người trẻ hơn mình; già còn thích chơi trống bỏi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt (đứa trẻ) vào nôi; bế ẵm nâng niu bế đứa trẻ trong tay"
+        },
+        {
+          "m_full_vn": "đặt (tàu) vào giá (để đóng hoặc sửa chữa)"
+        },
+        {
+          "m_full_vn": "cắt (lúa...) bằng hái có khung gạt"
+        },
+        {
+          "m_full_vn": "đãi (quặng vàng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061415_b8a8af0d12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061415_e6d4bfe82e_o.png",
+      "id_image": "cradle_1606459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679744_ea29f81c92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679744_16b10c1f89_o.png",
+      "id_image": "cradle_191530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061440_156633e01a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061440_8aed78a1db_o.png",
+      "id_image": "cradle_191535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324441_ccba7562d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324441_85b592823c_o.png",
+      "id_image": "cradle_2917459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439458_31732215e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439458_871be8fbb1_o.png",
+      "id_image": "cradle_5233840"
+    }
+  ]
+}

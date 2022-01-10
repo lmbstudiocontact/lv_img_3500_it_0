@@ -1,0 +1,53 @@
+{
+  "english": "clinic",
+  "phat_am": "['klinik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bệnh viện tư hoặc chuyên khoa"
+        },
+        {
+          "m_full_vn": "phòng khám chữa bệnh (nhất là dành cho bệnh nhân ngoại trú)",
+          "list_en_vn": [
+            {
+              "full_en": "dental /diabetic clinic",
+              "full_vn": "khoa răng/tiểu đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bài giảng lâm sàng; sự thực tập lâm sàng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686739_268b6ba059_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686739_eb8006b73b_o.png",
+      "id_image": "clinic_2278465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376442_c80e9e6017_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376442_d58e002a7d_o.png",
+      "id_image": "clinic_2682062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686674_ef381cc941_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686674_2fc400f70d_o.png",
+      "id_image": "clinic_3028573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376337_7becd35e85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376337_800688f715_o.png",
+      "id_image": "clinic_3111563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068300_c7c796d9eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068300_8f4f582a79_o.png",
+      "id_image": "clinic_5266434"
+    }
+  ]
+}

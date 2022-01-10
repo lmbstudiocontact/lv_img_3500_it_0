@@ -1,0 +1,81 @@
+{
+  "english": "cow",
+  "phat_am": "[kau]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bò cái",
+          "list_en_vn": [
+            {
+              "full_en": "to milk the cow",
+              "full_vn": "vắt sữa bò"
+            },
+            {
+              "full_en": "milking cow",
+              "full_vn": "bò sữa"
+            },
+            {
+              "full_en": "a cow with calf",
+              "full_vn": "bò chửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "voi cái; tê giác cái; cá voi cái; chó biển cái",
+          "list_one_mean": [
+            {
+              "id_full_en": "cows and kisses",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đàn bà con gái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "till the cow comes home",
+              "list_im": [
+                {
+                  "im_full_vn": "mãi mãi, lâu dài, vô tận",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll be with you till the cow comes home",
+                      "full_vn": "tôi sẽ ở lại với anh mãi mãi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "doạ nạt, thị uy, làm cho sợ hãi",
+          "list_en_vn": [
+            {
+              "full_en": "a cowed look",
+              "full_vn": "vẻ mặt sợ hãi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680409_70c423be4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680409_3e268f32ac_o.png",
+      "id_image": "cow_2361568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370272_ab5e0c70ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370272_46c5528ce4_o.png",
+      "id_image": "cow_616694"
+    }
+  ]
+}

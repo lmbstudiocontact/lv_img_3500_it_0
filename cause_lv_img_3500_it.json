@@ -1,0 +1,122 @@
+{
+  "english": "cause",
+  "phat_am": "[kɔ:z]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nguyên nhân, nguyên do, căn nguyên",
+          "list_en_vn": [
+            {
+              "full_en": "cause and effect",
+              "full_vn": "nguyên nhân và kết quả"
+            },
+            {
+              "full_en": "the causes of war",
+              "full_vn": "những nguyên nhân của chiến tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( cause for something ) lẽ, cớ, lý do, động cơ",
+          "list_en_vn": [
+            {
+              "full_en": "a cause for complaint",
+              "full_vn": "lý do để than phiền"
+            },
+            {
+              "full_en": "to show cause",
+              "full_vn": "giãi bày nguyên cớ"
+            },
+            {
+              "full_en": "she's never absent from work without good cause",
+              "full_vn": "cô ấy chẳng bao giờ nghỉ mà không có lý do chính đáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) việc kiện, việc tố tụng",
+          "list_en_vn": [
+            {
+              "full_en": "to gain one's cause",
+              "full_vn": "được kiện, thắng kiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nghiệp, đại nghĩa, chính nghĩa",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make common cause with someone",
+              "list_im": [
+                {
+                  "im_full_vn": "theo phe ai, về bè với ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a good cause",
+              "full_vn": "một sự nghiệp chính đáng"
+            },
+            {
+              "full_en": "final cause",
+              "full_vn": "mục đích, cứu cánh"
+            },
+            {
+              "full_en": "he fought for the republican cause in the civil war",
+              "full_vn": "họ chiến đấu vì sự nghiệp của nền Cộng hoà trong thời nội chiến"
+            },
+            {
+              "full_en": "revolutionary cause",
+              "full_vn": "sự nghiệp cách mạng"
+            },
+            {
+              "full_en": "to fight for the just cause",
+              "full_vn": "chiến đấu cho chính nghĩa"
+            },
+            {
+              "full_en": "her life was devoted to the cause of justice",
+              "full_vn": "cuộc đời bà đã hiến dâng cho sự nghiệp công lý"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to cause something for somebody ) là nguyên nhân của cái gì; gây ra",
+          "list_en_vn": [
+            {
+              "full_en": "smoking can cause lung cancer",
+              "full_vn": "hút thuốc có thể gây ra ung thư phổi"
+            },
+            {
+              "full_en": "the cold weather caused the plants to die",
+              "full_vn": "thời tiết lạnh làm cho cây cối chết"
+            },
+            {
+              "full_en": "he caused his parents much unhappiness",
+              "full_vn": "cậu ta đã gây nhiều bất hạnh cho bố mẹ"
+            },
+            {
+              "full_en": "she's always causing trouble for people",
+              "full_vn": "lúc nào cô ấy cũng gây phiền toái cho mọi người"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363257_83f059b850_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363257_eaf4d041b2_o.png",
+      "id_image": "cause_2620237"
+    }
+  ]
+}

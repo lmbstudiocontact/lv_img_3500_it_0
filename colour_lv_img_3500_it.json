@@ -1,0 +1,354 @@
+{
+  "english": "colour",
+  "phat_am": "['kʌlə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "màu sắc",
+          "list_en_vn": [
+            {
+              "full_en": "The garden was a mass of colour",
+              "full_vn": "Vườn có nhiều màu sắc"
+            },
+            {
+              "full_en": "This room needs more colour",
+              "full_vn": "Căn phòng này cần thêm nhiều màu sắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nét riêng biệt của màu sắc; màu",
+          "list_en_vn": [
+            {
+              "full_en": "Red , orange , green , purple are all colours",
+              "full_vn": "Đỏ, da cam, xanh lá cây và đỏ tía, tất cả đều là màu sắc"
+            },
+            {
+              "full_en": "What colour is the sky ? - It's blue",
+              "full_vn": "Bầu trời màu gì? - Màu xanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuốc vẽ, thuốc màu",
+          "list_en_vn": [
+            {
+              "full_en": "To paint in water-colour (s )",
+              "full_vn": "Vẽ bằng màu nước"
+            },
+            {
+              "full_en": "To use plenty of bright colour in a painting",
+              "full_vn": "Dùng nhiều thuốc màu sáng trong một bức tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự dùng đủ các màu (chứ không riêng màu đen và trắng)",
+          "list_en_vn": [
+            {
+              "full_en": "Is the film in colour or black-and-white ?",
+              "full_vn": "Phim đó phim màu hay đen trắng?"
+            },
+            {
+              "full_en": "Colour photography , television , printing",
+              "full_vn": "ảnh màu, máy thu hình màu, thuật in màu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "màu đỏ của mặt được xem như dấu hiệu của sức khoẻ tốt; nước da; sắc da",
+          "list_en_vn": [
+            {
+              "full_en": "He was very little colour",
+              "full_vn": "Anh ấy có nước da nhợt nhạt"
+            },
+            {
+              "full_en": "To have a high colour",
+              "full_vn": "Có nước da hồng hào"
+            },
+            {
+              "full_en": "To change colour",
+              "full_vn": "Biến sắc (nhợt nhạt hoặc đỏ hơn bình (thường))"
+            },
+            {
+              "full_en": "To lose colour",
+              "full_vn": "Tái đi; xanh xao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "Màu da được xem như đặc trưng về chủng tộc",
+          "list_en_vn": [
+            {
+              "full_en": "To be discriminated against on account of one's colour /on grounds of colour",
+              "full_vn": "Bị phân biệt vì màu da/dựa vào màu da"
+            },
+            {
+              "full_en": "Colour prejudice",
+              "full_vn": "Thành kiến về màu da"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sắc thái; nét đặc trưng",
+          "list_en_vn": [
+            {
+              "full_en": "Local colour",
+              "full_vn": "Màu sắc địa phương"
+            },
+            {
+              "full_en": "The political colour of a newspaper",
+              "full_vn": "Màu sắc chính trị của một tờ báo"
+            },
+            {
+              "full_en": "His story has some colour of truth",
+              "full_vn": "Câu chuyện của anh ta có vẻ thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính chất đặc biệt của âm thanh trong âm nhạc; âm sắc"
+        },
+        {
+          "m_full_vn": "( số nhiều) phù hiệu, dải băng, quần áo... có màu sắc, để cho thấy người đeo, mặc là thành viên của một đội thể thao, của một đảng phái chính trị nào đó; màu cờ sắc áo"
+        },
+        {
+          "m_full_vn": "( số nhiều) giải thưởng trao cho một thành viên chính thức hoặc thành viên xuất sắc của một đội thể thao",
+          "list_en_vn": [
+            {
+              "full_en": "To get /win one's colours",
+              "full_vn": "Giành/đoạt giải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) cờ của một con tàu hoặc một trung đoàn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be off colour",
+              "list_im": [
+                {
+                  "im_full_vn": "không khoẻ, khó chịu, khó ở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast /give /put false colours on something",
+              "list_im": [
+                {
+                  "im_full_vn": "bóp méo, xuyên tạc điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast /put lively colours on something",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) tô hồng điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come off with flying colours",
+              "list_im": [
+                {
+                  "im_full_vn": "thành công rực rỡ"
+                },
+                {
+                  "im_full_vn": "gây được uy tín"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come out in one's true colours",
+              "list_im": [
+                {
+                  "im_full_vn": "để lộ rõ chân tướng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gain colour",
+              "list_im": [
+                {
+                  "im_full_vn": "lại có da có thịt; lại có sắc mặt hồng hào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lower one's colours",
+              "list_im": [
+                {
+                  "im_full_vn": "hạ cờ; đầu hàng, chịu thua"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to nail one's colours to the mast",
+              "list_im": [
+                {
+                  "im_full_vn": "kiên quyết bênh vực quan điểm của mình; kiên quyết không chịu lui; kiên quyết theo đuổi đến cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to paint in dark colours",
+              "list_im": [
+                {
+                  "im_full_vn": "vẽ màu tối; bôi đen (cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to paint something in true colours",
+              "list_im": [
+                {
+                  "im_full_vn": "nói lên sự thật của cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sail under false colours",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) treo cờ giả"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) giấu tên thật để hoạt động"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) đánh lừa, che đậy ý định thật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see the colour of somebody's money",
+              "list_im": [
+                {
+                  "im_full_vn": "biết chắc rằng ai có đủ tiền để trả nợ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see things in their true colours",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn sự thật của vấn đề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stick to one's colours",
+              "list_im": [
+                {
+                  "im_full_vn": "trung thành, kiên định (với ý định của mình, với đảng phái...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give /lend colour to something",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho cái gì có vẻ thật hoặc có lẽ đúng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "To salute the colours",
+              "full_vn": "Chào cờ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tô màu",
+          "list_en_vn": [
+            {
+              "full_en": "To colour a picture",
+              "full_vn": "Tô màu bức tranh"
+            },
+            {
+              "full_en": "To colour a wall green",
+              "full_vn": "Quét bức tường màu xanh lá cây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) bóp méo; xuyên tạc",
+          "list_en_vn": [
+            {
+              "full_en": "His attitude to sex is coloured by his strict upbringing",
+              "full_vn": "Thái độ của anh ta đối với tình dục bị méo mó bởi lối giáo dục nghiêm ngặt"
+            },
+            {
+              "full_en": "Don't allow personal loyalty to colour your judgement",
+              "full_vn": "Đừng để lòng trung thành cá nhân tác động đến sự phán đoán của anh"
+            },
+            {
+              "full_en": "She gave a highly coloured account of her travels",
+              "full_vn": "Cô ấy kể quá phóng đại về các chuyến du lịch của mình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đổi màu, ngả màu",
+          "list_en_vn": [
+            {
+              "full_en": "The leaves have begun to colour",
+              "full_vn": "Lá bắt đầu ngả màu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to colour up at something ) ửng đỏ, đỏ bừng (mặt)",
+          "list_en_vn": [
+            {
+              "full_en": "She coloured (with embarrassment ) at his remarks",
+              "full_vn": "Cô ấy đỏ mặt (bối rối) trước những lời nhận xét của hắn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320966_c50ac5f70b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320966_aaa042fef1_o.png",
+      "id_image": "colour_2071524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365887_b7d876ca3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365887_c46b59fa1e_o.png",
+      "id_image": "colour_2271571"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675979_0669d3bd5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675979_8b948d0b59_o.png",
+      "id_image": "colour_2598703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436108_de2a925105_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436108_b6698db9db_o.png",
+      "id_image": "colour_3253227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057615_18b836ed33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057615_35d0f3e5d0_o.png",
+      "id_image": "colour_6301241"
+    }
+  ]
+}

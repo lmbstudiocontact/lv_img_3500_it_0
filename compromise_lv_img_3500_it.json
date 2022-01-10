@@ -1,0 +1,44 @@
+{
+  "english": "compromise",
+  "phat_am": "['kɔmprəmaiz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thoả hiệp",
+          "list_en_vn": [
+            {
+              "full_en": "to arrive at a compromise",
+              "full_vn": "đi đến chỗ thoả hiệp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dàn xếp, thoả hiệp"
+        },
+        {
+          "m_full_vn": "làm hại, làm tổn thương",
+          "list_en_vn": [
+            {
+              "full_en": "to compromise oneself",
+              "full_vn": "tự làm hại mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314586_52dd7b139a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314586_0bd4af4754_o.png",
+      "id_image": "compromise_5526121"
+    }
+  ]
+}

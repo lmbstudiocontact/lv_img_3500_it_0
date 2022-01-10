@@ -1,0 +1,36 @@
+{
+  "english": "chromatic",
+  "phat_am": "[krə'mætik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) màu",
+          "list_en_vn": [
+            {
+              "full_en": "chromatic printing",
+              "full_vn": "in màu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) nửa cung",
+          "list_en_vn": [
+            {
+              "full_en": "chromatic scale",
+              "full_vn": "gam nửa cung"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351552_bdf6cbb46b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351552_4b0fb51c49_o.png",
+      "id_image": "chromatic_4371052"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "communion",
+  "phat_am": "[kə'mju:njən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( communion with somebody / something ) tình trạng chia sẻ hoặc trao đổi tâm tư tình cảm; sự đồng cảm",
+          "list_en_vn": [
+            {
+              "full_en": "poets who are in communion with nature",
+              "full_vn": "những nhà thơ đồng cảm với thiên nhiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm đạo (nhóm người cùng chung một tín ngưỡng)",
+          "list_en_vn": [
+            {
+              "full_en": "the communion of the faithful",
+              "full_vn": "nhóm những người sùng tín"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) lễ kỷ niệm bữa ăn tối của Chúa; lễ ban thánh thể ( (cũng) Holy Communion )",
+          "list_en_vn": [
+            {
+              "full_en": "Communion wine",
+              "full_vn": "rượu Lễ ban thánh thể"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054420_86f516c340_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054420_184a907263_o.png",
+      "id_image": "communion_2052265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672744_ee7a521b55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672744_9a7fdd41ba_o.png",
+      "id_image": "communion_443574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433063_70dac9fec8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433063_83ed22cb00_o.png",
+      "id_image": "communion_443575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672679_b26f6345f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672679_a7145d2150_o.png",
+      "id_image": "communion_443580"
+    }
+  ]
+}

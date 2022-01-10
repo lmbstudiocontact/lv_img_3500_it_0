@@ -1,0 +1,95 @@
+{
+  "english": "bury",
+  "phat_am": "['beri]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chôn, chôn cất; mai táng",
+          "list_en_vn": [
+            {
+              "full_en": "to be buried alive",
+              "full_vn": "bị chôn sống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chôn vùi, che đi, phủ đi, giấu đi",
+          "list_en_vn": [
+            {
+              "full_en": "to be buried under snow",
+              "full_vn": "bị chôn vùi dưới tuyết"
+            },
+            {
+              "full_en": "to bury one's hands in one's pockets",
+              "full_vn": "đút tay vào túi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quên đi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bury the hatchet",
+              "list_im": [
+                {
+                  "im_full_vn": "giảng hoà, làm lành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bury oneself in the country",
+              "list_im": [
+                {
+                  "im_full_vn": "ở ẩn dật nơi thôn dã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bury oneself in one's books",
+              "list_im": [
+                {
+                  "im_full_vn": "vùi đầu vào sách vở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be buried in thoughts (in memories of the past )",
+              "list_im": [
+                {
+                  "im_full_vn": "mãi mê với ý nghĩ (với những kỷ niệm xa xưa))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have buried a relative",
+              "list_im": [
+                {
+                  "im_full_vn": "đã mất một người thân"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353537_c222e628ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353537_6b1cab8f2b_o.png",
+      "id_image": "burial_1450728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309261_6d70ae7ec3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309261_c889fb369e_o.png",
+      "id_image": "burial_2458045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424433_c52f6a6872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424433_0d02dac102_o.png",
+      "id_image": "burial_6000688"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "autograph",
+  "phat_am": "['ɔ:təgrɑ:f]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chữ ký hoặc bản viết tay của một người (nhất là khi giữ làm kỷ niệm); bút tích",
+          "list_en_vn": [
+            {
+              "full_en": "I've got lots of famous footballers' autographs",
+              "full_vn": "Tôi có rất nhiều bút tích của các cầu thủ nổi tiếng"
+            },
+            {
+              "full_en": "an autograph book /album",
+              "full_vn": "tập sách/tập ảnh có chữ ký (chữ viết) lưu niệm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "viết tên của mình lên hoặc vào cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "an autographed copy",
+              "full_vn": "một bản có chữ ký của tác giả"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325626_e550146b54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325626_d8c5b99fb0_o.png",
+      "id_image": "autograph_2189562"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325586_1f9b99b441_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325586_d475dab2ac_o.png",
+      "id_image": "autograph_5904321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325556_e762dd42d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325556_395b00f360_o.png",
+      "id_image": "autograph_5904411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680774_1085b2ba84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680774_2b0fdedb6d_o.png",
+      "id_image": "autograph_826254"
+    }
+  ]
+}

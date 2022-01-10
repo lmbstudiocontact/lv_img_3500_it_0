@@ -1,0 +1,61 @@
+{
+  "english": "cue",
+  "phat_am": "[kju:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(sân khấu) vĩ bạch (tiếng cuối cùng của một diễn viên dùng để nhắc diễn viên khác nói, làm động tác hoặc ra (sân khấu))"
+        },
+        {
+          "m_full_vn": "sự gợi ý, sự ra hiệu; lời nói bóng, lời ám chỉ; ám hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "to give someone the cue",
+              "full_vn": "nhắc ai, ra hiệu cho ai, nói bóng với ai"
+            },
+            {
+              "full_en": "to take one's cue from somebody",
+              "full_vn": "theo sự ra hiệu của ai mà làm theo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện ảnh) lời chú thích"
+        },
+        {
+          "m_full_vn": "( ra-đi-ô) tín hiệu"
+        },
+        {
+          "m_full_vn": "vai tuồng (được nhắc ra (sân khấu))"
+        },
+        {
+          "m_full_vn": "cách xử lý thích hợp; hành động thích hơn"
+        },
+        {
+          "m_full_vn": "(thông tục) tâm trạng",
+          "list_en_vn": [
+            {
+              "full_en": "to be not in the cue for reading",
+              "full_vn": "không thấy hứng đọc sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gậy chơi bi-a"
+        },
+        {
+          "m_full_vn": "tóc đuôi sam"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360537_c0151f1b94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360537_6ff87467a1_o.png",
+      "id_image": "cue_239287"
+    }
+  ]
+}

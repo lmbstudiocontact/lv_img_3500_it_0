@@ -1,0 +1,188 @@
+{
+  "english": "bargain",
+  "phat_am": "['bɑ:gin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự mặc cả, sự thoả thuận mua bán; giao kèo mua bán",
+          "list_en_vn": [
+            {
+              "full_en": "if you promote our goods , we will give you a good discount as a part of our bargain",
+              "full_vn": "nếu ông đẩy mạnh việc bán hàng của chúng tôi, chúng tôi sẽ cho ông một khoản chiết khấu cao, coi đó như là khoản giao kèo của chúng tôi"
+            },
+            {
+              "full_en": "the bargain they reached with their employers was to reduce their wage claim in return for a shorter working week",
+              "full_vn": "sự thoả thuận họ đạt được với chủ là giảm bớt yêu sách của họ về tiền lương để đổi lấy tuần làm việc ít giờ hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật mua hoặc bán dưới giá bình thường của nó; món hời",
+          "list_one_mean": [
+            {
+              "id_full_en": "a bad bargain",
+              "list_im": [
+                {
+                  "im_full_vn": "sự thoả thuận có lợi cho bên kia hơn là cho mình, vật mua vì tưởng rẻ nhưng sau mới thấy là đắt; hớ; món hớ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a good bargain",
+              "list_im": [
+                {
+                  "im_full_vn": "sự thoả thuận có lợi cho mình hơn là cho bên kia; hời; vớ bở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be off (with ) one's bargain",
+              "list_im": [
+                {
+                  "im_full_vn": "huỷ bỏ giao kèo mua bán, thất ước trong việc mua bán"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bind a bargain",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bind"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to buy at a bargain",
+              "list_im": [
+                {
+                  "im_full_vn": "mua được giá hời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to close (conclude , strike , settle ) a bargain",
+              "list_im": [
+                {
+                  "im_full_vn": "ngả giá, thoả thuận, ký giao kèo mua bán"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drive a hard bargain",
+              "list_im": [
+                {
+                  "im_full_vn": "mặc cả, cò kè, bớt một thêm hai mãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "into the bargain",
+              "list_im": [
+                {
+                  "im_full_vn": "thêm vào đó, hơn nữa, vả lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "wet (Dutch ) bargain",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc thương lượng mua bán kết thúc bằng chầu rượu mừng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike a bargain (with somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "đồng ý (với ai) sau khi bàn bạc thấu đáo; thoả thuận; giao kèo"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "that was a bargain indeed !",
+              "full_vn": "món ấy bở thật đấy!"
+            },
+            {
+              "full_en": "a bargain price",
+              "full_vn": "giá hời (giá rẻ)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặc cả, thương lượng mua bán",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bargain away",
+              "list_im": [
+                {
+                  "im_full_vn": "bán lỗ; bán tống bán tháo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the leaders bargain away the freedom of their people",
+                      "full_vn": "các thủ lãnh đã bán rẻ tự do của nhân dân họ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bargain for /on something",
+              "list_im": [
+                {
+                  "im_full_vn": "dự tính",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the exam was more difficult than I'd bargained for",
+                      "full_vn": "kỳ thi khó hơn tôi dự tính"
+                    },
+                    {
+                      "full_en": "Tom didn't bargain on his wife returning so soon",
+                      "full_vn": "Tom không dự tính là mình trở về sớm như vậy"
+                    },
+                    {
+                      "full_en": "when the politician agreed to answer questions on television , he got more than he'd bargained for",
+                      "full_vn": "khi nhà chính trị đồng ý trả lời câu hỏi trên truyền hình, ông ta đã bị chất vấn nhiều hơn ông ta dự tính"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to bargain with somebody for /about /over something",
+              "full_vn": "thương lượng (mặc cả) với ai để mua bán cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670174_6ac711080f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670174_d5d852d890_o.png",
+      "id_image": "bargaining_6213289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670244_6e6af8e96f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670244_7bf059c287_o.png",
+      "id_image": "bargain_1476900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359712_55ee7f76c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359712_5ab8a8c5e1_o.png",
+      "id_image": "bargain_1900171"
+    }
+  ]
+}

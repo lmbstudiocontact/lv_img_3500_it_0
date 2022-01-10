@@ -1,0 +1,63 @@
+{
+  "english": "coconut",
+  "phat_am": "['koukənʌt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quả dừa",
+          "list_en_vn": [
+            {
+              "full_en": "coconut milk",
+              "full_vn": "nước dừa"
+            },
+            {
+              "full_en": "coconut oil",
+              "full_vn": "dầu dừa"
+            },
+            {
+              "full_en": "coconut matting",
+              "full_vn": "thảm bằng xơ dừa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) cái sọ; cái đầu người",
+          "list_one_mean": [
+            {
+              "id_full_en": "that accounts for the milk in the coconut",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) vậy là tất cả vấn đề đã được giải thích rõ rồi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680869_19083d09ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680869_98d6c9dbb3_o.png",
+      "id_image": "coconut_1411002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370502_2104bb9b60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370502_ea05835b46_o.png",
+      "id_image": "coconut_3944201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440658_85986a782c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440658_e77d68c84b_o.png",
+      "id_image": "coconut_3949420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325621_51c4f01930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325621_1013a90495_o.png",
+      "id_image": "coconut_4509320"
+    }
+  ]
+}

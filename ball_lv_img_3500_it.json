@@ -1,0 +1,219 @@
+{
+  "english": "ball",
+  "phat_am": "[bɔ:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "buổi khiêu vũ",
+          "list_en_vn": [
+            {
+              "full_en": "to give a ball",
+              "full_vn": "mở một buổi khiêu vũ"
+            },
+            {
+              "full_en": "to open the ball",
+              "full_vn": "khai mạc buổi khiêu vũ; (nghĩa bóng) bắt đầu công việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quả cầu, hình cầu"
+        },
+        {
+          "m_full_vn": "quả bóng, quả banh"
+        },
+        {
+          "m_full_vn": "đạn"
+        },
+        {
+          "m_full_vn": "cuộn, búi (len, chỉ...)"
+        },
+        {
+          "m_full_vn": "viên (thuốc thú y...)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) chuyện nhăng nhít, chuyện nhảm nhí; chuyện vô lý"
+        },
+        {
+          "m_full_vn": "(thông tục) ( số nhiều) tinh hoàn",
+          "list_one_mean": [
+            {
+              "id_full_en": "ball and chain",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) hình phạt xích hòn sắt vào chân (tù khổ sai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "ball to fortune",
+              "list_im": [
+                {
+                  "im_full_vn": "số phận, vận số, những trò trớ trêu của thần số mệnh"
+                },
+                {
+                  "im_full_vn": "người bảy nổi ba chìm, người, long đong trong cuộc đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the ball of the eye",
+              "list_im": [
+                {
+                  "im_full_vn": "cầu mắt, nhãn cầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the ball of the knee",
+              "list_im": [
+                {
+                  "im_full_vn": "xương bánh chè"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a ball of fire",
+              "list_im": [
+                {
+                  "im_full_vn": "người giàu ý chí và nghị lực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the ball is with you",
+              "list_im": [
+                {
+                  "im_full_vn": "đến lượt anh, đến phiên anh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry the ball",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) hoạt động tích cực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to catch (take ) the ball before the bound",
+              "list_im": [
+                {
+                  "im_full_vn": "không đợi lúc thuận lợi; nhanh nhẩu đoảng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "get on the ball",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) nhanh lên, mau lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have the ball at one's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "gặp cơ hội tốt, gặp thời cơ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep the ball rolling",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ cho câu chuyện (hoặc công việc) không bị gián đoạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep up the ball",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ cho câu chuyện không gián đoạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a ball of something",
+              "list_im": [
+                {
+                  "im_full_vn": "phá rối, làm hỏng việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the ball",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) nhanh nhẹn, tinh nhanh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike the ball under the line",
+              "list_im": [
+                {
+                  "im_full_vn": "thất bại, hỏng ăn, không đạt mục đích"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộn lại (len, chỉ...)"
+        },
+        {
+          "m_full_vn": "đóng thành cục tròn; đóng thành khối cầu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to ball up",
+              "list_im": [
+                {
+                  "im_full_vn": "bối rối, lúng túng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "that horse is not lame , but balled",
+              "full_vn": "con ngựa này không què nhưng bị đất sét (tuyết...) đóng cục ở chân không chạy được"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433768_8444f7c5a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433768_61463e2b04_o.png",
+      "id_image": "ball_203251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055090_a54aaa2981_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055090_f494c34fb0_o.png",
+      "id_image": "ball_257509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433693_059a3f5e1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433693_7185f80c9f_o.png",
+      "id_image": "ball_709430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433658_6492ea915e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433658_1828e7b4a8_o.png",
+      "id_image": "ball_849023"
+    }
+  ]
+}

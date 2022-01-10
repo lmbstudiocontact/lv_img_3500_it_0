@@ -1,0 +1,95 @@
+{
+  "english": "comfort",
+  "phat_am": "['kʌmfət]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự an ủi; người an ủi; nguồn an ủi",
+          "list_en_vn": [
+            {
+              "full_en": "a few words of comfort",
+              "full_vn": "vài lời an ủi"
+            },
+            {
+              "full_en": "to be a comfort to someone",
+              "full_vn": "là nguồn an ủi của ai"
+            },
+            {
+              "full_en": "cold comfort",
+              "full_vn": "lời an ủi nhạt nhẽo"
+            },
+            {
+              "full_en": "the news brought comfort to all of us",
+              "full_vn": "tin tức là nguồn an ủi cho tất cả chúng ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự an nhàn; sự sung túc",
+          "list_en_vn": [
+            {
+              "full_en": "to live in comfort",
+              "full_vn": "sống an nhàn sung túc"
+            },
+            {
+              "full_en": "they did everything for our comfort",
+              "full_vn": "họ làm tất cả vì sự sung túc của chúng ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) tiện nghi",
+          "list_en_vn": [
+            {
+              "full_en": "the comforts of life",
+              "full_vn": "những tiện nghi của cuộc sống"
+            },
+            {
+              "full_en": "the hotel has all modern comforts /every modern comfort",
+              "full_vn": "khách sạn có đủ mọi tiện nghi hiện đại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) chăn lông vịt",
+          "list_one_mean": [
+            {
+              "id_full_en": "creature comforts",
+              "list_im": [
+                {
+                  "im_full_vn": "đồ ăn ngon, quần áo đẹp..."
+                },
+                {
+                  "im_full_vn": "(quân sự) những thứ lặt vặt cần dùng hằng ngày (cho cá nhân (như) thuốc lá...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dỗ dành; an ủi",
+          "list_en_vn": [
+            {
+              "full_en": "to comfort a child",
+              "full_vn": "dỗ dành an ủi đứa trẻ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364632_299262ef64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364632_ae0ccf3801_o.png",
+      "id_image": "comfort_5775234"
+    }
+  ]
+}

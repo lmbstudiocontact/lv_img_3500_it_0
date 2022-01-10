@@ -1,0 +1,49 @@
+{
+  "english": "bulb",
+  "phat_am": "[bʌlb]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "củ (hành, tỏi...); (thực vật học) (thân) hành"
+        },
+        {
+          "m_full_vn": "(giải phẫu) hành"
+        },
+        {
+          "m_full_vn": "bóng đèn"
+        },
+        {
+          "m_full_vn": "bầu",
+          "list_en_vn": [
+            {
+              "full_en": "bulb of thermometer",
+              "full_vn": "bầu nhiệt kế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quả bóp (bơm nước hoa...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426703_00013b15b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426703_0ae8fce572_o.png",
+      "id_image": "bulb_393649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048425_882db1e471_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048425_a01f5c8472_o.png",
+      "id_image": "bulb_407446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048390_87275d2cbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048390_e4a523bfbc_o.png",
+      "id_image": "bulb_420300"
+    }
+  ]
+}

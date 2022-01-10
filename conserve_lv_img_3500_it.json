@@ -1,0 +1,57 @@
+{
+  "english": "conserve",
+  "phat_am": "[kən'sə:v]",
+  "list_type": [
+    {
+      "type": "danh từ, thường ở số nhiều",
+      "list_m": [
+        {
+          "m_full_vn": "mứt có những miếng hoa quả lớn trong đó; mứt quả"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giữ gìn; bảo tồn",
+          "list_en_vn": [
+            {
+              "full_en": "to conserve one's health",
+              "full_vn": "giữ gìn sức khoẻ"
+            },
+            {
+              "full_en": "new laws to conserve wildlife in the area",
+              "full_vn": "những đạo luật mới bảo tồn động vật hoang dã trong vùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chế thành mứt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425138_7a6191d46f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425138_a892a08eea_o.png",
+      "id_image": "conserve_2069375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425273_bafbce3c5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425273_e38139a712_o.png",
+      "id_image": "conserve_259144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665414_544f5b225d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665414_89f0d36c29_o.png",
+      "id_image": "conserve_263911"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425203_9a9893392e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425203_229c0dd3fc_o.png",
+      "id_image": "conserve_400857"
+    }
+  ]
+}

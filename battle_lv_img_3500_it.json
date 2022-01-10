@@ -1,0 +1,130 @@
+{
+  "english": "battle",
+  "phat_am": "['bætl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trận đánh; cuộc chiến đấu",
+          "list_en_vn": [
+            {
+              "full_en": "a fierce battle",
+              "full_vn": "một trận đánh ác liệt"
+            },
+            {
+              "full_en": "the battle of Waterloo",
+              "full_vn": "trận Waterloo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất cứ sự tranh luận hoặc tranh đấu nào",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go out to battle",
+              "list_im": [
+                {
+                  "im_full_vn": "ra chiến trường, ra trận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to die in battle",
+              "list_im": [
+                {
+                  "im_full_vn": "chết trận, tử trận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fight a losing battle",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh một trận mà không có hy vọng gì thành công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "general's battle",
+              "list_im": [
+                {
+                  "im_full_vn": "trận thắng do tài chỉ huy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "soldier's battle",
+              "list_im": [
+                {
+                  "im_full_vn": "trận thắng do đánh giỏi và dũng cảm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "half the battle",
+              "list_im": [
+                {
+                  "im_full_vn": "phần quan trọng, điều quan trọng để hoàn thành việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do battle with somebody about something",
+              "list_im": [
+                {
+                  "im_full_vn": "chiến đấu hoặc tranh luận ác liệt với ai về cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a battle of words , wits",
+              "full_vn": "cuộc chiến bằng ngôn từ, cuộc đấu trí"
+            },
+            {
+              "full_en": "their whole life was a constant battle against poverty",
+              "full_vn": "cả cuộc đời họ là một cuộc vật lộn bền bỉ chống cảnh đói nghèo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to battle with / against somebody / something ; to battle for something ) chiến đấu, tranh đấu",
+          "list_en_vn": [
+            {
+              "full_en": "to battle with the winds and waves",
+              "full_vn": "vật lộn với sóng gió"
+            },
+            {
+              "full_en": "I'm battling with my employers for a pay-rise",
+              "full_vn": "tôi đang đấu tranh với các ông chủ để đòi tăng lương"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667539_d880c35a41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667539_5e70b4e98d_o.png",
+      "id_image": "battle_1469810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667499_57d65a74fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667499_9414c2c60c_o.png",
+      "id_image": "battle_2507971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356672_32e550dafe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356672_5928d6d85c_o.png",
+      "id_image": "battle_2671422"
+    }
+  ]
+}

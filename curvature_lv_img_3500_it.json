@@ -1,0 +1,30 @@
+{
+  "english": "curvature",
+  "phat_am": "['kə:vət∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự uốn cong; sự bị uốn cong; sự vẹo (xương)",
+          "list_en_vn": [
+            {
+              "full_en": "to suffer from curvature of the spine",
+              "full_vn": "bị vẹo xương sống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) độ cong"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314251_ed485b0056_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314251_4bce5ae17e_o.png",
+      "id_image": "curvature_1589495"
+    }
+  ]
+}

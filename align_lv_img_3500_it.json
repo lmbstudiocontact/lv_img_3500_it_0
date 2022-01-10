@@ -1,0 +1,50 @@
+{
+  "english": "align",
+  "phat_am": "[ə'lain]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắp cho thẳng hàng",
+          "list_en_vn": [
+            {
+              "full_en": "to align the sights [of rifle ] and bull's eye",
+              "full_vn": "hướng đường ngắm (của súng) thẳng vào đúng giữa đích"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắp hàng, đứng thành hàng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431418_b62b8e7cdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431418_37fc2c8db9_o.png",
+      "id_image": "align_1070247"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316491_70112624fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316491_434b658485_o.png",
+      "id_image": "align_1617783"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052855_f951ff4c43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052855_ea88fbbc5d_o.png",
+      "id_image": "align_1617794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431448_c7973bf23a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431448_c5b58b79ee_o.png",
+      "id_image": "align_165026"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "corruption",
+  "phat_am": "[kə'rʌp∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tham nhũng; sự đồi trụy",
+          "list_en_vn": [
+            {
+              "full_en": "officials who are open to corruption",
+              "full_vn": "những quan chức dễ tham nhũng (dễ bị mua chuộc)"
+            },
+            {
+              "full_en": "sex and violence led to the corruption of young people",
+              "full_vn": "tình dục và bạo lực dẫn đến sự trụy lạc của giới trẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự mục nát; sự thối rữa",
+          "list_en_vn": [
+            {
+              "full_en": "the corruption of the body after death",
+              "full_vn": "sự thối rữa của thân thể sau khi chết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự sửa đổi làm sai lạc (bài văn, ngôn ngữ...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067010_019685503b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067010_42b0e82e78_o.png",
+      "id_image": "corruption_2473007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374832_0313e8df45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374832_41623acb60_o.png",
+      "id_image": "corruption_2631527"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066915_300d872b74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066915_f900581d32_o.png",
+      "id_image": "corruption_2631542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445073_2636f11761_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445073_defec215c0_o.png",
+      "id_image": "corruption_5434133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374712_0d72f9dedf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374712_65dbc5f142_o.png",
+      "id_image": "corruption_5434202"
+    }
+  ]
+}

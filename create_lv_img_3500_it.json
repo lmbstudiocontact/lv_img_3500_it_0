@@ -1,0 +1,56 @@
+{
+  "english": "create",
+  "phat_am": "[kri:'eit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tạo, tạo nên, tạo ra, tạo thành, sáng tạo"
+        },
+        {
+          "m_full_vn": "gây ra, làm"
+        },
+        {
+          "m_full_vn": "phong tước",
+          "list_en_vn": [
+            {
+              "full_en": "to create a baron",
+              "full_vn": "phong nam tước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sân khấu) đóng lần đầu tiên",
+          "list_en_vn": [
+            {
+              "full_en": "to create a part",
+              "full_vn": "đóng vai (kịch tuồng) lần đầu tiên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) làm rối lên, làn nhắng lên; hối hả chạy ngược chạy xuôi",
+          "list_en_vn": [
+            {
+              "full_en": "to be always creating about nothing",
+              "full_vn": "lúc nào cũng rối lên vì những chuyện không đâu vào đâu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367327_973544c488_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367327_c8cf1de5b3_o.png",
+      "id_image": "create_1263919"
+    }
+  ]
+}

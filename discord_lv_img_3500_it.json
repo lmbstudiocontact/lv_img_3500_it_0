@@ -1,0 +1,59 @@
+{
+  "english": "discord",
+  "phat_am": "['diskɔ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bất hoà; mối bất hoà, mối xích mích",
+          "list_en_vn": [
+            {
+              "full_en": "to sow discord",
+              "full_vn": "gieo mối bất hoà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng chói tai"
+        },
+        {
+          "m_full_vn": "(âm nhạc) nốt nghịch tai"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + with , from ) bất hoà với, xích mích với"
+        },
+        {
+          "m_full_vn": "chói tai, nghịch tai; không hợp âm (tiếng, âm...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362087_1740b227c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362087_7e47ba98fe_o.png",
+      "id_image": "discord_2111310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672459_5f3b37d4eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672459_fe23cb456d_o.png",
+      "id_image": "discord_356060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054200_5d28423466_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054200_1205d174c1_o.png",
+      "id_image": "discord_3767306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432773_ce22f99866_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432773_31c7c04160_o.png",
+      "id_image": "discord_4053305"
+    }
+  ]
+}

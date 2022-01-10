@@ -1,0 +1,692 @@
+{
+  "english": "day",
+  "phat_am": "[dei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ban ngày",
+          "list_en_vn": [
+            {
+              "full_en": "the sun gives us light during the day",
+              "full_vn": "ban ngày mặt trời cho ta ánh sáng"
+            },
+            {
+              "full_en": "it was broad day",
+              "full_vn": "trời đã sáng rõ"
+            },
+            {
+              "full_en": "when I woke up , it was already day",
+              "full_vn": "khi tôi thức dậy thì trời đã sáng"
+            },
+            {
+              "full_en": "in the blaze of day ; in the full light of day",
+              "full_vn": "giữa ban ngày"
+            },
+            {
+              "full_en": "as clear as day",
+              "full_vn": "rõ như ban ngày"
+            },
+            {
+              "full_en": "the eye of day",
+              "full_vn": "mặt trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời gian 24 giờ; ngày",
+          "list_en_vn": [
+            {
+              "full_en": "there are seven days in a week",
+              "full_vn": "một tuần có bảy ngày"
+            },
+            {
+              "full_en": "I saw Tom three days ago",
+              "full_vn": "tôi gặp Tom cách đây ba ngày"
+            },
+            {
+              "full_en": "I'll see Mary in a few days",
+              "full_vn": "vài ngày nữa tôi sẽ gặp Mary"
+            },
+            {
+              "full_en": "What day of the week is it ? - It's Monday",
+              "full_vn": "Hôm nay thứ mấy? - Thứ hai"
+            },
+            {
+              "full_en": "I've done a good day's work",
+              "full_vn": "tôi đã có một ngày làm việc tốt"
+            },
+            {
+              "full_en": "have you had a hard day at the office ?",
+              "full_vn": "ngày hôm nay anh làm việc ở văn phòng có vất vả lắm không?"
+            },
+            {
+              "full_en": "her working day is seven hours",
+              "full_vn": "ngày làm việc của cô ta là bảy tiếng"
+            },
+            {
+              "full_en": "the employees are demanding a six-hour day and five-day week",
+              "full_vn": "người làm thuê đang đòi ngày làm việc sáu tiếng và tuần làm việc năm ngày"
+            },
+            {
+              "full_en": "at break of day",
+              "full_vn": "lúc bình minh, lúc rạng đông"
+            },
+            {
+              "full_en": "solar (astronomical , nautical ) day",
+              "full_vn": "ngày mặt trời ( tính từ 12 giờ trưa);"
+            },
+            {
+              "full_en": "civil day",
+              "full_vn": "ngày thường ( tính từ 12 giờ đêm)"
+            },
+            {
+              "full_en": "every other day",
+              "full_vn": "hai ngày một lần"
+            },
+            {
+              "full_en": "the day after tomorow",
+              "full_vn": "ngày mốt, ngày kia"
+            },
+            {
+              "full_en": "if today is Wednesday , the day after tomorrow will be Friday",
+              "full_vn": "nếu hôm nay thứ tư thì ngày mốt là thứ sáu"
+            },
+            {
+              "full_en": "the day before yesterday",
+              "full_vn": "hôm kia"
+            },
+            {
+              "full_en": "if today is Wednesday , the day before yesterday was Monday",
+              "full_vn": "nếu hôm nay thứ tư thì hôm kia là thứ hai"
+            },
+            {
+              "full_en": "one day ; some day",
+              "full_vn": "một ngày nào đó (trong tương lai)"
+            },
+            {
+              "full_en": "one day I'll get my revenge",
+              "full_vn": "một ngày nào đó, tôi sẽ trả được thù"
+            },
+            {
+              "full_en": "some day I'll come back and marry her",
+              "full_vn": "một ngày nào đó, tôi sẽ trở lại và cưới cô ấy"
+            },
+            {
+              "full_en": "one of those days",
+              "full_vn": "một ngày khó chịu hoặc không may"
+            },
+            {
+              "full_en": "I've had one of those days : My train was late and I lost my wallet",
+              "full_vn": "Tôi đã có một ngày đặc biệt đen đủi : Tàu đến muộn và tôi lại đánh mất ví"
+            },
+            {
+              "full_en": "one of these (fine ) days",
+              "full_vn": "chẳng bao lâu nữa"
+            },
+            {
+              "full_en": "one of these days he'll realize what a fool he's been",
+              "full_vn": "rồi nó sẽ sớm nhận ra là nó đã ngu ngốc đến mức nào"
+            },
+            {
+              "full_en": "one fine day",
+              "full_vn": "xem fine"
+            },
+            {
+              "full_en": "the other day",
+              "full_vn": "gần đây; hôm nọ"
+            },
+            {
+              "full_en": "I saw her only the other day",
+              "full_vn": "tôi vừa mới thấy cô ta hôm nọ"
+            },
+            {
+              "full_en": "day in , day out",
+              "full_vn": "tất cả mọi ngày (không trừ ngày nào); ngày ngày"
+            },
+            {
+              "full_en": "Day in , day out , no matter what the weather is like , she walks ten miles",
+              "full_vn": "Bất kể thời tiết thế nào, ngày ngày cô ta vẫn đi bộ mười dặm"
+            },
+            {
+              "full_en": "day by day",
+              "full_vn": "theo thời gian trôi đi, ngày lại ngày"
+            },
+            {
+              "full_en": "day by day , she learnt more about her job",
+              "full_vn": "ngày lại ngày, cô ta càng hiểu thêm về công việc của mình"
+            },
+            {
+              "full_en": "day after day",
+              "full_vn": "trong nhiều ngày; liên tục; ngày này qua ngày khác"
+            },
+            {
+              "full_en": "day after day , she waited in vain for him to telephone her",
+              "full_vn": "ngày này qua ngày khác, cô ta đã uổngcông đợi anh ấy gọi điện thoại tới"
+            },
+            {
+              "full_en": "from day to day ; from one day to the next",
+              "full_vn": "trong một thời gian ngắn; ngày một ngày hai"
+            },
+            {
+              "full_en": "things change from day to day",
+              "full_vn": "tình hình thay đổi từng ngày"
+            },
+            {
+              "full_en": "you don't know what his mood will be from day to day",
+              "full_vn": "anh không biết tính tình hắn sáng nắng chiều mưa thế nào đâu"
+            },
+            {
+              "full_en": "all day long",
+              "full_vn": "suốt ngày"
+            },
+            {
+              "full_en": "every day",
+              "full_vn": "mỗi ngày; hằng ngày"
+            },
+            {
+              "full_en": "three times a day",
+              "full_vn": "mỗi ngày ba lần"
+            },
+            {
+              "full_en": "far in the day",
+              "full_vn": "gần hết ngày, đã xế chiều"
+            },
+            {
+              "full_en": "day of rest",
+              "full_vn": "ngày nghỉ"
+            },
+            {
+              "full_en": "day out",
+              "full_vn": "ngày đi chơi"
+            },
+            {
+              "full_en": "at-home day",
+              "full_vn": "ngày tiếp khách ở nhà"
+            },
+            {
+              "full_en": "this day week",
+              "full_vn": "ngày này tuần trước; ngày này tuần sau"
+            },
+            {
+              "full_en": "this day month",
+              "full_vn": "ngày này tháng trước; ngày này tháng sau"
+            },
+            {
+              "full_en": "this day fortnight",
+              "full_vn": "ngày này hai tuần trước, ngày này hai tuần sau"
+            },
+            {
+              "full_en": "the International Women's Day",
+              "full_vn": "ngày Quốc tế phụ nữ ( 8 / 3)"
+            },
+            {
+              "full_en": "the International Children's Day",
+              "full_vn": "ngày Quốc tế thiếu nhi ( 1 / 6)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) thời kỳ, thời đại, thời buổi",
+          "list_en_vn": [
+            {
+              "full_en": "these days",
+              "full_vn": "bây giờ; dạo này"
+            },
+            {
+              "full_en": "in days of old / in the old days",
+              "full_vn": "thời xưa"
+            },
+            {
+              "full_en": "in the school days",
+              "full_vn": "thời còn đi học, thuở còn cắp sách đến trường"
+            },
+            {
+              "full_en": "in his younger days",
+              "full_vn": "thời ông ta còn trẻ"
+            },
+            {
+              "full_en": "in the days of Queen Victoria",
+              "full_vn": "thời Nữ hoàng Victoria"
+            },
+            {
+              "full_en": "one's early days",
+              "full_vn": "thời kỳ thơ ấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngày thi đấu, ngày giao chiến; sự chiến thắng, sự thắng lợi",
+          "list_en_vn": [
+            {
+              "full_en": "to carry /win the day",
+              "full_vn": "thắng, thắng trận"
+            },
+            {
+              "full_en": "to lose the day",
+              "full_vn": "thua, thua trận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) mặt ngoài; vỉa nằm sát mặt đất",
+          "list_one_mean": [
+            {
+              "id_full_en": "as the day is long",
+              "list_im": [
+                {
+                  "im_full_vn": "đặc biệt, vô hạn, vô cùng, hết sức",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be as happy as the day is long",
+                      "full_vn": "vô cùng sung sướng"
+                    },
+                    {
+                      "full_en": "to be as industrious as the day is long",
+                      "full_vn": "hết sức cần cù"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all in a day's work",
+              "list_im": [
+                {
+                  "im_full_vn": "phần của công việc hàng ngày",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "injecting animals is all in a day's work for a vet",
+                      "full_vn": "tiêm chủng cho súc vật là công việc hàng ngày của một bác sĩ thú y"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the end of a day",
+              "list_im": [
+                {
+                  "im_full_vn": "xem end"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by day /night",
+              "list_im": [
+                {
+                  "im_full_vn": "vào ban ngày/ban đêm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the fugitives travelled by night and rested by day",
+                      "full_vn": "những kẻ đào tẩu đêm đi ngày nghỉ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call it a day",
+              "list_im": [
+                {
+                  "im_full_vn": "xem call"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a day of reckoning",
+              "list_im": [
+                {
+                  "im_full_vn": "ngày tính sổ; ngày đền tội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "somebody's days are numbered",
+              "list_im": [
+                {
+                  "im_full_vn": "ai sắp chết/thất bại/thất sủng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he has a serious illness and his days are numbered",
+                      "full_vn": "ông ấy ốm nặng và sắp chết đến nơi rồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "every dog has his /its day",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) không ai giàu ba họ, không ai khó ba đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall on evil days",
+              "list_im": [
+                {
+                  "im_full_vn": "xem evil"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the good /bad old days",
+              "list_im": [
+                {
+                  "im_full_vn": "xem old"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have had one's day",
+              "list_im": [
+                {
+                  "im_full_vn": "không còn thành công/hùng mạnh nữa; hết thời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have seen /known better days",
+              "list_im": [
+                {
+                  "im_full_vn": "xem better"
+                }
+              ]
+            },
+            {
+              "id_full_en": "high days and holidays",
+              "list_im": [
+                {
+                  "im_full_vn": "lễ hội và những dịp đặc biệt; những dịp hội hè đình đám"
+                }
+              ]
+            },
+            {
+              "id_full_en": "if he's a day",
+              "list_im": [
+                {
+                  "im_full_vn": "(về tuổi của ai) chí ít",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he's eighty if he's a day",
+                      "full_vn": "chí ít ông ấy cũng đã 80 tuổi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in all one's born days",
+              "list_im": [
+                {
+                  "im_full_vn": "xem born"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in this day and age",
+              "list_im": [
+                {
+                  "im_full_vn": "ngày nay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in one's days",
+              "list_im": [
+                {
+                  "im_full_vn": "trong thời hưng thịnh/phát đạt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "in his day , he was a very influential politician",
+                      "full_vn": "trong thời hưng thịnh của mình, ông ta là một chính khách rất có thế lực"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "it's not somebody's day",
+              "list_im": [
+                {
+                  "im_full_vn": "ai đặc biệt xui xẻo, không may"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make somebody's day",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai sung sướng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "late in the day",
+              "list_im": [
+                {
+                  "im_full_vn": "xem late"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the livelong day /night",
+              "list_im": [
+                {
+                  "im_full_vn": "xem livelong"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a nine days' wonder",
+              "list_im": [
+                {
+                  "im_full_vn": "người hoặc vật thu hút sự chú ý trong một thời gian ngắn rồi chóng bị quên đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "as a pop star , she was a nine days' wonder : she only made one successful record",
+                      "full_vn": "là một ngôi sao nhạc pop, cô ta chỉ nổi tiếng nhất thời : cô ta chỉ có duy nhất một đĩa hát thành công"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the order of the day",
+              "list_im": [
+                {
+                  "im_full_vn": "xem order"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pass the time of day",
+              "list_im": [
+                {
+                  "im_full_vn": "xem pass"
+                }
+              ]
+            },
+            {
+              "id_full_en": "peep of day",
+              "list_im": [
+                {
+                  "im_full_vn": "xem peep"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the present day",
+              "list_im": [
+                {
+                  "im_full_vn": "xem present"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a red-letter day",
+              "list_im": [
+                {
+                  "im_full_vn": "xem red"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Rome was not built in a day",
+              "list_im": [
+                {
+                  "im_full_vn": "không phải một sớm một chiều mà đạt được mục đích"
+                }
+              ]
+            },
+            {
+              "id_full_en": "salad days",
+              "list_im": [
+                {
+                  "im_full_vn": "xem salad"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to save something for a rainy day",
+              "list_im": [
+                {
+                  "im_full_vn": "xem rainy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that'll be the day",
+              "list_im": [
+                {
+                  "im_full_vn": "điều đó không chắc xảy ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "those were the days",
+              "list_im": [
+                {
+                  "im_full_vn": "thời gian sung sướng/tốt đẹp hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the day",
+              "list_im": [
+                {
+                  "im_full_vn": "một cách chính xác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to this day",
+              "list_im": [
+                {
+                  "im_full_vn": "đến tận bây giờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn night into day",
+              "list_im": [
+                {
+                  "im_full_vn": "xem night"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come a day before the fair",
+              "list_im": [
+                {
+                  "im_full_vn": "đến sớm (không bỏ lỡ cơ hội)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come a day after the fair",
+              "list_im": [
+                {
+                  "im_full_vn": "đến muộn (bỏ lỡ mất cơ hội)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the creature of a day",
+              "list_im": [
+                {
+                  "im_full_vn": "cái phù du, cái nhất thời; người nổi tiếng một thời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to end (close ) one's days",
+              "list_im": [
+                {
+                  "im_full_vn": "chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's day",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng hẹn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to know the time of day",
+              "list_im": [
+                {
+                  "im_full_vn": "tỉnh táo; khôn ngoan, láu cá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "men of the day",
+              "list_im": [
+                {
+                  "im_full_vn": "những người của thời cuộc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to name the days",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) name"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664409_a52d3c0450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664409_8138102a32_o.png",
+      "id_image": "day_183258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664344_b3f4a7d511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664344_52333b07b6_o.png",
+      "id_image": "day_2254640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664319_b36b204166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664319_61a56f6786_o.png",
+      "id_image": "day_4198955"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046100_1af5037a41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046100_7765fa42a7_o.png",
+      "id_image": "day_721071"
+    }
+  ]
+}

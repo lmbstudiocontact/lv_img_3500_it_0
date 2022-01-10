@@ -1,0 +1,147 @@
+{
+  "english": "bull",
+  "phat_am": "[bul]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bò đực"
+        },
+        {
+          "m_full_vn": "con đực (voi, cá voi...)",
+          "list_en_vn": [
+            {
+              "full_en": "a bull elephant",
+              "full_vn": "voi đực"
+            },
+            {
+              "full_en": "a bull whale",
+              "full_vn": "cá voi đực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thiên văn học) sao Kim ngưu"
+        },
+        {
+          "m_full_vn": "người đầu cơ giá lên (thị trường chứng khoán)",
+          "list_en_vn": [
+            {
+              "full_en": "bull operations",
+              "full_vn": "hoạt động đầu cơ giá lên (ở thị trường chứng khoán)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) cớm, mật thám; cảnh sát",
+          "list_one_mean": [
+            {
+              "id_full_en": "bull in a china shop",
+              "list_im": [
+                {
+                  "im_full_vn": "người vụng về, lóng ngóng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the bull by the horns",
+              "list_im": [
+                {
+                  "im_full_vn": "không sợ khó khăn nguy hiểm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a cock-and-bull story",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyện bịa đặt, chuyện vẽ vời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a red rag to a bull",
+              "list_im": [
+                {
+                  "im_full_vn": "cứ như lấy roi quất vào mông bò cho nó điên lên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đầu cơ giá lên (ở thị trường chứng khoán)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tìm cách nâng giá (hối phiếu ở thị trường chứng khoán)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắc lệnh của giáo hoàng"
+        },
+        {
+          "m_full_vn": "lời nói ngớ ngẩn, lời nói ngây ngô, lời nói tự nó đã mâu thuẫn ( (thường) Irish bull )"
+        },
+        {
+          "m_full_vn": "sai lầm (về ngôn ngữ)"
+        },
+        {
+          "m_full_vn": "nước tráng thùng rượu để uống"
+        },
+        {
+          "m_full_vn": "(từ lóng) lời nói láo, lời nói bậy bạ, lời nói khoác lác"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) lừa bịp (ai) bằng những lời khoác lác"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426448_dcfe1b08b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426448_c2d9f8ba64_o.png",
+      "id_image": "bull_1015749"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666514_dfaac69ceb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666514_168d6d188e_o.png",
+      "id_image": "bull_3570330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426403_21588ba1ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426403_40798ffc7d_o.png",
+      "id_image": "bull_3904157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311451_8704e5d7e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311451_08266aaae6_o.png",
+      "id_image": "bull_5150865"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048260_ab602d74aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048260_4ba00c14bb_o.png",
+      "id_image": "bull_878968"
+    }
+  ]
+}

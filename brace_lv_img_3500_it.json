@@ -1,0 +1,100 @@
+{
+  "english": "brace",
+  "phat_am": "[breis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật nối"
+        },
+        {
+          "m_full_vn": "(kiến trúc) trụ chống, thanh giằng"
+        },
+        {
+          "m_full_vn": "đôi",
+          "list_en_vn": [
+            {
+              "full_en": "a brace of pheasants",
+              "full_vn": "một đôi gà lôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) dây đeo quần, dây brơten; dây căng trống"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cái khoan quay tay; cái vặn ốc quay tay ( (cũng) brace and bit )"
+        },
+        {
+          "m_full_vn": "(ngành in) dấu ngoặc ôm"
+        },
+        {
+          "m_full_vn": "(hàng hải) dây leo"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "móc, chằng, nối cho vững; làm chắc thêm"
+        },
+        {
+          "m_full_vn": "(kiến trúc) chống bằng trụ chống, đóng thanh giằng"
+        },
+        {
+          "m_full_vn": "căng (trống)"
+        },
+        {
+          "m_full_vn": "kết đôi, cặp đôi"
+        },
+        {
+          "m_full_vn": "(ngành in) đặt trong dấu ngoặc ôm"
+        },
+        {
+          "m_full_vn": "(hàng hải) quay hướng (buồm) bằng dây lèo"
+        },
+        {
+          "m_full_vn": "gắng (hết sức mình), dốc (hết nghị lực...)",
+          "list_en_vn": [
+            {
+              "full_en": "to brace oneself up ; to brace one's energies",
+              "full_vn": "gắng hết sức mình, dốc hết sức mình, dốc hết nghị lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm mạnh thêm, làm cường tráng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to brace up",
+              "list_im": [
+                {
+                  "im_full_vn": "khuyến khích, khích lệ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056210_acbb4a55e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056210_b194d1b8a2_o.png",
+      "id_image": "brace_1386880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319611_0edc683e4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319611_9c48135d8a_o.png",
+      "id_image": "brace_1780163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319581_7252551b2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319581_5079baac31_o.png",
+      "id_image": "brace_2933552"
+    }
+  ]
+}

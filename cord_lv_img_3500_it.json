@@ -1,0 +1,83 @@
+{
+  "english": "cord",
+  "phat_am": "[kɔ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dây thừng nhỏ"
+        },
+        {
+          "m_full_vn": "(giải phẫu) dây",
+          "list_en_vn": [
+            {
+              "full_en": "vocal cords",
+              "full_vn": "dây thanh âm"
+            },
+            {
+              "full_en": "spinal cord",
+              "full_vn": "dây cột sống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đường sọc nối (ở vải)"
+        },
+        {
+          "m_full_vn": "nhung kẻ"
+        },
+        {
+          "m_full_vn": "( số nhiều) quần nhung kẻ"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) mối ràng buộc, mối thắt buộc",
+          "list_en_vn": [
+            {
+              "full_en": "the cords of discipline",
+              "full_vn": "những cái ràng buộc của kỷ luật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "coóc (đơn vị đo củi bằng 3, 63 m 3)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "buộc bằng dây thừng nhỏ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687864_4b8979d0a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687864_eea3b7e0d1_o.png",
+      "id_image": "cord_123759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377567_ef28f06c66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377567_c6efa73087_o.png",
+      "id_image": "cord_1686342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332736_9d7906f821_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332736_c5eb307513_o.png",
+      "id_image": "cord_2473061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332886_1cf4557cdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332886_5f206ebfdb_o.png",
+      "id_image": "cord_417600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332861_6eac7bed3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332861_648db79a53_o.png",
+      "id_image": "cord_675823"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "english": "crush",
+  "phat_am": "[krʌ∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ép, sự vắt; sự nghiến, sự đè nát"
+        },
+        {
+          "m_full_vn": "đám đông, chen chúc, đám đông xô đẩy chen lấn nhau"
+        },
+        {
+          "m_full_vn": "buổi hội họp đông đúc"
+        },
+        {
+          "m_full_vn": "đòn trí mạng; (quân sự) sự tiêu diệt"
+        },
+        {
+          "m_full_vn": "sự vò nhàu, sự vò nát"
+        },
+        {
+          "m_full_vn": "nước vắt (cam, chanh...)"
+        },
+        {
+          "m_full_vn": "(từ lóng) sự phải lòng, sự mê",
+          "list_en_vn": [
+            {
+              "full_en": "to have a crush on someone",
+              "full_vn": "phải lòng ai, mê ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đường rào chỉ đủ một con vật đi (úc)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ép, vắt (hoa quả); nghiến, đè nát, đè bẹp",
+          "list_en_vn": [
+            {
+              "full_en": "to crush grapes",
+              "full_vn": "ép nho"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhồi nhét, ấn, xô đẩy",
+          "list_en_vn": [
+            {
+              "full_en": "to crush people into a hall",
+              "full_vn": "nhồi nhét người vào phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tiêu diệt, diệt; dẹp tan, làm tiêu tan",
+          "list_en_vn": [
+            {
+              "full_en": "to crush one's enemy",
+              "full_vn": "tiêu diệt kẻ thù"
+            },
+            {
+              "full_en": "hope is crushed",
+              "full_vn": "hy vọng bị tiêu tan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vò nhàu, làm nhàu nát (quần áo, tờ giấy...)"
+        },
+        {
+          "m_full_vn": "uống cạn",
+          "list_en_vn": [
+            {
+              "full_en": "to crush a drink of wine",
+              "full_vn": "uống cạn cốc rượu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chen, chen chúc"
+        },
+        {
+          "m_full_vn": "nhàu nát",
+          "list_one_mean": [
+            {
+              "id_full_en": "to crush down",
+              "list_im": [
+                {
+                  "im_full_vn": "tán vụn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to crush out",
+              "list_im": [
+                {
+                  "im_full_vn": "ép, vắt ra"
+                },
+                {
+                  "im_full_vn": "dẹp tan, bóp chết (một cuộc nổi dậy...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to crush up",
+              "list_im": [
+                {
+                  "im_full_vn": "nghiền nát"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672284_f11df4fdbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672284_10cca6e882_o.png",
+      "id_image": "crush_4412635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361847_917c52ac56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361847_a4c23916b8_o.png",
+      "id_image": "crush_5526137"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "comparison",
+  "phat_am": "[kəm'pærisn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự so sánh",
+          "list_one_mean": [
+            {
+              "id_full_en": "by comparison",
+              "list_im": [
+                {
+                  "im_full_vn": "khi so sánh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in comparison with",
+              "list_im": [
+                {
+                  "im_full_vn": "so với"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to bear (stand ) comparison with",
+              "full_vn": "có thể so sánh với"
+            },
+            {
+              "full_en": "beyond all comparison",
+              "full_vn": "không thể so sánh được, không thể bì được"
+            },
+            {
+              "full_en": "to bring into comparison",
+              "full_vn": "đem so sánh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671964_3e928468ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671964_ff59ed2473_o.png",
+      "id_image": "comparison_2137465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317241_cc5930633e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317241_294ffef784_o.png",
+      "id_image": "comparison_2358354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361582_8f67880e03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361582_324f66f265_o.png",
+      "id_image": "comparison_921931"
+    }
+  ]
+}

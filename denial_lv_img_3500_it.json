@@ -1,0 +1,48 @@
+{
+  "english": "denial",
+  "phat_am": "[di'naiəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tuyên bố rằng cái gì không có thật; sự phủ nhận",
+          "list_en_vn": [
+            {
+              "full_en": "denial of a truth",
+              "full_vn": "sự phủ nhận một sự thật"
+            },
+            {
+              "full_en": "denial of a request",
+              "full_vn": "sự từ chối một yêu cầu"
+            },
+            {
+              "full_en": "a flat denial",
+              "full_vn": "sự từ chối dứt khoát"
+            },
+            {
+              "full_en": "the prisoner's repeated denials of the charges against him",
+              "full_vn": "những lời khăng khăng phủ nhận của tù nhân về những lời buộc tội anh"
+            },
+            {
+              "full_en": "to condemn the denial of basic human freedoms",
+              "full_vn": "lên án hành động phủ nhận những quyền tự do cơ bản của con người"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377317_4a84e7edb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377317_6780a17fd4_o.png",
+      "id_image": "denial_2742113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447538_6df67c73b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447538_af08e32cac_o.png",
+      "id_image": "denial_6349699"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "bake",
+  "phat_am": "[beik]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ lò, nướng bằng lò"
+        },
+        {
+          "m_full_vn": "nung",
+          "list_en_vn": [
+            {
+              "full_en": "to bake bricks",
+              "full_vn": "nung gạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm rám (da mặt, quả cây)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319661_272da5681d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319661_c3168b888b_o.png",
+      "id_image": "bake_311781"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056200_50a81c1c5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056200_6a9122481e_o.png",
+      "id_image": "bake_3690196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434693_c7b2f8f454_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434693_8f5cc9c5bd_o.png",
+      "id_image": "bake_3843522"
+    }
+  ]
+}

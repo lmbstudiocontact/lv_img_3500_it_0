@@ -1,0 +1,79 @@
+{
+  "english": "desk",
+  "phat_am": "[desk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bàn giấy; bàn viết; bàn làm việc",
+          "list_en_vn": [
+            {
+              "full_en": "an office desk",
+              "full_vn": "bàn làm việc ở cơ quan"
+            },
+            {
+              "full_en": "a desk job",
+              "full_vn": "một công việc bàn giấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái bàn hoặc cái quầy trong mà phía sau có người tiếp tân, thủ quỹ... làm việc",
+          "list_en_vn": [
+            {
+              "full_en": "an inquiry /information desk",
+              "full_vn": "bàn chỉ dẫn/giải đáp thắc mắc"
+            },
+            {
+              "full_en": "to leave a message at the desk of the hotel",
+              "full_vn": "để lá thư lại bàn thường trực khách sạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) giá để kinh; giá để bản nhạc (ở nhà thờ); bục giảng kinh"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) toà soạn của một tờ báo"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) tổ chuyên trách; tổ đặc trách",
+          "list_en_vn": [
+            {
+              "full_en": "the Korean desk of the Asian Department",
+              "full_vn": "tổ đặc trách vấn đề Triều Tiên của Vụ Châu á"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373437_7a3c64e221_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373437_108e272d16_o.png",
+      "id_image": "desk_170906"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065485_14c00fbdf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065485_95d5504c44_o.png",
+      "id_image": "desk_170936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328596_bb295d3c38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328596_48fe0460ba_o.png",
+      "id_image": "desk_170938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065385_01048582cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065385_f219df115b_o.png",
+      "id_image": "desk_257644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328541_1985d3b2c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328541_4676295dbc_o.png",
+      "id_image": "desk_288076"
+    }
+  ]
+}

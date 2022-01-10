@@ -1,0 +1,42 @@
+{
+  "english": "contraband",
+  "phat_am": "['kɔntrəbænd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự buôn lậu; sự lậu thuế"
+        },
+        {
+          "m_full_vn": "hàng lậu"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lậu, lậu thuế",
+          "list_en_vn": [
+            {
+              "full_en": "contraband goods",
+              "full_vn": "hàng lậu thuế"
+            },
+            {
+              "full_en": "contraband vessel",
+              "full_vn": "tàu buôn lậu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662119_35b7438ab2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662119_97b9f4074d_o.png",
+      "id_image": "contraband_6310432"
+    }
+  ]
+}

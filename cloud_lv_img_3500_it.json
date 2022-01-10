@@ -1,0 +1,186 @@
+{
+  "english": "cloud",
+  "phat_am": "[klaud]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mây, đám mây"
+        },
+        {
+          "m_full_vn": "đám (khói, bụi)",
+          "list_en_vn": [
+            {
+              "full_en": "a cloud of dust",
+              "full_vn": "đám bụi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đàn, đoàn, bầy (ruồi, muỗi đang bay, ngựa đang phi...)",
+          "list_en_vn": [
+            {
+              "full_en": "a cloud of horsemen",
+              "full_vn": "đoàn kỵ sĩ (đang phi ngựa)"
+            },
+            {
+              "full_en": "a cloud of flies",
+              "full_vn": "đàn ruồi (đang bay)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) bóng mây, bóng đen; sự buồn rầu; điều bất hạnh",
+          "list_en_vn": [
+            {
+              "full_en": "cloud of war",
+              "full_vn": "bóng đen chiến tranh"
+            },
+            {
+              "full_en": "a cloud of grief",
+              "full_vn": "bóng mây buồn; vẻ buồn phiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vết vẩn đục (trong hòn ngọc...)"
+        },
+        {
+          "m_full_vn": "( số nhiều) trời, bầu trời",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be under a cloud",
+              "list_im": [
+                {
+                  "im_full_vn": "lâm vào hoàn cảnh đáng buồn, bị thất thế"
+                },
+                {
+                  "im_full_vn": "(từ lóng) bị tù tội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "cloud on one's brow",
+              "list_im": [
+                {
+                  "im_full_vn": "vẻ buồn hiện lên nét mặt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop from the clouds",
+              "list_im": [
+                {
+                  "im_full_vn": "rơi từ trên máy bay xuống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "every cloud has a silver lining",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) lining"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's head in the clouds ; to be in the clouds",
+              "list_im": [
+                {
+                  "im_full_vn": "lúc nào cũng mơ tưởng viễn vông; sống ở trên mây"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on cloud nine",
+              "list_im": [
+                {
+                  "im_full_vn": "lên đến chín tầng mây, cực kỳ sung sướng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to sail up into the clouds",
+              "full_vn": "bay lên trời"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mây che, che phủ; làm tối sầm",
+          "list_en_vn": [
+            {
+              "full_en": "the sun was clouded",
+              "full_vn": "mặt trời bị mây che"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm phiền muộn, làm buồn",
+          "list_en_vn": [
+            {
+              "full_en": "a clouded countenance",
+              "full_vn": "vẻ mặt phiền muộn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm vẩn đục ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "to cloud someone's happiness",
+              "full_vn": "làm vẩn đục hạnh phúc của ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ ( up , over )",
+      "list_m": [
+        {
+          "m_full_vn": "bị mây che, sầm lại ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "sky clouds over",
+              "full_vn": "bầu trời bị mây che phủ"
+            },
+            {
+              "full_en": "brow clouds over",
+              "full_vn": "vầng trán sầm lại, mặt sầm lại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684124_2a76cb3155_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684124_60549d4dd3_o.png",
+      "id_image": "clouds_238382"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683994_cc85a0d71c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683994_b6293f3937_o.png",
+      "id_image": "clouds_5903922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444218_645aa62601_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444218_77fb5aa080_o.png",
+      "id_image": "cloud_350949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684204_9efbf763b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684204_cabe26d0b4_o.png",
+      "id_image": "cloud_383833"
+    }
+  ]
+}

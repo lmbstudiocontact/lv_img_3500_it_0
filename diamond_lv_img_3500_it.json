@@ -1,0 +1,96 @@
+{
+  "english": "diamond",
+  "phat_am": "['daiəmənd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kim cương",
+          "list_en_vn": [
+            {
+              "full_en": "black diamond",
+              "full_vn": "kim cương đen; than đá"
+            },
+            {
+              "full_en": "rough diamond",
+              "full_vn": "kim cương chưa mài; (nghĩa bóng) người căn bản tốt nhưng cục mịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật lóng lánh, điểm lóng lánh (như) kim cương"
+        },
+        {
+          "m_full_vn": "dao cắt kính ( (thường) glazier's diamond , cutting diamond )"
+        },
+        {
+          "m_full_vn": "hình thoi",
+          "list_en_vn": [
+            {
+              "full_en": "diamond panes",
+              "full_vn": "cửa kính hình thoi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) hoa rô",
+          "list_en_vn": [
+            {
+              "full_en": "the six of diamonds",
+              "full_vn": "lá bài sáu rô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) chữ cỡ bốn"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sân bóng chày",
+          "list_one_mean": [
+            {
+              "id_full_en": "diamond cuts diamond",
+              "list_im": [
+                {
+                  "im_full_vn": "mạt cưa mướp đắng, vỏ quít dày móng tay nhọn, kẻ cắp bà già gặp nhau"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng kim cương; nạm kim cương"
+        },
+        {
+          "m_full_vn": "hình thoi"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nạm kim cương; trang sức bằng kim cương",
+          "list_en_vn": [
+            {
+              "full_en": "to diamond oneself",
+              "full_vn": "đeo kim cương"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368647_6e19e5d412_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368647_9bef09327c_o.png",
+      "id_image": "diamond_218364"
+    }
+  ]
+}

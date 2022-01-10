@@ -1,0 +1,37 @@
+{
+  "english": "baptism",
+  "phat_am": "['bæptizm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tôn giáo) lễ rửa tội"
+        },
+        {
+          "m_full_vn": "sự thử thách đầu tiên",
+          "list_en_vn": [
+            {
+              "full_en": "baptism of fire",
+              "full_vn": "lần chiến đấu đầu tiên, cuộc thử lửa đầu tiên (của một chiến sĩ)"
+            },
+            {
+              "full_en": "baptism of blood",
+              "full_vn": "sự chịu khổ hình, sự chịu khổ nhục; (quân sự) lần bị thương đầu tiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đặt tên (cho tàu, chuông nhà thờ...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360417_3229391464_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360417_7b57da6652_o.png",
+      "id_image": "baptism_3805636"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "english": "demonstration",
+  "phat_am": "[,deməns'trei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thể hiện, sự biểu hiện",
+          "list_en_vn": [
+            {
+              "full_en": "a demonstration of joy",
+              "full_vn": "sự biểu hiện nỗi vui mừng"
+            },
+            {
+              "full_en": "a demonstration of love",
+              "full_vn": "sự biểu hiện tình yêu thương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chứng minh; sự thuyết minh",
+          "list_en_vn": [
+            {
+              "full_en": "convinced by (a ) scientific demonstration",
+              "full_vn": "được thuyết phục bởi (một) sự chứng minh khoa học"
+            },
+            {
+              "full_en": "demonstration of a law of physics",
+              "full_vn": "sự chứng minh một định luật vật lý"
+            },
+            {
+              "full_en": "demonstration of the computer's functions",
+              "full_vn": "sự thuyết minh các chức năng của máy tính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( demonstration against / in favour of somebody / something ) (chính trị) cuộc biểu tình, cuộc biểu tình tuần hành, cuộc biểu dương lực lượng",
+          "list_en_vn": [
+            {
+              "full_en": "a mass demonstration in support of the regime",
+              "full_vn": "cuộc biểu tình của quần chúng ủng hộ chế độ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) cuộc thao diễn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377747_2184cb3054_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377747_bd8321ea91_o.png",
+      "id_image": "demonstration_5065552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069690_612e1011d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069690_08def79e99_o.png",
+      "id_image": "demonstration_5389904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687824_dd227ea10b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687824_b300b50fd4_o.png",
+      "id_image": "demonstration_5389914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377632_744dab417e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377632_d8964c8845_o.png",
+      "id_image": "demonstration_5392334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332791_1d531ff7dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332791_3fa1f6c789_o.png",
+      "id_image": "demonstration_5635508"
+    }
+  ]
+}

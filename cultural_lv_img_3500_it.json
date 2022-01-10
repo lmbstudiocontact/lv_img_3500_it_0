@@ -1,0 +1,39 @@
+{
+  "english": "cultural",
+  "phat_am": "['kʌlt∫ərəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) văn hoá",
+          "list_en_vn": [
+            {
+              "full_en": "cultural exchange",
+              "full_vn": "sự trao đổi văn hoá"
+            },
+            {
+              "full_en": "cultural standard",
+              "full_vn": "trình độ văn hoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) trồng trọt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430978_9376388423_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430978_50752a8322_o.png",
+      "id_image": "cultural_4345735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360317_b77f5c8cf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360317_8cd59fc620_o.png",
+      "id_image": "cultural_5823786"
+    }
+  ]
+}

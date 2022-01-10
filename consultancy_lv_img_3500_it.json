@@ -1,0 +1,59 @@
+{
+  "english": "consultancy",
+  "phat_am": "[kən'sʌltənsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự giúp đỡ ý kiến; sự cố vấn; sự tư vấn"
+        },
+        {
+          "m_full_vn": "cơ quan/văn phòng tư vấn về một lĩnh vực nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "To open a financial consultancy",
+              "full_vn": "Mở văn phòng tư vấn về tài chính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "địa vị của người tư vấn",
+          "list_en_vn": [
+            {
+              "full_en": "To accept a three-year consultancy abroad",
+              "full_vn": "Nhận làm công tác tư vấn ba năm ở nước ngoài"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308841_792fe2fa52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308841_9630b4aea0_o.png",
+      "id_image": "consultancy_5235368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308921_7743b0a4c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308921_198b4e1a65_o.png",
+      "id_image": "consult_1440969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308886_7d11e681a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308886_39bf78b190_o.png",
+      "id_image": "consult_1900168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353092_23ab4151cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353092_a9bf7f3376_o.png",
+      "id_image": "consult_2452638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045860_6c713d312e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045860_44c244917b_o.png",
+      "id_image": "consult_2746329"
+    }
+  ]
+}

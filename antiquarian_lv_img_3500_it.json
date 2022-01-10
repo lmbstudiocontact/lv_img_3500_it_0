@@ -1,0 +1,38 @@
+{
+  "english": "antiquarian",
+  "phat_am": "[,ænti'kweəriən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về, nhằm hoặc liên quan đến việc nghiên cứu, sưu tầm hoặc bán đồ cổ (nhất là sách cổ hoặc sách hiếm)",
+          "list_en_vn": [
+            {
+              "full_en": "An antiquarian bookseller",
+              "full_vn": "Người bán sách cổ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xem antiquary"
+        },
+        {
+          "m_full_vn": "khổ giấy vẽ 134 x 79 cm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665294_a47d3a775e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665294_4783dc66dc_o.png",
+      "id_image": "antiquarian_4125894"
+    }
+  ]
+}

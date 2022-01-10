@@ -1,0 +1,90 @@
+{
+  "english": "discount",
+  "phat_am": "['diskaunt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần tiền được giảm trong giá của cái gì; tiền bớt; tiền trừ",
+          "list_en_vn": [
+            {
+              "full_en": "we give (a) 10% discount for cash",
+              "full_vn": "chúng ta giảm 10 % nếu trả tiền mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền được khấu trừ khi trả hối phiếu (như) rebate"
+        },
+        {
+          "m_full_vn": "sự trừ hao (về mức độ xác thực của một câu chuyện, một bản tin...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "at a discount",
+              "list_im": [
+                {
+                  "im_full_vn": "hạ giá, giảm giá; không được chuộng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "discount house",
+              "list_im": [
+                {
+                  "im_full_vn": "cơ sở kinh doanh chuyên giao dịch bằng hối phiếu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "discount shop , discount store , discount warehouse",
+              "list_im": [
+                {
+                  "im_full_vn": "cửa hàng bán giá rẻ hơn thông thường; cửa hàng hạ giá"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to take a story at a due discount",
+              "full_vn": "nghe câu chuyện ở mức độ nào thôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mua hoặc bán một hối phiếu với giá thấp hơn giá khi đến hạn thanh toán"
+        },
+        {
+          "m_full_vn": "bán hạ giá; bán giảm giá"
+        },
+        {
+          "m_full_vn": "không kể đến, không đếm xỉa đến, không để ý đến; coi nhẹ; coi thường",
+          "list_en_vn": [
+            {
+              "full_en": "You can discount what Jack said : He's a dreadful liar",
+              "full_vn": "Anh có thể không cần để ý đến những gì Jack nói : Hắn là thằng nói dối kinh người"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432708_834f37ed0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432708_218b9f84b7_o.png",
+      "id_image": "discount_1057477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054120_a0ec00f82c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054120_55a01f3a03_o.png",
+      "id_image": "discount_675752"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "english": "calf",
+  "phat_am": "[kɑ:f]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều calves",
+      "list_m": [
+        {
+          "m_full_vn": "con bê",
+          "list_en_vn": [
+            {
+              "full_en": "cow in (with ) calf",
+              "full_vn": "bò chửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "da dê (dùng làm bìa sách, đóng giày) ( (cũng) calfskin )"
+        },
+        {
+          "m_full_vn": "thú con (voi con, cá voi con, nai con, nghé...)"
+        },
+        {
+          "m_full_vn": "trẻ con"
+        },
+        {
+          "m_full_vn": "anh chàng ngốc nghếch, anh chàng khờ khạo"
+        },
+        {
+          "m_full_vn": "tảng băng nỗi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to eat the calf in the cow's belly",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa đỗ ông nghè đã đe hàng tổng; chưa đẻ đã đặt tên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kill the fatted calf",
+              "list_im": [
+                {
+                  "im_full_vn": "mổ lợn ăn mừng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to worship the golden calf",
+              "list_im": [
+                {
+                  "im_full_vn": "thờ phụng đồng tiền"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều calves",
+      "list_m": [
+        {
+          "m_full_vn": "bắp chân"
+        },
+        {
+          "m_full_vn": "phần phủ bắp chân (của tất dài)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420868_c12e1874b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420868_e419c0a575_o.png",
+      "id_image": "calf_5726967"
+    }
+  ]
+}

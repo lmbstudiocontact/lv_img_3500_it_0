@@ -1,0 +1,35 @@
+{
+  "english": "blacklist",
+  "phat_am": "['blæklist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "danh sách những người bị coi là nguy hiểm hoặc cần phải bị trừng trị; danh sách đen; sổ bìa đen"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghi vào danh sách đen; ghi vào sổ bìa đen",
+          "list_en_vn": [
+            {
+              "full_en": "every mischievous pupil is blacklisted by his principal teacher",
+              "full_vn": "học sinh nào tinh nghịch cũng bị giáo viên chủ nhiệm ghi tên vào sổ bìa đen"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347182_6e4abafdc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347182_fc8d2a8978_o.png",
+      "id_image": "blacklist_2631511"
+    }
+  ]
+}

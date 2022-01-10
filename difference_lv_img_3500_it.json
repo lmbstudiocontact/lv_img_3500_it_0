@@ -1,0 +1,196 @@
+{
+  "english": "difference",
+  "phat_am": "['difrəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( between A and B ) ( in / of something ) sự khác nhau, tình trạng khác nhau; tính khác nhau; sự chênh lệch",
+          "list_en_vn": [
+            {
+              "full_en": "the marked differences between the two children",
+              "full_vn": "sự khác nhau rõ rệt giữa hai cậu bé"
+            },
+            {
+              "full_en": "did you notice a difference (in her )?",
+              "full_vn": "cậu có nhận thấy sự thay đổi (ở cô ta) hay không?"
+            },
+            {
+              "full_en": "it's easy to tell the difference between butter and margarine",
+              "full_vn": "rất dễ phân biệt bơ và macgarin"
+            },
+            {
+              "full_en": "difference of approach",
+              "full_vn": "sự khác biệt về phương pháp"
+            },
+            {
+              "full_en": "there's an age difference of six years between them",
+              "full_vn": "họ chênh lệnh nhau sáu tuổi"
+            },
+            {
+              "full_en": "I'll lend you 90% of the money and you'll have to find the difference",
+              "full_vn": "tôi cho anh mượn 90 % số tiền, phần chênh lệch do anh tự lo"
+            },
+            {
+              "full_en": "we measure the difference (s ) in temperature",
+              "full_vn": "chúng tôi đo chênh lệch về nhiệt độ"
+            },
+            {
+              "full_en": "there's not much difference in price between the two computers",
+              "full_vn": "giá của hai máy tính chẳng chênh lệch nhau bao nhiêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bất đồng; mối bất hoà",
+          "list_en_vn": [
+            {
+              "full_en": "we had a difference of opinion over who had won",
+              "full_vn": "chúng tôi bất đồng ý kiến về việc ai đã thắng"
+            },
+            {
+              "full_en": "settle your differences and be friends again",
+              "full_vn": "hãy giải quyết mối bất hoà giữa các bạn và trở lại làm bạn với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chênh lệch về giá cả (hối phiếu... trong những thời gian khác nhau)"
+        },
+        {
+          "m_full_vn": "(toán học) hiệu; sai phân",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make a /some difference to somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "có tác động (đến ai/cái gì); có ý nghĩa quan trọng đối với ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the rain didn't make much difference (to the game )",
+                      "full_vn": "mưa không ảnh hưởng nhiều (đến trận đấu)"
+                    },
+                    {
+                      "full_en": "the sea air has made a difference to her health",
+                      "full_vn": "không khí biển tác động đến sức khoẻ của bà ta"
+                    },
+                    {
+                      "full_en": "a hot bath makes all the difference in the morning",
+                      "full_vn": "tắm nước nóngrât có tác dụng vào buổi sáng"
+                    },
+                    {
+                      "full_en": "It makes no difference to me what you say: I'm not going",
+                      "full_vn": "Điều anh nói chẳng nhằm nhò gì đến tôi/Anh nói gì mặc anh : Tôi nhất quyết không đi đâu"
+                    },
+                    {
+                      "full_en": "it won't make much difference whether you go today or tomorrow",
+                      "full_vn": "anh đi hôm nay hay ngày mai cũng chẳng sao (chẳng có gì quan trọng)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a difference between ...",
+              "list_im": [
+                {
+                  "im_full_vn": "đối xử khác nhau; phân biệt đối xử",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she makes no difference between her two sons",
+                      "full_vn": "bà ta không hề phân biệt giữa hai đứa con trai của mình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "it makes a great difference ; it makes all the difference",
+              "list_im": [
+                {
+                  "im_full_vn": "điều đó quan trọng; điều đó làm cho sự thể thay đổi hoàn toàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to split the difference",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) split"
+                }
+              ]
+            },
+            {
+              "id_full_en": "what's the difference ?",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) cái đó có gì quan trọng?"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as near as makes no difference",
+              "list_im": [
+                {
+                  "im_full_vn": "súyt soát, chênh lệch chẳng bao nhiêu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sink one's difference",
+              "list_im": [
+                {
+                  "im_full_vn": "xí xoá những chuyện cũ, bỏ qua những chuyện bất đồng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with a difference",
+              "list_im": [
+                {
+                  "im_full_vn": "đặc biệt khác thường",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she's an opera singer with a difference : she can act well !",
+                      "full_vn": "cô ấy là một ca sĩ ôpêra khác thường; cô ta còn đóng kịch giỏi nữa!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "difference of sets",
+              "full_vn": "hiệu của tập hợp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phân biệt, phân hơn kém"
+        },
+        {
+          "m_full_vn": "(toán học) tính hiệu số, tính sai phân"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059210_ac35a0bd53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059210_9f96cb00c2_o.png",
+      "id_image": "difference_2586944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059175_262d6fa300_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059175_10cb408836_o.png",
+      "id_image": "difference_3053704"
+    }
+  ]
+}

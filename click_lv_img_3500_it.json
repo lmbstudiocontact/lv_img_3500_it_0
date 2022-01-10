@@ -1,0 +1,89 @@
+{
+  "english": "click",
+  "phat_am": "[klik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng lách cách"
+        },
+        {
+          "m_full_vn": "(máy vi tính) cú nhắp"
+        },
+        {
+          "m_full_vn": "(cơ khí) con cóc, cái ngàm (bánh xe răng cưa)"
+        },
+        {
+          "m_full_vn": "tật đá chân vào nhau; sự đá chân vào nhau (ngựa)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm thành tiếng lách cách",
+          "list_en_vn": [
+            {
+              "full_en": "to click one's tongue",
+              "full_vn": "tắc lưỡi"
+            },
+            {
+              "full_en": "to click one's heels",
+              "full_vn": "đập hai gót chân vào nhau (để chào)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kêu lách cách"
+        },
+        {
+          "m_full_vn": "đá chân vào nhau (ngựa)"
+        },
+        {
+          "m_full_vn": "(từ lóng) tâm đầu ý hiệp; ăn ý ngay từ phút đầu (hai người)"
+        },
+        {
+          "m_full_vn": "(từ lóng) thành công (trong một công việc)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(máy vi tính) nhắp",
+          "list_en_vn": [
+            {
+              "full_en": "to click the mouse button",
+              "full_vn": "nhắp nút chuột"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348392_e7a5ba99b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348392_d2d2bfd474_o.png",
+      "id_image": "click_1188517"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304221_df087c6413_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304221_d4d933fa57_o.png",
+      "id_image": "click_4713190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304236_ee305bfb56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304236_d0aff377ec_o.png",
+      "id_image": "click_849983"
+    }
+  ]
+}

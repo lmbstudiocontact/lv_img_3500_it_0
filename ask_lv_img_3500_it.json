@@ -1,0 +1,243 @@
+{
+  "english": "ask",
+  "phat_am": "[ɑ:sk]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to ask somebody about somebody / something ; to ask something of somebody ) yêu cầu thông tin (về ai/cái gì); hỏi",
+          "list_en_vn": [
+            {
+              "full_en": "to ask the time",
+              "full_vn": "hỏi giờ"
+            },
+            {
+              "full_en": "ask (him ) about the ring you lost , he may have found it",
+              "full_vn": "hãy hỏi (anh ta) về chiếc nhẫn mà cô đánh mất, có thể anh ta đã bắt được cái nhẫn đó"
+            },
+            {
+              "full_en": "don't be afraid of asking questions",
+              "full_vn": "đừng sợ đặt câu hỏi (cứ hỏi đừng sợ)"
+            },
+            {
+              "full_en": "did you ask the price ?",
+              "full_vn": "anh hỏi giá chưa?"
+            },
+            {
+              "full_en": "no questions were asked of us",
+              "full_vn": "không ai hỏi chúng tôi gì cả"
+            },
+            {
+              "full_en": "he asked if I could drive",
+              "full_vn": "anh ta hỏi tôi biết lái xe hay không"
+            },
+            {
+              "full_en": "she asked them their names",
+              "full_vn": "cô ta hỏi họ tên những người ấy"
+            },
+            {
+              "full_en": "I had to ask the teacher what to do next",
+              "full_vn": "tôi phải hỏi thầy giáo xem tiếp theo phải làm gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to ask something of somebody / somebody for something ) yêu cầu ai cho cái gì hoặc làm gì",
+          "list_en_vn": [
+            {
+              "full_en": "did you ask your boss for a pay increase ?",
+              "full_vn": "anh có yêu cầu ông chủ tăng lương chưa?"
+            },
+            {
+              "full_en": "may I ask a favour of you ?",
+              "full_vn": "tôi có thể nhờ anh một việc được không?"
+            },
+            {
+              "full_en": "to ask somebody's advice /opinion",
+              "full_vn": "hỏi ý kiến ai"
+            },
+            {
+              "full_en": "if you want to camp in this field , you must ask the farmer's permission",
+              "full_vn": "nếu muốn cắm trại trên cánh đồng này, anh phải xin phép người chủ trại"
+            },
+            {
+              "full_en": "she asked (me ) if I would drive her home",
+              "full_vn": "cô ta đề nghị tôi lái xe đưa cô ta về nhà"
+            },
+            {
+              "full_en": "I asked James to buy some bread",
+              "full_vn": "tôi đã yêu cầu/nhờ James mua bánh mì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xin phép làm cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "ask to use the car !",
+              "full_vn": "hãy xin phép sử dụng chiếc xe hơi"
+            },
+            {
+              "full_en": "he asked to speak to his friends",
+              "full_vn": "anh ta xin nói chuyện với bạn bè"
+            },
+            {
+              "full_en": "I must ask you to excuse me",
+              "full_vn": "tôi phải xin ông thứ lỗi cho"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to ask somebody to something ) mời ăn",
+          "list_en_vn": [
+            {
+              "full_en": "to ask someone to dinner",
+              "full_vn": "mời cơm ai"
+            },
+            {
+              "full_en": "he asked me out several times already",
+              "full_vn": "anh ta mời tôi đi chơi nhiều lần rồi"
+            },
+            {
+              "full_en": "shall we ask the neighbours in /round ?",
+              "full_vn": "chúng ta có nên mời hàng xóm tới không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đòi hỏi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to ask for trouble /it",
+              "list_im": [
+                {
+                  "im_full_vn": "chuốc lấy phiền nhiễu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for the asking",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ hỏi thôi mà cũng đạt được cái mình muốn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the job is yours for the asking",
+                      "full_vn": "anh chỉ cần hỏi là có việc ngay cho anh làm (nếu anh nói là anh muốn làm công việc đó thì người ta sẽ đồng ý ngay)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "I ask you",
+              "list_im": [
+                {
+                  "im_full_vn": "(biểu thị thái độ không tin, ngạc nhiên, khó chịu...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they're thinking of taxing textbooks - I ask you , we'll have to pay to go to bed next !",
+                      "full_vn": "người ta đang tính đánh thuế sách giáo khoa - tôi hỏi anh, rồi ra chúng ta đi ngủ cũng phải đóng thuế chắc!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "if you ask me",
+              "list_im": [
+                {
+                  "im_full_vn": "nếu anh muốn biết ý kiến của tôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "If you ask me , he hasn't got long to live",
+                      "full_vn": "Nếu anh muốn biết ý kiến tôi thì đây : Anh ta sẽ không sống được bao lâu nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ask after somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "hỏi thông tin về sức khoẻ của ai, hỏi thăm sức khoẻ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he always asks after you in his letters",
+                      "full_vn": "trong thư bao giờ ông ấy cũng hỏi thăm anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ask for somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "nói rằng mình muốn gặp hoặc nói chuyện với ai, hoặc muốn được cho hướng tới cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to ask for the manager",
+                      "full_vn": "xin gặp giám đốc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ask the banns",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) banns"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "what are they asking for the house ?",
+              "full_vn": "họ đòi bao nhiêu về ngôi nhà của họ?"
+            },
+            {
+              "full_en": "to ask 600 dongs for a bicycle",
+              "full_vn": "đòi 600 đ một cái xe đạp"
+            },
+            {
+              "full_en": "you're asking too much",
+              "full_vn": "ông đòi nhiều quá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303976_b55c5cd1eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303976_842b9c9958_o.png",
+      "id_image": "ask_1027576"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418998_16bc7df192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418998_a00d4d46ee_o.png",
+      "id_image": "ask_1809613"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348157_b52dc358d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348157_0fff55243d_o.png",
+      "id_image": "ask_3079141"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303906_ede718f033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303906_07aa5baa65_o.png",
+      "id_image": "ask_3079146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659204_1fd2bb727e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659204_257e08cf37_o.png",
+      "id_image": "ask_4109566"
+    }
+  ]
+}

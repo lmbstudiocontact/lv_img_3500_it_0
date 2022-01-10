@@ -1,0 +1,30 @@
+{
+  "english": "charisma",
+  "phat_am": "[kə'rizmə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "uy tín; đức tính gây được lòng tin; sức thu hút của lãnh tụ (đối với quần chúng)",
+          "list_en_vn": [
+            {
+              "full_en": "a politician with charisma",
+              "full_vn": "một chính khách có uy tín"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) quyền lực hoặc tài năng do Chúa Trời ban cho"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357332_5bf30bf042_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357332_51188a66dd_o.png",
+      "id_image": "charisma_4060971"
+    }
+  ]
+}

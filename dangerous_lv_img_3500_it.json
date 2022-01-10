@@ -1,0 +1,48 @@
+{
+  "english": "dangerous",
+  "phat_am": "['deindʒrəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nguy hiểm; hiểm nghèo, nguy ngập, nguy cấp (bệnh)"
+        },
+        {
+          "m_full_vn": "nham hiểm, lợi hại, dữ tợn",
+          "list_en_vn": [
+            {
+              "full_en": "a dangerous man",
+              "full_vn": "một người nham hiểm"
+            },
+            {
+              "full_en": "a dangerous opponent",
+              "full_vn": "một đối thủ lợi hại"
+            },
+            {
+              "full_en": "to look dangerous",
+              "full_vn": "có vẻ dữ tợn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310681_8ecb1e9459_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310681_c0aa043b49_o.png",
+      "id_image": "dangerous_1901052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665824_d4f6784aee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665824_a2e899627c_o.png",
+      "id_image": "dangerous_5264731"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310621_bf706a8170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310621_0bfcd4d71c_o.png",
+      "id_image": "dangerous_5848269"
+    }
+  ]
+}

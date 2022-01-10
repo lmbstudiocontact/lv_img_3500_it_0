@@ -1,0 +1,271 @@
+{
+  "english": "die",
+  "phat_am": "[dai]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "như dice",
+          "list_one_mean": [
+            {
+              "id_full_en": "the die is cast",
+              "list_im": [
+                {
+                  "im_full_vn": "một quyết định đã đưa ra thì không sửa đổi được nữa; bút sa gà chết"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "as straight as an arrow /die",
+              "full_vn": "trung thực và thẳng thắn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều là dies",
+      "list_m": [
+        {
+          "m_full_vn": "(kiến trúc) chân cột"
+        },
+        {
+          "m_full_vn": "khối kim loại cứng có khắc hình dùng để rập tiền, con chữ in, huy chương... hoặc đóng dấu trên giấy, da... khiến hình đó nổi lên trên bề mặt; khuôn rập"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) khuôn kéo sợi"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) bàn ren (đinh ốc...)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chết, mất, từ trần; băng hà (vua); hy sinh",
+          "list_en_vn": [
+            {
+              "full_en": "flowers soon die without water",
+              "full_vn": "không có nước, hoa sẽ mau chết"
+            },
+            {
+              "full_en": "to die of an illness /hunger /grief",
+              "full_vn": "chết vì ốm/đói/đau buồn"
+            },
+            {
+              "full_en": "to die in battle (action )",
+              "full_vn": "chết trận"
+            },
+            {
+              "full_en": "to die from a wound",
+              "full_vn": "chết vì vết thương"
+            },
+            {
+              "full_en": "to die for one's country",
+              "full_vn": "chết vì tổ quốc"
+            },
+            {
+              "full_en": "to die by the sword",
+              "full_vn": "chết vì gươm đao"
+            },
+            {
+              "full_en": "to die by one's own hand",
+              "full_vn": "tự mình làm mình chết"
+            },
+            {
+              "full_en": "to die by violence",
+              "full_vn": "chết bởi bạo lực"
+            },
+            {
+              "full_en": "to die at the stake",
+              "full_vn": "chết thiêu"
+            },
+            {
+              "full_en": "to die for a cause",
+              "full_vn": "hy sinh cho một sự nghiệp"
+            },
+            {
+              "full_en": "to die in poverty ; to die poor",
+              "full_vn": "chết trong cảnh nghèo nàn"
+            },
+            {
+              "full_en": "to die a lingering , natural , violent death",
+              "full_vn": "chết một cách kéo dài, bình thường, thê thảm"
+            },
+            {
+              "full_en": "to die a glorious death",
+              "full_vn": "chết một cách vinh quang"
+            },
+            {
+              "full_en": "to die through neglect",
+              "full_vn": "chết vì không ai chăm sóc (không ai nhìn ngó tới)"
+            },
+            {
+              "full_en": "to die young",
+              "full_vn": "chết trẻ"
+            },
+            {
+              "full_en": "to die a beggar / hero",
+              "full_vn": "chết như một kẻ ăn mày/người anh hùng"
+            },
+            {
+              "full_en": "one's dying wish /words /breath",
+              "full_vn": "nguyện vọng lúc sắp chết, lời trăng trối, hơi thở hấp hối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mất đi, tắt đi, tàn lụi, không còn nữa; bị quên đi",
+          "list_en_vn": [
+            {
+              "full_en": "the secret will die with him",
+              "full_vn": "điều bí mật mất đi theo hắn, hắn mất đi mang theo cả điều bí mật"
+            },
+            {
+              "full_en": "great deeds can't die",
+              "full_vn": "những việc làm vĩ đại không bao giờ có thể mất đi được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "se lại đau đớn, chết lặng đi (lòng, trái tim)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be dying for something",
+              "list_im": [
+                {
+                  "im_full_vn": "quá khao khát điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the boy is dying for toys",
+                      "full_vn": "thằng bé quá khao khát đồ chơi"
+                    },
+                    {
+                      "full_en": "he is dying to have an appropriate job",
+                      "full_vn": "anh ta khao khát muốn có một việc làm thích hợp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to die down",
+              "list_im": [
+                {
+                  "im_full_vn": "chết dần, chết mòn, tàn tạ; tàn lụi (lửa...); tắt dần, bặt dần (tiếng động...); nguôi đi (cơn giận...); mất dần; tan biến đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to die off",
+              "list_im": [
+                {
+                  "im_full_vn": "chết đột ngột; tắt phụt đi (ngọn đèn...); mất biến"
+                },
+                {
+                  "im_full_vn": "chết lần lượt, chết dần chết mòn (một (dân tộc)...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to die out",
+              "list_im": [
+                {
+                  "im_full_vn": "chết hết, chết sạch; tắt ngấm (ngọn lửa...); mất biến, mất hẳn (phong tục tập quán...)"
+                },
+                {
+                  "im_full_vn": "chết dần, chết mòn; tắt dần, lụi dần"
+                },
+                {
+                  "im_full_vn": "lỗi thời (kiểu quần áo...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to die game",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) game"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to die hard",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hard"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to die in harness",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) harness"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to die in one's shoes (boots )",
+              "list_im": [
+                {
+                  "im_full_vn": "chết bất đắc kỳ tử; chết treo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to die in the last ditch",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) ditch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to die laughing",
+              "list_im": [
+                {
+                  "im_full_vn": "cười lả đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I die daily",
+              "list_im": [
+                {
+                  "im_full_vn": "(kinh thánh), hằng ngày tôi đau buồn muốn chết đi được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "never say die",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) never"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "my heart died within me",
+              "full_vn": "lòng tôi se lại đau đớn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322801_1a04de47d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322801_92f1a1c6d9_o.png",
+      "id_image": "die_3387107"
+    }
+  ]
+}

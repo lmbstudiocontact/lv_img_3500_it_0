@@ -1,0 +1,69 @@
+{
+  "english": "balloon",
+  "phat_am": "[bə'lu:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khí cầu, quả bóng",
+          "list_en_vn": [
+            {
+              "full_en": "captive (barrage ) balloon",
+              "full_vn": "khí cầu có dây buộc xuống đất"
+            },
+            {
+              "full_en": "observation balloon",
+              "full_vn": "khí cầu quan trắc"
+            },
+            {
+              "full_en": "pilot balloon",
+              "full_vn": "khí cầu xem chiều gió"
+            },
+            {
+              "full_en": "meteorological balloon",
+              "full_vn": "bóng khí tượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) bình cầu"
+        },
+        {
+          "m_full_vn": "(kiến trúc) quả cầu (trên đầu cột) ô ghi lời (ở một bức tranh khôi hài)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lên bằng khí cầu"
+        },
+        {
+          "m_full_vn": "phồng ra, phình ra, căng lên (như) quả bóng"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) tăng giá, lên giá"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433283_befa1fded4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433283_94d101c467_o.png",
+      "id_image": "balloon_414797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362557_500a9cdd55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362557_0a66c288c4_o.png",
+      "id_image": "balloon_675161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672824_b7608fba93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672824_e5151ae831_o.png",
+      "id_image": "balloon_907391"
+    }
+  ]
+}

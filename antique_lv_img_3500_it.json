@@ -1,0 +1,65 @@
+{
+  "english": "antique",
+  "phat_am": "[æn'ti:k]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cổ, cổ xưa; theo lối cổ, theo kiểu cổ"
+        },
+        {
+          "m_full_vn": "lỗi thời, không hợp thời"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ cổ",
+          "list_en_vn": [
+            {
+              "full_en": "antique dealer",
+              "full_vn": "người bán đồ cổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tác phẩm mỹ thuật cổ"
+        },
+        {
+          "m_full_vn": "( the antique ) phong cách nghệ thuật cổ",
+          "list_en_vn": [
+            {
+              "full_en": "to draw from the antique",
+              "full_vn": "vẽ theo phong cách nghệ thuật cổ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309871_7eb583c754_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309871_95fe1b0201_o.png",
+      "id_image": "antique_1798447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309996_b0f54be159_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309996_bdaf117995_o.png",
+      "id_image": "antique_329831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354212_b2169d2293_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354212_a73bd76a4b_o.png",
+      "id_image": "antique_360160"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354112_1d9514653d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354112_e1b0071450_o.png",
+      "id_image": "antique_3689574"
+    }
+  ]
+}

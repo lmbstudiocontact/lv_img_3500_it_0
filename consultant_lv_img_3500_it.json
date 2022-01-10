@@ -1,0 +1,64 @@
+{
+  "english": "consultant",
+  "phat_am": "[kən'sʌltənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người tư vấn; cố vấn",
+          "list_en_vn": [
+            {
+              "full_en": "A firm of business administration consultants",
+              "full_vn": "Một công ty tư vấn về quản trị kinh doanh"
+            },
+            {
+              "full_en": "The Prime Minister's consultant on national security",
+              "full_vn": "Cố vấn an ninh quốc gia của Thủ tướng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) bác sĩ tham vấn; bác sĩ cố vấn",
+          "list_en_vn": [
+            {
+              "full_en": "A consultant in gynaecology",
+              "full_vn": "Bác sĩ tham vấn phụ khoa"
+            },
+            {
+              "full_en": "Consultant surgeon",
+              "full_vn": "Bác sĩ phẫu thuật tham vấn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308836_d30efeba2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308836_eecf12ce36_o.png",
+      "id_image": "consultant_1402122"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353012_275e1b6a1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353012_4b840795d1_o.png",
+      "id_image": "consultant_2471751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664064_aa4ee565de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664064_f2e69673fd_o.png",
+      "id_image": "consultant_2471763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423978_8230835897_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423978_13d32d6de5_o.png",
+      "id_image": "consultant_2720745"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352947_7cf27f9fee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352947_01a2423ff2_o.png",
+      "id_image": "consultant_4802290"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "english": "dial",
+  "phat_am": "['daiəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặt của đồng hồ (đồng hồ đeo tay, đồng hồ treo tường, công tơ điện..)"
+        },
+        {
+          "m_full_vn": "như sundial"
+        },
+        {
+          "m_full_vn": "bản hoặc đĩa trên máy thu thanh hoặc máy thu hình để chỉ bước sóng hoặc kênh"
+        },
+        {
+          "m_full_vn": "(từ lóng) mặt (người...)"
+        },
+        {
+          "m_full_vn": "đĩa tròn trên máy điện thoại để quay số khi muốn gọi nói chuyện, đĩa số"
+        },
+        {
+          "m_full_vn": "bộ phím ở máy điện thoại để ấn xuống khi muốn gọi nói chuyện"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dùng đĩa số để gọi (một số hoặc tổng đài điện thoại), quay số",
+          "list_en_vn": [
+            {
+              "full_en": "please dial 116",
+              "full_vn": "xin vui lòng quay số 116"
+            },
+            {
+              "full_en": "to dial the operator",
+              "full_vn": "quay tổng đài (quay số của tổng đài)"
+            },
+            {
+              "full_en": "dial 100 for the operator",
+              "full_vn": "hãy quay số 100 gọi người trực tổng đài"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369067_bac0b6603e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369067_ea06ced758_o.png",
+      "id_image": "dial_1042072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061060_c3bfa1e9db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061060_fce52fe8b6_o.png",
+      "id_image": "dial_1677219"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369087_f0447cd35d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369087_fed204597a_o.png",
+      "id_image": "dial_247637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679314_2dc32635a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679314_a9b4ff15f7_o.png",
+      "id_image": "dial_5517638"
+    }
+  ]
+}

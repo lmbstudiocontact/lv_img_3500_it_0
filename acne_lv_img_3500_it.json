@@ -1,0 +1,42 @@
+{
+  "english": "acne",
+  "phat_am": "['ækni]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chứng viêm các tuyến nhờn trên da, sinh ra những nốt mụn đỏ trên mặt, trên cổ; mụn trứng cá",
+          "list_en_vn": [
+            {
+              "full_en": "most of adolescents suffer from /have acne",
+              "full_vn": "hầu hết thanh niên mới lớn đều bị mụn trứng cá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438613_ea01f04f61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438613_00de8a12ef_o.png",
+      "id_image": "acne_3070876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060305_5ba70d026d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060305_2ca2e1f580_o.png",
+      "id_image": "acne_3513903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368342_cc041dd3e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368342_622fc685ec_o.png",
+      "id_image": "acne_3514791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678619_1e6c468af3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678619_ddaf068538_o.png",
+      "id_image": "acne_4110189"
+    }
+  ]
+}

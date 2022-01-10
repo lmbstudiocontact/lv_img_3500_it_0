@@ -1,0 +1,288 @@
+{
+  "english": "deep",
+  "phat_am": "[di:p]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sâu",
+          "list_en_vn": [
+            {
+              "full_en": "a deep river",
+              "full_vn": "sông sâu"
+            },
+            {
+              "full_en": "a deep wound",
+              "full_vn": "vết thương sâu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khó lường, khó hiểu, bí ẩn, thâm hiểm",
+          "list_en_vn": [
+            {
+              "full_en": "a deep mystery",
+              "full_vn": "điều bí ẩn khó khám phá ra"
+            },
+            {
+              "full_en": "a deep scheme",
+              "full_vn": "âm mưu thâm hiểm, ý đồ ám muội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sâu xa, sâu sắc, sâu kín, thâm trầm",
+          "list_en_vn": [
+            {
+              "full_en": "deep sorrow",
+              "full_vn": "nỗi buồn sâu xa"
+            },
+            {
+              "full_en": "deep gratitude",
+              "full_vn": "lòng biết ơn sâu sắc"
+            },
+            {
+              "full_en": "deep learning",
+              "full_vn": "học vấn uyên thâm"
+            },
+            {
+              "full_en": "deep influence",
+              "full_vn": "ảnh hưởng sâu sắc"
+            },
+            {
+              "full_en": "deep thinker",
+              "full_vn": "nhà tư tưởng sâu sắc"
+            },
+            {
+              "full_en": "deep feelings",
+              "full_vn": "tình cảm sâu sắc"
+            },
+            {
+              "full_en": "deep in the human heart",
+              "full_vn": "am hiểu lòng người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngập sâu vào, mải mê, miệt mài, đắm mình vào",
+          "list_en_vn": [
+            {
+              "full_en": "deep in mud",
+              "full_vn": "ngập sâu trong bùn"
+            },
+            {
+              "full_en": "deep in debt",
+              "full_vn": "nợ ngập đầu"
+            },
+            {
+              "full_en": "deep in study",
+              "full_vn": "miệt mài học tập"
+            },
+            {
+              "full_en": "deep in thought",
+              "full_vn": "trầm tư, mãi suy nghĩ, suy nghĩ lung tung"
+            },
+            {
+              "full_en": "deep in love",
+              "full_vn": "yêu say đắm"
+            },
+            {
+              "full_en": "deep in a pursuit",
+              "full_vn": "mải mê theo đuổi (một cái gì); mải mê làm (một việc gì)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trầm",
+          "list_en_vn": [
+            {
+              "full_en": "a deep voice",
+              "full_vn": "giọng trầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sẫm, thẫm, thắm (màu sắc)",
+          "list_en_vn": [
+            {
+              "full_en": "deep colour",
+              "full_vn": "màu sẫm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vô cùng, hết sức; say (ngủ), nặng (tội), dày đặc (bóng tối)...",
+          "list_en_vn": [
+            {
+              "full_en": "deep disgrace",
+              "full_vn": "điều vô cùng nhục nhã; sự sa cơ thất thế"
+            },
+            {
+              "full_en": "a deep sleep",
+              "full_vn": "giấc ngủ say"
+            },
+            {
+              "full_en": "a deep sin",
+              "full_vn": "tội nặng"
+            },
+            {
+              "full_en": "a deep drinker",
+              "full_vn": "người nghiện rượu nặng"
+            },
+            {
+              "full_en": "a deep sigh",
+              "full_vn": "tiếng thở dài sườn sượt"
+            },
+            {
+              "full_en": "deep silence",
+              "full_vn": "sự lặng ngắt như tờ"
+            },
+            {
+              "full_en": "merged in deep shadows",
+              "full_vn": "chìm trong bóng tối dày đặc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) khôn ngoan, láu, ranh mãnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in deep water (s)",
+              "list_im": [
+                {
+                  "im_full_vn": "gặp hoạn nạn, lâm vào hoàn cảnh hết sức khó khăn; gặp chuyện đau buồn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to draw up five deep",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) đứng thành năm hàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go [in ] off the deep end",
+              "list_im": [
+                {
+                  "im_full_vn": "liều, làm liều; quyết định một cách liều lĩnh"
+                },
+                {
+                  "im_full_vn": "nổi nóng, nổi giận, phát cáu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "deep mourning",
+              "list_im": [
+                {
+                  "im_full_vn": "đại tang"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he's a deep one",
+              "full_vn": "hắn là một thằng láu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "sâu",
+          "list_en_vn": [
+            {
+              "full_en": "to dig deep into the ground",
+              "full_vn": "đào sâu xuống đất"
+            },
+            {
+              "full_en": "to go deep into the details",
+              "full_vn": "đi sâu vào chi tiết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "muộn, khuya",
+          "list_en_vn": [
+            {
+              "full_en": "to work deep into the night",
+              "full_vn": "làm việc đến tận khuya"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhiều",
+          "list_one_mean": [
+            {
+              "id_full_en": "still waters run deep",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) những người thâm trầm kín đáo mới là những người sâu sắc; tâm ngẩm tầm ngầm mà đâm chết voi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to drink deep",
+              "full_vn": "uống nhiều"
+            },
+            {
+              "full_en": "to play deep",
+              "full_vn": "đánh lớn (đánh bạc)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thơ ca) ( the deep ) biển cả"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) đáy sâu (của đại dương)"
+        },
+        {
+          "m_full_vn": "vực thẳm, vực sâu"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nơi sâu kín, đáy lòng, thâm tâm"
+        },
+        {
+          "m_full_vn": "giữa",
+          "list_en_vn": [
+            {
+              "full_en": "in the deep of winter",
+              "full_vn": "giữa mùa đông"
+            },
+            {
+              "full_en": "in the deep of night",
+              "full_vn": "lúc nửa đêm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350462_799e37b199_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350462_13d9fc7aac_o.png",
+      "id_image": "deep_1035461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306281_89f2d80495_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306281_0f00c09b82_o.png",
+      "id_image": "deep_5538313"
+    }
+  ]
+}

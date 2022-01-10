@@ -1,0 +1,57 @@
+{
+  "english": "alliance",
+  "phat_am": "[ə'laiəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự liên minh, khối liên minh, khối đồng minh",
+          "list_en_vn": [
+            {
+              "full_en": "States seek to become stronger through alliance",
+              "full_vn": "Các quốc gia tìm cách trở nên mạnh hơn bằng sự liên minh"
+            },
+            {
+              "full_en": "to enter into alliance with somebody ; to form an alliance with somebody",
+              "full_vn": "liên minh với ai, thành lập khối đồng minh với ai"
+            },
+            {
+              "full_en": "we're working in alliance with our foreign partners",
+              "full_vn": "chúng ta làm việc có sự liên kết với các bạn hàng của chúng ta ở nước ngoài"
+            },
+            {
+              "full_en": "to break off an alliance with a neighbouring state",
+              "full_vn": "cắt đứt sự liên kết với một quốc gia láng giềng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự kết hợp hoặc liên kết được hình thành vì lợi ích chung, nhất là giữa các gia đình (thông qua hôn nhân), các nước hoặc các tổ chức; sự thông gia; sự liên kết"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052535_3f96632bc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052535_07c8b3c7de_o.png",
+      "id_image": "alliance_1622584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316106_41f3da0452_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316106_2f29e8ed0b_o.png",
+      "id_image": "alliance_3317733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052490_c2e5eff582_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052490_df71c42928_o.png",
+      "id_image": "alliance_4695246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316036_00ddd0460b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316036_f95b09ca49_o.png",
+      "id_image": "alliance_4960632"
+    }
+  ]
+}

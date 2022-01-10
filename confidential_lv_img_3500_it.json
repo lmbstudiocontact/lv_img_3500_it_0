@@ -1,0 +1,55 @@
+{
+  "english": "confidential",
+  "phat_am": "[,kɔnfi'den∫l]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "kín, bí mật; nói riêng với nhau",
+          "list_en_vn": [
+            {
+              "full_en": "confidential information",
+              "full_vn": "tin mật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thân tín, tâm phúc; được tin cẩn",
+          "list_en_vn": [
+            {
+              "full_en": "confidential friend",
+              "full_vn": "bạn tâm phúc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thổ lộ tâm tình, tâm sự",
+          "list_en_vn": [
+            {
+              "full_en": "to be confidential with someone",
+              "full_vn": "tâm sự với ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356472_e4a556e5c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356472_431abc2044_o.png",
+      "id_image": "confidential_2170165"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427213_57cd9c3ca9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427213_acc9936900_o.png",
+      "id_image": "confidential_2519390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048995_3288bda2ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048995_84e6498f9a_o.png",
+      "id_image": "confidential_4524038"
+    }
+  ]
+}

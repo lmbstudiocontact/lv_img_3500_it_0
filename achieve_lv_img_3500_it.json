@@ -1,0 +1,75 @@
+{
+  "english": "achieve",
+  "phat_am": "[ə't∫i:v]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đạt được, giành được (do nỗ lực, khéo léo, dũng cảm...)",
+          "list_en_vn": [
+            {
+              "full_en": "to achieve one's purpose (aim )",
+              "full_vn": "đạt mục đích"
+            },
+            {
+              "full_en": "to achieve good results",
+              "full_vn": "đạt được những kết quả tốt"
+            },
+            {
+              "full_en": "to achieve national independence",
+              "full_vn": "giành độc lập dân tộc"
+            },
+            {
+              "full_en": "to achieve great victories",
+              "full_vn": "giành được những chiến thắng lớn"
+            },
+            {
+              "full_en": "to achieve success , one's ambition , peace of mind",
+              "full_vn": "đạt được thành công, toại chí, được thanh thản tâm hồn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn thành, hoàn tất",
+          "list_en_vn": [
+            {
+              "full_en": "to achieve a great work",
+              "full_vn": "hoàn thành một công trình lớn"
+            },
+            {
+              "full_en": "to achieve one's task",
+              "full_vn": "hoàn thành nhiệm vụ"
+            },
+            {
+              "full_en": "I've achieved only half of what I'd hoped to do",
+              "full_vn": "tôi chỉ mới hoàn thành một nửa những điều tôi hy vọng làm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060655_a4c7b51081_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060655_699613656b_o.png",
+      "id_image": "achievement_1006656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060540_081c1b3524_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060540_b296d5b04f_o.png",
+      "id_image": "achievement_1312299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060475_50fc91b294_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060475_8898469e4d_o.png",
+      "id_image": "achievement_3050455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060740_226493f507_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060740_d1bd56ae15_o.png",
+      "id_image": "achieve_5139999"
+    }
+  ]
+}

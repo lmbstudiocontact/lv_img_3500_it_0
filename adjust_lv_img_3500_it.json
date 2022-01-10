@@ -1,0 +1,69 @@
+{
+  "english": "adjust",
+  "phat_am": "[ə'dʒʌst]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt lại cho đúng vị trí hoặc trật tự; điều chỉnh",
+          "list_en_vn": [
+            {
+              "full_en": "She carefully adjusted her clothes and her hair before going out",
+              "full_vn": "Nàng chỉnh đốn quần áo và tóc tai kỹ lưỡng trước khi đi ra ngoài"
+            },
+            {
+              "full_en": "To adjust a plan",
+              "full_vn": "Điều chỉnh một kế hoạch"
+            },
+            {
+              "full_en": "The brakes need adjusting",
+              "full_vn": "Bộ thắng cần phải chỉnh lại"
+            },
+            {
+              "full_en": "To adjust the focus of a camera , the sights of a gun",
+              "full_vn": "Điều chỉnh tiêu cự của máy ảnh, ống ngăm của khẩu súng"
+            },
+            {
+              "full_en": "To adjust a lesson",
+              "full_vn": "Chỉnh lý một bài học (cho thích hợp với trình độ hoặc yêu cầu)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyết định (số lượng phải trả để đền bù mất mát hoặc thiệt hại) khi giải quyết một yêu sách bảo hiểm; dàn xếp"
+        },
+        {
+          "m_full_vn": "( to adjust something / oneself to something ) trở nên hoặc làm cho thích hợp (với hoàn cảnh mới)",
+          "list_en_vn": [
+            {
+              "full_en": "Former soldiers who have difficulty in adjusting to civilian life",
+              "full_vn": "Các cựu binh thật khó thích nghi với cuộc sống dân sự"
+            },
+            {
+              "full_en": "The body adjusts (itself ) to changes in temperature",
+              "full_vn": "Cơ thể (tự) thích nghi nhanh chóng với những thay đổi về thời tiết"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320926_0620ed4ee9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320926_38dab5b3f1_o.png",
+      "id_image": "adjustment_2062011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436118_c47e8d8f55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436118_4c14ef8b7c_o.png",
+      "id_image": "adjustment_6301121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365947_747a4dd62c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365947_117857c844_o.png",
+      "id_image": "adjust_1522188"
+    }
+  ]
+}

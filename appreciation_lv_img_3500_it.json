@@ -1,0 +1,65 @@
+{
+  "english": "appreciation",
+  "phat_am": "[ə,pri:∫i'ei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đánh giá"
+        },
+        {
+          "m_full_vn": "sự đánh giá đúng, sự đánh giá cao, sự hiểu rõ giá trị"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự thấy rõ, sự nhân thức, sâu sắc"
+        },
+        {
+          "m_full_vn": "sự biết thưởng thức, sự biết đánh giá",
+          "list_en_vn": [
+            {
+              "full_en": "to have an appreciation of music",
+              "full_vn": "biết thưởng thức âm nhạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cảm kích"
+        },
+        {
+          "m_full_vn": "sự nâng giá trị"
+        },
+        {
+          "m_full_vn": "sự phê phán (một cuốn tiểu thuyết...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307801_f5c410be40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307801_ce902e4997_o.png",
+      "id_image": "appreciation_1474687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422933_6f6ecbbf54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422933_ba867e3e20_o.png",
+      "id_image": "appreciation_2390205"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422918_3abf4a2efa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422918_548d03411b_o.png",
+      "id_image": "appreciation_4318899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351842_afa2f66197_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351842_f306f79efe_o.png",
+      "id_image": "appreciation_5635448"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044785_dfb582ab1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044785_757548ecef_o.png",
+      "id_image": "appreciation_708673"
+    }
+  ]
+}

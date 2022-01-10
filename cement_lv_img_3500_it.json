@@ -1,0 +1,74 @@
+{
+  "english": "cement",
+  "phat_am": "[si'ment]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xi-măng"
+        },
+        {
+          "m_full_vn": "chất gắn (như) xi măng"
+        },
+        {
+          "m_full_vn": "bột hàn răng"
+        },
+        {
+          "m_full_vn": "(giải phẫu) xương răng"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) bột than để luyện sắt"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) mối liên kết, mối gắn bó"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trát xi măng; xây bằng xi măng"
+        },
+        {
+          "m_full_vn": "hàn (răng)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) luyện (sắt) bằng bột than, cho thấm các-bon ủ"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) thắt chặt, gắn bó",
+          "list_en_vn": [
+            {
+              "full_en": "to cement the friendship",
+              "full_vn": "thắt chặt tình hữu nghị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361402_712484e1f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361402_e251377cf5_o.png",
+      "id_image": "cement_1207145"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053485_71f29c2d32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053485_80c33aa37d_o.png",
+      "id_image": "cement_2276254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671739_50c1bd6e94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671739_db78953810_o.png",
+      "id_image": "cement_4370431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317041_14c16b87d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317041_200c21ec9d_o.png",
+      "id_image": "cement_4646801"
+    }
+  ]
+}

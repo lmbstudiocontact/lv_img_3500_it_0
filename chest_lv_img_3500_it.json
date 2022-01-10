@@ -1,0 +1,88 @@
+{
+  "english": "chest",
+  "phat_am": "[t∫est]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rương, hòm, tủ, két",
+          "list_en_vn": [
+            {
+              "full_en": "a tea chest",
+              "full_vn": "tủ chè"
+            },
+            {
+              "full_en": "a medicine chest",
+              "full_vn": "tủ thuốc"
+            },
+            {
+              "full_en": "a tool chest",
+              "full_vn": "hòm đựng dụng cụ"
+            },
+            {
+              "full_en": "a carpenter's chest",
+              "full_vn": "hòm đồ thợ mộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tủ com mốt ( (cũng) chest of drawers )"
+        },
+        {
+          "m_full_vn": "ngực",
+          "list_one_mean": [
+            {
+              "id_full_en": "to get something off one's chest",
+              "list_im": [
+                {
+                  "im_full_vn": "nói hết điều gì ra (không để bụng)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a hairy chest",
+              "full_vn": "một bộ ngực lông lá"
+            },
+            {
+              "full_en": "what size are you round the chest ?",
+              "full_vn": "vòng ngực của anh cỡ bao nhiêu?"
+            },
+            {
+              "full_en": "chest pains",
+              "full_vn": "chứng đau ngực"
+            },
+            {
+              "full_en": "chest cold",
+              "full_vn": "chứng cảm lạnh ngực phổi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310516_9f7dd86b54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310516_8f8d4a55cb_o.png",
+      "id_image": "chest_4033801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665679_aa4168a516_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665679_076b71df1e_o.png",
+      "id_image": "chest_4287213"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665644_74f31f21cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665644_2387571994_o.png",
+      "id_image": "chest_4760653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425423_333348c241_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425423_663b42d89e_o.png",
+      "id_image": "chest_5327086"
+    }
+  ]
+}

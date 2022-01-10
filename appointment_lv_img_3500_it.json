@@ -1,0 +1,88 @@
+{
+  "english": "appointment",
+  "phat_am": "[ə'pɔintmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bổ nhiệm",
+          "list_en_vn": [
+            {
+              "full_en": "appointment of someone to a post",
+              "full_vn": "sự bổ nhiệm ai vào một chức vụ"
+            },
+            {
+              "full_en": "his promotion to manager was a popular appointment",
+              "full_vn": "ông ấy được đề bạt làm giám đốc là một sự bổ nhiệm được lòng công chúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công việc mà người nào được đặt vào",
+          "list_en_vn": [
+            {
+              "full_en": "I'm looking for a permanent appointment",
+              "full_vn": "tôi đang tìm kiếm một công việc làm thường xuyên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự sắp xếp để gặp hoặc thăm ai vào một thời gian đặc biệt",
+          "list_en_vn": [
+            {
+              "full_en": "to make /fix an appointment with someone",
+              "full_vn": "hẹn gặp ai"
+            },
+            {
+              "full_en": "to break an appointment",
+              "full_vn": "thất hẹn, sai hẹn"
+            },
+            {
+              "full_en": "to keep an appointment",
+              "full_vn": "đúng hẹn"
+            },
+            {
+              "full_en": "I've a dental appointment at 3 pm",
+              "full_vn": "tôi có hẹn chữa răng vào ba giờ chiều"
+            },
+            {
+              "full_en": "interviews are by appointment only",
+              "full_vn": "ai có hẹn trước thì mới được phỏng vấn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( appointments ) thiết bị; đồ đạc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352062_85f1bcce7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352062_7b25e12c8e_o.png",
+      "id_image": "appointments_4200409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423073_d63548cb68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423073_19b9f5d0a9_o.png",
+      "id_image": "appointments_4514867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423258_13b52f0500_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423258_91e4f2f092_o.png",
+      "id_image": "appointment_1694418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308051_9d83e12880_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308051_f9ec4f66e4_o.png",
+      "id_image": "appointment_2419579"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352092_f4103f497b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352092_2cafb4b141_o.png",
+      "id_image": "appointment_4624216"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "english": "cardinal",
+  "phat_am": "['kɑ:dinl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chính, chủ yếu, cốt yếu",
+          "list_en_vn": [
+            {
+              "full_en": "cardinal factor",
+              "full_vn": "nhân tố chủ yếu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) (thuộc) số lượng",
+          "list_en_vn": [
+            {
+              "full_en": "cardinal numerals",
+              "full_vn": "số từ chỉ số lượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đỏ thắm",
+          "list_one_mean": [
+            {
+              "id_full_en": "cardinal points",
+              "list_im": [
+                {
+                  "im_full_vn": "bốn phương ( Đông, Tây, Nam, Bắc)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giáo chủ áo đỏ, giáo chủ hồng y"
+        },
+        {
+          "m_full_vn": "màu đỏ thắm"
+        },
+        {
+          "m_full_vn": "như cardinal-bird"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441243_7cfb24dd31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441243_62397e400c_o.png",
+      "id_image": "cardinal_2220558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681314_7982c2fc2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681314_a0bfed64e7_o.png",
+      "id_image": "cardinal_3338212"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681279_0cce15a47e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681279_f21d245ff7_o.png",
+      "id_image": "cardinal_3338328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062960_3b6a426927_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062960_ba16186837_o.png",
+      "id_image": "cardinal_6236397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326341_89c6e82703_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326341_1e0bccfcca_o.png",
+      "id_image": "cardinal_642077"
+    }
+  ]
+}

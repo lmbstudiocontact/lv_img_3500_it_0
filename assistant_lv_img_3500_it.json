@@ -1,0 +1,60 @@
+{
+  "english": "assistant",
+  "phat_am": "[ə'sistənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người giúp đỡ, người phụ tá"
+        },
+        {
+          "m_full_vn": "trợ giáo; (pháp lý) viên phụ thẩm"
+        },
+        {
+          "m_full_vn": "người bán hàng ( (cũng) shop assistant )"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "giúp đỡ, phụ, phó",
+          "list_en_vn": [
+            {
+              "full_en": "assistant surgeon",
+              "full_vn": "người phụ mổ"
+            },
+            {
+              "full_en": "assistant manager",
+              "full_vn": "phó giám đốc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417978_0800372709_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417978_e6379f32ab_o.png",
+      "id_image": "assistant_257518"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039610_dca0baa59e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039610_0fdb2917bd_o.png",
+      "id_image": "assistant_405312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302901_e89099361b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302901_85fc722b15_o.png",
+      "id_image": "assistant_6036722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347162_fbe1550485_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347162_0ba54fa799_o.png",
+      "id_image": "assistant_6273491"
+    }
+  ]
+}

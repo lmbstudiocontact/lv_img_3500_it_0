@@ -1,0 +1,97 @@
+{
+  "english": "compliment",
+  "phat_am": "['kɔmplimənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( compliment on something ) lời khen, lời ca tụng",
+          "list_en_vn": [
+            {
+              "full_en": "one likes to hear compliments on one's appearance",
+              "full_vn": "người ta thích nghe khen ngợi dáng vẻ của mình"
+            },
+            {
+              "full_en": "she paid me a very charming compliment on my paintings",
+              "full_vn": "cô ta đã có một lời khen rất có duyên về các bức tranh của tôi"
+            },
+            {
+              "full_en": "these beautiful flowers are a compliment to the gardener's skill",
+              "full_vn": "những bông hoa đẹp này là lời khen ngợi tài năng của người làm vườn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) lời thăm hỏi, lời chúc mừng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to angle (fish ) for compliments",
+              "list_im": [
+                {
+                  "im_full_vn": "cố tìm cách để được khen"
+                }
+              ]
+            },
+            {
+              "id_full_en": "compliments of the season",
+              "list_im": [
+                {
+                  "im_full_vn": "lời chúc lễ Nô-en, lời chúc mừng năm mới..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "to return the compliments",
+              "list_im": [
+                {
+                  "im_full_vn": "đáp lại lời thăm hỏi; đáp lại lời chúc tụng"
+                },
+                {
+                  "im_full_vn": "tặng quà lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a left-handed compliment",
+              "list_im": [
+                {
+                  "im_full_vn": "lời khen không thành thực"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "please give him my compliments",
+              "full_vn": "xin cho tôi gửi lời thăm hỏi ông ta"
+            },
+            {
+              "full_en": "my compliments to your husband",
+              "full_vn": "cho tôi gửi lời chào ông nhà"
+            },
+            {
+              "full_en": "with Mr . X's compliments",
+              "full_vn": "với lời thăm hỏi của ông X, với lời chào của ông X (công thức viết trên tài liệu gửi cho, trên quà tặng...)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to compliment somebody on something ) khen ngợi, ca ngợi, ca tụng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430538_b7d24c2fbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430538_dc4bcaa1af_o.png",
+      "id_image": "compliment_2210736"
+    }
+  ]
+}

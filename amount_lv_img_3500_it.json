@@ -1,0 +1,112 @@
+{
+  "english": "amount",
+  "phat_am": "[ə'maunt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lượng, số lượng",
+          "list_en_vn": [
+            {
+              "full_en": "a considerable amount",
+              "full_vn": "một số lượng đáng kể"
+            },
+            {
+              "full_en": "a large amount of work /money /furniture",
+              "full_vn": "một số lượng lớn công việc/tiền bạc/đồ đạc"
+            },
+            {
+              "full_en": "food was provided in varying amounts",
+              "full_vn": "lương thực được cung cấp với những số lượng khác nhau"
+            },
+            {
+              "full_en": "no amount of encouragement would make him jump",
+              "full_vn": "dù khuyến khích đến mức nào, nó vẫn không nhảy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tổng số hoặc tổng giá trị",
+          "list_en_vn": [
+            {
+              "full_en": "a bill for the full amount",
+              "full_vn": "hoá đơn tính đủ tổng số tiền"
+            },
+            {
+              "full_en": "can you really afford this amount ?",
+              "full_vn": "có thật là anh cung ứng được ngần này hay không?"
+            },
+            {
+              "full_en": "what's the amount of this ?",
+              "full_vn": "tổng số cái này là bao nhiêu?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thực chất, giá trị thực; tầm quan trọng, ý nghĩa",
+          "list_one_mean": [
+            {
+              "id_full_en": "any amount of something",
+              "list_im": [
+                {
+                  "im_full_vn": "một số lượng lớn của cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he can get any amount of help",
+                      "full_vn": "nó muốn được giúp đỡ nhiều đến đâu cũng được"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this is the amount of what he promised",
+              "full_vn": "thực chất lời hứa của hắn là đây"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lên đến, lên tới (tiền)",
+          "list_en_vn": [
+            {
+              "full_en": "the bill amounts to 100ấ",
+              "full_vn": "hoá đơn lên đến 100 đ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chung qui là, rốt cuộc là, có nghĩa là, chẳng khác gì là",
+          "list_en_vn": [
+            {
+              "full_en": "it amounts to the same thing",
+              "full_vn": "rốt cuộc cũng thế cả"
+            },
+            {
+              "full_en": "this amounts to a refusal",
+              "full_vn": "cái đó chẳng khác gì là một lời từ chối"
+            },
+            {
+              "full_en": "what you say amounts to a direct accusation",
+              "full_vn": "chung quy những điều anh nói vẫn là một lời buộc tội trực tiếp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428898_e025d58373_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428898_3f4b0414ea_o.png",
+      "id_image": "amount_169525"
+    }
+  ]
+}

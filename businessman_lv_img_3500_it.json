@@ -1,0 +1,45 @@
+{
+  "english": "businessman",
+  "phat_am": "['biznismən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà kinh doanh, thương gia",
+          "list_en_vn": [
+            {
+              "full_en": "big businessman",
+              "full_vn": "nhà đại tư bản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người quen giao dịch"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663734_73f6f789bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663734_edc4716935_o.png",
+      "id_image": "businessman_1441957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308491_7aa663fb41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308491_77952c5e5f_o.png",
+      "id_image": "businessman_5345569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352702_d80da6f9bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352702_c33e5a8b9e_o.png",
+      "id_image": "businessman_548518"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308541_73f6f789bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308541_e009712172_o.png",
+      "id_image": "businessman_773374"
+    }
+  ]
+}

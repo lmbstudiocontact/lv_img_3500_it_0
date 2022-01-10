@@ -1,0 +1,101 @@
+{
+  "english": "champion",
+  "phat_am": "['t∫æmpjən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người vô địch, nhà quán quân",
+          "list_en_vn": [
+            {
+              "full_en": "world chess champion",
+              "full_vn": "người vô địch cờ quốc tế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( định ngữ) được giải nhất; vô địch, quán quân",
+          "list_en_vn": [
+            {
+              "full_en": "a champion horse",
+              "full_vn": "con ngựa được giải nhất"
+            },
+            {
+              "full_en": "a champion cabbage",
+              "full_vn": "bắp cải được giải nhất (trong cuộc thi triển lãm rau)"
+            },
+            {
+              "full_en": "a champion boxer",
+              "full_vn": "võ sĩ quyền Anh vô địch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chiến sĩ",
+          "list_en_vn": [
+            {
+              "full_en": "a peace champion",
+              "full_vn": "chiến sĩ hoà bình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bảo vệ, bênh vực, đấu tranh cho",
+          "list_en_vn": [
+            {
+              "full_en": "to champion the right of women",
+              "full_vn": "đấu tranh cho quyền lợi của phụ nữ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cừ, tuyệt",
+          "list_en_vn": [
+            {
+              "full_en": "that's champion",
+              "full_vn": "thật là tuyệt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429578_da614326d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429578_230863e0b3_o.png",
+      "id_image": "champions_5520819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358887_caf777d4ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358887_013dde522e_o.png",
+      "id_image": "champion_1620515"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358852_5c7a91c339_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358852_a7735e1395_o.png",
+      "id_image": "champion_3295148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051285_5c3098cb8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051285_060e33e3da_o.png",
+      "id_image": "champion_4157942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669354_18ea2eca51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669354_13221d7c46_o.png",
+      "id_image": "champion_5784087"
+    }
+  ]
+}

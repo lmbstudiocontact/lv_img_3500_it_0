@@ -1,0 +1,51 @@
+{
+  "english": "actor",
+  "phat_am": "['æktə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "diễn viên (kịch, tuồng, chèo, (điện ảnh)...); kép, kép hát",
+          "list_en_vn": [
+            {
+              "full_en": "film actor",
+              "full_vn": "tài tử đóng phim, diễn viên điện ảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) người làm (một việc gì)",
+          "list_en_vn": [
+            {
+              "full_en": "a bad actor",
+              "full_vn": "(từ Mỹ,nghĩa Mỹ) người khó tin cậy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677219_293ebcac11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677219_d8df96461a_o.png",
+      "id_image": "actor_323981"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677164_17aa02ced2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677164_8b2fdf056c_o.png",
+      "id_image": "actor_4695680"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058845_341cd0a468_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058845_14b210148a_o.png",
+      "id_image": "actor_6036699"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366952_d2d635704a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366952_c0cd020567_o.png",
+      "id_image": "actor_6347173"
+    }
+  ]
+}

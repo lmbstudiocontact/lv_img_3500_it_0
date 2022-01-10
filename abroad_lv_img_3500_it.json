@@ -1,0 +1,90 @@
+{
+  "english": "abroad",
+  "phat_am": "[ə'brɔ:d]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở hoặc tới một nước hoặc nhiều nước ngoài; ở xa nước mình; ở nước ngoài; hải ngoại",
+          "list_en_vn": [
+            {
+              "full_en": "to live abroad",
+              "full_vn": "sống ở nước ngoài"
+            },
+            {
+              "full_en": "to go abroad",
+              "full_vn": "đi ra nước ngoài"
+            },
+            {
+              "full_en": "to travel abroad",
+              "full_vn": "đi du lịch nước ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được lưu truyền rộng rãi",
+          "list_en_vn": [
+            {
+              "full_en": "there is a rumour abroad that ...",
+              "full_vn": "khắp nơi đang có tin đồn rằng..."
+            },
+            {
+              "full_en": "the school matter is abroad",
+              "full_vn": "việc học hành bây giờ đang trở thành phổ biến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngoài trời (đối với trong nhà)",
+          "list_en_vn": [
+            {
+              "full_en": "life abroad is very healthy",
+              "full_vn": "sống ở ngoài trời tốt cho sức khoẻ"
+            },
+            {
+              "full_en": "have you ventured abroad yet today ?",
+              "full_vn": "hôm nay bạn đã liều đi ra ngoài chưa?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) nghĩ sai, nhầm, tưởng lầm",
+          "list_one_mean": [
+            {
+              "id_full_en": "from abroad",
+              "list_im": [
+                {
+                  "im_full_vn": "từ nước ngoài",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "these pornographic publications were brought from abroad",
+                      "full_vn": "những ấn phẩm khiêu dâm này được mang từ nước ngoài vào"
+                    },
+                    {
+                      "full_en": "visitors (who have come ) from abroad",
+                      "full_vn": "khách từ nước ngoài đến thăm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be all abroad",
+              "full_vn": "nghĩ sai hoàn toàn, hoàn toàn lầm lẫn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442363_9a2cbd2a66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442363_bfa1dca62b_o.png",
+      "id_image": "abroad_6213270"
+    }
+  ]
+}

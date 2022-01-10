@@ -1,0 +1,99 @@
+{
+  "english": "associate",
+  "phat_am": "[ə'sou∫iit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết giao, kết hợp liên hợp; liên đới",
+          "list_en_vn": [
+            {
+              "full_en": "associate societies",
+              "full_vn": "hội liên hiệp"
+            },
+            {
+              "full_en": "associate number",
+              "full_vn": "(toán học) số liên đới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) cùng cộng tác, phụ, phó, trợ",
+          "list_en_vn": [
+            {
+              "full_en": "associate editor",
+              "full_vn": "phó tổng biên tập"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bạn đồng liêu, người cùng cộng tác; đồng minh"
+        },
+        {
+          "m_full_vn": "hội viên thông tin, viện sĩ thông tấn (viện hàn lâm khoa học...)"
+        },
+        {
+          "m_full_vn": "vật phụ thuộc vào vật khác; vật liên kết với vật khác"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết giao, kết hợp, liên hợp, liên kết; cho gia nhập, cho cộng tác",
+          "list_en_vn": [
+            {
+              "full_en": "to associate someone in one's business",
+              "full_vn": "cho ai cùng cộng tác trong công việc kinh doanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "liên tưởng (những ý nghĩ)",
+          "list_en_vn": [
+            {
+              "full_en": "to associate oneself in",
+              "full_vn": "dự vào, cùng cộng tác vào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết giao, kết bạn với, giao thiệp với"
+        },
+        {
+          "m_full_vn": "hợp sức; liên hợp lại (vì mục đích chung), liên kết lại",
+          "list_en_vn": [
+            {
+              "full_en": "to associate with someone in doing something",
+              "full_vn": "hợp sức với người nào làm việc gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302846_fd6414b49c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302846_fdb9de9da8_o.png",
+      "id_image": "association_1622586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302826_cd62f495cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302826_1c4b0058a5_o.png",
+      "id_image": "association_2517375"
+    }
+  ]
+}

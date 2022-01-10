@@ -1,0 +1,79 @@
+{
+  "english": "cheese",
+  "phat_am": "[t∫i:z]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phó-mát; bánh phó-mát",
+          "list_one_mean": [
+            {
+              "id_full_en": "big cheese",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) quan to, chóp bu, nhân vật quan trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get the cheese",
+              "list_im": [
+                {
+                  "im_full_vn": "nếm mùi thất bại"
+                },
+                {
+                  "im_full_vn": "bị bịp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hard cheese",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) sự không may, sự thất bại; hoàn toàn đáng buồn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trớ ra (trẻ con)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ (thông tục)",
+      "list_m": [
+        {
+          "m_full_vn": "the cheese thứ thượng hảo hạng, bậc nhất",
+          "list_en_vn": [
+            {
+              "full_en": "these cigars are the real cheese",
+              "full_vn": "xì gà này là loại thượng hảo hạng; xì gà này mới thực là xì gà"
+            },
+            {
+              "full_en": "he thinks he is quite the cheese",
+              "full_vn": "nó cứ tưởng nó là bậc nhất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311676_ee070f499b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311676_0b6c19487a_o.png",
+      "id_image": "cheese_1047478"
+    }
+  ]
+}

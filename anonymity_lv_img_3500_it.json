@@ -1,0 +1,42 @@
+{
+  "english": "anonymity",
+  "phat_am": "[,ænə'nimiti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tình trạng giấu tên; tình trạng nặc danh",
+          "list_en_vn": [
+            {
+              "full_en": "to preserve one's anonymity",
+              "full_vn": "giấu tên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311176_f5c8f4207a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311176_8a65ff4b4b_o.png",
+      "id_image": "anonymity_1674918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355307_82b305ef1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355307_e317153505_o.png",
+      "id_image": "anonymity_2494552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311111_ee617e1bfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311111_5107e51108_o.png",
+      "id_image": "anonymity_2519357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426043_58657c8098_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426043_33f35445b3_o.png",
+      "id_image": "anonymity_4292204"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "anger",
+  "phat_am": "['æηgə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tức giận, sự giận dữ",
+          "list_one_mean": [
+            {
+              "id_full_en": "more in sorrow than in anger",
+              "list_im": [
+                {
+                  "im_full_vn": "buồn nhiều hơn giận, tiếc nhiều hơn tức"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "fit of anger",
+              "full_vn": "cơn tức giận"
+            },
+            {
+              "full_en": "filled with anger at the way he had been tricked",
+              "full_vn": "lòng tràn đầy tức giận vì cái cách mà nó bị lường gạt"
+            },
+            {
+              "full_en": "to speak in anger about the plight of poor people",
+              "full_vn": "giận dữ nói về cảnh ngộ của người nghèo"
+            },
+            {
+              "full_en": "it was said in a moment of anger",
+              "full_vn": "những lời đó được nói ra trong lúc nóng giận"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chọc tức, làm tức giận",
+          "list_en_vn": [
+            {
+              "full_en": "he was angered by the selfishness of the others",
+              "full_vn": "anh ta tức giận vì thái độ của những người khác"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427408_97fe09cb41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427408_2261fd5d8a_o.png",
+      "id_image": "anger_1933046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312561_9b7ee66789_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312561_d6f7a299a2_o.png",
+      "id_image": "anger_1933048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049115_a6aec44e8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049115_d3ee0172d4_o.png",
+      "id_image": "anger_3426105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427453_d877e7893a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427453_8f75e94028_o.png",
+      "id_image": "anger_555680"
+    }
+  ]
+}

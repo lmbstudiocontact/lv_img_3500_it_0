@@ -1,0 +1,78 @@
+{
+  "english": "construction",
+  "phat_am": "[kən'strʌk∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xây dựng",
+          "list_en_vn": [
+            {
+              "full_en": "under construction ; in the course of construction",
+              "full_vn": "đang xây dựng, đang làm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật được xây dựng"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) cách đặt câu; cấu trúc câu"
+        },
+        {
+          "m_full_vn": "sự giải thích",
+          "list_en_vn": [
+            {
+              "full_en": "to put a wrong construction on someone's words",
+              "full_vn": "giải thích sai những lời nói của ai"
+            },
+            {
+              "full_en": "to put the best construction on something",
+              "full_vn": "tìm những khía cạnh hay nhất để giải thích điều gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) sự vẽ hình, sự dựng hình"
+        },
+        {
+          "m_full_vn": "( định ngữ) xây dựng",
+          "list_en_vn": [
+            {
+              "full_en": "construction site",
+              "full_vn": "công trường xây dựng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046120_54766d8537_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046120_2720db9874_o.png",
+      "id_image": "construction_1207116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309086_930b97a94d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309086_68e6795855_o.png",
+      "id_image": "construction_1207144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353287_0c698ff7b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353287_d642fd8eb9_o.png",
+      "id_image": "construction_2827372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046080_59d10cbf78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046080_be857ebb04_o.png",
+      "id_image": "construction_3752626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309061_638729c44c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309061_3457cd3b6c_o.png",
+      "id_image": "construction_6258513"
+    }
+  ]
+}

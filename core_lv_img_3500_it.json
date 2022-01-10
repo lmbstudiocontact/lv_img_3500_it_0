@@ -1,0 +1,92 @@
+{
+  "english": "core",
+  "phat_am": "[kɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lõi, hạch (quả táo, quả lê...)"
+        },
+        {
+          "m_full_vn": "điểm trung tâm, nòng cốt, hạt nhân",
+          "list_en_vn": [
+            {
+              "full_en": "the core of a subject",
+              "full_vn": "điểm trung tâm của một vấn đề, điểm chính của một vấn đề"
+            },
+            {
+              "full_en": "the core of an organization",
+              "full_vn": "nòng cốt của một tổ chức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lõi dây thừng"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) nòng, lõi, ruột"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) đáy lòng, thâm tâm, nơi thầm kín nhất",
+          "list_en_vn": [
+            {
+              "full_en": "in my heart's core",
+              "full_vn": "tận đáy lòng tôi"
+            },
+            {
+              "full_en": "rotten to the core",
+              "full_vn": "thối nát đến tận xương tuỷ"
+            },
+            {
+              "full_en": "He's English to the core",
+              "full_vn": "Ông ấy là người Anh chính cống"
+            },
+            {
+              "full_en": "her refusal shocked us to the core",
+              "full_vn": "lời từ chối của cô ta làm cho chúng tôi choáng váng hẳn đi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "viết tắt",
+      "list_m": [
+        {
+          "m_full_vn": "Đại hội vì sự bình đẳng chủng tộc ( Congress of Racial Equality )"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lấy lõi ra, lấy nhân ra"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687534_a9139ee527_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687534_3eafd237c3_o.png",
+      "id_image": "core_2371821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687489_506e611505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687489_cbf9dfc5e2_o.png",
+      "id_image": "core_2785274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687469_1d70295f69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687469_4dac433e83_o.png",
+      "id_image": "core_2785292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069210_06e28b044e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069210_28c8199569_o.png",
+      "id_image": "core_5267333"
+    }
+  ]
+}

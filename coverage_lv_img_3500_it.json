@@ -1,0 +1,41 @@
+{
+  "english": "coverage",
+  "phat_am": "['kʌvəridʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "việc đưa tin về những sự kiện; tin tức được đưa ra",
+          "list_en_vn": [
+            {
+              "full_en": "TV coverage of the election campaign",
+              "full_vn": "tin tức của TV về cuộc vận động bầu cử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mức độ một vật được bao phủ",
+          "list_en_vn": [
+            {
+              "full_en": "a thicker paint will give a better coverage",
+              "full_vn": "một lớp sơn dày hơn sẽ tạo ra một lớp phủ tốt hơn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325521_b23279ccd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325521_661388ab75_o.png",
+      "id_image": "coverage_2419573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062235_6be2c29ae5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062235_4c9762a87a_o.png",
+      "id_image": "coverage_5746262"
+    }
+  ]
+}

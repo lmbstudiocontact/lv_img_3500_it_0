@@ -1,0 +1,104 @@
+{
+  "english": "dawn",
+  "phat_am": "[dɔ:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bình minh, rạng đông, lúc sáng tinh mơ",
+          "list_en_vn": [
+            {
+              "full_en": "from dawn till dusk",
+              "full_vn": "từ lúc sáng tinh mơ cho đến lúc tối trời"
+            },
+            {
+              "full_en": "dawn chorus",
+              "full_vn": "tiếng chim hót lúc bình minh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) buổi đầu; sự hé rạng; tia sáng đầu tiên (của hy vọng...)",
+          "list_en_vn": [
+            {
+              "full_en": "at the dawn of love",
+              "full_vn": "ở buổi ban đầu của tình yêu"
+            },
+            {
+              "full_en": "the dawn of civilization",
+              "full_vn": "buổi đầu của thời đại văn minh"
+            },
+            {
+              "full_en": "the dawn of brighter days",
+              "full_vn": "tia sáng đầu tiên của cuộc sống tốt đẹp hơn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt đầu rạng, bắt đầu lộ ra, bắt đầu nở ra, hé nở",
+          "list_en_vn": [
+            {
+              "full_en": "the morning was just dawning",
+              "full_vn": "trời vừa tảng sáng"
+            },
+            {
+              "full_en": "a smile dawning on her lips",
+              "full_vn": "nụ cười hé mở trên môi cô ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt đầu hiện ra trong trí, loé ra trong trí",
+          "list_en_vn": [
+            {
+              "full_en": "it has just dawned on (upon ) me",
+              "full_vn": "tôi chợt nhận ra; một ý nghĩ loé ra trong trí óc tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trở nên rõ ràng",
+          "list_en_vn": [
+            {
+              "full_en": "the truth at last dawned upon him",
+              "full_vn": "cuối cùng sự thật đã trở nên rõ ràng đối với anh ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424368_9174c064d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424368_e771a05522_o.png",
+      "id_image": "dawn_1146828"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353402_b68760bf15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353402_607803e97f_o.png",
+      "id_image": "dawn_1207568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353342_2e6bdacf48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353342_52338ab3b1_o.png",
+      "id_image": "dawn_2071649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046140_fac6bd63c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046140_6c16c7e9dd_o.png",
+      "id_image": "dawn_3104466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046205_8aceace750_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046205_53dd86abd9_o.png",
+      "id_image": "dawn_721073"
+    }
+  ]
+}

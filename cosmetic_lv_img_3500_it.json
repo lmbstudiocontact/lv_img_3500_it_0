@@ -1,0 +1,80 @@
+{
+  "english": "cosmetic",
+  "phat_am": "[kɔz'metik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất xoa trên người (nhất là mặt) để làm cho đẹp hơn; mỹ phẩm",
+          "list_en_vn": [
+            {
+              "full_en": "lipstick and hair conditioner are cosmetics",
+              "full_vn": "son môi và dầu chải tóc đều là mỹ phẩm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dùng như là mỹ phẩm",
+          "list_en_vn": [
+            {
+              "full_en": "cosmetic preparations",
+              "full_vn": "các chế phẩm dùng để trang điểm con người; mỹ phẩm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để cải tiến vẻ bên ngoài mà thôi; tô điểm",
+          "list_one_mean": [
+            {
+              "id_full_en": "cosmetic surgery",
+              "list_im": [
+                {
+                  "im_full_vn": "phẫu thuật để làm đẹp (chứ không phải để trị bệnh); giải phẫu thẩm mỹ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the reforms he claims to have made are in fact merely cosmetic",
+              "full_vn": "những cải cách mà ông ta rêu rao là đã thực hiện chẳng qua chỉ mang tính chất tô điểm mà thôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684844_84625f99c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684844_d6f3cda7b7_o.png",
+      "id_image": "cosmetics_3967354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444848_b3a1f80e0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444848_a0b47940cb_o.png",
+      "id_image": "cosmetics_5662697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684789_51278b0ce0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684789_d8601030a5_o.png",
+      "id_image": "cosmetics_6036751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374682_a120967750_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374682_c577714b9c_o.png",
+      "id_image": "cosmetic_4283413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444963_9593df4351_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444963_639232bfd3_o.png",
+      "id_image": "cosmetic_5493227"
+    }
+  ]
+}

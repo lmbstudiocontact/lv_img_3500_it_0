@@ -1,0 +1,54 @@
+{
+  "english": "diagnosis",
+  "phat_am": "[,daiəg'nousis]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều diagnoses",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) phép chẩn đoán; sự chẩn đoán; lời chẩn đoán",
+          "list_en_vn": [
+            {
+              "full_en": "to make one's diagnosis",
+              "full_vn": "chẩn đoán"
+            },
+            {
+              "full_en": "accurate diagnosis of a power -cut",
+              "full_vn": "chẩn đoán chính xác về trường hợp cúp điện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) sự miêu tả đặc trưng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679994_5450dd65aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679994_f4e235bcd8_o.png",
+      "id_image": "diagnosis_1934430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324761_2a876fd02a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324761_c88cfbd6e6_o.png",
+      "id_image": "diagnosis_1934477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439803_92b8198acb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439803_61b08db36d_o.png",
+      "id_image": "diagnosis_3734023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324906_c7afd34491_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324906_646c01656b_o.png",
+      "id_image": "diagnosis_883973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680039_ed31c5c96d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680039_0f2625e861_o.png",
+      "id_image": "diagnosis_943603"
+    }
+  ]
+}

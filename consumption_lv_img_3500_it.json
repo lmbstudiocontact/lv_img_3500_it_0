@@ -1,0 +1,66 @@
+{
+  "english": "consumption",
+  "phat_am": "[kən'sʌmp∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tiêu thụ, sự tiêu dùng (hàng hoá, điện, than, nước...)",
+          "list_en_vn": [
+            {
+              "full_en": "home consumption",
+              "full_vn": "sự tiêu thụ trong nước (nội địa)"
+            },
+            {
+              "full_en": "the meat was declared unfit for human consumption",
+              "full_vn": "thịt này bị cho là không thích hợp cho con người dùng"
+            },
+            {
+              "full_en": "conspicuous consumption which is an affront to people on low incomes",
+              "full_vn": "việc tiêu dùng xa hoa là một sự lăng nhục đối với những người có thu nhập thấp"
+            },
+            {
+              "full_en": "we have measured the car's fuel consumption",
+              "full_vn": "chúng tôi đã đo mức tiêu thụ nhiên liệu của chiếc xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tiêu diệt, sự tiêu huỷ, sự tàn phá",
+          "list_en_vn": [
+            {
+              "full_en": "consumption of a fortune",
+              "full_vn": "sự tiêu phá tài sản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) bệnh lao phổi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308436_f03be589cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308436_c30dfc27fb_o.png",
+      "id_image": "consumption_1486206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308416_dcea8fc3f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308416_8aa005f7d9_o.png",
+      "id_image": "consumption_2390236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045325_117eafcab9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045325_e78066e0c5_o.png",
+      "id_image": "consumption_4465742"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308321_1f2c2f74df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308321_cd8714c8ac_o.png",
+      "id_image": "consumption_6315590"
+    }
+  ]
+}

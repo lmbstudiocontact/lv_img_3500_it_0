@@ -1,0 +1,73 @@
+{
+  "english": "cane",
+  "phat_am": "[kein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cây trúc, cây mía ( (cũng) sugar cane ); cây lau"
+        },
+        {
+          "m_full_vn": "cây mây, sợi mây (để đan mặt ghế...)"
+        },
+        {
+          "m_full_vn": "can, ba-toong, gậy"
+        },
+        {
+          "m_full_vn": "roi (để đánh)"
+        },
+        {
+          "m_full_vn": "thỏi (sáp...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh bằng roi, quất"
+        },
+        {
+          "m_full_vn": "(thông tục) dùng đòn vọt để bắt (học)"
+        },
+        {
+          "m_full_vn": "đan mây vào",
+          "list_en_vn": [
+            {
+              "full_en": "to cane the seat of a chair",
+              "full_vn": "đan mây mặt ghế"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303666_fcebd8a036_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303666_127f7e0f59_o.png",
+      "id_image": "cane_1451523"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347847_8f01c87d4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347847_a8034ef84e_o.png",
+      "id_image": "cane_2142587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347842_22546d1c16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347842_95699bab37_o.png",
+      "id_image": "cane_2142626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347827_0c18df1ab5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347827_68d59fdb30_o.png",
+      "id_image": "cane_2855490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658914_313f0df1b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658914_2a3d74debf_o.png",
+      "id_image": "cane_707279"
+    }
+  ]
+}

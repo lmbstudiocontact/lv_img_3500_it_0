@@ -1,0 +1,40 @@
+{
+  "english": "accountant",
+  "phat_am": "[ə'kauntənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhân viên kế toán, người giữ sổ sách kế toán",
+          "list_en_vn": [
+            {
+              "full_en": "chief accountant",
+              "full_vn": "kế toán trưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) người có trách nhiệm báo cáo về sổ sách kế toán; người bị can về một vụ tiền nong kế toán"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680049_beb9b63717_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680049_9049d46776_o.png",
+      "id_image": "accountant_1728904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369677_d7f8fb0704_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369677_f817fc5d94_o.png",
+      "id_image": "accountant_1751677"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369607_7f6a4cb873_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369607_f16dcc044f_o.png",
+      "id_image": "accountant_2644533"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "english": "colony",
+  "phat_am": "['kɔləni]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc địa"
+        },
+        {
+          "m_full_vn": "kiều dân; khu kiều dân; khu (những người cùng nghề)"
+        },
+        {
+          "m_full_vn": "(động vật học) bầy, đàn, tập đoàn",
+          "list_en_vn": [
+            {
+              "full_en": "a colony of ants",
+              "full_vn": "đàn kiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) khóm, cụm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058105_43f6f3c6e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058105_87e864ee6c_o.png",
+      "id_image": "colony_749499"
+    }
+  ]
+}

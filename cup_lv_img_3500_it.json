@@ -1,0 +1,145 @@
+{
+  "english": "cup",
+  "phat_am": "[kʌp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tách, chén"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cúp, giải",
+          "list_en_vn": [
+            {
+              "full_en": "to win a cup",
+              "full_vn": "đoạt giải"
+            },
+            {
+              "full_en": "Cup final",
+              "full_vn": "trận đấu chung kết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) đài (hoa)"
+        },
+        {
+          "m_full_vn": "(y học) ống giác"
+        },
+        {
+          "m_full_vn": "rượu"
+        },
+        {
+          "m_full_vn": "vật hình chén"
+        },
+        {
+          "m_full_vn": "nguồn cơn, nỗi khổ, niềm vui",
+          "list_en_vn": [
+            {
+              "full_en": "the cup is full",
+              "full_vn": "niềm vui thật là trọn vẹn, niềm hạnh phúc thật là trọn vẹn; nỗi khổ thật là tột cùng"
+            },
+            {
+              "full_en": "a bitter cup",
+              "full_vn": "nỗi cay đắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) sự say sưa",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be a cup too low",
+              "list_im": [
+                {
+                  "im_full_vn": "chán nản, uể oải, nản lòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be quarrelsome in one's cups",
+              "list_im": [
+                {
+                  "im_full_vn": "rượu vào là gây gỗ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a cup that cheers but not inebriates",
+              "list_im": [
+                {
+                  "im_full_vn": "trà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drain (drink ) the cup of bitterness (sorrow ...) to the dregs",
+              "list_im": [
+                {
+                  "im_full_vn": "nếm hết mùi cay đắng ở đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fill up the cup",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho không thể chịu đựng được nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's cup of tea",
+              "list_im": [
+                {
+                  "im_full_vn": "người (vật) làm cho vui thích; người (vật) mình ưa; người vật hợp với mình"
+                },
+                {
+                  "im_full_vn": "người (vật, điều...) cần phải dè chừng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there's many a slip twixt the cup and the lip ; between the cup and the lip a morsel may slip",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) miếng ăn đến miệng rồi vẫn có thể mất"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be in one's cups",
+              "full_vn": "đang say sưa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khum thành hình chén, chu thành hình chén (bàn tay...)"
+        },
+        {
+          "m_full_vn": "(y học) giác"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359792_c17efde0e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359792_a59a6b29d8_o.png",
+      "id_image": "cup_125132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359767_a3a88721db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359767_472fa6d886_o.png",
+      "id_image": "cup_202636"
+    }
+  ]
+}

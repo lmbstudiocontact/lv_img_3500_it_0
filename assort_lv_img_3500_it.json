@@ -1,0 +1,57 @@
+{
+  "english": "assort",
+  "phat_am": "[ə'sɔ:t]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chia loại, phân loại, sắp xếp thành loại"
+        },
+        {
+          "m_full_vn": "làm cho xứng nhau, làm cho hợp nhau",
+          "list_en_vn": [
+            {
+              "full_en": "to assort colours",
+              "full_vn": "chọn màu cho hợp nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sắp xếp các mặt hàng để bày biện (cửa hàng...); cung cấp các mặt hàng (cho một cửa hàng...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "assort with ăn ý với, tương đắc với, giao du với",
+          "list_en_vn": [
+            {
+              "full_en": "this colour assorts well with blue",
+              "full_vn": "màu này hợp với màu xanh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039450_89ca079930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039450_f093411aa2_o.png",
+      "id_image": "assortment_4827326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039425_a1357abf06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039425_541c7e4815_o.png",
+      "id_image": "assortment_4994989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302811_9c0fac854f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302811_f287ea9986_o.png",
+      "id_image": "assort_2104162"
+    }
+  ]
+}

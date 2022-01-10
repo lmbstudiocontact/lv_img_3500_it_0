@@ -1,0 +1,384 @@
+{
+  "english": "blow",
+  "phat_am": "[blu:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cú đánh đòn",
+          "list_en_vn": [
+            {
+              "full_en": "to deal a blow",
+              "full_vn": "giáng cho một đòn"
+            },
+            {
+              "full_en": "at a blow",
+              "full_vn": "chỉ một cú, chỉ một đập"
+            },
+            {
+              "full_en": "to come to blows",
+              "full_vn": "đánh nhau; dùng vũ lực với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tai hoạ, điều gây xúc động mạnh, cú choáng người",
+          "list_one_mean": [
+            {
+              "id_full_en": "to strike a blow against",
+              "list_im": [
+                {
+                  "im_full_vn": "chống lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike a blow for",
+              "list_im": [
+                {
+                  "im_full_vn": "giúp đỡ, ủng hộ; đấu tranh cho (tự do...)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "his wife's death was a great blow to him",
+              "full_vn": "vợ anh ấy mất đi thật là một điều bất hạnh lớn đối với anh ấy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nở hoa",
+          "list_en_vn": [
+            {
+              "full_en": "in full blow",
+              "full_vn": "đang mùa rộ hoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngọn gió",
+          "list_en_vn": [
+            {
+              "full_en": "to go for a blow",
+              "full_vn": "đi hóng mát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hơi thổi; sự thổi (kèn...); sự hỉ (mũi)"
+        },
+        {
+          "m_full_vn": "trứng ruồi, trứng nhặng (đẻ vào thức ăn...)"
+        }
+      ]
+    },
+    {
+      "type": "động từ bất quy tắc blew",
+      "list_m": [
+        {
+          "m_full_vn": "nở hoa"
+        },
+        {
+          "m_full_vn": "thổi (gió)",
+          "list_en_vn": [
+            {
+              "full_en": "it is blowing hard",
+              "full_vn": "gió thổi mạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thổi",
+          "list_en_vn": [
+            {
+              "full_en": "to blow on the trumpet",
+              "full_vn": "thổi kèn trumpet"
+            },
+            {
+              "full_en": "the train whistle blows",
+              "full_vn": "còi xe lửa thổi"
+            },
+            {
+              "full_en": "to blow the bellows",
+              "full_vn": "thổi bễ"
+            },
+            {
+              "full_en": "to blow the fire",
+              "full_vn": "thổi lửa"
+            },
+            {
+              "full_en": "to blow glass",
+              "full_vn": "thổi thuỷ tinh"
+            },
+            {
+              "full_en": "to blow bubbles",
+              "full_vn": "thổi bong bóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hà hơi vào; hỉ (mũi); hút (trứng)",
+          "list_en_vn": [
+            {
+              "full_en": "to blow one's fingers",
+              "full_vn": "hà hơi vào ngón tay"
+            },
+            {
+              "full_en": "to blow one's nose",
+              "full_vn": "hỉ mũi"
+            },
+            {
+              "full_en": "to blow an egg",
+              "full_vn": "hút trứng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phun nước (cá voi)"
+        },
+        {
+          "m_full_vn": "cuốn đi (gió); bị (gió) cuốn đi",
+          "list_en_vn": [
+            {
+              "full_en": "the ship was blown out to sea",
+              "full_vn": "con tàu bị gió cuốn ra ngoài khơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thở dốc; làmcho mệt đứt hơi, làm cho đuối sức",
+          "list_en_vn": [
+            {
+              "full_en": "to blow hard and perspire profusely",
+              "full_vn": "thở dốc và ra mồ hôi đầm đìa"
+            },
+            {
+              "full_en": "to blow one's horse",
+              "full_vn": "làm cho con ngựa mệt đứt hơi, làm cho con ngựa thở dốc ra"
+            },
+            {
+              "full_en": "to be thoroughly blown",
+              "full_vn": "mệt đứt hơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói xấu; làm giảm giá trị, bôi xấu, bôi nhọ (danh dự...)",
+          "list_en_vn": [
+            {
+              "full_en": "to blow on (upon ) somebody's character",
+              "full_vn": "bôi nhọ danh dự của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẻ trứng vào (ruồi, nhặng); ( (nghĩa rộng)) làm hỏng, làm thối"
+        },
+        {
+          "m_full_vn": "(thông tục) khoe khoang, khoác lác"
+        },
+        {
+          "m_full_vn": "(từ lóng) nguyền rủa"
+        },
+        {
+          "m_full_vn": "(điện học) nổ (cầu chì)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) bỏ đi, chuồn"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) xài phí, phung phí (tiền)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to blow about (abroad )",
+              "list_im": [
+                {
+                  "im_full_vn": "lan truyền; tung ra (tin tức...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to blow down",
+              "list_im": [
+                {
+                  "im_full_vn": "thổi ngã, thổi gẫy làm rạp xuống (gió)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to blow in",
+              "list_im": [
+                {
+                  "im_full_vn": "thổi vào (gió...)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) đến bất chợt, đến thình lình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to blow off",
+              "list_im": [
+                {
+                  "im_full_vn": "thổi bay đi, cuôn đi"
+                },
+                {
+                  "im_full_vn": "(kỹ thuật) thông, làm xì ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to blow off steam",
+                      "full_vn": "làm xì hơi ra, xả hơi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) tiêu phí, phung phí (tiền...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to blow out",
+              "list_im": [
+                {
+                  "im_full_vn": "thổi tắt, tắt (vì gió)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to blow out a candle",
+                      "full_vn": "thổi tắt ngọn nến"
+                    },
+                    {
+                      "full_en": "the candle blows out",
+                      "full_vn": "ngọn nến tắt"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nổ (cầu chì...); làm nổ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to blow out one's brain",
+                      "full_vn": "tự bắn vỡ óc mình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to blow over",
+              "list_im": [
+                {
+                  "im_full_vn": "qua đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the storm will soon blow over",
+                      "full_vn": "cơn bão sẽ chóng qua đi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) bỏ qua, quên đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to blow up",
+              "list_im": [
+                {
+                  "im_full_vn": "bơm căng lên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to blow up a tyre",
+                      "full_vn": "bơm lốp xe"
+                    },
+                    {
+                      "full_en": "to be blown up with pride",
+                      "full_vn": "(nghĩa bóng) vênh váo, kiêu ngạo"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "mắng mỏ, quở trách"
+                },
+                {
+                  "im_full_vn": "phóng (ảnh)"
+                },
+                {
+                  "im_full_vn": "nổi nóng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to blow upon",
+              "list_im": [
+                {
+                  "im_full_vn": "làm mất tươi, làm thiu"
+                },
+                {
+                  "im_full_vn": "làm mất tín nhiệm, làm mất thanh danh"
+                },
+                {
+                  "im_full_vn": "làm mất hứng thú"
+                },
+                {
+                  "im_full_vn": "mách lẻo, kháo chuyện về (ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to blow hot and cold",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hot"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to blow one's own trumpet",
+              "list_im": [
+                {
+                  "im_full_vn": "khoe khoang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to blow the gaff",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) gaff"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see which way the wind is blowing",
+              "list_im": [
+                {
+                  "im_full_vn": "biết rõ gió sẽ thổi hướng nào, hiểu rõ tình thế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683639_95b7bfce24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683639_e093aef47b_o.png",
+      "id_image": "blow_1040516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683619_269736533e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683619_460d757891_o.png",
+      "id_image": "blow_4845861"
+    }
+  ]
+}

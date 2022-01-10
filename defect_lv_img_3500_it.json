@@ -1,0 +1,81 @@
+{
+  "english": "defect",
+  "phat_am": "[di'fekt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khuyết điểm; nhược điểm",
+          "list_en_vn": [
+            {
+              "full_en": "a defect of character",
+              "full_vn": "khuyết điểm về tính nết"
+            },
+            {
+              "full_en": "mechanical defects in a car",
+              "full_vn": "những khuyết điểm về máy móc của chiếc xe hơi"
+            },
+            {
+              "full_en": "defects in the education system",
+              "full_vn": "những thiếu sót trong hệ thống giáo dục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) sự hụt; độ hụt",
+          "list_en_vn": [
+            {
+              "full_en": "mass defect",
+              "full_vn": "độ hụt khối lượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) số khuyết, góc khuyết",
+          "list_en_vn": [
+            {
+              "full_en": "defect of a triangle",
+              "full_vn": "số khuyết của một tam giác"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to defect from something ) ( to defect to something ) rời bỏ một đảng, một sự nghiệp, một nước để chuyển sang một đảng, sự nghiệp, nước khác; đào ngũ; bỏ đảng; (tôn giáo) bỏ đạo",
+          "list_en_vn": [
+            {
+              "full_en": "she defected from the Liberals and joined the Socialists",
+              "full_vn": "bà ta bỏ đảng Tự do và gia nhập đảng Xã hội"
+            },
+            {
+              "full_en": "one of our spies has defected to the enemy",
+              "full_vn": "một trong những điệp viên của chúng ta đã đào ngũ chạy sang bên địch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421273_ae1b1b5ac5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421273_f853cb5bea_o.png",
+      "id_image": "defect_1769105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661524_1fc22e4534_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661524_8fde2f61b7_o.png",
+      "id_image": "defect_4401423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306091_a8acf57c96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306091_293dd0aae8_o.png",
+      "id_image": "defect_6040986"
+    }
+  ]
+}

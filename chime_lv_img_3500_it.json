@@ -1,0 +1,79 @@
+{
+  "english": "chime",
+  "phat_am": "[t∫aim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuông hoà âm, chuông chùm"
+        },
+        {
+          "m_full_vn": "( số nhiều) tiếng chuông hoà âm, tiếng chuông chùm"
+        },
+        {
+          "m_full_vn": "hoà âm, hợp âm"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự hoà hợp, sự phù hợp, sự khớp"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh (chuông), rung (chuông)"
+        },
+        {
+          "m_full_vn": "gõ (giờ), đánh (giờ) (đồng hồ)",
+          "list_en_vn": [
+            {
+              "full_en": "to chime the hour",
+              "full_vn": "đánh giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói lặp đi lặp lại một cách máy móc"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rung, kêu vang (chuông)"
+        },
+        {
+          "m_full_vn": "( + in ) xen vào; phụ hoạ theo",
+          "list_en_vn": [
+            {
+              "full_en": "to chime in a conversation",
+              "full_vn": "xen vào câu chuyện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + in , with ) phù hợp, khớp với",
+          "list_en_vn": [
+            {
+              "full_en": "your plan chimes in (with ) mine",
+              "full_vn": "kế hoạch của anh ăn khớp với kế hoạch của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cùng vần với"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353387_3f2a02850c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353387_5a46292dd5_o.png",
+      "id_image": "chime_1913264"
+    }
+  ]
+}

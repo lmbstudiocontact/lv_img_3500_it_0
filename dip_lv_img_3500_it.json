@@ -1,0 +1,195 @@
+{
+  "english": "dip",
+  "phat_am": "[dip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( Dip ) viết tắt của diploma"
+        },
+        {
+          "m_full_vn": "sự nhúng, sự ngâm vào, sự dìm xuống (nước...)"
+        },
+        {
+          "m_full_vn": "sự đầm mình, sự tắm (ở biển)",
+          "list_en_vn": [
+            {
+              "full_en": "to take (have ) a dip in the sea",
+              "full_vn": "đi tắm biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lượng đong (gạo... vào đấu), lượng mức (nước... vào gàu)"
+        },
+        {
+          "m_full_vn": "mức chìm, ngấn nước (tàu, thuyền...)"
+        },
+        {
+          "m_full_vn": "nước tắm (cho cừu); nước ngâm (ngâm kim loại để tẩy sạch mà mạ vàng...)"
+        },
+        {
+          "m_full_vn": "cây nến (mỡ bò, mỡ cừu...)"
+        },
+        {
+          "m_full_vn": "chỗ trũng, chỗ lún xuống"
+        },
+        {
+          "m_full_vn": "độ nghiêng (kim la bàn); độ dốc, chiều dốc (của vỉa mô); đường võng chân trời",
+          "list_en_vn": [
+            {
+              "full_en": "magnetic dip",
+              "full_vn": "độ từ khuynh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) thế nhún ngang xà (đánh xà kép)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) kẻ móc túi"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhúng, ngâm, nhận chìm, dìm xuống",
+          "list_en_vn": [
+            {
+              "full_en": "to dip one's finger in water",
+              "full_vn": "nhúng ngón tay vào nước"
+            },
+            {
+              "full_en": "to dip one's pen in ink",
+              "full_vn": "nhúng ngòi bút vào mực, châm ngòi bút vào mực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngâm để đánh sạch (kim loại), nhúng vào để nhuộm (quần áo...); nhúng bấc vào mở nóng để làm (nến); tắm cho (cừu...) bằng nước diệt trùng..."
+        },
+        {
+          "m_full_vn": "( + up ) (múc nước vào gàu); đong (gạo... vào đấu)"
+        },
+        {
+          "m_full_vn": "hạ xuống một thoáng, hạ xuống xong bị kéo ngay lên",
+          "list_en_vn": [
+            {
+              "full_en": "to dip the scale of a balance",
+              "full_vn": "làm cho cán cân thoáng nghiêng đi một chút (xong lại thăng bằng ngay)"
+            },
+            {
+              "full_en": "to dip the flag",
+              "full_vn": "hạ cờ xuống lại kéo lên ngay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhúng, ngâm, nhận, dìm (trong nước...)"
+        },
+        {
+          "m_full_vn": "hạ, ngụp, hụp, lặn, chìm xuống (mặt trời...); nghiêng đi (cán cân...), nhào xuống (chim, máy bay...)",
+          "list_en_vn": [
+            {
+              "full_en": "sun dips below horizon",
+              "full_vn": "mặt trời chìm xuống dưới chân trời"
+            },
+            {
+              "full_en": "scale dips",
+              "full_vn": "cán cân nghiêng đi"
+            },
+            {
+              "full_en": "bird dips and rises in the flight",
+              "full_vn": "trong khi bay chim cứ nhào xuống lại bay lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) mắc nợ"
+        },
+        {
+          "m_full_vn": "nghiêng đi, dốc xuống",
+          "list_en_vn": [
+            {
+              "full_en": "magnetic needle dips",
+              "full_vn": "kim nam châm nghiêng đi"
+            },
+            {
+              "full_en": "strata dips",
+              "full_vn": "vỉa mỏ dốc xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + into ) cho tay vào, cho thìa vào (để lấy, múc cái gì ra)"
+        },
+        {
+          "m_full_vn": "( + into ) xem lướt qua",
+          "list_en_vn": [
+            {
+              "full_en": "to dip into a book",
+              "full_vn": "xem lướt qua một cuốn sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + into ) điều tra, tìm tòi, tìm hiểu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to dip into one's purse",
+              "list_im": [
+                {
+                  "im_full_vn": "tiêu hoang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dip one's pen in gall",
+              "list_im": [
+                {
+                  "im_full_vn": "viết ác, viết cay độc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to dip into the future",
+              "full_vn": "tìm hiểu sâu về tương lai, nhìn sâu vào tương lai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320696_249b84ba7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320696_3e7a0a8a9e_o.png",
+      "id_image": "dip_2369637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675684_c874bc1a5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675684_54a28c2893_o.png",
+      "id_image": "dip_3690095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675654_60d818718f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675654_27477a6a93_o.png",
+      "id_image": "dip_5014944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675609_cfd9827b74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675609_a485c41e72_o.png",
+      "id_image": "dip_5015335"
+    }
+  ]
+}

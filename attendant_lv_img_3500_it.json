@@ -1,0 +1,68 @@
+{
+  "english": "attendant",
+  "phat_am": "[ə'tendənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tham dự, có mặt",
+          "list_en_vn": [
+            {
+              "full_en": "attendant crowd",
+              "full_vn": "đám đông có mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi theo, kèm theo",
+          "list_en_vn": [
+            {
+              "full_en": "an attendant nurse",
+              "full_vn": "một y tá đi kèm"
+            },
+            {
+              "full_en": "famine and its attendant diseases",
+              "full_vn": "nạn đói và những bệnh kèm theo nó"
+            },
+            {
+              "full_en": "attendant circumstances",
+              "full_vn": "những trạng huống kèm theo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( attendant on/upon sb ) tận tụy phục dịch"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "như attender"
+        },
+        {
+          "m_full_vn": "người phục vụ; người theo hầu",
+          "list_en_vn": [
+            {
+              "full_en": "a cloakroom , swimming-pool , museum attendant",
+              "full_vn": "người phục vụ tại phòng giữ hành lý, bể bơi, viện bảo tàng"
+            },
+            {
+              "full_en": "the queen's attendants",
+              "full_vn": "những người hầu của nữ hoàng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065395_f925196654_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065395_eb6d648b0a_o.png",
+      "id_image": "attendant_6413463"
+    }
+  ]
+}

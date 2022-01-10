@@ -1,0 +1,88 @@
+{
+  "english": "chicken",
+  "phat_am": "['t∫ikin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gà con; gà giò"
+        },
+        {
+          "m_full_vn": "thịt gà giò"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) trẻ nhỏ, bé con",
+          "list_en_vn": [
+            {
+              "full_en": "he is no chicken",
+              "full_vn": "nó không còn là trẻ nhỏ nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) người đàn bà trẻ ngây thơ; cô gái ngây thơ"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) máy bay khu trục",
+          "list_one_mean": [
+            {
+              "id_full_en": "to count one's chickens before they are hatched",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) chưa đẻ đã đặt tên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that's their chicken",
+              "list_im": [
+                {
+                  "im_full_vn": "đó là công việc của họ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to chicken out of something",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ dỡ việc gì do khiếp sợ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "yếu bóng vía, nhát gan"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046875_4476c5f15e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046875_2d1336272c_o.png",
+      "id_image": "chicken_1408032"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424978_08c4079acf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424978_6753c0c5db_o.png",
+      "id_image": "chicken_1449791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665239_92a0c53e2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665239_1f2cf9cc70_o.png",
+      "id_image": "chicken_347486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309956_c2279fc338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309956_bfbff8bec7_o.png",
+      "id_image": "chicken_826920"
+    }
+  ]
+}

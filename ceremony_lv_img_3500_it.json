@@ -1,0 +1,69 @@
+{
+  "english": "ceremony",
+  "phat_am": "['seriməni]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghi lễ",
+          "list_en_vn": [
+            {
+              "full_en": "a marriage /wedding ceremony",
+              "full_vn": "nghi lễ kết hôn; hôn lễ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khách sáo; sự kiểu cách",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stand on (upon ) ceremony",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) stand"
+                }
+              ]
+            },
+            {
+              "id_full_en": "without ceremony",
+              "list_im": [
+                {
+                  "im_full_vn": "tự nhiên, không khách sáo"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "there is no need for ceremony between friends",
+              "full_vn": "giữa bạn bè với nhau không cần phải khách sáo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052485_fe7e2c6862_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052485_516d5bcac6_o.png",
+      "id_image": "ceremonial_2412231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670749_c5a366a727_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670749_4dbc08ee6b_o.png",
+      "id_image": "ceremonial_351850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360247_aa9b2b0477_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360247_6fdd5cd377_o.png",
+      "id_image": "ceremony_1699158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315996_c8d3a6f272_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315996_e389d77d34_o.png",
+      "id_image": "ceremony_3965938"
+    }
+  ]
+}

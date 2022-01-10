@@ -1,0 +1,51 @@
+{
+  "english": "blend",
+  "phat_am": "[blend]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hỗn hợp pha trộn (thuốc lá, chè...)"
+        },
+        {
+          "m_full_vn": "như portmanteau word"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trộn lẫn, pha trộn"
+        },
+        {
+          "m_full_vn": "hợp nhau (màu sắc)",
+          "list_en_vn": [
+            {
+              "full_en": "these two colours blend well",
+              "full_vn": "hai màu này rất hợp nhau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808346897_101319dfc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808346897_95c97d4a09_o.png",
+      "id_image": "blend_1027109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417753_fc08e49196_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417753_11966b5662_o.png",
+      "id_image": "blend_3690171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039275_be75a9d088_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039275_d7cf20288e_o.png",
+      "id_image": "blend_5386888"
+    }
+  ]
+}

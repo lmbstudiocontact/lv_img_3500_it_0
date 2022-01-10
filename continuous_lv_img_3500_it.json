@@ -1,0 +1,64 @@
+{
+  "english": "continuous",
+  "phat_am": "[kən'tinjuəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "liên tục, liên tiếp, không dứt, không ngừng",
+          "list_en_vn": [
+            {
+              "full_en": "continuous rain",
+              "full_vn": "mưa liên tục"
+            },
+            {
+              "full_en": "continuous function",
+              "full_vn": "(toán học) hàm liên tục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) tiến hành",
+          "list_en_vn": [
+            {
+              "full_en": "continuous form",
+              "full_vn": "hình thái tiến hành ( động từ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( ra-đi-ô) duy trì",
+          "list_en_vn": [
+            {
+              "full_en": "continuous waves",
+              "full_vn": "sóng duy trì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350987_2aebd6e4fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350987_e5c265712d_o.png",
+      "id_image": "continuous_1768935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043800_5b13ff71cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043800_1baf350282_o.png",
+      "id_image": "continuous_2631389"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662139_fc3fb92f67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662139_70043891f5_o.png",
+      "id_image": "continuous_3079125"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421908_804dcaaf49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421908_3c7caf2aa3_o.png",
+      "id_image": "continuous_3475493"
+    }
+  ]
+}

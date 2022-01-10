@@ -1,0 +1,106 @@
+{
+  "english": "discharge",
+  "phat_am": "[dis't∫ɑ:dʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự dỡ hàng, sự bốc dỡ (hàng)"
+        },
+        {
+          "m_full_vn": "sự nổ súng, sự phóng điện, sự bắn ra (tên lửa, mũi tên...)"
+        },
+        {
+          "m_full_vn": "sự đuổi ra, sự thải hồi (người làm); sự tha, sự thả (người tù); sự cho ra, sự cho về (người bệnh); sự giải tán, sự giải ngũ (quân đội)",
+          "list_en_vn": [
+            {
+              "full_en": "to get one's discharge",
+              "full_vn": "bị đuổi ra, bị thải về"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tuôn ra, sự tháo ra, sự tiết ra, sự bốc ra, sự đổ ra, sự chảy ra"
+        },
+        {
+          "m_full_vn": "sự chảy mủ"
+        },
+        {
+          "m_full_vn": "sự trả hết, sự thanh toán (nợ nần); sự làm xong, sự hoàn thành, sự thực hiện (nhiệm vụ...)"
+        },
+        {
+          "m_full_vn": "sự tẩy màu; thuốc tẩy màu, dung dịch tẩy màu"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự phóng điện; sự tháo điện ( ắc-quy)"
+        },
+        {
+          "m_full_vn": "sự tha miễn, sự miễn trừ; (pháp lý) sự tuyên bố tha; giấy chứng nhận tha miễn, giấy chứng nhận miễn trừ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dỡ (hàng); dỡ hàng (tàu thuỷ...)"
+        },
+        {
+          "m_full_vn": "nổ (súng); phóng (tên lửa...); bắn (mũi tên...)"
+        },
+        {
+          "m_full_vn": "đuổi ra, thải hồi (người làm), tha, thả (người tù); cho ra, cho về (người bệnh); giải tán, giải ngũ (quân đội)"
+        },
+        {
+          "m_full_vn": "tuôn ra, tháo ra, tiết ra, bốc ra, đổ ra, chảy ra",
+          "list_en_vn": [
+            {
+              "full_en": "to discharge a torrent of abuse",
+              "full_vn": "tuôn ra một tràng những lời chửi rủa, chửi tới tấp"
+            },
+            {
+              "full_en": "chimney discharges smoke",
+              "full_vn": "ống lò sưởi nhả khói ra"
+            },
+            {
+              "full_en": "wound discharges matter",
+              "full_vn": "vết thương chảy mủ"
+            },
+            {
+              "full_en": "stream discharges itself into a river",
+              "full_vn": "dòng suối đổ vào sông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trả hết, thanh toán (nợ nần); làm xong, hoàn thành (nhiệm vụ...)"
+        },
+        {
+          "m_full_vn": "làm phai (màu); tẩy (vải)"
+        },
+        {
+          "m_full_vn": "phục quyền (người vỡ nợ)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) phóng điện ( ắc-quy)"
+        },
+        {
+          "m_full_vn": "(pháp lý) huỷ bỏ (bản án)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054765_9ae33c72b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054765_41ecc5b705_o.png",
+      "id_image": "discharge_1446129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318126_b544fbc283_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318126_ac96644e9b_o.png",
+      "id_image": "discharge_2781837"
+    }
+  ]
+}

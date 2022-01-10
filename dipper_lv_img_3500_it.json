@@ -1,0 +1,49 @@
+{
+  "english": "dipper",
+  "phat_am": "['dipə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người nhúng, người ngâm, người dìm"
+        },
+        {
+          "m_full_vn": "tín đồ giáo phái chỉ rửa tội người lớn"
+        },
+        {
+          "m_full_vn": "chim hét nước, chim xinclut"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) cái môi (để múc)"
+        },
+        {
+          "m_full_vn": "(thiên văn học) chòm sao Gấu",
+          "list_en_vn": [
+            {
+              "full_en": "the Great Dipper",
+              "full_vn": "chòm sao Gấu lớn, Đại hùng tinh"
+            },
+            {
+              "full_en": "the Little Dipper",
+              "full_vn": "chòm sao Gấu nhỏ, Tiểu hùng tinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nhiếp ảnh) chậu ngâm bản kính âm"
+        },
+        {
+          "m_full_vn": "chén rửa bút mực (của thợ vẽ, thợ sơn)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675279_142154c6d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675279_69d0910672_o.png",
+      "id_image": "dipper_5262905"
+    }
+  ]
+}

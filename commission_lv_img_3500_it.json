@@ -1,0 +1,133 @@
+{
+  "english": "commission",
+  "phat_am": "[kə'mi∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( commission to do something ) nhiệm vụ; phận sự",
+          "list_en_vn": [
+            {
+              "full_en": "she has received many commissions to design public buildings",
+              "full_vn": "bà ta đã nhận được nhiều việc thiết kế các toà nhà công cộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hội đồng; uỷ ban",
+          "list_en_vn": [
+            {
+              "full_en": "commission of inquiry",
+              "full_vn": "hội đồng (uỷ ban) điều tra"
+            },
+            {
+              "full_en": "a Royal Commission on social welfare",
+              "full_vn": "một Uỷ ban Hoàng gia đặc trách về phúc lợi xã hội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền hoa hồng",
+          "list_en_vn": [
+            {
+              "full_en": "sale on commission",
+              "full_vn": "sự bán hàng ăn tiền hoa hồng"
+            },
+            {
+              "full_en": "to work for somebody on commission",
+              "full_vn": "làm việc cho ai để hưởng hoa hồng (chứ không hưởng lương)"
+            },
+            {
+              "full_en": "you'll get (a ) 10 % commission on everything you sell to foreign tourists",
+              "full_vn": "anh sẽ được 10 % hoa hồng về tất cả những món anh bán cho du khách nước ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( commission of something ) sự phạm; sự can phạm",
+          "list_en_vn": [
+            {
+              "full_en": "the commission of a crime",
+              "full_vn": "sự phạm tội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) bằng phong cấp sĩ quan"
+        },
+        {
+          "m_full_vn": "(hàng hải) sự trang bị vũ khí",
+          "list_en_vn": [
+            {
+              "full_en": "to be in commission",
+              "full_vn": "đã được trang bị đầy đủ, sẵn sàng chiến đấu (tàu chiến)"
+            },
+            {
+              "full_en": "to be out of commission",
+              "full_vn": "không được trang bị đầy đủ, không sẵn sàng chiến đấu (tàu chiến)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "uỷ nhiệm; uỷ thác",
+          "list_en_vn": [
+            {
+              "full_en": "to commission someone to do something",
+              "full_vn": "uỷ thác ai làm việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt làm, đặt mua (một bức tranh...)",
+          "list_en_vn": [
+            {
+              "full_en": "he commissioned a statue of his wife",
+              "full_vn": "ông ta đặt làm một pho tượng vợ ông ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to commission somebody as something ) chính thức bổ nhiệm",
+          "list_en_vn": [
+            {
+              "full_en": "he's commissioned (as a ) major in the reinforcements",
+              "full_vn": "ông ta được bổ nhiệm làm thiếu tá trong đạo quân tiếp viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa (máy móc, thiết bị...) vào hoạt động",
+          "list_en_vn": [
+            {
+              "full_en": "the nuclear plant now being built is expected to be commissioned in five years' time",
+              "full_vn": "nhà máy hạt nhân đang xây sẽ được đưa vào hoạt động trong năm năm tới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673589_e0e40a4389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673589_b9b2dc7231_o.png",
+      "id_image": "commission_1999247"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673554_2d1f0789d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673554_13ee75f620_o.png",
+      "id_image": "commission_4514859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055270_5bb6cc6575_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055270_9ce220d07f_o.png",
+      "id_image": "commission_4659024"
+    }
+  ]
+}

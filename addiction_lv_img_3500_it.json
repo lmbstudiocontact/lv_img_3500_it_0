@@ -1,0 +1,41 @@
+{
+  "english": "addiction",
+  "phat_am": "[ə'dik∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( addiction to something ) thói nghiện",
+          "list_en_vn": [
+            {
+              "full_en": "heroin addiction",
+              "full_vn": "thói nghiện hêrôin"
+            },
+            {
+              "full_en": "to overcome one's addiction to alcohol",
+              "full_vn": "khắc phục thói nghiện rượu của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058190_e0cec219e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058190_3236d6744b_o.png",
+      "id_image": "addiction_1488088"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676474_1ba64b381e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676474_0a69b35d08_o.png",
+      "id_image": "addiction_2010425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058115_9260c754ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058115_3dd9e2a25e_o.png",
+      "id_image": "addiction_4524945"
+    }
+  ]
+}

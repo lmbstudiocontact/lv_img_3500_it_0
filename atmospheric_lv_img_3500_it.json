@@ -1,0 +1,36 @@
+{
+  "english": "atmospheric",
+  "phat_am": "[,ætməs'ferik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) quyển khí, (thuộc) không khí",
+          "list_en_vn": [
+            {
+              "full_en": "atmospheric oxygen",
+              "full_vn": "không khí"
+            },
+            {
+              "full_en": "atmospheric pressure",
+              "full_vn": "áp suất không khí"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809415088_8cc111a780_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809415088_210aacd838_o.png",
+      "id_image": "atmospheric_1749838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808344182_fb89da2f11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808344182_4ab69a89ef_o.png",
+      "id_image": "atmospheric_5132639"
+    }
+  ]
+}

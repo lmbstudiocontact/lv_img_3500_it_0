@@ -1,0 +1,215 @@
+{
+  "english": "board",
+  "phat_am": "[bɔ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tấm ván"
+        },
+        {
+          "m_full_vn": "bảng",
+          "list_en_vn": [
+            {
+              "full_en": "a notice board",
+              "full_vn": "bảng thông cáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giấy bồi, bìa cứng"
+        },
+        {
+          "m_full_vn": "cơm tháng, cơm trọ; tiền cơm tháng"
+        },
+        {
+          "m_full_vn": "bàn ăn",
+          "list_en_vn": [
+            {
+              "full_en": "the festive board",
+              "full_vn": "bàn tiệc"
+            },
+            {
+              "full_en": "groaning board",
+              "full_vn": "bữa ăn thịnh soạn"
+            },
+            {
+              "full_en": "bed and board",
+              "full_vn": "quan hệ vợ chồng ăn cùng mâm nằm cùng chiếu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bàn",
+          "list_en_vn": [
+            {
+              "full_en": "to sweep the board",
+              "full_vn": "vơ hết bài (vơ hết tiền) trên bàn bạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ban, uỷ ban, bộ",
+          "list_en_vn": [
+            {
+              "full_en": "board of directors",
+              "full_vn": "ban giám đốc"
+            },
+            {
+              "full_en": "the board of education",
+              "full_vn": "bộ giáo dục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "boong tàu, mạn thuyền",
+          "list_en_vn": [
+            {
+              "full_en": "on board",
+              "full_vn": "trên tàu thuỷ, (từ Mỹ,nghĩa Mỹ) trên xe lửa, trên xe điện..."
+            },
+            {
+              "full_en": "to go on board",
+              "full_vn": "lên tàu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) sân khấu",
+          "list_en_vn": [
+            {
+              "full_en": "to tread the boards",
+              "full_vn": "là diễn viên sân khấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) đường chạy vát",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go by the board",
+              "list_im": [
+                {
+                  "im_full_vn": "rơi từ trên tàu xuống"
+                },
+                {
+                  "im_full_vn": "bị phớt lờ (kế hoạch, ý kiến, chương trình...))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be above board",
+              "list_im": [
+                {
+                  "im_full_vn": "thật thà và cởi mở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "across the board",
+              "list_im": [
+                {
+                  "im_full_vn": "toàn diện, trên mọi lĩnh vực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take sth on board",
+              "list_im": [
+                {
+                  "im_full_vn": "nhận lãnh (trách nhiệm, nhiệm vụ..)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to make boards",
+              "full_vn": "chạy vát"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lót ván, lát ván",
+          "list_en_vn": [
+            {
+              "full_en": "a boarded floor",
+              "full_vn": "sàn nhà lót ván"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đóng bìa cứng (sách)"
+        },
+        {
+          "m_full_vn": "( to board at ... / with somebody ) ăn (và (thường) cả ở) tại nhà ai; trọ",
+          "list_en_vn": [
+            {
+              "full_en": "he boarded at my house /with me until he found a flat",
+              "full_vn": "anh ta ở trọ nhà tôi đến khi anh ta tìm được một căn hộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cung cấp cho ai bữa ăn và chỗ ở; cho ăn ở trọ"
+        },
+        {
+          "m_full_vn": "lên tàu, đáp tàu"
+        },
+        {
+          "m_full_vn": "(hàng hải) xông vào tấn công (tàu địch); nhảy sang tàu (để tấn công, để khám xét...)"
+        },
+        {
+          "m_full_vn": "(hàng hải) chạy vát"
+        },
+        {
+          "m_full_vn": "khám sức khoẻ (trước hội đồng y khoa)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to board out",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn cơm tháng (ở nhà khác nhà mình ở)"
+                },
+                {
+                  "im_full_vn": "cho ra khỏi quân đội (vì thiếu sức khoẻ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to board up",
+              "list_im": [
+                {
+                  "im_full_vn": "bít kín (cửa sổ...) bằng ván"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064015_49c7df2518_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064015_8f6b3be3cd_o.png",
+      "id_image": "boards_344061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327236_129e7bfb98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327236_4d4f84d193_o.png",
+      "id_image": "board_4334310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442218_eb337d1666_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442218_539ecf5dd6_o.png",
+      "id_image": "board_4371357"
+    }
+  ]
+}

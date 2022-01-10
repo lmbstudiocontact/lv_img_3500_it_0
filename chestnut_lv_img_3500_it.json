@@ -1,0 +1,72 @@
+{
+  "english": "chestnut",
+  "phat_am": "['t∫esnʌt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây hạt dẻ"
+        },
+        {
+          "m_full_vn": "hạt dẻ"
+        },
+        {
+          "m_full_vn": "màu nâu hạt dẻ"
+        },
+        {
+          "m_full_vn": "ngựa màu hạt dẻ"
+        },
+        {
+          "m_full_vn": "chuyện cũ rích",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pull someone's chestnut out of the fire",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) bị ai xúi dại ăn cứt gà"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "that's a chestnut",
+              "full_vn": "chuyện cũ rích rồi; người ta biết tỏng cái đó rồi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(có) màu nâu hạt dẻ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354512_fa0fa9c415_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354512_2b50ae2891_o.png",
+      "id_image": "chestnut_2259538"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354462_85c7b6bb17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354462_59c8534cba_o.png",
+      "id_image": "chestnut_5265311"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354442_444caebe49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354442_d790995c71_o.png",
+      "id_image": "chestnut_5392437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425408_51f4c7ffc7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425408_85525f9450_o.png",
+      "id_image": "chestnut_622120"
+    }
+  ]
+}

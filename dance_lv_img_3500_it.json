@@ -1,0 +1,192 @@
+{
+  "english": "dance",
+  "phat_am": "[dɑ:ns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhảy múa; sự khiêu vũ"
+        },
+        {
+          "m_full_vn": "bài nhạc nhảy; điệu nhạc khiêu vũ"
+        },
+        {
+          "m_full_vn": "buổi liên hoan khiêu vũ",
+          "list_one_mean": [
+            {
+              "id_full_en": "dance-band",
+              "list_im": [
+                {
+                  "im_full_vn": "ban nhạc của buổi khiêu vũ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "dance-hall",
+              "list_im": [
+                {
+                  "im_full_vn": "vũ trường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead the dance",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) lead"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead a person a pretty dance",
+              "list_im": [
+                {
+                  "im_full_vn": "gây khó khăn trở ngại cho ai; làm phiền ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "St Vitus' dance",
+              "list_im": [
+                {
+                  "im_full_vn": "(y học) chứng múa giật"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy múa, khiêu vũ"
+        },
+        {
+          "m_full_vn": "nhảy lên, rộn lên; nhún nhảy, rung rinh, bập bềnh, rập rình",
+          "list_en_vn": [
+            {
+              "full_en": "her heart danced with joy",
+              "full_vn": "lòng cô ta rộn lên sung sướng"
+            },
+            {
+              "full_en": "to dance for joy",
+              "full_vn": "nhảy lên vì sung sướng"
+            },
+            {
+              "full_en": "a boat dancing on the waves",
+              "full_vn": "con thuyền bập bềnh trên sóng"
+            },
+            {
+              "full_en": "the leaves are dancing in the wind",
+              "full_vn": "lá cây rung rinh trong gió"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy",
+          "list_en_vn": [
+            {
+              "full_en": "to dance the tango",
+              "full_vn": "nhảy điệu tăngô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho nhảy múa"
+        },
+        {
+          "m_full_vn": "tung tung nhẹ, nhấc lên nhấc xuống",
+          "list_one_mean": [
+            {
+              "id_full_en": "to dance attendance upon somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "phải chờ đợi ai lâu"
+                },
+                {
+                  "im_full_vn": "luôn luôn theo bên cạnh ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dance away one's time",
+              "list_im": [
+                {
+                  "im_full_vn": "nhảy múa cho tiêu thời giờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dance oneself into somebody's favour",
+              "list_im": [
+                {
+                  "im_full_vn": "nhờ nhảy múa mà chiếm được lòng yêu quý của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dance one's head off",
+              "list_im": [
+                {
+                  "im_full_vn": "nhảy múa chóng cả mặt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dance to somebody's pipes (whistle , piping )",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho ai xỏ mũi; để cho ai điều khiển"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dance on nothing",
+              "list_im": [
+                {
+                  "im_full_vn": "bị treo cổ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to dance a baby in one's arms",
+              "full_vn": "tung tung nhẹ em bé trong tay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666239_d3cfd9c713_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666239_9e283700e4_o.png",
+      "id_image": "dance_1430772"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426133_03504986a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426133_a00afcbbcc_o.png",
+      "id_image": "dance_1430774"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426108_9159e1a325_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426108_39a4730b73_o.png",
+      "id_image": "dance_1902269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355277_0a43845ec3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355277_1cee27660e_o.png",
+      "id_image": "dance_6280362"
+    }
+  ]
+}

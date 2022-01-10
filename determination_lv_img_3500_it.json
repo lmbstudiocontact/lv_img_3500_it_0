@@ -1,0 +1,50 @@
+{
+  "english": "determination",
+  "phat_am": "[di,tə:mi'nei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xác định, sự định rõ"
+        },
+        {
+          "m_full_vn": "sự quyết định",
+          "list_en_vn": [
+            {
+              "full_en": "to come to a determination",
+              "full_vn": "đi tới chỗ quyết định; quyết định"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính quả quyết; quyết tâm"
+        },
+        {
+          "m_full_vn": "quyết nghị của một cuộc thảo luận"
+        },
+        {
+          "m_full_vn": "(pháp lý) phán quyết của quan toà"
+        },
+        {
+          "m_full_vn": "(y học) sự cương máu, sự sung huyết"
+        },
+        {
+          "m_full_vn": "(pháp lý) sự hết hạn, sự mãn hạn (giao kèo, khế ước...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441478_3a4a08e43c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441478_ac681819af_o.png",
+      "id_image": "determination_1006628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063345_7524c6b28d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063345_f2e5536de3_o.png",
+      "id_image": "determination_5661047"
+    }
+  ]
+}

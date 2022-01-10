@@ -1,0 +1,72 @@
+{
+  "english": "contrast",
+  "phat_am": "['kɔntræst]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tương phản, sự trái ngược",
+          "list_en_vn": [
+            {
+              "full_en": "the contrast between light and shade",
+              "full_vn": "sự tương phản giữa ánh sáng và bóng tối"
+            },
+            {
+              "full_en": "to put colours in contrast",
+              "full_vn": "để cho màu sắc tương phản nhau, để cho màu sắc đối chọi nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + to ) cái tương phản (với)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm tương phản, làm trái ngược; đối chiếu để làm nổi bật những điểm khác nhau; tương phản nhau, trái ngược hẳn",
+          "list_en_vn": [
+            {
+              "full_en": "these two colours contrast very well",
+              "full_vn": "hai màu này tương phản với nhau rất nổ"
+            },
+            {
+              "full_en": "his actions contrast with his words",
+              "full_vn": "hành động của hắn trái ngược với lời nói của hắn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661834_522147333a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661834_ceef315daf_o.png",
+      "id_image": "contrast_227201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306451_dd0b98961b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306451_c2a43ea9f8_o.png",
+      "id_image": "contrast_2620652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350632_b2e6c06cd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350632_9b00bb651b_o.png",
+      "id_image": "contrast_391299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661769_e58fa18009_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661769_77c6d9a744_o.png",
+      "id_image": "contrast_5797811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350542_6ba10ec305_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350542_186eff306b_o.png",
+      "id_image": "contrast_6040140"
+    }
+  ]
+}

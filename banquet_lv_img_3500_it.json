@@ -1,0 +1,40 @@
+{
+  "english": "banquet",
+  "phat_am": "['bæηkwit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bữa ăn trọng thể chuẩn bị công phu, nhân một sự kiện đặc biệt và có đọc diễn văn; tiệc lớn",
+          "list_en_vn": [
+            {
+              "full_en": "a wedding banquet",
+              "full_vn": "tiệc cưới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thết (ai) tiệc lớn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316236_3b106bc412_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316236_5e80f6130c_o.png",
+      "id_image": "banquet_2037550"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052625_71e22def00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052625_54ca26c4cf_o.png",
+      "id_image": "banquet_2037555"
+    }
+  ]
+}

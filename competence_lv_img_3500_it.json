@@ -1,0 +1,72 @@
+{
+  "english": "competence",
+  "phat_am": "['kɔmpitəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( competence for / as / in something ) ( competence in doing something / to do something ) năng lực; khả năng",
+          "list_en_vn": [
+            {
+              "full_en": "to have no competence for a task",
+              "full_vn": "không có đủ khả năng làm việc gì"
+            },
+            {
+              "full_en": "no one doubts his competence as a detective",
+              "full_vn": "không ai nghi ngờ khả năng làm thám tử của anh ta"
+            },
+            {
+              "full_en": "competence in dealing with possible contingencies",
+              "full_vn": "khả năng đối phó với những tình huống bất ngờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền thu nhập đủ để sống sung túc",
+          "list_en_vn": [
+            {
+              "full_en": "to have no more than a competence",
+              "full_vn": "cũng chỉ kiếm đủ sống sung túc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( competence to do something ) (pháp lý) thẩm quyền xét xử (của một quan toà hoặc của một toà án)",
+          "list_en_vn": [
+            {
+              "full_en": "matters within /beyond the competence of the civil court",
+              "full_vn": "những việc thuộc/ngoài thẩm quyền của toà dân sự"
+            },
+            {
+              "full_en": "this does not fall within the competence of the court martial",
+              "full_vn": "việc này không thuộc thẩm quyền của toà án quân sự"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431803_9e23218674_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431803_a3d703943f_o.png",
+      "id_image": "competence_2631384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053185_33a25b559c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053185_202522c12e_o.png",
+      "id_image": "competence_4593108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671404_2486f2021a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671404_0f9afb76b1_o.png",
+      "id_image": "competence_5308133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361077_2d0a67ce60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361077_6668c569c5_o.png",
+      "id_image": "competence_992616"
+    }
+  ]
+}

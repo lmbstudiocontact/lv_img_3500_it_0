@@ -1,0 +1,51 @@
+{
+  "english": "academy",
+  "phat_am": "[ə'kædəmi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trường đào tạo đặc biệt; học viện",
+          "list_en_vn": [
+            {
+              "full_en": "academy of music",
+              "full_vn": "học viện âm nhạc"
+            },
+            {
+              "full_en": "naval /military academy",
+              "full_vn": "học viện hải quân/quân sự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trường phổ thông ở Xcốtlen"
+        },
+        {
+          "m_full_vn": "( Academy) hội các học giả hoặc các nghệ sĩ xuất sắc; hội nghiên cứu văn học, nghệ thuật..., mà chức thànhviên là một vinh dự",
+          "list_en_vn": [
+            {
+              "full_en": "The Royal Academy (of Arts )",
+              "full_vn": "Hàn lâm viện hoàng gia (về (nghệ thuật))"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vườn A-ca-đê-mi (khu vườn gần A-ten nơi Pla-ton giảng (triết học)); trường phái triết học Pla-ton; môn đệ của Pla-ton"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371252_2fab5743f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371252_6d1852e549_o.png",
+      "id_image": "academy_2070868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326576_d6c8f014a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326576_3a9f1dcab3_o.png",
+      "id_image": "academy_530000"
+    }
+  ]
+}

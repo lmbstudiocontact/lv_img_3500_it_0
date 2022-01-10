@@ -1,0 +1,76 @@
+{
+  "english": "arrest",
+  "phat_am": "[ə'rest]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bắt giữ",
+          "list_en_vn": [
+            {
+              "full_en": "a warrant of arrest",
+              "full_vn": "lệnh câu lưu, lệnh bắt giam"
+            },
+            {
+              "full_en": "under arrest",
+              "full_vn": "bị bắt giữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ngừng lại, sự chặn lại, sự hãm lại"
+        },
+        {
+          "m_full_vn": "(pháp lý) sự hoãn thi hành",
+          "list_en_vn": [
+            {
+              "full_en": "arrest of judgement",
+              "full_vn": "sự hoãn thi hành một bản án"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt giữ"
+        },
+        {
+          "m_full_vn": "làm ngừng lại, chặn lại, ngăn lại, hãm lại (máy đang chạy...)"
+        },
+        {
+          "m_full_vn": "lôi cuốn (sự chú ý)",
+          "list_en_vn": [
+            {
+              "full_en": "to arrest someone's attention",
+              "full_vn": "lôi cuốn sự chú ý của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) hoãn thi hành (một bản án vì có sự lầm lẫn)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305341_a007bccbe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305341_52972b2a9b_o.png",
+      "id_image": "arrest_1901785"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660799_edc525859e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660799_52afe78580_o.png",
+      "id_image": "arrest_2399375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420368_a0c5403c0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420368_c8295e7715_o.png",
+      "id_image": "arrest_2670959"
+    }
+  ]
+}

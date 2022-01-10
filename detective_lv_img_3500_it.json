@@ -1,0 +1,50 @@
+{
+  "english": "detective",
+  "phat_am": "[di'tektiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "để dò ra, để tìm ra, để khám phá ra, để phát hiện ra; trinh thám",
+          "list_en_vn": [
+            {
+              "full_en": "a detective novel",
+              "full_vn": "tiểu thuyết trinh thám"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thám tử trinh thám"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063935_3f75a58508_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063935_2abaa6c58a_o.png",
+      "id_image": "detective_1865678"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063895_eeaa4ca177_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063895_f3751227c3_o.png",
+      "id_image": "detective_2267553"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063855_f2f48af9ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063855_6bd5b10043_o.png",
+      "id_image": "detective_2307565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682059_315d30153f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682059_6e76e33199_o.png",
+      "id_image": "detective_2646542"
+    }
+  ]
+}

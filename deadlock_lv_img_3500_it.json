@@ -1,0 +1,31 @@
+{
+  "english": "deadlock",
+  "phat_am": "['dedlɔk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đình hẳn lại; sự đình trệ hoàn toàn; (nghĩa bóng) sự bế tắc",
+          "list_en_vn": [
+            {
+              "full_en": "to come to a deadlock , to reach deadlock",
+              "full_vn": "đi đến chỗ đình trệ hoàn toàn; (nghĩa bóng) đi đến chỗ bế tắc không có lối thoát"
+            },
+            {
+              "full_en": "we can only make minor concessions , but it might break the deadlock",
+              "full_vn": "chúng tôi chỉ có thể nhân nhượng ít thôi, nhưng điều đó có thể phá vỡ được sự bế tắc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045690_a0c59da3a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045690_dc6d293e5e_o.png",
+      "id_image": "deadlock_311573"
+    }
+  ]
+}

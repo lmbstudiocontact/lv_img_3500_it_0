@@ -1,0 +1,73 @@
+{
+  "english": "auction",
+  "phat_am": "['ɔ:k∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bán đấu giá; cuộc bán đấu giá (cũng) auction sale",
+          "list_one_mean": [
+            {
+              "id_full_en": "auction bridge",
+              "list_im": [
+                {
+                  "im_full_vn": "dạng bài bridge mà trong đó, các người chơi xướng bài lên để giành quyền gọi chủ bài"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to put up to /at auction ; to sell by /at auction",
+              "full_vn": "bán đấu giá"
+            },
+            {
+              "full_en": "the house is up for auction /will be sold by auction",
+              "full_vn": "ngôi nhà được đem bán đấu giá/sẽ được bán đấu giá"
+            },
+            {
+              "full_en": "to attend all the local auctions",
+              "full_vn": "tham dự mọi cuộc bán đấu giá ở địa phương"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bán đấu giá",
+          "list_one_mean": [
+            {
+              "id_full_en": "to auction something off",
+              "list_im": [
+                {
+                  "im_full_vn": "bán đấu giá cho rảnh (nhất là những hàng dư thừa)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372212_5ffe881b3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372212_b6f8028e5e_o.png",
+      "id_image": "auctions_4668524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327596_24a9cc8ed6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327596_fff7f8d473_o.png",
+      "id_image": "auction_2720484"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327666_8fab0dce1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327666_69e5569fb6_o.png",
+      "id_image": "auction_411716"
+    }
+  ]
+}

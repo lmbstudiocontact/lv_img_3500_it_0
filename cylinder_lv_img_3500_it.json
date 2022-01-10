@@ -1,0 +1,47 @@
+{
+  "english": "cylinder",
+  "phat_am": "['silində]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) trụ, hình trụ"
+        },
+        {
+          "m_full_vn": "(cơ khí) xi-lanh",
+          "list_en_vn": [
+            {
+              "full_en": "cylinder block",
+              "full_vn": "hộp xi-lanh"
+            },
+            {
+              "full_en": "cylinder head",
+              "full_vn": "nắp xi-lanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) trục lăn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427158_fe9888f3ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427158_dd7c31dcc8_o.png",
+      "id_image": "cylinder_2106599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356407_4e09f104b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356407_f284a8c4dc_o.png",
+      "id_image": "cylinder_217220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667279_46a934df17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667279_2caf7bd352_o.png",
+      "id_image": "cylinder_5853947"
+    }
+  ]
+}

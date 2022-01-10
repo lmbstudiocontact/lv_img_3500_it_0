@@ -1,0 +1,59 @@
+{
+  "english": "barter",
+  "phat_am": "['bɑ:tə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trao đổi hàng hoá lấy hàng hoá (không cần dùng tiền)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đổi chác, đổi hàng lấy hàng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to barter wheat for machinery",
+              "list_im": [
+                {
+                  "im_full_vn": "đổi lúa mì lấy máy móc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the prisoners tried to barter with the guards for their freedom",
+                      "full_vn": "những người tù tìm cách mua chuộc lính gác để đánh đổi lấy tự do của họ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to barter something away",
+              "list_im": [
+                {
+                  "im_full_vn": "bán rẻ, bán tháo cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to barter away one's honour /freedom /rights",
+                      "full_vn": "bán rẻ danh dự/tự do/quyền lợi của mình"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358837_02fac02305_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358837_cb7f7c7ed5_o.png",
+      "id_image": "barter_4313138"
+    }
+  ]
+}

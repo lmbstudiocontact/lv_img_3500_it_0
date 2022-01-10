@@ -1,0 +1,56 @@
+{
+  "english": "consignment",
+  "phat_am": "[kən'sainmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ủy thác; sự giao phó",
+          "list_en_vn": [
+            {
+              "full_en": "goods for consignment to the provinces and abroad",
+              "full_vn": "hàng hoá để gửi đi các tỉnh và nước ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng hoá ký gửi",
+          "list_one_mean": [
+            {
+              "id_full_en": "on consignment",
+              "list_im": [
+                {
+                  "im_full_vn": "được thanh toánsau khi người nhận hàng đã bán hết; ký gửi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take /send /ship /supply goods on consignment",
+                      "full_vn": "lấy/gửi/vận chuyển bằng tàu biển/cung cấp hàng hoá dưới hình thức ủy thác"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a consignment of wheat bound for Europe",
+              "full_vn": "một lô lúa mạch gửi đi châu Âu"
+            },
+            {
+              "full_en": "consignment note",
+              "full_vn": "phiếu gửi kèm theo hàng, ghi rõ chi tiết hàng hoá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665199_84034715ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665199_c689cf0f5d_o.png",
+      "id_image": "consignment_2463819"
+    }
+  ]
+}

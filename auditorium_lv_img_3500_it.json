@@ -1,0 +1,27 @@
+{
+  "english": "auditorium",
+  "phat_am": "[,ɔ:di'tɔ:riəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phòng dành cho thính giả, thính phòng",
+          "list_en_vn": [
+            {
+              "full_en": "it is not advisable to smoke in the auditorium",
+              "full_vn": "không nên hút thuốc trong thính phòng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326761_b900e757c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326761_a715b7ee39_o.png",
+      "id_image": "auditorium_4799523"
+    }
+  ]
+}

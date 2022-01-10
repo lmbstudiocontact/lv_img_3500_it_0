@@ -1,0 +1,50 @@
+{
+  "english": "backstage",
+  "phat_am": "['bæksteidʒ]",
+  "list_type": [
+    {
+      "type": "tính từ & phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở sau sân khấu, ở hậu trường (nghĩa đen) & (nghĩa bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "what happened backstage in the national assembly ?",
+              "full_vn": "điều gì đã xảy ra ở hậu trường trong quốc hội?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hậu trường"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437108_b41fb69cf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437108_1e39db01aa_o.png",
+      "id_image": "backstage_1032575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366852_0e60789ff5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366852_a74e0c54e4_o.png",
+      "id_image": "backstage_1887849"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676929_674a302022_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676929_a98e825c71_o.png",
+      "id_image": "backstage_2123934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366762_fa9910cc9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366762_224fbd302a_o.png",
+      "id_image": "backstage_6079864"
+    }
+  ]
+}

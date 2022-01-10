@@ -1,0 +1,95 @@
+{
+  "english": "community",
+  "phat_am": "[kə'mju:niti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "toàn thể nhân dân ở một địa phương, quận, huyện, khu phố, tỉnh...; cộng đồng",
+          "list_en_vn": [
+            {
+              "full_en": "we must work for the welfare of the community",
+              "full_vn": "chúng ta phải làm việc vì phúc lợi của cộng đồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phường; hội; phái (nhóm người cùng (tôn giáo), cùng quốc tịch...)",
+          "list_en_vn": [
+            {
+              "full_en": "a religious community",
+              "full_vn": "giáo phái"
+            },
+            {
+              "full_en": "the foreign community in Paris",
+              "full_vn": "nhóm người ngoại quốc ở Pa-ri"
+            },
+            {
+              "full_en": "the Vietnamese community in Moscow",
+              "full_vn": "cộng đồng người Việt tại Matxcơva"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng cùng nhau chia sẻ, có những điểm giống nhau về một phương diện nào đó",
+          "list_one_mean": [
+            {
+              "id_full_en": "community centre",
+              "list_im": [
+                {
+                  "im_full_vn": "nơi mà những người ở gần nhau cùng đến gặp nhau để giải trí, hội hôp, giao lưu...; trung tâm cộng đồng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "community singing",
+              "list_im": [
+                {
+                  "im_full_vn": "sự đồng ca; sự hát tập thể"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "community of interests",
+              "full_vn": "cộng đồng quyền lợi"
+            },
+            {
+              "full_en": "a community spirit",
+              "full_vn": "tinh thần cộng đồng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362122_3c1e7b275b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362122_3d2ea7e9b0_o.png",
+      "id_image": "community_1001231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362092_3e3f39bd2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362092_c2ce534a3e_o.png",
+      "id_image": "community_1476614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054195_3ddfb0bc42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054195_d257060fb8_o.png",
+      "id_image": "community_2170765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317776_87dde63505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317776_df34daf87e_o.png",
+      "id_image": "community_417754"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672514_e06e7b43af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672514_a8eab89921_o.png",
+      "id_image": "community_992615"
+    }
+  ]
+}

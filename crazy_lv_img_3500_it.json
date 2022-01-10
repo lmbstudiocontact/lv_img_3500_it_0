@@ -1,0 +1,98 @@
+{
+  "english": "crazy",
+  "phat_am": "['kreizi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to be crazy about somebody / something ) quá say mê",
+          "list_en_vn": [
+            {
+              "full_en": "to be crazy about sports",
+              "full_vn": "quá say mê thể thao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điên dại",
+          "list_en_vn": [
+            {
+              "full_en": "He's crazy ; he ought to be locked up",
+              "full_vn": "Hắn bị điên; phải nhốt hắn lại"
+            },
+            {
+              "full_en": "That noise is driving me crazy /making me go crazy",
+              "full_vn": "Tiếng ồn đó làm cho tôi phát điên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngu xuẩn",
+          "list_en_vn": [
+            {
+              "full_en": "a crazy person /idea",
+              "full_vn": "người/ý kiến ngu xuẩn"
+            },
+            {
+              "full_en": "she's crazy to lend him money",
+              "full_vn": "bà ấy có điên mới cho nó mượn tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm bằng những miếng không đều (lối đi, sàn nhà, mền bông...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "like crazy (dùng như phó từ)",
+              "list_im": [
+                {
+                  "im_full_vn": "như điên, như dại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to work /talk /run like crazy",
+                      "full_vn": "làm việc/nói chuyện/chạy như điên"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a crazy pavement",
+              "full_vn": "lối đi lát bằng những viên gạch không đều"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677969_f1e8304f57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677969_9bcfff0350_o.png",
+      "id_image": "crazy_2577500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322796_4442dec3e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322796_a9cbe44ee0_o.png",
+      "id_image": "crazy_3362149"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059490_23349b9419_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059490_60bb589b7d_o.png",
+      "id_image": "crazy_4138918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367657_4dca0eb32a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367657_84692a2a7c_o.png",
+      "id_image": "crazy_4177151"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677844_23360b08ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677844_6e383a380b_o.png",
+      "id_image": "crazy_6300020"
+    }
+  ]
+}

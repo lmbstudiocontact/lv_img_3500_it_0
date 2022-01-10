@@ -1,0 +1,48 @@
+{
+  "english": "cooler",
+  "phat_am": "[cooler]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máy ướp lạnh; thùng làm lạnh",
+          "list_en_vn": [
+            {
+              "full_en": "a wine cooler",
+              "full_vn": "máy ướp lạnh rượu vang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) đồ uống ướp lạnh pha rượu"
+        },
+        {
+          "m_full_vn": "( the cooler ) nhà tù; nhà đá"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041865_aa3cc61739_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041865_43169b587f_o.png",
+      "id_image": "cooler_3034815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041850_8b63541b4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041850_3d577f1f3c_o.png",
+      "id_image": "cooler_4329002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349057_428ab257e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349057_a5f4dd35e9_o.png",
+      "id_image": "cooler_6301246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349092_d77f3bf014_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349092_7b61f62379_o.png",
+      "id_image": "cooler_786556"
+    }
+  ]
+}

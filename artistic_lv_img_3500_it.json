@@ -1,0 +1,53 @@
+{
+  "english": "artistic",
+  "phat_am": "[ɑ:'tistik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có tài năng tự nhiên trong một ngành mỹ thuật nào đó"
+        },
+        {
+          "m_full_vn": "biết thưởng thức, nhạy cảm và có lòng yêu thích đối với mỹ thuật",
+          "list_en_vn": [
+            {
+              "full_en": "she comes from a very artistic family",
+              "full_vn": "cô ấy xuất thân từ một gia đình rất có khiếu nghệ thuật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được làm ra một cách khéo léo và có óc thẩm mỹ; đẹp",
+          "list_en_vn": [
+            {
+              "full_en": "the decor is so artistic",
+              "full_vn": "cách trang trí thật là có nghệ thuật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc nghệ thuật và nghệ sĩ",
+          "list_en_vn": [
+            {
+              "full_en": "an artistic temperament",
+              "full_vn": "tính khí nghệ sĩ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041160_9f202c0556_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041160_0da36d1f5a_o.png",
+      "id_image": "artistic_360141"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304311_5c8f2b0984_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304311_3b0b5611ca_o.png",
+      "id_image": "artistic_5100265"
+    }
+  ]
+}

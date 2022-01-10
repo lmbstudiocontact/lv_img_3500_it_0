@@ -1,0 +1,49 @@
+{
+  "english": "amphibian",
+  "phat_am": "[æm'fibiən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) lưỡng cư, vừa ở cạn vừa ở nước"
+        },
+        {
+          "m_full_vn": "(quân sự) lội nước (xe)",
+          "list_en_vn": [
+            {
+              "full_en": "an amphibian tank",
+              "full_vn": "xe tăng lội nước"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) động vật lưỡng cư"
+        },
+        {
+          "m_full_vn": "(hàng không) thuỷ phi cơ"
+        },
+        {
+          "m_full_vn": "(quân sự) xe tăng lội nước"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313966_d9eaaef027_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313966_d58693df07_o.png",
+      "id_image": "amphibian_3075188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313986_cfb701da9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313986_d1334ee6e8_o.png",
+      "id_image": "amphibian_474156"
+    }
+  ]
+}

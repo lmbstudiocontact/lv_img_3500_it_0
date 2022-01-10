@@ -1,0 +1,148 @@
+{
+  "english": "crowd",
+  "phat_am": "[kraud]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đám đông",
+          "list_en_vn": [
+            {
+              "full_en": "to be lost in the crowd",
+              "full_vn": "bị lạc trong đám đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the crowd ) quần chúng"
+        },
+        {
+          "m_full_vn": "(thông tục) bọn, lũ, nhóm, tụi, cánh"
+        },
+        {
+          "m_full_vn": "đống, vô số",
+          "list_en_vn": [
+            {
+              "full_en": "a crowd of papers",
+              "full_vn": "đống giấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "crowd of sail (hàng hải) sự căng hết buồm, sự căng nhiều buồm",
+          "list_one_mean": [
+            {
+              "id_full_en": "he might pass in the crowd",
+              "list_im": [
+                {
+                  "im_full_vn": "anh ta chẳng có gì xấu để cho thiên hạ phải để ý, anh ta cũng chẳng có gì để thiên hạ phải để nói"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xúm lại, tụ tập, đổ xô đến",
+          "list_en_vn": [
+            {
+              "full_en": "to crowd round someone",
+              "full_vn": "xúm quanh ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + into , through ) len vào, chen vào, len qua"
+        },
+        {
+          "m_full_vn": "(hàng hải) đi hết tốc độ, căng hết buồm mà đi"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho chật ních, chồng chất, nhét đầy, nhồi nhét"
+        },
+        {
+          "m_full_vn": "tụ tập, tập hợp"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) dùng áp lực đối với (ai), cưỡng bách, thúc giục; quấy rầy",
+          "list_en_vn": [
+            {
+              "full_en": "to crowd someone into doing something",
+              "full_vn": "dùng áp lực bắt ai làm gì, cưỡng bách ai làm gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) làm trở ngại, cản (đối phương)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to crowd into",
+              "list_im": [
+                {
+                  "im_full_vn": "ùa vào, đổ xô vào, lũ lượt kéo vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to crowd out",
+              "list_im": [
+                {
+                  "im_full_vn": "ùa ra, đổ xô ra, lũ lượt kéo ra"
+                },
+                {
+                  "im_full_vn": "đuổi ra ngoài, không cho vào (vì quá đông)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be crowded out",
+                      "full_vn": "bị đẩy ra ngoài không vào được vì quá đông"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to crowd on sail",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) giương hết buồm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318396_0ac6a3cd38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318396_651f9a72ce_o.png",
+      "id_image": "crowd_1610480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362897_65ae4a6e24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362897_0d4326ae86_o.png",
+      "id_image": "crowd_2529639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054905_851c2e1b3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054905_950983b90a_o.png",
+      "id_image": "crowd_2707336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673134_a49f9928f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673134_48cfe59082_o.png",
+      "id_image": "crowd_3382573"
+    }
+  ]
+}

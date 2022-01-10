@@ -1,0 +1,57 @@
+{
+  "english": "avalanche",
+  "phat_am": "['ævəlɑ:n∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tuyết lở"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) loạt dồn dập, tràng dồn dập \"mưa\"",
+          "list_en_vn": [
+            {
+              "full_en": "an avalanche of questions",
+              "full_vn": "một loạt câu hỏi dồn dập"
+            },
+            {
+              "full_en": "an avalanche of bullets",
+              "full_vn": "trận mưa đạn, đạn bắn như mưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) thác",
+          "list_en_vn": [
+            {
+              "full_en": "ion avalanche",
+              "full_vn": "thác ion"
+            },
+            {
+              "full_en": "electron avalanche",
+              "full_vn": "thác electron"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061360_80fdd44b70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061360_b1ac98f8ab_o.png",
+      "id_image": "avalanche_6182885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679709_a190d0ce6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679709_ff26119d25_o.png",
+      "id_image": "avalanche_660953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061405_8b5a862b19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061405_5ef16e4514_o.png",
+      "id_image": "avalanche_661968"
+    }
+  ]
+}

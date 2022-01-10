@@ -1,0 +1,126 @@
+{
+  "english": "busy",
+  "phat_am": "['bizi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( busy at / with something ) ( busy doing something ) bận rộn, bận",
+          "list_en_vn": [
+            {
+              "full_en": "doctors are busy people",
+              "full_vn": "các bác sĩ là những người bận rộn"
+            },
+            {
+              "full_en": "she's busy at /with her homework",
+              "full_vn": "cô ấy bận công việc ở nhà"
+            },
+            {
+              "full_en": "Please go away - can't you see I'm busy ?",
+              "full_vn": "Xin anh đi đi - anh không thấy tôi đang bận hay sao?"
+            },
+            {
+              "full_en": "she's busy writing letters",
+              "full_vn": "cô ấy đang bận viết thư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhộn nhịp, náo nhiệt, bận rộn",
+          "list_en_vn": [
+            {
+              "full_en": "a busy day /life /year",
+              "full_vn": "một ngày/cuộc đời/năm bận rộn"
+            },
+            {
+              "full_en": "Victoria is one of London's busiest stations",
+              "full_vn": "Victoria là một trong những nhà ga nhộn nhịp nhất Luân Đôn"
+            },
+            {
+              "full_en": "a busy office /street /town",
+              "full_vn": "một cơ quan/đường phố/thành phố đông đúc tấp nập"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đang bận, đang có người dùng",
+          "list_en_vn": [
+            {
+              "full_en": "the (telephone ) line is busy",
+              "full_vn": "dây nói đang bận, máy điện thoại đang bận"
+            },
+            {
+              "full_en": "the photocopier has been busy all morning",
+              "full_vn": "máy sao chụp bận suốt sáng nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về bức hoạ hoặc hoa văn) quá nhiều chi tiết",
+          "list_one_mean": [
+            {
+              "id_full_en": "as busy as a bee",
+              "list_im": [
+                {
+                  "im_full_vn": "rất bận rộn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this wallpaper is too busy for the bedroom",
+              "full_vn": "thứ giấy dán tường này quá rối mắt đối với phòng ngủ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to busy oneself with something , to busy oneself doing something ) bận rộn với cái gì, bận rộn làm việc gì",
+          "list_en_vn": [
+            {
+              "full_en": "to busy oneself in the garden , with the housework",
+              "full_vn": "bận rộn ở trong vườn, với công việc nhà"
+            },
+            {
+              "full_en": "he busied himself cooking the dinner",
+              "full_vn": "anh ta bận thổi cơm tối"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423388_29d4e63c50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423388_a62d62d2f5_o.png",
+      "id_image": "busy_2137487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423368_30ba9d7232_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423368_f7ab554f0f_o.png",
+      "id_image": "busy_4827194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045075_d0f46260a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045075_9c385ac245_o.png",
+      "id_image": "busy_5260349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423303_bcb67381a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423303_720428d3e6_o.png",
+      "id_image": "busy_6000746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663354_18d5ec4e8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663354_40a20b9d56_o.png",
+      "id_image": "busy_6002401"
+    }
+  ]
+}

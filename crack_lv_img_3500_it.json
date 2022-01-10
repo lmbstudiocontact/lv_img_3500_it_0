@@ -1,0 +1,208 @@
+{
+  "english": "crack",
+  "phat_am": "[kræk]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) cừ, xuất sắc",
+          "list_en_vn": [
+            {
+              "full_en": "a crack oar",
+              "full_vn": "tay chèo cừ"
+            },
+            {
+              "full_en": "a crack shot",
+              "full_vn": "tay súng giỏi"
+            },
+            {
+              "full_en": "crack unit",
+              "full_vn": "đơn vị xuất sắc, đơn vị thiện chiến"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quất (roi) đét đét; búng (ngón tay) kêu tanh tách, bẻ (đốt ngón tay) kêu răng rắc"
+        },
+        {
+          "m_full_vn": "làm nứt, làm rạn, làm vỡ, kẹp vỡ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to crack a glass",
+              "list_im": [
+                {
+                  "im_full_vn": "làm rạn một cái tách",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to crack a skull",
+                      "full_vn": "đánh vỡ sọ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "làm tổn thương",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to crack someone's credit (reputation )",
+                      "full_vn": "làm tổn thương danh dự của ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(kỹ thuật) làm crackinh (dầu hoả...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kêu răng rắc, kêu đen đét, nổ giòn"
+        },
+        {
+          "m_full_vn": "nứt nẻ, rạn nứt, vỡ, gãy ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "that board has cracked in the sun",
+              "full_vn": "mảnh gỗ ấy nứt ra dưới ánh nắng"
+            },
+            {
+              "full_en": "imperialism is cracking everywhere",
+              "full_vn": "chủ nghĩa đế quốc rạn nứt khắp nơi"
+            },
+            {
+              "full_en": "his voice begins to crack",
+              "full_vn": "nó bắt đầu vỡ tiếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói chuyện vui, nói chuyện phiếm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to crack down on",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đàn áp thẳng tay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to crack up",
+              "list_im": [
+                {
+                  "im_full_vn": "tán dương, ca ngợi (ai)"
+                },
+                {
+                  "im_full_vn": "vỡ nợ, phá sản"
+                },
+                {
+                  "im_full_vn": "kiệt sức"
+                },
+                {
+                  "im_full_vn": "khoe khoang, khoác lác, huênh hoang, nói phách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to crack a bottle with someone",
+              "list_im": [
+                {
+                  "im_full_vn": "mở một chai rượu uống hết với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to crack a crib",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) đào ngạch vào ăn trộm, nạy cửa vào ăn trộm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to crack a joke",
+              "list_im": [
+                {
+                  "im_full_vn": "nói đùa một câu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a hard nut to crack",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) nut"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the crack of dawn",
+              "list_im": [
+                {
+                  "im_full_vn": "sáng sớm tinh mơ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the crack of doom",
+              "list_im": [
+                {
+                  "im_full_vn": "ngày tận thế, lâu lắm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a fair crack of the whip",
+              "list_im": [
+                {
+                  "im_full_vn": "cơ hội may mắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "paper over the cracks",
+              "list_im": [
+                {
+                  "im_full_vn": "chắp vá, vá víu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439873_ece9d6c547_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439873_e7a81c22bc_o.png",
+      "id_image": "cracked_1386884"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439833_e2c2b3d466_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439833_bea044440f_o.png",
+      "id_image": "cracked_4772089"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369707_12f8ef083d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369707_6081115ebd_o.png",
+      "id_image": "crack_2332225"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439958_078ea39d1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439958_a2f98d6823_o.png",
+      "id_image": "crack_645721"
+    }
+  ]
+}

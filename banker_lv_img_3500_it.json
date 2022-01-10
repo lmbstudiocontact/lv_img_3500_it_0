@@ -1,0 +1,69 @@
+{
+  "english": "banker",
+  "phat_am": "['bæηkə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chủ ngân hàng; giám đốc ngân hàng"
+        },
+        {
+          "m_full_vn": "nhà cái (đánh bạc)"
+        },
+        {
+          "m_full_vn": "bài banke",
+          "list_one_mean": [
+            {
+              "id_full_en": "let me be your banker",
+              "list_im": [
+                {
+                  "im_full_vn": "để tôi cho anh vay số tiền anh cần"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thợ đấu, thợ làm đất"
+        },
+        {
+          "m_full_vn": "ngựa (đua, săn) vượt rào",
+          "list_en_vn": [
+            {
+              "full_en": "a good banker",
+              "full_vn": "con ngựa vượt rào hay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053330_351e0edd93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053330_fb386df858_o.png",
+      "id_image": "banker_1899323"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671584_d8c9480c78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671584_4ecbcfe328_o.png",
+      "id_image": "banker_1909914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671559_5bdaa16e13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671559_5c2290698e_o.png",
+      "id_image": "banker_1983167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316861_a2af028ba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316861_898aa95bfa_o.png",
+      "id_image": "banker_2365051"
+    }
+  ]
+}

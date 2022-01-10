@@ -1,0 +1,107 @@
+{
+  "english": "article",
+  "phat_am": "['ɑ:tikl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bài báo",
+          "list_en_vn": [
+            {
+              "full_en": "leading article",
+              "full_vn": "bài xã luận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều khoản (trong hiệp định hoặc hợp đồng)",
+          "list_en_vn": [
+            {
+              "full_en": "articles of apprenticeship",
+              "full_vn": "điều khoản học việc (trong giao kèo)"
+            },
+            {
+              "full_en": "article of faith",
+              "full_vn": "tín điều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồ, thức, vật phẩm; hàng",
+          "list_en_vn": [
+            {
+              "full_en": "articles of daily necessity",
+              "full_vn": "những thức cần thiết cho đời sống hằng ngày"
+            },
+            {
+              "full_en": "articles of clothing",
+              "full_vn": "đồ mặc"
+            },
+            {
+              "full_en": "toilet articles",
+              "full_vn": "đồ dùng vệ sinh (xà phòng, thuốc đánh răng; kem cạo râu...)"
+            },
+            {
+              "full_en": "luxury articles",
+              "full_vn": "hàng hoá xa xỉ; xa xỉ phẩm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) mạo từ",
+          "list_en_vn": [
+            {
+              "full_en": "definite article",
+              "full_vn": "mạo từ hạn định"
+            },
+            {
+              "full_en": "indefinite article",
+              "full_vn": "mạo từ bất định"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to article somebody to somebody ) dùng ai theo hợp đồng như một người tập sự",
+          "list_en_vn": [
+            {
+              "full_en": "an articled clerk",
+              "full_vn": "thư ký tập sự theo hợp đồng"
+            },
+            {
+              "full_en": "articled to a solicitor",
+              "full_vn": "ký hợp đồng làm tập sự cho một luật sư"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304541_1c82f8c233_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304541_a3e7a3e39f_o.png",
+      "id_image": "articles_337118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348772_e46f729995_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348772_2db6620fd5_o.png",
+      "id_image": "article_1907423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419558_565640fe67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419558_e6371686a4_o.png",
+      "id_image": "article_1907436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041410_7f7ecfb70f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041410_f3b8faf133_o.png",
+      "id_image": "article_1907447"
+    }
+  ]
+}

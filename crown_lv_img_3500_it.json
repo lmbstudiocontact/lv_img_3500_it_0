@@ -1,0 +1,206 @@
+{
+  "english": "crown",
+  "phat_am": "[kraun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mũ miện; vua, ngôi vua",
+          "list_en_vn": [
+            {
+              "full_en": "to wear the crown",
+              "full_vn": "làm vua"
+            },
+            {
+              "full_en": "to come to the crown",
+              "full_vn": "lên ngôi vua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vòng hoa, vòng lá (đội trên đầu); (nghĩa bóng) phần thưởng",
+          "list_en_vn": [
+            {
+              "full_en": "the crown of victory",
+              "full_vn": "vòng hoa chiến thắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đỉnh, ngọn, chóp, chỏm (núi, cây, mũ...)"
+        },
+        {
+          "m_full_vn": "đỉnh đầu; đầu",
+          "list_en_vn": [
+            {
+              "full_en": "from crown to toe",
+              "full_vn": "từ đầu đến chân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đỉnh cao nhất, sự tột cùng (của hạnh phúc...)"
+        },
+        {
+          "m_full_vn": "đồng curon (tiền Anh, bằng 5 silinh)"
+        },
+        {
+          "m_full_vn": "thân răng"
+        },
+        {
+          "m_full_vn": "khổ giấy 15 x 20",
+          "list_one_mean": [
+            {
+              "id_full_en": "crown prince",
+              "list_im": [
+                {
+                  "im_full_vn": "thái tử"
+                }
+              ]
+            },
+            {
+              "id_full_en": "crown princess",
+              "list_im": [
+                {
+                  "im_full_vn": "vương phi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "crown jewels",
+              "list_im": [
+                {
+                  "im_full_vn": "các món phục sức của vua trong những dịp lễ lộc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "no cross , no crown",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) có khổ rồi mới có sướng; có gian khổ mới có vinh quang"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đội mũ miện; tôn lên làm vua",
+          "list_en_vn": [
+            {
+              "full_en": "to be crowned king",
+              "full_vn": "được tôn lên làm vua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thưởng, ban thưởng, tặng thưởng; mang vinh dự cho",
+          "list_en_vn": [
+            {
+              "full_en": "to be crowned with victory",
+              "full_vn": "chiến thắng huy hoàng"
+            },
+            {
+              "full_en": "to be crowned with success",
+              "full_vn": "thành công rực rỡ"
+            },
+            {
+              "full_en": "efforts that were finally crowned with success",
+              "full_vn": "các nỗ lực cuối cùng đã dẫn đến thành công rực rỡ"
+            },
+            {
+              "full_en": "to be crowned with glory",
+              "full_vn": "được hưởng vinh quang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt lên đỉnh, bao quanh ở đỉnh",
+          "list_en_vn": [
+            {
+              "full_en": "the hill is crowned with a wood",
+              "full_vn": "đồi có một cánh rừng bao quanh ở đỉnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho hoàn hảo"
+        },
+        {
+          "m_full_vn": "bịt răng (bằng vàng, bạc...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) giáng cho một cú vào đầu"
+        },
+        {
+          "m_full_vn": "(đánh cờ) nâng một quân cờ đam lên thành con đam",
+          "list_one_mean": [
+            {
+              "id_full_en": "to crown it all",
+              "list_im": [
+                {
+                  "im_full_vn": "lại thêm nữa là, cuối cùng lại thêm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "our car breaks down and , to crown it all , we have to arrive before the nightfall",
+                      "full_vn": "xe bị hỏng, lại thêm nữa là chúng tôi phải tới nơi trước khi đêm xuống"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to crown one's misfortunes",
+              "list_im": [
+                {
+                  "im_full_vn": "lại khổ thêm nữa là, cuối cùng lại khổ nữa là"
+                }
+              ]
+            },
+            {
+              "id_full_en": "crowned heads",
+              "list_im": [
+                {
+                  "im_full_vn": "bọn vua chúa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362657_4b8f5ee297_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362657_a17bbdc136_o.png",
+      "id_image": "crown_1503888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318236_51395f6fb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318236_12615811d7_o.png",
+      "id_image": "crown_536118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673079_aa8bcc16f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673079_128cf657f9_o.png",
+      "id_image": "crown_599566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673039_2d98658f90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673039_83d940492e_o.png",
+      "id_image": "crown_751024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673014_00417bf8d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673014_3062a171d4_o.png",
+      "id_image": "crown_991815"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "english": "barefoot",
+  "phat_am": "['beəfut]",
+  "list_type": [
+    {
+      "type": "tính từ & phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "chân không (không dép guốc gì cả)",
+          "list_en_vn": [
+            {
+              "full_en": "to walk barefoot",
+              "full_vn": "đi chân không"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670274_cd010120d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670274_6db12c40b4_o.png",
+      "id_image": "barefoot_3204109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430463_3431406619_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430463_e75816d11b_o.png",
+      "id_image": "barefoot_805530"
+    }
+  ]
+}

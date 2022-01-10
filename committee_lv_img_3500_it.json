@@ -1,0 +1,36 @@
+{
+  "english": "committee",
+  "phat_am": "[kə'miti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "uỷ ban",
+          "list_en_vn": [
+            {
+              "full_en": "executive committee",
+              "full_vn": "uỷ ban chấp hành"
+            },
+            {
+              "full_en": "standing committee",
+              "full_vn": "uỷ ban thường trực"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318496_a652f8a108_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318496_9fdd2353e6_o.png",
+      "id_image": "committee_1505375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318481_a1bf07567b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318481_f2cb608e96_o.png",
+      "id_image": "committee_3967510"
+    }
+  ]
+}

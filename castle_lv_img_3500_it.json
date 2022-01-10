@@ -1,0 +1,53 @@
+{
+  "english": "castle",
+  "phat_am": "['kɑ:sl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành trì, thành quách"
+        },
+        {
+          "m_full_vn": "toà lâu đài, lâu đài"
+        },
+        {
+          "m_full_vn": "(đánh cờ) quân cờ thấp",
+          "list_one_mean": [
+            {
+              "id_full_en": "castles in the air (in Spain )",
+              "list_im": [
+                {
+                  "im_full_vn": "lâu đài trên bãi cát; chuyện viễn vông, chuyện không thực hiện được; mơ mộng hão huyền",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to build castles in the air (in Spain )",
+                      "full_vn": "xây lâu đài trên bãi cát, tính những chuyện viễn vông"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436088_708d75c6e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436088_89cd6da952_o.png",
+      "id_image": "castle_327414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675914_9e906976f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675914_c4961d3c85_o.png",
+      "id_image": "castle_540162"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436008_24d4671b3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436008_358df5698e_o.png",
+      "id_image": "castle_619097"
+    }
+  ]
+}

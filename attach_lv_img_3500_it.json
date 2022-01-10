@@ -1,0 +1,105 @@
+{
+  "english": "attach",
+  "phat_am": "[ə'tæt∫]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to attach something to something ) gắn, dán, trói buộc",
+          "list_en_vn": [
+            {
+              "full_en": "To attach a label to a bag",
+              "full_vn": "Dán nhãn vào cái túi"
+            },
+            {
+              "full_en": "A garden with a swimming-pool attached",
+              "full_vn": "Một khu vườn có bể bơi liền kề"
+            },
+            {
+              "full_en": "A document attached to an invoice (with a pin )",
+              "full_vn": "Một chứng từ được đính vào hoá đơn (bằng một cái ghim)"
+            },
+            {
+              "full_en": "Attached you will find ...",
+              "full_vn": "Kèm theo anh sẽ nhận được..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to attach oneself to somebody / something ) nhập bọn, tham gia (dù không được mời)",
+          "list_en_vn": [
+            {
+              "full_en": "An old foreigner attached himself to me at the wedding and I couldn't get rid of him",
+              "full_vn": "Một lão già nước ngoài bám theo tôi trong đám cưới và tôi không tài nào xua lão đi được"
+            },
+            {
+              "full_en": "She attached herself to a group of foreign students visiting our supermarket",
+              "full_vn": "Cô ta nhập vào đám sinh viên nước ngoài đang tham quan siêu thị của chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to attach somebody to somebody / something ) biệt phái",
+          "list_en_vn": [
+            {
+              "full_en": "He'll be attached to my office until the end of the year",
+              "full_vn": "Nó sẽ được biệt phái về cơ quan tôi cho tới cuối năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to attach something to somebody / something ) coi; cho là; gán cho",
+          "list_en_vn": [
+            {
+              "full_en": "To attach importance to one's study",
+              "full_vn": "Coi việc học hành là quan trọng; coi trọng việc học hành"
+            },
+            {
+              "full_en": "To attach little value to someone's statement",
+              "full_vn": "Coi lời tuyên bố của ai là không có giá trị mấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) bắt giữ (ai); tịch biên (gia sản...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gắn liền với",
+          "list_en_vn": [
+            {
+              "full_en": "The responsibility that attaches to that position",
+              "full_vn": "Trách nhiệm gắn liền với cương vị công tác đó"
+            },
+            {
+              "full_en": "No blame attaches to her in this scandal",
+              "full_vn": "Bà ta không hề bị trách cứ trong vụ bê bối này"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808344052_babc26f3b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808344052_6746d6703c_o.png",
+      "id_image": "attach_1265877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328721_33bbf1bfdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328721_6878d9d4ef_o.png",
+      "id_image": "attach_1440359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328691_6fb42452c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328691_7a2aa18ef7_o.png",
+      "id_image": "attach_5512622"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "english": "curiosity",
+  "phat_am": "[,kjuəri'ɔsiti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ham biết; tính ham biết",
+          "list_en_vn": [
+            {
+              "full_en": "curiosity about distant lands",
+              "full_vn": "sự ham tìm hiểu về những vùng đất xa lạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tò mò; tính tò mò, tính hiếu kỳ",
+          "list_en_vn": [
+            {
+              "full_en": "he gave in to curiosity and opened the letter addressed to his sister",
+              "full_vn": "nó không kiềm được tính tò mò và đã mở bức thư gửi cho chị nó"
+            },
+            {
+              "full_en": "out of curiosity",
+              "full_vn": "vì tò mò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật kỳ lạ, vật hiếm, vật quý, cảnh lạ",
+          "list_one_mean": [
+            {
+              "id_full_en": "curiosity shop",
+              "list_im": [
+                {
+                  "im_full_vn": "hiệu bán đồ cổ, hiệu bán những đồ quý hiếm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set somebody's curiosity agog",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) agog"
+                }
+              ]
+            },
+            {
+              "id_full_en": "curiosity killed the cat",
+              "list_im": [
+                {
+                  "im_full_vn": "(được nói ra với ai để anh ta khỏi tò mò nữa)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the curiosities of the town",
+              "full_vn": "những cảnh lạ ở thành phố"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315181_c8e3a63f12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315181_15cc32fbed_o.png",
+      "id_image": "curiosity_4953286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051705_d3e262323d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051705_edc28433c3_o.png",
+      "id_image": "curious_3362451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051660_538c22a4d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051660_6579eaf87f_o.png",
+      "id_image": "curious_5020323"
+    }
+  ]
+}

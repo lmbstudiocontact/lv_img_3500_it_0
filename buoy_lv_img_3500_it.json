@@ -1,0 +1,65 @@
+{
+  "english": "buoy",
+  "phat_am": "[bɔi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) phao, phao cứu đắm ( (cũng) life buoy )"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) chỗ nương tựa"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt phao, thả phao",
+          "list_en_vn": [
+            {
+              "full_en": "to buoy [out ] a channel",
+              "full_vn": "thả phao ở eo biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) + up ) giữ cho khỏi chìm, làm cho nổi, nâng lên"
+        },
+        {
+          "m_full_vn": "( (thường) + up ) giữ vững tinh thần, làm cho phấn chấn",
+          "list_en_vn": [
+            {
+              "full_en": "to be buoyed up with new hope",
+              "full_vn": "phấn chấn lên với niềm hy vọng mới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309946_5e477dd7aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309946_d361ffd83e_o.png",
+      "id_image": "buoy_3315838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354162_5ffcdc4f1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354162_b64fbcc9f6_o.png",
+      "id_image": "buoy_3315945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046820_857ec66999_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046820_087aab1b8c_o.png",
+      "id_image": "buoy_5398182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665109_f337c1b03d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665109_f190eed496_o.png",
+      "id_image": "buoy_6376071"
+    }
+  ]
+}

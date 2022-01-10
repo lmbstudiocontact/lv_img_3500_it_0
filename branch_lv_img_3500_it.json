@@ -1,0 +1,88 @@
+{
+  "english": "branch",
+  "phat_am": "[brɑ:nt∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cành cây"
+        },
+        {
+          "m_full_vn": "nhánh (sông); ngả (đường)...",
+          "list_en_vn": [
+            {
+              "full_en": "a branch of a river",
+              "full_vn": "một nhánh sông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chi (của một dòng họ...); chi nhánh (ngân hàng...); ngành (sản xuất; mậu dịch...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "root and branch",
+              "list_im": [
+                {
+                  "im_full_vn": "tận gốc, triệt để"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + out , forth ) đâm cành, đâm nhánh"
+        },
+        {
+          "m_full_vn": "phân cành, chia ngã",
+          "list_one_mean": [
+            {
+              "id_full_en": "to branch off (away )",
+              "list_im": [
+                {
+                  "im_full_vn": "tách ra, phân nhánh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to branch out",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ nhiều vốn ra kinh doanh; mở rộng các chi nhánh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the road branches here",
+              "full_vn": "ở chỗ này đường chia ra nhiều ngã"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055010_8f5b3159a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055010_3f64f3d13b_o.png",
+      "id_image": "branch_2153130"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318426_8c3851faf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318426_3a4583b45b_o.png",
+      "id_image": "branch_2640154"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433598_8d94b225a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433598_db634d0423_o.png",
+      "id_image": "branch_6357748"
+    }
+  ]
+}

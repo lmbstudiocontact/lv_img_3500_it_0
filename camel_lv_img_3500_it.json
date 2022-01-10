@@ -1,0 +1,62 @@
+{
+  "english": "camel",
+  "phat_am": "['kæməl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lạc đà",
+          "list_en_vn": [
+            {
+              "full_en": "arabian camel",
+              "full_vn": "lạc đà một bướu"
+            },
+            {
+              "full_en": "bactrian camel",
+              "full_vn": "lạc đà hai bướu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kinh thánh) điều khó tin; điều khó chịu đựng được",
+          "list_one_mean": [
+            {
+              "id_full_en": "it is the last straw that breaks the camel's back",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) già néo đứt dây"
+                }
+              ]
+            },
+            {
+              "id_full_en": "camel hair",
+              "list_im": [
+                {
+                  "im_full_vn": "vải làm bằng lông lạc đà"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660289_7b995c4b85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660289_6db10ac2d3_o.png",
+      "id_image": "camel_2188055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419973_22fed065f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419973_45309eccc5_o.png",
+      "id_image": "camel_292641"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419918_50816b8c7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419918_f47deff954_o.png",
+      "id_image": "camel_3798645"
+    }
+  ]
+}

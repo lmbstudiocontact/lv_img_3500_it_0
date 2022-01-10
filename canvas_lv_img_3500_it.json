@@ -1,0 +1,57 @@
+{
+  "english": "canvas",
+  "phat_am": "['kænvəs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vải bạt"
+        },
+        {
+          "m_full_vn": "lều; buồm (làm bằng vải bạt)",
+          "list_en_vn": [
+            {
+              "full_en": "under canvas",
+              "full_vn": "ở trong lều (lính); căng buồm, giương buồm (thuyền)"
+            },
+            {
+              "full_en": "to sleep under canvas",
+              "full_vn": "ngủ trong lều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bức vẽ sơn dầu; tranh sơn dầu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066545_2cf5448d96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066545_f51e371c09_o.png",
+      "id_image": "canvas_1043364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066500_e7c20dec7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066500_eca5ea062b_o.png",
+      "id_image": "canvas_2070912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329751_089c919a55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329751_048c46bdb4_o.png",
+      "id_image": "canvas_4595051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329726_eafb1c863d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329726_5dbee45516_o.png",
+      "id_image": "canvas_4681527"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329651_06bfba7562_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329651_244c12d7e6_o.png",
+      "id_image": "canvas_4697428"
+    }
+  ]
+}

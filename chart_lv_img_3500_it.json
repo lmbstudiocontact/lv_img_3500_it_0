@@ -1,0 +1,64 @@
+{
+  "english": "chart",
+  "phat_am": "[t∫ɑ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) bản đồ đi biển, hải đồ"
+        },
+        {
+          "m_full_vn": "bản đồ"
+        },
+        {
+          "m_full_vn": "đồ thị, biểu đồ",
+          "list_en_vn": [
+            {
+              "full_en": "a weather chart",
+              "full_vn": "đồ thị thời tiết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẽ hải đồ; ghi vào hải đồ"
+        },
+        {
+          "m_full_vn": "vẽ đồ thị, lập biểu đồ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667869_3298dde775_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667869_336213fdc7_o.png",
+      "id_image": "chart_1208177"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049510_14f96099d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049510_cc60d26a55_o.png",
+      "id_image": "chart_1208178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667954_fa9c8f3279_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667954_2c4f910514_o.png",
+      "id_image": "chart_413666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313126_ecafb0d03f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313126_b7260bb092_o.png",
+      "id_image": "chart_858719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667914_ed9af60daa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667914_3b5cc74f8b_o.png",
+      "id_image": "chart_858723"
+    }
+  ]
+}

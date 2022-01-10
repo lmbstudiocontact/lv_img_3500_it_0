@@ -1,0 +1,110 @@
+{
+  "english": "cheek",
+  "phat_am": "[t∫i:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mỗi bên mặt liền dưới mắt; má",
+          "list_en_vn": [
+            {
+              "full_en": "healthy pink cheeks",
+              "full_vn": "đôi má hồng hào khoẻ mạnh"
+            },
+            {
+              "full_en": "dancing cheek to cheek",
+              "full_vn": "khiêu vũ má kề má"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời nói hoặc ứng xử hỗn láo; sự hỗn xược",
+          "list_en_vn": [
+            {
+              "full_en": "what (a ) cheek !",
+              "full_vn": "thật là hỗn láo!"
+            },
+            {
+              "full_en": "No more of your cheek !/ That's enough of your cheek !",
+              "full_vn": "Im ngay cái lối ăn nói láo xược ấy đi! /Mày hỗn vừa chứ!"
+            },
+            {
+              "full_en": "He had the cheek to ask me to do his work for him",
+              "full_vn": "Nó đã hỗn láo dám bảo tôi làm hộ công việc của nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một trong hai mông đít"
+        },
+        {
+          "m_full_vn": "thanh má, thanh đứng (của khung cửa)"
+        },
+        {
+          "m_full_vn": "( số nhiều) má (kìm, ròng rọc, êtô)",
+          "list_one_mean": [
+            {
+              "id_full_en": "cheek by jowl (with somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "vai kề vai; thân thiết với nhau, tớ tớ mình mình, mày mày tao tao",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to live /lie cheek by jowl",
+                      "full_vn": "sống/nằm kề bên nhau rất thân thiết"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn the other cheek",
+              "list_im": [
+                {
+                  "im_full_vn": "nhận một đòn đánh mạnh mà không đánh lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to speak with /to have one's tongue in one's cheek",
+              "list_im": [
+                {
+                  "im_full_vn": "không thành thật, giả dối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with tongue in cheek",
+              "list_im": [
+                {
+                  "im_full_vn": "xem tongue"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "láo xược với (ai), hỗn xược với (ai)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426928_585fcd8f93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426928_aa3d27cea3_o.png",
+      "id_image": "cheek_1364822"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312056_8daf360e0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312056_0f56639516_o.png",
+      "id_image": "cheek_5737330"
+    }
+  ]
+}

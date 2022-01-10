@@ -1,0 +1,85 @@
+{
+  "english": "academic",
+  "phat_am": "[,ækə'demik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc (sự giảng dạy hoặc học tập ở) nhà trường, trường cao đẳng học viện; (thuộc) trường đại học"
+        },
+        {
+          "m_full_vn": "có tính chất học thuật",
+          "list_en_vn": [
+            {
+              "full_en": "an academic debate",
+              "full_vn": "một cuộc tranh luận có tính chất học thuật"
+            },
+            {
+              "full_en": "academic subjects",
+              "full_vn": "các môn học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lý thuyết suông, trừu tượng, không thực tế",
+          "list_en_vn": [
+            {
+              "full_en": "a matter of academic concern",
+              "full_vn": "một vấn đề thuộc lĩnh vực lý thuyết"
+            },
+            {
+              "full_en": "the question is purely academic",
+              "full_vn": "vấn đề này là thuần túy lý thuyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(văn nghệ) kinh viện",
+          "list_en_vn": [
+            {
+              "full_en": "academic painting",
+              "full_vn": "hội hoạ kinh viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) trường phái triết học Pla-ton"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hội viên học viện"
+        },
+        {
+          "m_full_vn": "viện sĩ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441768_0998864366_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441768_a30022f130_o.png",
+      "id_image": "academic_4532513"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326716_0f93f2c724_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326716_0e025c26d5_o.png",
+      "id_image": "academic_4728576"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326651_10d69270ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326651_f93b05ce90_o.png",
+      "id_image": "academic_5100693"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681679_385932687b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681679_7004c7bf0f_o.png",
+      "id_image": "academic_5350999"
+    }
+  ]
+}

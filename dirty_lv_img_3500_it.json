@@ -1,0 +1,143 @@
+{
+  "english": "dirty",
+  "phat_am": "['də:ti]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bẩn thỉu, dơ bẩn, dơ dáy; cáu ghét, cáu bẩn, đầy bùn bẩn",
+          "list_en_vn": [
+            {
+              "full_en": "dirty hands",
+              "full_vn": "bàn tay dơ bẩn"
+            },
+            {
+              "full_en": "a dirty war",
+              "full_vn": "cuộc chiến tranh bẩn thỉu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có mưa gió sụt sùi, nhớp nháp bẩn thỉu; xấu (thời tiết)",
+          "list_en_vn": [
+            {
+              "full_en": "dirty weather",
+              "full_vn": "trời xấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không sáng (màu sắc)"
+        },
+        {
+          "m_full_vn": "tục tĩu, thô bỉ",
+          "list_en_vn": [
+            {
+              "full_en": "dirty language",
+              "full_vn": "ngôn ngữ thô bỉ"
+            },
+            {
+              "full_en": "a dirty story",
+              "full_vn": "câu chuyện tục tĩu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đê tiện, hèn hạ, đáng khinh, nhơ nhốc, xấu xa",
+          "list_en_vn": [
+            {
+              "full_en": "a dirty look",
+              "full_vn": "cái nhìn khinh miệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phi nghĩa",
+          "list_one_mean": [
+            {
+              "id_full_en": "to do the dirty on somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) chơi đểu với ai, dở trò đê tiện với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "dirty work",
+              "list_im": [
+                {
+                  "im_full_vn": "việc làm xấu xa bất chính"
+                },
+                {
+                  "im_full_vn": "công việc nặng nhọc khổ ải"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do somebody's dirty work for him",
+              "list_im": [
+                {
+                  "im_full_vn": "làm giúp ai một công việc nặng nhọc khổ ải"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "dirty money",
+              "full_vn": "của phi nghĩa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bẩn, làm dơ, làm vấy bùn"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành dơ bẩn, thành bẩn thỉu"
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "rất, lắm",
+          "list_en_vn": [
+            {
+              "full_en": "a dirty idle school-boy",
+              "full_vn": "một cậu học trò rất lười biếng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055910_6372ca4f1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055910_4b457b5ff7_o.png",
+      "id_image": "dirty_2873662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055880_0916c28a03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055880_99fc9c5336_o.png",
+      "id_image": "dirty_3027497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674149_f8bd80cb83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674149_17280bcef4_o.png",
+      "id_image": "dirty_5256932"
+    }
+  ]
+}

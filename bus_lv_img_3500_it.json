@@ -1,0 +1,67 @@
+{
+  "english": "bus",
+  "phat_am": "[bʌs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe buýt",
+          "list_en_vn": [
+            {
+              "full_en": "to go by bus",
+              "full_vn": "đi xe buýt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) máy bay; ô tô; mô tô"
+        },
+        {
+          "m_full_vn": "(tin học) buýt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to miss the bus",
+              "list_im": [
+                {
+                  "im_full_vn": "nhỡ xe buýt"
+                },
+                {
+                  "im_full_vn": "bỏ lỡ cơ hội"
+                },
+                {
+                  "im_full_vn": "thất bại trong công việc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi xe buýt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664129_db66685504_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664129_cc732956d6_o.png",
+      "id_image": "bus_168280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308826_c26d4be4d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308826_abc66a15b2_o.png",
+      "id_image": "bus_169423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045795_fc6e6516d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045795_3c4a1c01c7_o.png",
+      "id_image": "bus_422962"
+    }
+  ]
+}

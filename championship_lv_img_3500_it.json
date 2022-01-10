@@ -1,0 +1,45 @@
+{
+  "english": "championship",
+  "phat_am": "['t∫æmpjən∫ip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chức vô địch; danh hiệu quán quân",
+          "list_en_vn": [
+            {
+              "full_en": "to win a world swimming championship",
+              "full_vn": "đoạt chức vô địch bơi lội thế giới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bảo vệ, sự bênh vực, sự đấu tranh cho"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358787_79f1918d06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358787_436a4f75d1_o.png",
+      "id_image": "championship_2751934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429533_9bc9cb5fde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429533_b6de320476_o.png",
+      "id_image": "championship_2845139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314616_9a2e1be717_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314616_6f8ef48800_o.png",
+      "id_image": "championship_4033521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051160_84e0325f21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051160_94d82fecd4_o.png",
+      "id_image": "championship_5284188"
+    }
+  ]
+}

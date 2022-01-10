@@ -1,0 +1,55 @@
+{
+  "english": "ambassador",
+  "phat_am": "[æm'bæsədə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà ngoại giao của nước này được cử sang nước khác làm đại diện thường trú hoặc trong một phái bộ đặc biệt; đại sứ",
+          "list_en_vn": [
+            {
+              "full_en": "the British Ambassador to Vietnam",
+              "full_vn": "Đại sứ Anh tại Việt Nam"
+            },
+            {
+              "full_en": "ambassador extraordinary and plenipotentiary",
+              "full_vn": "đại sứ đặc mệnh toàn quyền"
+            },
+            {
+              "full_en": "to act as someone's ambassador",
+              "full_vn": "đại diện cho ai, là sứ giả của ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429833_57d3e7a999_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429833_1652ba96eb_o.png",
+      "id_image": "ambassador_1999218"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359067_8b8c543b09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359067_e5a75bc351_o.png",
+      "id_image": "ambassador_2132209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314921_aafe6d93d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314921_30003f9032_o.png",
+      "id_image": "ambassador_4736272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051425_e7b104ba39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051425_f59f46b92d_o.png",
+      "id_image": "ambassador_5759154"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051395_c67deabcf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051395_e633d9a86c_o.png",
+      "id_image": "ambassador_5978508"
+    }
+  ]
+}

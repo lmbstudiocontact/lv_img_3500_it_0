@@ -1,0 +1,81 @@
+{
+  "english": "bracket",
+  "phat_am": "['brækit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kiến trúc) công-xon, rầm chia"
+        },
+        {
+          "m_full_vn": "dấu ngoặc đơn; dấu móc; dấu ngoặc ôm",
+          "list_en_vn": [
+            {
+              "full_en": "to put in brackets",
+              "full_vn": "để trong ngoặc đơn; để trong móc; để trong dấu ngoặc ôm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) giá đỡ nòng (súng đại bác)"
+        },
+        {
+          "m_full_vn": "(quân sự) khoảng cách giữa hai phát đạn trên và dưới mục tiêu để quan trắc",
+          "list_one_mean": [
+            {
+              "id_full_en": "income bracket",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) nhóm người đóng thuế xếp theo thu nhập"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gộp lại trong dấu ngoặc; đặt trong dấu ngoặc"
+        },
+        {
+          "m_full_vn": "xếp (hai hay nhiều người) đồng hạng",
+          "list_en_vn": [
+            {
+              "full_en": "A and B were bracketed for the first prize",
+              "full_vn": "A và B đều được xếp vào giải nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) bắn hai phát đạn trên và dưới (mục tiêu) để quan trắc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434398_8eb48df7c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434398_9e99f48649_o.png",
+      "id_image": "bracket_1023618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363892_8f25641612_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363892_03a5d1dbe8_o.png",
+      "id_image": "bracket_1678228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674074_7d5459d15d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674074_233198793e_o.png",
+      "id_image": "bracket_1678229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055895_9d0d593fd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055895_d4efb9d7cf_o.png",
+      "id_image": "bracket_605614"
+    }
+  ]
+}

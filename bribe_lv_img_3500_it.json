@@ -1,0 +1,88 @@
+{
+  "english": "bribe",
+  "phat_am": "[braib]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "của đút lót, vật đút lót, vật hối lộ",
+          "list_en_vn": [
+            {
+              "full_en": "to accept /take bribes",
+              "full_vn": "ăn hối lộ"
+            },
+            {
+              "full_en": "the policeman was offered /given a bribe of 500 dollars to keep his mouth shut",
+              "full_vn": "viên cảnh sát được hối lộ 500 đô la để im miệng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to bribe somebody with something ) đút lót, hối lộ, mua chuộc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bribe one's way into /out of something , past somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đến được nơi nào đó bằng cách đút lót",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he bribed his way past the guard and escaped",
+                      "full_vn": "anh ta đút lót cho lính gác và trốn thoát"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bribe somebody into doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "hối lộ ai để người đó làm điều gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "attempt to bribe a jury with offers of money",
+              "full_vn": "mưu toan dùng tiền mua chuộc ban hội thẩm"
+            },
+            {
+              "full_en": "one of the witnesses was bribed to give false evidence",
+              "full_vn": "một trong các nhân chứng đã bị hối lộ để làm chứng gian"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360862_e87e098e09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360862_3e36ae1680_o.png",
+      "id_image": "bribery_2631520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431558_d3e7bee940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431558_e4750a407e_o.png",
+      "id_image": "bribery_5434240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671374_86ca22aea0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671374_a17c4dc79c_o.png",
+      "id_image": "bribe_3830650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671344_b5e95b20e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671344_6a9e729c3d_o.png",
+      "id_image": "bribe_5291764"
+    }
+  ]
+}

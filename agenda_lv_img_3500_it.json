@@ -1,0 +1,46 @@
+{
+  "english": "agenda",
+  "phat_am": "[ə'dʒendə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "những vấn đề/công việc phải bàn tại một cuộc họp, buổi lễ...; chương trình nghị sự",
+          "list_en_vn": [
+            {
+              "full_en": "What's the next item on the agenda ?",
+              "full_vn": "Mục tiếp theo trong chương trình nghị sự là gì?"
+            },
+            {
+              "full_en": "The agenda for the seminar is as follows ....",
+              "full_vn": "Chương trình nghị sự của buổi hội thảo là như sau..."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434073_33e6e96be8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434073_799974b772_o.png",
+      "id_image": "agenda_392776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318821_fc9b010dbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318821_8179af058a_o.png",
+      "id_image": "agenda_419277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363357_4bfe1a9240_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363357_90884f3170_o.png",
+      "id_image": "agenda_494719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318751_5b66407500_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318751_b99484794f_o.png",
+      "id_image": "agenda_735185"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "allergy",
+  "phat_am": "['ælədʒi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( allergy to something ) (y học) sự dị ứng đối với thuốc men hoặc thức ăn",
+          "list_en_vn": [
+            {
+              "full_en": "my younger brother has an allergy to sea fish",
+              "full_vn": "em trai tôi dị ứng với cá biển"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431133_c0d8b4224d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431133_fb6a195ac9_o.png",
+      "id_image": "allergy_5730229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360442_dac9822bd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360442_eb84ec17e0_o.png",
+      "id_image": "allergy_5730258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316156_e558f4a256_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316156_b49783b036_o.png",
+      "id_image": "allergy_5730284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360387_35184c5275_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360387_fa0b387d26_o.png",
+      "id_image": "allergy_5730297"
+    }
+  ]
+}

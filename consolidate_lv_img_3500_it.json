@@ -1,0 +1,71 @@
+{
+  "english": "consolidate",
+  "phat_am": "[kən'sɔlideit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm (cho) chắc, củng cố",
+          "list_en_vn": [
+            {
+              "full_en": "to consolidate the road surface",
+              "full_vn": "làm chắc mặt đường (bằng cách cán đầm...)"
+            },
+            {
+              "full_en": "to consolidate a military position",
+              "full_vn": "củng cố một vị trí quân sự"
+            },
+            {
+              "full_en": "to consolidate one's position",
+              "full_vn": "củng cố địa vị"
+            },
+            {
+              "full_en": "to consolidate the friendship between two countries",
+              "full_vn": "củng cố tình hữu nghị giữa hai nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hợp nhất, thống nhất",
+          "list_en_vn": [
+            {
+              "full_en": "to consolidate two factories",
+              "full_vn": "hợp nhất hai nhà máy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở nên chắc chắn, trở nên vững chắc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046540_2a53767f2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046540_be818ec320_o.png",
+      "id_image": "consolidate_5182001"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046475_d06bc1f2d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046475_5f4b096cf7_o.png",
+      "id_image": "consolidate_5331512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664839_fbc62719a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664839_69ebf21f37_o.png",
+      "id_image": "consolidate_5396973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353637_81e833fc18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353637_b4e7271357_o.png",
+      "id_image": "consolidate_5680034"
+    }
+  ]
+}

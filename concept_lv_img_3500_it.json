@@ -1,0 +1,41 @@
+{
+  "english": "concept",
+  "phat_am": "['kɔnsept]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tư tưởng làm cơ sở cho cái gì; ý niệm chung; khái niệm",
+          "list_en_vn": [
+            {
+              "full_en": "the concept of freedom",
+              "full_vn": "khái niệm tự do"
+            },
+            {
+              "full_en": "he can't grasp the basic concepts of mathematics",
+              "full_vn": "nó không nắm được những khái niệm cơ bản của toán học"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050565_ebfc2895bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050565_a07e04a32b_o.png",
+      "id_image": "concept_2111175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668664_18757759df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668664_ca08e93ffd_o.png",
+      "id_image": "concept_2311639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428758_3cb2793963_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428758_bb3cddf717_o.png",
+      "id_image": "concept_4234369"
+    }
+  ]
+}

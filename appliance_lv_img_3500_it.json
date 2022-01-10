@@ -1,0 +1,50 @@
+{
+  "english": "appliance",
+  "phat_am": "[ə'plaiəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thiết bị; dụng cụ",
+          "list_en_vn": [
+            {
+              "full_en": "a kitchen full of electrical appliances",
+              "full_vn": "một nhà bếp đầy những đồ dùng bằng điện (máy giặt, máy rửa bát...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như fire-engine"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352542_78fac2ff66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352542_dd31307de8_o.png",
+      "id_image": "appliances_1753618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663684_acfe2b1db8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663684_69c7072373_o.png",
+      "id_image": "appliances_966941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352692_55e15964b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352692_62797efbaa_o.png",
+      "id_image": "appliance_1198306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352647_5729df1bbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352647_c858326a4c_o.png",
+      "id_image": "appliance_1744540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352617_1ef00f3377_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352617_55c4420e2b_o.png",
+      "id_image": "appliance_2317096"
+    }
+  ]
+}

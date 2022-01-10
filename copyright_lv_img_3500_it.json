@@ -1,0 +1,76 @@
+{
+  "english": "copyright",
+  "phat_am": "['kɔpirait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( copyright on something ) bản quyền; quyền tác giả; tác quyền",
+          "list_en_vn": [
+            {
+              "full_en": "copyright expires 50 years after the death of the author",
+              "full_vn": "quyền tác giả hết hiệu lực 50 năm sau khi tác giả qua đời"
+            },
+            {
+              "full_en": "the poem is still under copyright , so you have to pay to quote it",
+              "full_vn": "bài thơ vẫn còn trong thời hạn bảo vệ quyền tác giả, nên anh phải trả tiền trích dẫn nó"
+            },
+            {
+              "full_en": "sued for breach of copyright /infringing copyright",
+              "full_vn": "bị kiện về tội vi phạm quyền tác giả"
+            },
+            {
+              "full_en": "who owns the copyright on this song ?",
+              "full_vn": "ai giữ quyền tác giả bài hát này?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "do tác giả giữ bản quyền; được đảm bảo quyền tác giả",
+          "list_en_vn": [
+            {
+              "full_en": "this material is copyright",
+              "full_vn": "tài liệu này đang được tác giả giữ bản quyền"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giữ quyền tác giả (của một quyển sách, bài hát....)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333166_81454a4c6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333166_b9888a0e8e_o.png",
+      "id_image": "copyright_1620455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448228_3eab7660d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448228_89673984ea_o.png",
+      "id_image": "copyright_3579179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333101_9d0b1eaa91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333101_9f91b0bcb6_o.png",
+      "id_image": "copyright_4391480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333056_022b87bb2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333056_38f6113a03_o.png",
+      "id_image": "copyright_4391568"
+    }
+  ]
+}

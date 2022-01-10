@@ -1,0 +1,161 @@
+{
+  "english": "child",
+  "phat_am": "[t∫aild]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều children",
+      "list_m": [
+        {
+          "m_full_vn": "trai hoặc gái dưới tuổi dậy thì; đứa bé; đứa trẻ",
+          "list_en_vn": [
+            {
+              "full_en": "a child of six",
+              "full_vn": "đứa bé lên sáu"
+            },
+            {
+              "full_en": "a child actor",
+              "full_vn": "diễn viên thiếu niên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đứa con (con gái hoặc con trai ở bất kỳ tuổi nào)",
+          "list_en_vn": [
+            {
+              "full_en": "she's married with three children",
+              "full_vn": "cô ấy có chồng và đã có ba con"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đứa trẻ chưa sinh hoặc sơ sinh",
+          "list_en_vn": [
+            {
+              "full_en": "she's expecting her first child",
+              "full_vn": "cô ấy đang có thai đứa con đầu lòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người hoặc cái gì chịu ảnh hưởng mạnh mẽ của một thời kỳ, địa điểm hoặc của một người; (nghĩa bóng) kết quả, hậu quả, sản phẩm",
+          "list_en_vn": [
+            {
+              "full_en": "she's a real child of the (19) 60's",
+              "full_vn": "cô ta đúng là con người của những năm 60"
+            },
+            {
+              "full_en": "sin is often the child of idleness",
+              "full_vn": "tội lỗi thường là do vô công rỗi nghề mà ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người lớn mà tính như trẻ con",
+          "list_en_vn": [
+            {
+              "full_en": "why can a man of forty be such a child ?",
+              "full_vn": "tại sao một người 40 tuổi lại trẻ con đến thế?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người thiếu kinh nghiệm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be with child",
+              "list_im": [
+                {
+                  "im_full_vn": "có mang; có thai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the child is father of the man",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) những kinh nghiệm của thời thơ ấu quyết định tính cách của con người lúc trưởng thành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be far gone with child",
+              "list_im": [
+                {
+                  "im_full_vn": "có mang sắp đến tháng đẻ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "burnt child dreads the fire",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) fire"
+                }
+              ]
+            },
+            {
+              "id_full_en": "this child",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) bõ già này"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from a child",
+              "list_im": [
+                {
+                  "im_full_vn": "từ lúc còn thơ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "spare the rod and spoil the child",
+              "list_im": [
+                {
+                  "im_full_vn": "thương cho roi cho vọt, ghét cho ngọt cho bùi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "an only child",
+              "list_im": [
+                {
+                  "im_full_vn": "con duy nhất trong gia đình, con một"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he's a child in financial matters",
+              "full_vn": "anh ta rất non nớt về chuyện tiền nong"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424833_7d51b98afd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424833_bf03026c48_o.png",
+      "id_image": "child_3014379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424788_65db19bca9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424788_10e15893f3_o.png",
+      "id_image": "child_3564520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353877_9284448931_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353877_3a0b8738c2_o.png",
+      "id_image": "child_4110366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046635_833d67f550_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046635_5771fb8266_o.png",
+      "id_image": "child_5234006"
+    }
+  ]
+}

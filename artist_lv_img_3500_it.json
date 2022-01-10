@@ -1,0 +1,35 @@
+{
+  "english": "artist",
+  "phat_am": "['ɑ:tist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghệ sĩ",
+          "list_en_vn": [
+            {
+              "full_en": "People's artist , eminent artist",
+              "full_vn": "nghệ sĩ nhân dân, nghệ sĩ ưu tú"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoạ sĩ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041200_4c70236441_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041200_292bc4b119_o.png",
+      "id_image": "artist_1749947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041180_2598cb19b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041180_466e8a8f5a_o.png",
+      "id_image": "artist_1911209"
+    }
+  ]
+}

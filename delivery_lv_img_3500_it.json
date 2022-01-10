@@ -1,0 +1,123 @@
+{
+  "english": "delivery",
+  "phat_am": "[di'livəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phân phát (thư, hàng...); trường hợp phân phát (thư, hàng...); hàng hoặc thư.. được phân phát",
+          "list_en_vn": [
+            {
+              "full_en": "we had a big delivery of coal today",
+              "full_vn": "hôm nay chúng tôi đã giao một lượng than rất nhiều"
+            },
+            {
+              "full_en": "the early (first ) delivery",
+              "full_vn": "lần phát thư thứ nhất trong ngày"
+            },
+            {
+              "full_en": "we have two postal deliveries each day",
+              "full_vn": "mỗi ngày chúng tôi phát thư hai lần"
+            },
+            {
+              "full_en": "to pay on delivery",
+              "full_vn": "trả tiền khi giao hàng"
+            },
+            {
+              "full_en": "your order is ready for delivery",
+              "full_vn": "hàng ông đặt đã sẵn sàng để giao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách nói; sự đọc, sự bày tỏ, sự phát biểu (ý kiến)",
+          "list_en_vn": [
+            {
+              "full_en": "his speech was interesting , but his delivery was poor",
+              "full_vn": "bài nói của ông ta rất hay nhưng cách nói lại dở"
+            },
+            {
+              "full_en": "the delivery of the lecture took three hours",
+              "full_vn": "đọc bài thuyết minh mất ba tiếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự sinh đẻ",
+          "list_en_vn": [
+            {
+              "full_en": "an easy /difficult delivery",
+              "full_vn": "một sự sinh đẻ dễ dàng/khó"
+            },
+            {
+              "full_en": "she's no longer young , so she'll have a difficult delivery",
+              "full_vn": "chị ấy không còn trẻ nữa, nên sẽ sinh khó"
+            },
+            {
+              "full_en": "the first stage of delivery",
+              "full_vn": "giai đoạn đầu của sự sinh đẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ném hoặc phóng cho bay lên (quả bóng, tên lửa...); sự mở (cuộc tấn công); sự ban ra, sự truyền ra (lệnh)"
+        },
+        {
+          "m_full_vn": "quả bóng ném đi (nhất là quả bóng lăn đi trong môn cricket hoặc ném đi trong môn bóng chày)"
+        },
+        {
+          "m_full_vn": "sự nhượng bộ, sự đầu hàng, sự chuyển nhượng"
+        },
+        {
+          "m_full_vn": "công suất (máy nước...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take delivery of something",
+              "list_im": [
+                {
+                  "im_full_vn": "nhận cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "cash on delivery (C.O.D. )",
+              "list_im": [
+                {
+                  "im_full_vn": "trả tiền lúc nhận hàng; lĩnh hoá giao ngân"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334206_cce80a683c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334206_86ce27eb6e_o.png",
+      "id_image": "delivery_423314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071180_99fcbe2efe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071180_077e9bed0b_o.png",
+      "id_image": "delivery_423316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379007_fcde95b1f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379007_0ec3d6dec8_o.png",
+      "id_image": "delivery_827377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378992_80898ba758_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378992_bfe6359efa_o.png",
+      "id_image": "delivery_870135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071110_326c7df779_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071110_737a27b8e0_o.png",
+      "id_image": "delivery_870138"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "cassette",
+  "phat_am": "[kə'set]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "băng cát-xét",
+          "list_en_vn": [
+            {
+              "full_en": "a cassette recorder",
+              "full_vn": "máy ghi âm cát-xét"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676459_5b673f17ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676459_c4d67fe326_o.png",
+      "id_image": "cassette_1544422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366252_83f0cae554_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366252_0db66683d4_o.png",
+      "id_image": "cassette_1923928"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366342_20fe524dcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366342_7eaa670ebd_o.png",
+      "id_image": "cassette_526480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436648_02563cf151_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436648_067888c4a2_o.png",
+      "id_image": "cassette_550474"
+    }
+  ]
+}

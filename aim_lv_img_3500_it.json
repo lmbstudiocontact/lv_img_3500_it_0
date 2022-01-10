@@ -1,0 +1,116 @@
+{
+  "english": "aim",
+  "phat_am": "[eim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhắm, sự nhắm",
+          "list_en_vn": [
+            {
+              "full_en": "to take aim",
+              "full_vn": "nhắm, nhắm, nhắm bắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đích (để nhắm bắn)"
+        },
+        {
+          "m_full_vn": "mục đích, mục tiêu, ý định",
+          "list_en_vn": [
+            {
+              "full_en": "to miss one's aim",
+              "full_vn": "bắn trật đích; không đạt mục đích"
+            },
+            {
+              "full_en": "to attain one's aim",
+              "full_vn": "đạt mục đích"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhắm, nhắm, chĩa",
+          "list_en_vn": [
+            {
+              "full_en": "to aim one's gun at the enemy",
+              "full_vn": "chĩa súng vào quân thù, nhắm bắn quân thù"
+            },
+            {
+              "full_en": "this measure was aimed at him",
+              "full_vn": "biện pháp đó là để nhắm chống lại hắn, biện pháp đó chống vào hắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giáng, nện, ném",
+          "list_en_vn": [
+            {
+              "full_en": "to aim a stone at somebody",
+              "full_vn": "ném một cục đá vào ai"
+            },
+            {
+              "full_en": "to aim a blow at somebody",
+              "full_vn": "giáng cho ai một quả đấm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hướng vào, tập trung vào, xoáy vào",
+          "list_en_vn": [
+            {
+              "full_en": "to aim one's efforts at something",
+              "full_vn": "hướng mọi cố gắng vào việc gì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhắm, nhắm",
+          "list_en_vn": [
+            {
+              "full_en": "to aim at somebody",
+              "full_vn": "nhắm vào ai; nhắm bắn ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhắm mục đích, có ý định, ngấp nghé, mong mỏi",
+          "list_en_vn": [
+            {
+              "full_en": "to aim higher",
+              "full_vn": "nhắm một cái gì cao hơn, mong mỏi cái gì cao hơn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362322_2d23cd6b33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362322_1d4d2a1752_o.png",
+      "id_image": "aim_1451170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362272_6e561b7e7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362272_8dab915a5b_o.png",
+      "id_image": "aim_5322113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317836_6b37b48012_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317836_102de6de14_o.png",
+      "id_image": "aim_5896371"
+    }
+  ]
+}

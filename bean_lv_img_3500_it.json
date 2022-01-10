@@ -1,0 +1,137 @@
+{
+  "english": "bean",
+  "phat_am": "[bi:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đậu"
+        },
+        {
+          "m_full_vn": "hột (cà phê)"
+        },
+        {
+          "m_full_vn": "(từ lóng) cái đầu"
+        },
+        {
+          "m_full_vn": "(từ lóng) tiền đồng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be full of beans",
+              "list_im": [
+                {
+                  "im_full_vn": "hăng hái, sôi nổi, phấn chấn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "every bean has its black",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) nhân vô thập toàn, người ta ai mà chẳng có khuyết điểm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get beans",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bị trừng phạt, bị mắng mỏ, bị đánh đập"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody beans",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) trừng phạt ai, mắng mỏ ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like beans",
+              "list_im": [
+                {
+                  "im_full_vn": "hết sức nhanh, mở hết tốc độ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a hill of beans",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) toàn những vật mọn; toàn những chuyện lặt vặt không đáng kể"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to know how many beans make five",
+              "list_im": [
+                {
+                  "im_full_vn": "láu, biết xoay xở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to know beans",
+              "list_im": [
+                {
+                  "im_full_vn": "láu, biết xoay xở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "old bean",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) bạn thân, bạn tri kỷ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to spill the beans",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) spill"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "not to have a bean",
+              "full_vn": "không một xu dính túi"
+            },
+            {
+              "full_en": "not worth a bean",
+              "full_vn": "không đáng một trinh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048475_c3a22dbf29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048475_763415a484_o.png",
+      "id_image": "bean_2551399"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355932_38bde7d908_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355932_cac2c9a6c5_o.png",
+      "id_image": "bean_2612556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355892_2b39f18b9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355892_96e76ec09e_o.png",
+      "id_image": "bean_2656607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666729_9a6105a485_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666729_8f44b0709f_o.png",
+      "id_image": "bean_2656697"
+    }
+  ]
+}

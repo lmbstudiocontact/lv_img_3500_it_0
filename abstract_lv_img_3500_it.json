@@ -1,0 +1,106 @@
+{
+  "english": "abstract",
+  "phat_am": "['æbstrækt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trừu tượng, khó hiểu"
+        },
+        {
+          "m_full_vn": "lý thuyết, không thực tế",
+          "list_one_mean": [
+            {
+              "id_full_en": "abstract number",
+              "list_im": [
+                {
+                  "im_full_vn": "(toán học) số hư"
+                }
+              ]
+            },
+            {
+              "id_full_en": "abstract noun",
+              "list_im": [
+                {
+                  "im_full_vn": "danh từ trừu tượng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bản tóm tắt (cuốn sách, luận án, bài diễn văn...)"
+        },
+        {
+          "m_full_vn": "ý niệm trừu tượng, tác phẩm nghệ thuật trừu tượng",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the abstract",
+              "list_im": [
+                {
+                  "im_full_vn": "về mặt lý thuyết, về khía cạnh lý thuyết"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trừu tượng hoá"
+        },
+        {
+          "m_full_vn": "làm đãng trí"
+        },
+        {
+          "m_full_vn": "rút ra, chiết ra, tách ra",
+          "list_en_vn": [
+            {
+              "full_en": "to abstract butter from milk",
+              "full_vn": "tách bơ ra khỏi sữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lấy trộm, ăn cắp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063950_41ce32336c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063950_dbe28f1a54_o.png",
+      "id_image": "abstract_488316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682194_7fc3a5a783_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682194_75732c4942_o.png",
+      "id_image": "abstract_488324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682134_73275d21bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682134_0a5e0d6fc7_o.png",
+      "id_image": "abstract_488334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063835_ef38bf2757_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063835_9fb902eec1_o.png",
+      "id_image": "abstract_488348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682019_65ce18d62a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682019_70a81cab31_o.png",
+      "id_image": "abstract_5360768"
+    }
+  ]
+}

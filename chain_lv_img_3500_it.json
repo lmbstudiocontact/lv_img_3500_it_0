@@ -1,0 +1,79 @@
+{
+  "english": "chain",
+  "phat_am": "[t∫ein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dây, xích"
+        },
+        {
+          "m_full_vn": "dãy, chuỗi, loạt",
+          "list_en_vn": [
+            {
+              "full_en": "a chain of mountains",
+              "full_vn": "một dãy núi"
+            },
+            {
+              "full_en": "a chain of events",
+              "full_vn": "một loạt các sự kiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thước dây (để đo chiều dài); dây (chiều dài của thước dây, bằng 20 m 115)"
+        },
+        {
+          "m_full_vn": "dây chuyền (làm việc...)",
+          "list_en_vn": [
+            {
+              "full_en": "to form a chain",
+              "full_vn": "làm thành dây chuyền, đứng thành dây chuyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) xiềng xích",
+          "list_en_vn": [
+            {
+              "full_en": "to break the chains",
+              "full_vn": "phá xiềng xích"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xích lại, trói buộc, buộc chặt ( (nghĩa đen) & (nghĩa bóng))"
+        },
+        {
+          "m_full_vn": "ngáng dây (qua đường phố...)"
+        },
+        {
+          "m_full_vn": "đo bằng thước dây"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315756_1e87350e9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315756_fa0bf448de_o.png",
+      "id_image": "chain_1788988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359952_a8a7642e02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359952_c563126448_o.png",
+      "id_image": "chain_979733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670464_c0c80f3b1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670464_e55dc7653d_o.png",
+      "id_image": "chain_979734"
+    }
+  ]
+}

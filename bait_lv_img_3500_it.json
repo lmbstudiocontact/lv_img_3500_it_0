@@ -1,0 +1,82 @@
+{
+  "english": "bait",
+  "phat_am": "[beit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mồi, bả ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "live bait",
+              "full_vn": "mồi sống (bằng cả con...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự dừng lại dọc đường để ăn uống nghỉ ngơi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to rise to the bait",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu nghe theo vì không kiềm chế được mình, cắn câu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mắc mồi (vào lưỡi câu hay vào bẫy)"
+        },
+        {
+          "m_full_vn": "cho (ngựa...) ăn uống nghỉ ngơi khi dừng lại ở dọc đường"
+        },
+        {
+          "m_full_vn": "trêu chọc, quấy nhiễu"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dừng lại dọc đường để ăn uống nghỉ ngơi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434918_c7660b0824_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434918_f98c7de35a_o.png",
+      "id_image": "bait_3830504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056350_982e4d2b56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056350_2854e5f20b_o.png",
+      "id_image": "bait_4201185"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319841_b8a9facd37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319841_3dc122f4f6_o.png",
+      "id_image": "bait_440130"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674619_88cc6d0881_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674619_b68372497f_o.png",
+      "id_image": "bait_4410229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434823_548af44e5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434823_4ab7053b3b_o.png",
+      "id_image": "bait_4690404"
+    }
+  ]
+}

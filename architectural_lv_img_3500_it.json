@@ -1,0 +1,32 @@
+{
+  "english": "architectural",
+  "phat_am": "[,ɑ:ki'tekt∫ərəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) kiến trúc",
+          "list_en_vn": [
+            {
+              "full_en": "architectural engineering",
+              "full_vn": "kỹ thuật kiến trúc, kỹ thuật xây dựng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306651_6fc5e0b9cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306651_0f33cbfe86_o.png",
+      "id_image": "architectural_360143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421823_21eda753d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421823_0869b7e133_o.png",
+      "id_image": "architectural_408907"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "assemble",
+  "phat_am": "[ə'sembl]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(làm cho vật hoặc người) tập hợp lại; thu thập",
+          "list_en_vn": [
+            {
+              "full_en": "The whole school (was ) assembled in the main hall",
+              "full_vn": "Toàn trường tập hợp trong hội trường"
+            },
+            {
+              "full_en": "To assemble evidence , material , equipment",
+              "full_vn": "Thu thập bằng chứng, vật liệu, thiết bị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) lắp ráp",
+          "list_en_vn": [
+            {
+              "full_en": "To assemble the parts of a watch",
+              "full_vn": "Lắp ráp các bộ phận của một chiếc đồng hồ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040315_5e900deb61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040315_7d2fd9aca8_o.png",
+      "id_image": "assemble_3103949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418578_50be6442be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418578_a68f53a8be_o.png",
+      "id_image": "assembling_6310902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040285_845614da88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040285_8f9b517648_o.png",
+      "id_image": "assembly_1453773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418548_3b127cd19a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418548_3c2813f40f_o.png",
+      "id_image": "assembly_2082147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658769_b244e97dd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658769_2e6501be45_o.png",
+      "id_image": "assembly_2752790"
+    }
+  ]
+}

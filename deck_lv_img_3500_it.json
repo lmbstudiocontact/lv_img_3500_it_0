@@ -1,0 +1,90 @@
+{
+  "english": "deck",
+  "phat_am": "[dek]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "boong tàu, sàn tàu",
+          "list_en_vn": [
+            {
+              "full_en": "on deck",
+              "full_vn": "trên boong"
+            },
+            {
+              "full_en": "upper deck",
+              "full_vn": "boong trên"
+            },
+            {
+              "full_en": "lower deck",
+              "full_vn": "boong dưới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tầng trên, tầng nóc (xe buýt hai tầng)"
+        },
+        {
+          "m_full_vn": "(hàng không), (từ lóng) đất, mặt đất"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) cỗ bài",
+          "list_one_mean": [
+            {
+              "id_full_en": "to clear the decks for action",
+              "list_im": [
+                {
+                  "im_full_vn": "chuẩn bị chiến đấu (tàu chiến)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) chuẩn bị hành động, sẵn sàng hành động"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on deck",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) sẵn sàng hành động"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trang hoàng, tô điểm",
+          "list_en_vn": [
+            {
+              "full_en": "to deck oneself out with fine jewels",
+              "full_vn": "tô điểm bằng các đồ trang sức đẹp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) đóng dàn (tàu)"
+        },
+        {
+          "m_full_vn": "(thông tục) hạ đo ván"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307381_e242b2029b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307381_dc7cef5c57_o.png",
+      "id_image": "deck_2240422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307371_bd02e97f82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307371_32f1f74b7d_o.png",
+      "id_image": "deck_4320025"
+    }
+  ]
+}

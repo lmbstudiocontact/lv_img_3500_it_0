@@ -1,0 +1,337 @@
+{
+  "english": "account",
+  "phat_am": "[ə'kaunt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tính toán số tiền phải trả hoặc nợ về hàng hoá hoặc dịch vụ",
+          "list_en_vn": [
+            {
+              "full_en": "to send in /render an account",
+              "full_vn": "giao/thanh toán một khoản tiền"
+            },
+            {
+              "full_en": "to keep accounts",
+              "full_vn": "giữ sổ sách kế toán"
+            },
+            {
+              "full_en": "the accounts show a big profit",
+              "full_vn": "sổ sách kế toán cho thấy tiền lời rất nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tài chính) tài khoản (viết tắt) là a/c",
+          "list_en_vn": [
+            {
+              "full_en": "to have an account at /with that bank",
+              "full_vn": "có một tài khoản ở ngân hàng kia"
+            },
+            {
+              "full_en": "to open an account",
+              "full_vn": "mở tài khoản (gửi tiền vào)"
+            },
+            {
+              "full_en": "to close an account",
+              "full_vn": "rút tiền ra khỏi tài khoản"
+            },
+            {
+              "full_en": "Will you pay cash or shall I charge it to your account ?",
+              "full_vn": "Ông muốn trả bằng tiền mặt hay là tôi sẽ trừ vào tài khoản của ông?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản kê khai; bản báo cáo; bản miêu tả",
+          "list_one_mean": [
+            {
+              "id_full_en": "to balance the accounts",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) balance"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by /from all accounts",
+              "list_im": [
+                {
+                  "im_full_vn": "theo những thông tin thu thập được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call somebody to account for /over something",
+              "list_im": [
+                {
+                  "im_full_vn": "yêu cầu ai giải thích (một sai lầm, một sự thua thiệt....)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast up accounts",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt); (thông tục) nôn mửa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by one's own account",
+              "list_im": [
+                {
+                  "im_full_vn": "theo ý kiến của bản thân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give a good account of oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "gây được tiếng tốt cho mình; (thể dục,thể thao) thắng lợi, đạt được kết quả tốt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the great account",
+              "list_im": [
+                {
+                  "im_full_vn": "(tôn giáo) ngày tận thế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave something out of account",
+              "list_im": [
+                {
+                  "im_full_vn": "không quan tâm đến cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "of great , small account",
+              "list_im": [
+                {
+                  "im_full_vn": "có tầm quan trọng to lớn, nhỏ bé"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on one's own account",
+              "list_im": [
+                {
+                  "im_full_vn": "vì lợi ích của riêng mình và sự nguy hiểm của riêng mình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to work on one's own account",
+                      "full_vn": "làm việc cho bản thân mình"
+                    },
+                    {
+                      "full_en": "I was worried on my own account , not yours",
+                      "full_vn": "Tôi lo là lo cho tôi, chứ đâu phải cho anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on somebody's account",
+              "list_im": [
+                {
+                  "im_full_vn": "vì lợi ích của ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "don't change your plan on my account",
+                      "full_vn": "đừng vì tôi mà thay đổi kế hoạch của anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to settle (square , balance ) accounts with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "thanh toán với ai"
+                },
+                {
+                  "im_full_vn": "trả thù ai, thanh toán mối thù với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put /turn something to good account",
+              "list_im": [
+                {
+                  "im_full_vn": "sử dụng (tiền, khả năng...) có hiệu quả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on account",
+              "list_im": [
+                {
+                  "im_full_vn": "trả trước cho một khoản lớn hơn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll give you 200 francs on account",
+                      "full_vn": "Tôi sẽ trả trước cho anh 200 quan"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "được trả sau; mua chịu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to buy something on account",
+                      "full_vn": "mua chịu cái gì"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on account of something ; on this /that account",
+              "list_im": [
+                {
+                  "im_full_vn": "do cái gì; vì lý do này/nọ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on no account ; not on any account",
+              "list_im": [
+                {
+                  "im_full_vn": "không vì bất kỳ lý do nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "don't on any account leave the prisoner unguarded",
+                      "full_vn": "không vì bất cứ lý do nào mà bỏ canh gác tù nhân"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take account of something ; to take something into account",
+              "list_im": [
+                {
+                  "im_full_vn": "kể đến cái gì; tính đến cái gì; chiếu cố đến cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "profit and loss account",
+              "full_vn": "bản kê khai lỗ lãi"
+            },
+            {
+              "full_en": "account of expenses",
+              "full_vn": "bản kê khai các khoản chi tiêu"
+            },
+            {
+              "full_en": "to make out an account of articles",
+              "full_vn": "làm bản kê khai hàng hoá"
+            },
+            {
+              "full_en": "to send in an account with the goods",
+              "full_vn": "gửi hàng kèm theo hoá đơn thanh toán tiền"
+            },
+            {
+              "full_en": "she gave the police a full account of the incident",
+              "full_vn": "cô ta báo cáo đầy đủ sự việc cho cảnh sát"
+            },
+            {
+              "full_en": "a detailed account of a football match",
+              "full_vn": "bài tường thuật chi tiết về một trận bóng đá"
+            },
+            {
+              "full_en": "don't believe the newspaper account (of what happened )",
+              "full_vn": "đừng tin những điều mô tả trên báo chí (về những việc đã xảy ra)"
+            },
+            {
+              "full_en": "keep an account of your daily activities",
+              "full_vn": "hãy ghi sổ công việc hàng ngày của anh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "coi, coi như, coi là, cho là",
+          "list_en_vn": [
+            {
+              "full_en": "to be accounted innocent",
+              "full_vn": "được coi là vô tội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to account to somebody for something ) ghi chép đàng hoàng",
+          "list_en_vn": [
+            {
+              "full_en": "we must account (to our employer ) for every penny we spend during the trip",
+              "full_vn": "chúng ta phải ghi chép (cho ông chủ) từng đồng xu đã chi trong chuyến đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to account for something ) giải thích nguyên nhân gây ra điều gì",
+          "list_en_vn": [
+            {
+              "full_en": "his illness accounts for his absence",
+              "full_vn": "ốm đau là lý do khiến ông ta vắng mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to account for somebody / something ) phá hủy cái gì hoặc giết chết ai",
+          "list_one_mean": [
+            {
+              "id_full_en": "there's no accounting for taste",
+              "list_im": [
+                {
+                  "im_full_vn": "khó mà giải thích được sở thích/thị hiếu của từng người"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "our anti-aircraft guns accounted for five enemy bombers",
+              "full_vn": "súng phòng không của chúng tôi đã bắn rơi được năm oanh tạc cơ của địch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369987_8cd4d93208_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369987_6a26a75f25_o.png",
+      "id_image": "account_1285719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061895_f48714c271_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061895_d42c0761f6_o.png",
+      "id_image": "account_1728902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325016_17d1b50554_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325016_b2f798246b_o.png",
+      "id_image": "account_1892579"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369877_cb3b876be6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369877_ff4d59a084_o.png",
+      "id_image": "account_2867567"
+    }
+  ]
+}

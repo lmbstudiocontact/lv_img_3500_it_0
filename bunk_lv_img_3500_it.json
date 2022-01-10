@@ -1,0 +1,87 @@
+{
+  "english": "bunk",
+  "phat_am": "[bʌηk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giường ngủ (trên tàu thuỷ, xe lửa)"
+        },
+        {
+          "m_full_vn": "như bunk bed"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đi ngủ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) xếp chỗ ngủ cho"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) sự cuốn xéo, sự biến, sự chuồn thẳng",
+          "list_en_vn": [
+            {
+              "full_en": "to do a bunk",
+              "full_vn": "cuốn xéo, biến, chuồn thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) như bunkum",
+          "list_one_mean": [
+            {
+              "id_full_en": "to talk bunk",
+              "list_im": [
+                {
+                  "im_full_vn": "nói nhảm; nói xàm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425433_dc7e6d2df5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425433_8b261d5723_o.png",
+      "id_image": "bunk_1174100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354542_183a2825c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354542_00d6f88991_o.png",
+      "id_image": "bunk_1174898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425383_790e938c9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425383_95bd9cdf1c_o.png",
+      "id_image": "bunk_1606442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047285_e99744ccb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047285_4fd8e2430e_o.png",
+      "id_image": "bunk_418600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047260_f760f6ab58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047260_c5b745ecdc_o.png",
+      "id_image": "bunk_494772"
+    }
+  ]
+}

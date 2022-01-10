@@ -1,0 +1,41 @@
+{
+  "english": "ankle",
+  "phat_am": "['æηkl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mắt cá chân",
+          "list_en_vn": [
+            {
+              "full_en": "to kick (knock ) one's ankles",
+              "full_vn": "đi hai chân chạm mắt cá nhau"
+            },
+            {
+              "full_en": "ankle socks",
+              "full_vn": "bít tất ngắn (mang đến mắt cá thôi)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426803_38fe0d0fdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426803_95aa260960_o.png",
+      "id_image": "ankle_1235612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311951_7c7475be64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311951_37547fea21_o.png",
+      "id_image": "ankle_3116279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048540_c70ffe3ed1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048540_dee1416b47_o.png",
+      "id_image": "ankle_5727009"
+    }
+  ]
+}

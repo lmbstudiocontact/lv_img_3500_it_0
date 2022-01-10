@@ -1,0 +1,158 @@
+{
+  "english": "brush",
+  "phat_am": "[brʌ∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bàn chải"
+        },
+        {
+          "m_full_vn": "sự chải",
+          "list_en_vn": [
+            {
+              "full_en": "to give one's clothes a good brush",
+              "full_vn": "chải quần áo sạch sẽ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bút lông (vẽ)",
+          "list_en_vn": [
+            {
+              "full_en": "the brush",
+              "full_vn": "nghệ thuật vẽ; nét bút của hoạ sĩ, hoạ sĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đuôi chồn"
+        },
+        {
+          "m_full_vn": "bụi cây"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) cành cây bó thành bó"
+        },
+        {
+          "m_full_vn": "(quân sự) cuộc chạm trán chớp nhoáng",
+          "list_en_vn": [
+            {
+              "full_en": "a brush with the enemy",
+              "full_vn": "cuộc chạm trán chớp nhoáng với quân thù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) cái chổi",
+          "list_en_vn": [
+            {
+              "full_en": "carbon brush",
+              "full_vn": "chổi than"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chải, quét",
+          "list_en_vn": [
+            {
+              "full_en": "to brush one's hair",
+              "full_vn": "chải tóc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vẽ lên (giấy, lụa...)"
+        },
+        {
+          "m_full_vn": "chạm qua, lướt qua (vật gì)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chạm nhẹ phải, lướt phải",
+          "list_one_mean": [
+            {
+              "id_full_en": "to brush somebody /something aside",
+              "list_im": [
+                {
+                  "im_full_vn": "gạt ai/cái gì sang một bên, chẳng chú ý đến ai/cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to brush something away /off",
+              "list_im": [
+                {
+                  "im_full_vn": "chải sạch; phủi sạch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to brush off",
+              "list_im": [
+                {
+                  "im_full_vn": "bị gạt đi bằng cách chải; được chải sạch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to brush somebody off",
+              "list_im": [
+                {
+                  "im_full_vn": "từ chối không nghe ai; phớt lờ ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to brush something up ; to brush up on something",
+              "list_im": [
+                {
+                  "im_full_vn": "ôn lại, xem lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to brush up one's English before going abroad",
+                      "full_vn": "ôn lại tiếng Anh trước khi ra nước ngoài"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to brush against somebody",
+              "full_vn": "đi chạm nhẹ phải ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050560_f0b6780cfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050560_ff9046fa60_o.png",
+      "id_image": "brush_438640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050530_bbb5257324_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050530_37cb7a278b_o.png",
+      "id_image": "brush_563043"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050490_c97df1006a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050490_cd758b1684_o.png",
+      "id_image": "brush_807853"
+    }
+  ]
+}

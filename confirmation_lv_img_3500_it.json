@@ -1,0 +1,65 @@
+{
+  "english": "confirmation",
+  "phat_am": "[,kɔnfə'mei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xác nhận; sự chứng thực",
+          "list_en_vn": [
+            {
+              "full_en": "the confirmation of a report",
+              "full_vn": "sự xác nhận một bản báo cáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thừa nhận, sự phê chuẩn",
+          "list_en_vn": [
+            {
+              "full_en": "the confirmation of a treaty",
+              "full_vn": "sự phê chuẩn một hiệp ước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự làm vững chắc, sự củng cố"
+        },
+        {
+          "m_full_vn": "sự làm cho nhiễm sâu thêm (một thói quen...)"
+        },
+        {
+          "m_full_vn": "(tôn giáo) lễ kiên tín, lễ thêm sức"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048880_05f9362fcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048880_68c3d92316_o.png",
+      "id_image": "confirmation_1648797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667159_7d890258eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667159_154eaa26a9_o.png",
+      "id_image": "confirmation_2819580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048815_77127c222b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048815_3672324cef_o.png",
+      "id_image": "confirmation_2867644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312191_acdd70ff41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312191_60e968fed3_o.png",
+      "id_image": "confirmation_4807918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048780_ef6a6fb273_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048780_13a8481df6_o.png",
+      "id_image": "confirmation_5673740"
+    }
+  ]
+}

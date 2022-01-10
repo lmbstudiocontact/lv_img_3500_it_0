@@ -1,0 +1,49 @@
+{
+  "english": "assignment",
+  "phat_am": "[ə'sainmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhiệm vụ hoặc bổn phận đã được phân cho ai",
+          "list_en_vn": [
+            {
+              "full_en": "your next assignment will be to find these missing persons",
+              "full_vn": "nhiệm vụ sắp tới của anh là tìm kiếm những người mất tích đó"
+            },
+            {
+              "full_en": "she was sent abroad on a difficult assignment",
+              "full_vn": "cô ta được cử ra nước ngoài làm một nhiệm vụ khó khăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) sự chuyển nhượng (tài sản, quyền lợi...); chứng từ chuyển nhượng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039860_aba581eaea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039860_82aabe5a91_o.png",
+      "id_image": "assignment_1328248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418128_c5066f93eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418128_e7188c12c3_o.png",
+      "id_image": "assignment_4806020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658369_baa1307010_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658369_69202c423c_o.png",
+      "id_image": "assignment_6213275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303101_07a8f3f7eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303101_8af01d3132_o.png",
+      "id_image": "assignment_6305590"
+    }
+  ]
+}

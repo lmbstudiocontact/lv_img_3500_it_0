@@ -1,0 +1,90 @@
+{
+  "english": "absent",
+  "phat_am": "[əb'sent]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( absent from something ) không có mặt ở nơi nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "to be absent from school /work",
+              "full_vn": "vắng mặt ở trường/nơi làm việc"
+            },
+            {
+              "full_en": "to be absent from a meeting",
+              "full_vn": "không có mặt ở một cuộc họp"
+            },
+            {
+              "full_en": "absent friends",
+              "full_vn": "những người bạn vắng mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không tồn tại, thiếu",
+          "list_en_vn": [
+            {
+              "full_en": "love was totally absent from his childhood",
+              "full_vn": "từ thời thơ ấu anh ấy đã thiếu hẳn tình thương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có vẻ như không nghĩ đến điều đang được nói hoặc đang được thực hiện quanh ta; thẫn thờ",
+          "list_en_vn": [
+            {
+              "full_en": "an absent expression /look",
+              "full_vn": "vẻ mặt/cái nhìn thẫn thờ"
+            },
+            {
+              "full_en": "an absent air",
+              "full_vn": "vẻ lơ đãng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ phản thân",
+      "list_m": [
+        {
+          "m_full_vn": "( to absent oneself from something ) không có mặt ở nơi nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "to absent oneself from school",
+              "full_vn": "nghỉ học"
+            },
+            {
+              "full_en": "to absent oneself from work",
+              "full_vn": "không đến nơi làm việc; nghỉ làm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682374_a979bce038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682374_0c6198ff5b_o.png",
+      "id_image": "absent_4776097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442228_ce8252b9bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442228_d59d3722cc_o.png",
+      "id_image": "absent_4784979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371852_6934bfe2d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371852_ebea3db17d_o.png",
+      "id_image": "absent_4797103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327066_8498090f4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327066_312b28f68a_o.png",
+      "id_image": "absent_5110182"
+    }
+  ]
+}

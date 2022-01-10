@@ -1,0 +1,193 @@
+{
+  "english": "bar",
+  "phat_am": "[bɑ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "barơ (đơn vị áp suất)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thanh, thỏi",
+          "list_en_vn": [
+            {
+              "full_en": "a bar of chocolate",
+              "full_vn": "thanh sôcôla"
+            },
+            {
+              "full_en": "a bar of gold",
+              "full_vn": "thỏi vàng"
+            },
+            {
+              "full_en": "a bar of soap",
+              "full_vn": "một bánh xà phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chấn song; then chắn (cửa)",
+          "list_en_vn": [
+            {
+              "full_en": "behind bars",
+              "full_vn": "sau chấn song, trong tù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật ngáng; cái ngáng đường (để thu thuế)"
+        },
+        {
+          "m_full_vn": "cồn cát ngầm (ở cửa sông hay hải cảng)"
+        },
+        {
+          "m_full_vn": "vạch ngang (ở trên huy chương)"
+        },
+        {
+          "m_full_vn": "vạch đường kẻ",
+          "list_en_vn": [
+            {
+              "full_en": "there was a bar of red across the western sky",
+              "full_vn": "có một vạch sáng đỏ trên trời về phía tây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) gạch nhịp; nhịp"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) thanh, cần"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) xà",
+          "list_en_vn": [
+            {
+              "full_en": "bars",
+              "full_vn": "xà kép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) sự kháng biện"
+        },
+        {
+          "m_full_vn": "(pháp lý) vành móng ngựa, toà",
+          "list_en_vn": [
+            {
+              "full_en": "to be tried at the bar",
+              "full_vn": "bị xử tại toà"
+            },
+            {
+              "full_en": "the bar of public opinion",
+              "full_vn": "toà án dư luận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the bar ) nghề luật sư",
+          "list_en_vn": [
+            {
+              "full_en": "to be called to the bar ; to go to the bar",
+              "full_vn": "trở thành luật sư"
+            },
+            {
+              "full_en": "to read for the bar",
+              "full_vn": "học luật (để ra làm luật sư)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quầy bán rượu"
+        },
+        {
+          "m_full_vn": "sự trở ngại, sự cản trở (về tinh thần)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cài, then (cửa)"
+        },
+        {
+          "m_full_vn": "chặn (đường...), ngăn cản"
+        },
+        {
+          "m_full_vn": "vạch đường kẻ"
+        },
+        {
+          "m_full_vn": "cấm, cấm chỉ"
+        },
+        {
+          "m_full_vn": "(từ lóng) ghét, không ưa (một người, một thói quen)"
+        },
+        {
+          "m_full_vn": "(pháp lý) kháng biện",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bar in",
+              "list_im": [
+                {
+                  "im_full_vn": "chặn (cửa) không cho ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bar out",
+              "list_im": [
+                {
+                  "im_full_vn": "chặn (cửa) không cho vào"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "trừ, trừ ra",
+          "list_en_vn": [
+            {
+              "full_en": "bar unforeseen circumstances",
+              "full_vn": "trừ những trường hợp bất thường"
+            },
+            {
+              "full_en": "bar one",
+              "full_vn": "trừ một"
+            },
+            {
+              "full_en": "bar none",
+              "full_vn": "không trừ một ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052565_61f148b2e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052565_09f715bc78_o.png",
+      "id_image": "bar_1060312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316121_34a118f495_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316121_8090d027ef_o.png",
+      "id_image": "bar_2240575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316101_e9d6954e28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316101_b0fc0eea91_o.png",
+      "id_image": "bar_2334269"
+    }
+  ]
+}

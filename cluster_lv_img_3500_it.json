@@ -1,0 +1,74 @@
+{
+  "english": "cluster",
+  "phat_am": "['klʌstə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đám, bó, cụm; đàn, bầy",
+          "list_en_vn": [
+            {
+              "full_en": "a cluster of people",
+              "full_vn": "đám người"
+            },
+            {
+              "full_en": "a cluster of flowers",
+              "full_vn": "bó hoa"
+            },
+            {
+              "full_en": "a cluster of bees",
+              "full_vn": "đàn ong"
+            },
+            {
+              "full_en": "a cluster of bananas",
+              "full_vn": "nải chuối"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mọc thành đám, mọc thành cụm (cây cối); ra thành cụm (hoa quả)"
+        },
+        {
+          "m_full_vn": "tụ họp lại, tụm lại",
+          "list_en_vn": [
+            {
+              "full_en": "children cluster round their mother",
+              "full_vn": "con cái tụm lại quanh mẹ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thu gộp, góp lại, hợp lại, bó lại"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683149_25bc79b9c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683149_0803b92b90_o.png",
+      "id_image": "cluster_3231334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328026_e18790eab7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328026_e92ea29295_o.png",
+      "id_image": "cluster_3966298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328021_f24ae18626_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328021_19b5e0a7d0_o.png",
+      "id_image": "cluster_4882414"
+    }
+  ]
+}

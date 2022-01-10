@@ -1,0 +1,213 @@
+{
+  "english": "book",
+  "phat_am": "[buk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sách",
+          "list_en_vn": [
+            {
+              "full_en": "old book",
+              "full_vn": "sách cũ"
+            },
+            {
+              "full_en": "to write a book",
+              "full_vn": "viết một cuốn sách"
+            },
+            {
+              "full_en": "book of stamps",
+              "full_vn": "một tập tem"
+            },
+            {
+              "full_en": "book I",
+              "full_vn": "tập 1"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) sổ sách kế toán"
+        },
+        {
+          "m_full_vn": "( the book ) kinh thánh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be someone's bad book",
+              "list_im": [
+                {
+                  "im_full_vn": "không được ai ưa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be someone's good book",
+              "list_im": [
+                {
+                  "im_full_vn": "được ai yêu mến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring someone to book",
+              "list_im": [
+                {
+                  "im_full_vn": "hỏi tội và trừng phạt ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to know something like a book",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) know"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to speak by the book",
+              "list_im": [
+                {
+                  "im_full_vn": "nói có sách, mách có chứng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to suit one's book",
+              "list_im": [
+                {
+                  "im_full_vn": "hợp với ý nguyện của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to speak (talk ) like a book",
+              "list_im": [
+                {
+                  "im_full_vn": "nói như sách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a leaf out of someone's book",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) leaf"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cook the books",
+              "list_im": [
+                {
+                  "im_full_vn": "xem cook"
+                }
+              ]
+            },
+            {
+              "id_full_en": "every trick in the book",
+              "list_im": [
+                {
+                  "im_full_vn": "bài bản trong sách vở, phương sách khả dĩ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on the books of a football team",
+              "list_im": [
+                {
+                  "im_full_vn": "được tuyển làm cầu thủ cho một đội bóng đá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw the book at sb",
+              "list_im": [
+                {
+                  "im_full_vn": "khuyến cáo ai phải tuân theo nội quy kỷ luật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to read sb like a book",
+              "list_im": [
+                {
+                  "im_full_vn": "hiểu ai quá rõ, đi guốc trong bụng ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "an open book",
+              "list_im": [
+                {
+                  "im_full_vn": "người cởi mở và thẳng thắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a closed book to sb",
+              "list_im": [
+                {
+                  "im_full_vn": "xem closed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "viết vào vở; ghi vào vở"
+        },
+        {
+          "m_full_vn": "ghi tên người mua vé trước"
+        },
+        {
+          "m_full_vn": "ghi địa chỉ (để chuyển hàng)"
+        },
+        {
+          "m_full_vn": "giữ chỗ trước, mua vé trước",
+          "list_en_vn": [
+            {
+              "full_en": "to book seats for the threatre",
+              "full_vn": "mua vé trước để đi xem hát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lấy vé (xe lửa...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "I am booked",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi bị tóm rồi, tôi bị giữ rồi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368992_5277c8f323_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368992_065dd3c8ac_o.png",
+      "id_image": "book_1032653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369062_c49360913a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369062_922e007483_o.png",
+      "id_image": "book_169120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679339_ec3fcbe3b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679339_37b7a601ba_o.png",
+      "id_image": "book_170584"
+    }
+  ]
+}

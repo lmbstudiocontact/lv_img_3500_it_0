@@ -1,0 +1,53 @@
+{
+  "english": "anvil",
+  "phat_am": "['ænvil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái đe"
+        },
+        {
+          "m_full_vn": "(giải phẫu) xương đe",
+          "list_one_mean": [
+            {
+              "id_full_en": "a good anvil does not fear the hammer",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) cây ngay không sợ chết đứng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "anvil chorus",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) tiếng đồng thanh la hò của những người phản đối"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be on the anvil",
+              "full_vn": "đang làm, đang xem xét, đang nghiên cứu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664964_2a2b3a6d5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664964_3080e09eae_o.png",
+      "id_image": "anvil_2458542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664979_65dfd030b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664979_b3990f3644_o.png",
+      "id_image": "anvil_664119"
+    }
+  ]
+}

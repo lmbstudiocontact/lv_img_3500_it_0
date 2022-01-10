@@ -1,0 +1,46 @@
+{
+  "english": "cauliflower",
+  "phat_am": "['kɔliflauə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cải hoa, súp-lơ",
+          "list_en_vn": [
+            {
+              "full_en": "cauliflower cheese",
+              "full_vn": "món súplơ nấu với nước sốt phó mát"
+            },
+            {
+              "full_en": "cauliflower ear",
+              "full_vn": "lỗ tai sưng vễu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434018_a4e46c9b88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434018_4dd90df5b4_o.png",
+      "id_image": "cauliflower_3768378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363337_470c4a0238_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363337_40ce1bfacc_o.png",
+      "id_image": "cauliflower_4796205"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433953_a3d385e7a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433953_df377a1ef8_o.png",
+      "id_image": "cauliflower_6108215"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318826_3cf1d3205e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318826_24995be292_o.png",
+      "id_image": "cauliflower_628122"
+    }
+  ]
+}

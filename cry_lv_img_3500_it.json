@@ -1,0 +1,270 @@
+{
+  "english": "cry",
+  "phat_am": "[krai]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng kêu, tiếng la, tiếng hò hét, tiếng hò reo (vì đau đớn, sợ, mừng rỡ...)",
+          "list_en_vn": [
+            {
+              "full_en": "a cry for help",
+              "full_vn": "tiếng kêu cứu"
+            },
+            {
+              "full_en": "a cry of triumph",
+              "full_vn": "tiếng hò reo chiến thắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng rao hàng ngoài phố"
+        },
+        {
+          "m_full_vn": "lời hô, lời kêu gọi"
+        },
+        {
+          "m_full_vn": "sự khóc, tiếng khóc",
+          "list_en_vn": [
+            {
+              "full_en": "to have a good cry",
+              "full_vn": "khóc nức nở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dư luận quần chúng, tiếng nói quần chúng"
+        },
+        {
+          "m_full_vn": "tiếng chó sủa ( (nghĩa đen) & (nghĩa bóng))",
+          "list_one_mean": [
+            {
+              "id_full_en": "a far cry",
+              "list_im": [
+                {
+                  "im_full_vn": "quãng cách xa; sự khác xa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the second translation of the book is a far cry from the first",
+                      "full_vn": "bản dịch thứ hai của quyển sách khác xa bản thứ nhất"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to follow in the cry",
+              "list_im": [
+                {
+                  "im_full_vn": "ở trong một đám đông vô danh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in full cry",
+              "list_im": [
+                {
+                  "im_full_vn": "hò hét đuổi theo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hue and cry",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hue"
+                }
+              ]
+            },
+            {
+              "id_full_en": "much cry and little wool",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyện bé xé ra to"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "with the hounds in full cry after it",
+              "full_vn": "có cả một lũ chó săn sủa ầm ĩ đuổi theo sau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kêu, gào, thét, la hét"
+        },
+        {
+          "m_full_vn": "khóc, khóc lóc",
+          "list_en_vn": [
+            {
+              "full_en": "to cry bitter tears , to cry one's heart out",
+              "full_vn": "khóc lóc thảm thiết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rao",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cry down",
+              "list_im": [
+                {
+                  "im_full_vn": "chê bai, làm giảm giá trị, làm mất thanh danh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cry for",
+              "list_im": [
+                {
+                  "im_full_vn": "đòi, vòi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to cry for the moon",
+                      "full_vn": "đòi ăn trứng trâu, đòi ăn gan trời"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cry off",
+              "list_im": [
+                {
+                  "im_full_vn": "không giữ lời, nuốt lời",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to cry off from the bargain",
+                      "full_vn": "đã mặc cả thoả thuận rồi lại nuốt lời"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cry out",
+              "list_im": [
+                {
+                  "im_full_vn": "thét"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cry up",
+              "list_im": [
+                {
+                  "im_full_vn": "tán dương"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cry halves",
+              "list_im": [
+                {
+                  "im_full_vn": "đòi chia phần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cry mercy",
+              "list_im": [
+                {
+                  "im_full_vn": "xin dung thứ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cry oneself to sleep",
+              "list_im": [
+                {
+                  "im_full_vn": "khóc tới khi ngủ thiếp đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cry out before one is hurt",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa đánh đã khóc, chưa đụng đến đã la làng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cry stinking fish",
+              "list_im": [
+                {
+                  "im_full_vn": "vạch áo cho người xem lưng, lạy ông tôi ở bụi này"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cry wolf",
+              "list_im": [
+                {
+                  "im_full_vn": "kêu cứu đùa, kêu cứu láo để đánh lừa mọi người"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it is no use crying over spilt milk",
+              "list_im": [
+                {
+                  "im_full_vn": "kêu ca cũng bằng thừa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for crying out loud !",
+              "list_im": [
+                {
+                  "im_full_vn": "gì mà ầm ĩ thế!"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to cry one's wares",
+              "full_vn": "rao hàng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671909_c993acb972_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671909_08162f28ea_o.png",
+      "id_image": "cry_3163429"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361467_df144896da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361467_fd108dd722_o.png",
+      "id_image": "cry_4860869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317151_2edaf28cb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317151_ca308d001d_o.png",
+      "id_image": "cry_4897257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671949_2f3381543e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671949_432c75083e_o.png",
+      "id_image": "cry_501119"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053545_0919b88f5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053545_84063f0e78_o.png",
+      "id_image": "cry_5046982"
+    }
+  ]
+}

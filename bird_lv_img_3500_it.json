@@ -1,0 +1,174 @@
+{
+  "english": "bird",
+  "phat_am": "[bə:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con chim"
+        },
+        {
+          "m_full_vn": "(thông tục) gã, thằng cha",
+          "list_en_vn": [
+            {
+              "full_en": "a queer bird",
+              "full_vn": "thằng cha kỳ dị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) cô gái",
+          "list_one_mean": [
+            {
+              "id_full_en": "a bird in the bush",
+              "list_im": [
+                {
+                  "im_full_vn": "điều mình không biết; điều không chắc chắn có"
+                }
+              ]
+            },
+            {
+              "id_full_en": "birds of a feather",
+              "list_im": [
+                {
+                  "im_full_vn": "những người giống tính nết nhau, những người cùng một giuộc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "birds of a feather flock together",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) ngưu tầm ngưu, mã tầm mã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a bird in the hand",
+              "list_im": [
+                {
+                  "im_full_vn": "vật mình có chắc trong tay; điều mình chắc chắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a bird in the hand is worth two in the bush",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) không nên thả mồi bắt bóng; thà rằng được sẻ trên tay, còn hơn được hứa trên mây hạc vàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bird of ill omen",
+              "list_im": [
+                {
+                  "im_full_vn": "người mang tin xấu"
+                },
+                {
+                  "im_full_vn": "người không may, người gặp vận rủi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bird of passage",
+              "list_im": [
+                {
+                  "im_full_vn": "chim di trú; (nghĩa bóng) người nay đây mai đó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bird of peace",
+              "list_im": [
+                {
+                  "im_full_vn": "chim hoà bình, bồ câu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get the bird",
+              "list_im": [
+                {
+                  "im_full_vn": "bị huýt sáo, bị la ó"
+                },
+                {
+                  "im_full_vn": "bị đuổi đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give someone the bird",
+              "list_im": [
+                {
+                  "im_full_vn": "huýt sáo ai, la ó ai"
+                },
+                {
+                  "im_full_vn": "đuổi ai, tống cổ ai đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kill two birds with one stone",
+              "list_im": [
+                {
+                  "im_full_vn": "một công đôi việc, nhất cử lưỡng tiện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "old bird",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) old"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the bird has flown",
+              "list_im": [
+                {
+                  "im_full_vn": "con mồi đã vuột mất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the birds and the bees",
+              "list_im": [
+                {
+                  "im_full_vn": "kiến thức cơ bản về tình dục"
+                }
+              ]
+            },
+            {
+              "id_full_en": "little bird told me that you had been a thief",
+              "list_im": [
+                {
+                  "im_full_vn": "có người nói với tôi rằng anh từng đi ăn cướp, nhưng tôi chẳng cho anh biết người nói điều ấy là ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040550_4b69bfdccc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040550_1333c6a1ae_o.png",
+      "id_image": "bird_1591704"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418798_dcb8fc11f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418798_a8225f6342_o.png",
+      "id_image": "bird_183959"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418768_f313db20e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418768_f00096d4a0_o.png",
+      "id_image": "bird_2291206"
+    }
+  ]
+}

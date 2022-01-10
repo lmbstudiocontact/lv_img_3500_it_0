@@ -1,0 +1,90 @@
+{
+  "english": "award",
+  "phat_am": "[ə'wɔ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự quyết định cho cái gì, do quan toà, hội đồng trọng tài, hội đồng giám khảo... ban bố",
+          "list_en_vn": [
+            {
+              "full_en": "the award of a scholarship",
+              "full_vn": "quyết định cấp học bổng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần thưởng",
+          "list_en_vn": [
+            {
+              "full_en": "she showed us the athletics medals she had won",
+              "full_vn": "cô ấy cho chúng tôi xem những phần thưởng điền kinh mà cô ấy đã giành được"
+            },
+            {
+              "full_en": "to win a merit award",
+              "full_vn": "được phần thưởng công trạng"
+            },
+            {
+              "full_en": "award presentation",
+              "full_vn": "sự tặng thưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "học bổng",
+          "list_en_vn": [
+            {
+              "full_en": "eligible for an award",
+              "full_vn": "đủ tư cách nhận học bổng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to award something to somebody ) thưởng, tặng, phạt",
+          "list_en_vn": [
+            {
+              "full_en": "she was awarded a medal for bravery",
+              "full_vn": "cô ấy được tặng thưởng huy chương về lòng dũng cảm"
+            },
+            {
+              "full_en": "the jury awarded both teams equal points",
+              "full_vn": "ban giám khảo quyết định cho cả hai đội số điểm bằng nhau"
+            },
+            {
+              "full_en": "the court awarded him damages of 5000 dollars",
+              "full_vn": "toà quyết định phạt anh ta 5000 đô la về các thiệt hại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368912_3e5f81b94e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368912_d6ee069e26_o.png",
+      "id_image": "award_1426431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368872_6c0954c1c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368872_b291e516c8_o.png",
+      "id_image": "award_1426432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679114_943fd69615_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679114_1cfd8f79ee_o.png",
+      "id_image": "award_1529224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438928_460cf4881a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438928_6ef465628d_o.png",
+      "id_image": "award_5132995"
+    }
+  ]
+}

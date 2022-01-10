@@ -1,0 +1,30 @@
+{
+  "english": "crusade",
+  "phat_am": "[kru:'seid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(sử học) cuộc viễn chinh chữ thập (ở Châu âu)"
+        },
+        {
+          "m_full_vn": "chiến dịch; cuộc vận động lớn",
+          "list_en_vn": [
+            {
+              "full_en": "a crusade in favour of birth-control",
+              "full_vn": "cuộc vận động sinh đẻ có kế hoạch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361967_75003c89d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361967_4c8928189b_o.png",
+      "id_image": "crusade_5234359"
+    }
+  ]
+}

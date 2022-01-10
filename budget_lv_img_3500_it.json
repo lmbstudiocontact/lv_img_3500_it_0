@@ -1,0 +1,80 @@
+{
+  "english": "budget",
+  "phat_am": "['bʌdʒit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "túi (đầy), bao (đầy)"
+        },
+        {
+          "m_full_vn": "(nghĩa rộng) đống, kho, hàng khối",
+          "list_en_vn": [
+            {
+              "full_en": "budget of news",
+              "full_vn": "hàng khối tin tức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngân sách, ngân quỹ",
+          "list_one_mean": [
+            {
+              "id_full_en": "budget account",
+              "list_im": [
+                {
+                  "im_full_vn": "tài khoản mà khách hàng mở tại một cửa hàng để được mua trả chậm (tương ứng với ngạch số của tài khoản ấy)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dự thảo ngân sách; ghi vào ngân sách",
+          "list_en_vn": [
+            {
+              "full_en": "to budget for the coming year",
+              "full_vn": "dự thảo ngân sách cho năm tới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "rẻ, không đắt tiền"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049700_1953e6a398_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049700_ff66fd211c_o.png",
+      "id_image": "budgeting_2037592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357167_884d9de3e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357167_c7cbbca62f_o.png",
+      "id_image": "budgeting_2471933"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049765_cce09418b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049765_15eac949c5_o.png",
+      "id_image": "budget_1353778"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049750_079c2aa2ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049750_ffbe415c30_o.png",
+      "id_image": "budget_4576143"
+    }
+  ]
+}

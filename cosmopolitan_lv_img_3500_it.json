@@ -1,0 +1,57 @@
+{
+  "english": "cosmopolitan",
+  "phat_am": "[,kɔzmə'pɔlitən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) toàn thế giới; (thuộc) chủ nghĩa thế giới",
+          "list_en_vn": [
+            {
+              "full_en": "to have a cosmopolitan outlook",
+              "full_vn": "có quan điểm thế giới chủ nghĩa"
+            },
+            {
+              "full_en": "a cosmopolitan city",
+              "full_vn": "thành phố quốc tế"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người theo chủ nghĩa thế giới"
+        },
+        {
+          "m_full_vn": "kẻ giang hồ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684574_3fb9c3c4ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684574_9fe121d0f9_o.png",
+      "id_image": "cosmopolitan_3500308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329571_74d208248c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329571_af99e53073_o.png",
+      "id_image": "cosmopolitan_5295948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684509_0c24e5061b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684509_5516c36e49_o.png",
+      "id_image": "cosmopolitan_6408823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374302_f5360f41af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374302_95a687594b_o.png",
+      "id_image": "cosmopolitan_920600"
+    }
+  ]
+}

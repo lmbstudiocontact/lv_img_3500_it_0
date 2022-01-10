@@ -1,0 +1,63 @@
+{
+  "english": "departure",
+  "phat_am": "[di'pɑ:t∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự rời khỏi, sự ra đi, sự khởi hành",
+          "list_en_vn": [
+            {
+              "full_en": "to take one's departure",
+              "full_vn": "ra đi, lên đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự xao lãng nhiệm vụ, sự đi lệch hướng, sự lạc đề"
+        },
+        {
+          "m_full_vn": "(từ lóng) sự lệch hướng; sự chuyển hướng",
+          "list_en_vn": [
+            {
+              "full_en": "a new departure in politics",
+              "full_vn": "một hướng mới về chính trị, sự chuyển hướng về chính trị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( định ngữ) khởi hành; xuất phát",
+          "list_en_vn": [
+            {
+              "full_en": "departure position",
+              "full_vn": "vị trí xuất phát"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685954_b2a7288b12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685954_e4fdb860ba_o.png",
+      "id_image": "departure_2467707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375707_0d49bb53f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375707_66a5ddb975_o.png",
+      "id_image": "departure_293800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686014_1cf1535366_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686014_0344d91d85_o.png",
+      "id_image": "departure_314079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375657_7fa01f5e98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375657_7b48d5ac2b_o.png",
+      "id_image": "departure_529907"
+    }
+  ]
+}

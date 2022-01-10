@@ -1,0 +1,62 @@
+{
+  "english": "achievement",
+  "phat_am": "[ə't∫i:vmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành tích, thành tựu",
+          "list_en_vn": [
+            {
+              "full_en": "to record great achievements",
+              "full_vn": "đạt được những thành tích to lớn"
+            },
+            {
+              "full_en": "a scientific achievement",
+              "full_vn": "một thành tựu khoa học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đạt được, sự giành được; sự hoàn thành",
+          "list_en_vn": [
+            {
+              "full_en": "the achievement of independence",
+              "full_vn": "sự giành được độc lập"
+            },
+            {
+              "full_en": "to celebrate the achievement of one's aims",
+              "full_vn": "ăn mừng việc đạt được mục tiêu của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "huy hiệu, huy chương (để ghi nhớ một thành tích vẻ vang)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060655_a4c7b51081_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060655_699613656b_o.png",
+      "id_image": "achievement_1006656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438788_0a17c4b904_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438788_8887d67ee8_o.png",
+      "id_image": "achievement_1279948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060475_50fc91b294_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060475_8898469e4d_o.png",
+      "id_image": "achievement_3050455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060740_226493f507_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060740_d1bd56ae15_o.png",
+      "id_image": "achieve_5139999"
+    }
+  ]
+}

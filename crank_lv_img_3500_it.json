@@ -1,0 +1,61 @@
+{
+  "english": "crank",
+  "phat_am": "[kræηk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lối chơi chữ, lối nói kỳ quặc"
+        },
+        {
+          "m_full_vn": "ý nghĩ quái gỡ; hành động kỳ quặc, hành động lập dị"
+        },
+        {
+          "m_full_vn": "người kỳ quặc, người lập dị"
+        },
+        {
+          "m_full_vn": "cái quay tay (máy hơi nước, máy nổ)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lắp quay tay"
+        },
+        {
+          "m_full_vn": "bẻ thành hình quay tay"
+        },
+        {
+          "m_full_vn": "( crank up ) quay (máy)",
+          "list_en_vn": [
+            {
+              "full_en": "to crank up an engine",
+              "full_vn": "quay một cái máy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không vững, ọp ẹp, xộc xệch"
+        },
+        {
+          "m_full_vn": "(hàng hải) tròng trành, không vững (tàu, thuyền)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060530_ce8032d2c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060530_a629e5a767_o.png",
+      "id_image": "crank_1411857"
+    }
+  ]
+}

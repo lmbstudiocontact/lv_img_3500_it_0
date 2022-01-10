@@ -1,0 +1,81 @@
+{
+  "english": "coffee",
+  "phat_am": "['kɔfi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thứ bột có được do xay) hạt (đã rang) của cây cà phê; cà phê",
+          "list_en_vn": [
+            {
+              "full_en": "half a pound of coffee",
+              "full_vn": "nửa pao cà phê (bột)"
+            },
+            {
+              "full_en": "instant coffee",
+              "full_vn": "cà phê hoà tan"
+            },
+            {
+              "full_en": "coffee cake",
+              "full_vn": "bánh cà phê (bánh có vị cà phê)"
+            },
+            {
+              "full_en": "a cup of coffee",
+              "full_vn": "một tách cà phê"
+            },
+            {
+              "full_en": "to make some coffee",
+              "full_vn": "pha cà phê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một tách của thứ đồ uống này",
+          "list_en_vn": [
+            {
+              "full_en": "Two black /white coffees , please",
+              "full_vn": "cho hai cà phê đen/nâu (cà phê không sữa/có sữa)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "màu cà phê trộn với sữa; màu nâu nhạt",
+          "list_en_vn": [
+            {
+              "full_en": "a coffee carpet",
+              "full_vn": "tấm thảm màu cà phê"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325141_5feec400c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325141_f41bc3ea35_o.png",
+      "id_image": "coffee_421709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440113_0850dfe5ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440113_9fc52610cf_o.png",
+      "id_image": "coffee_434357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680224_fb2dbc8bf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680224_b847c38f2d_o.png",
+      "id_image": "coffee_434373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324986_69fd94ae4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324986_13014dd70c_o.png",
+      "id_image": "coffee_703027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369812_f2fd14b78d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369812_ed17e26a9a_o.png",
+      "id_image": "coffee_703029"
+    }
+  ]
+}

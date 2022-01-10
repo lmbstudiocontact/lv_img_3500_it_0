@@ -1,0 +1,71 @@
+{
+  "english": "arrival",
+  "phat_am": "[ə'raivəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đến, sự tới nơi",
+          "list_en_vn": [
+            {
+              "full_en": "cheers greeted the arrival of the Queen",
+              "full_vn": "những tiếng hoan hô chào mừng nữ hoàng tới"
+            },
+            {
+              "full_en": "on (your ) arrival at the hotel , please wait for further instructions",
+              "full_vn": "khi (anh) tới khách sạn, đề nghị anh hãy đợi thêm chỉ thị"
+            },
+            {
+              "full_en": "to await arrival",
+              "full_vn": "(nói về bức thư, gói hàng...) đợi (người nhận) đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người hoặc vật đến",
+          "list_en_vn": [
+            {
+              "full_en": "late arrivals must wait in the foyer",
+              "full_vn": "những người đến chậm phải đợi ở phòng giải lao"
+            },
+            {
+              "full_en": "we're expecting a new arrival in the family soon",
+              "full_vn": "chẳng bao lâu nữa gia đình chúng tôi sẽ có thêm một người (một đứa bé nữa sắp ra đời)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyến hàng mới đến"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042065_aa5fa4b124_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042065_55588a83be_o.png",
+      "id_image": "arrival_1688694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660459_accb36b443_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660459_3bd01c9166_o.png",
+      "id_image": "arrival_1688699"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042120_999302460e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042120_633b98411b_o.png",
+      "id_image": "arrival_314078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660599_10d46182ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660599_e176a42067_o.png",
+      "id_image": "arrival_407791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420173_b5cf4247ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420173_7790e326a9_o.png",
+      "id_image": "arrival_529929"
+    }
+  ]
+}

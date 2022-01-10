@@ -1,0 +1,163 @@
+{
+  "english": "circle",
+  "phat_am": "['sə:kl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường tròn, hình tròn",
+          "list_en_vn": [
+            {
+              "full_en": "polar circle",
+              "full_vn": "vòng cực"
+            },
+            {
+              "full_en": "vicious circle",
+              "full_vn": "vòng luẩn quẩn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tuần hoàn",
+          "list_en_vn": [
+            {
+              "full_en": "the circle of the seasons",
+              "full_vn": "sự tuần hoàn của các mùa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) nhóm người có quan hệ với nhau do có cùng quyền lợi, nghề nghiệp...; giới",
+          "list_en_vn": [
+            {
+              "full_en": "well-informed circles",
+              "full_vn": "giới thạo tin"
+            },
+            {
+              "full_en": "to be well known in business /political /theatrical circles",
+              "full_vn": "nổi tiếng trong giới kinh doanh/chính trị/sân khấu"
+            },
+            {
+              "full_en": "to move in fashionable circles",
+              "full_vn": "giao du trong giới sang trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chạy quanh (ngựa)"
+        },
+        {
+          "m_full_vn": "quỹ đạo (hành tinh)"
+        },
+        {
+          "m_full_vn": "phạm vi",
+          "list_en_vn": [
+            {
+              "full_en": "the circle of someone's activities",
+              "full_vn": "phạm vi hoạt động của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng ghế sắp tròn (trong rạp hát)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have circles round the eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "mắt thâm quầng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run round in circles",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) chạy nhông, chạy nhắng lên (mà không được việc gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to square the circle",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) square"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi chung quanh, xoay quanh",
+          "list_en_vn": [
+            {
+              "full_en": "the moon circles the earth",
+              "full_vn": "mặt trăng xoay quanh quả đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vây quanh"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) quay lộn",
+          "list_en_vn": [
+            {
+              "full_en": "to circle the bar",
+              "full_vn": "quay lộn trên xà đơn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xoay quanh; lượn tròn, lượn quanh (máy bay)"
+        },
+        {
+          "m_full_vn": "được chuyền quanh (rượu...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "news circles round",
+              "list_im": [
+                {
+                  "im_full_vn": "tin truyền đi, tin lan đi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043590_67c2627d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043590_864b04c512_o.png",
+      "id_image": "circles_238367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043555_50594e4d75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043555_419e3cffbe_o.png",
+      "id_image": "circles_2844977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421753_5b8508650e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421753_44597e308a_o.png",
+      "id_image": "circle_217216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350722_df983a4ca7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350722_1b7bf93ecf_o.png",
+      "id_image": "circle_3873888"
+    }
+  ]
+}

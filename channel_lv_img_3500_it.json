@@ -1,0 +1,113 @@
+{
+  "english": "channel",
+  "phat_am": "['t∫ænl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "eo biển"
+        },
+        {
+          "m_full_vn": "lòng sông, lòng suối"
+        },
+        {
+          "m_full_vn": "kênh mương, lạch; ống dẫn (nước dầu...)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) đường; nguồn (tin tức, ý nghĩ, tư tưởng...)",
+          "list_en_vn": [
+            {
+              "full_en": "secret channels of information",
+              "full_vn": "những nguồn tin mật"
+            },
+            {
+              "full_en": "through the usual channels",
+              "full_vn": "qua những nguồn thường lệ"
+            },
+            {
+              "full_en": "telegraphic channel",
+              "full_vn": "đường điện báo"
+            },
+            {
+              "full_en": "diplomatic channel",
+              "full_vn": "đường dây ngoại giao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(rađiô) kênh"
+        },
+        {
+          "m_full_vn": "(kiến trúc) đường xoi"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) máng, rãnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Channel",
+              "list_im": [
+                {
+                  "im_full_vn": "như English Channel"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đào rãnh, đào mương"
+        },
+        {
+          "m_full_vn": "chảy xói (đất) thành khe rãnh (nước mưa)"
+        },
+        {
+          "m_full_vn": "chuyển",
+          "list_en_vn": [
+            {
+              "full_en": "to channel information to",
+              "full_vn": "chuyển tin tức cho"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hướng vào (cái gì), xoáy vào (cái gì)"
+        },
+        {
+          "m_full_vn": "(kiến trúc) bào đường xoi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429058_71ecf13d8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429058_bff66bfe50_o.png",
+      "id_image": "channel_1207578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314116_ddc5119297_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314116_739a763f05_o.png",
+      "id_image": "channel_4062101"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358307_7d991f8e2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358307_fc6e2702d2_o.png",
+      "id_image": "channel_4577178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314036_3965b4e757_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314036_ffe06cd301_o.png",
+      "id_image": "channel_5853646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050830_2716e78a7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050830_9f5d9f0f6a_o.png",
+      "id_image": "channel_650975"
+    }
+  ]
+}

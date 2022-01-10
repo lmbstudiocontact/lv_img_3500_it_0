@@ -1,0 +1,35 @@
+{
+  "english": "choral",
+  "phat_am": "['kɔ:rəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bài thánh ca, bài lễ ca"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) đội hợp xướng, (thuộc) đội đồng ca",
+          "list_en_vn": [
+            {
+              "full_en": "a choral service",
+              "full_vn": "buổi lễ có đội hợp xướng (nhà thờ)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351747_da16571b38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351747_eda00bb774_o.png",
+      "id_image": "choral_122837"
+    }
+  ]
+}

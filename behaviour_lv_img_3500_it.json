@@ -1,0 +1,66 @@
+{
+  "english": "behaviour",
+  "phat_am": "[bi'heivjə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cách đối xử; cách cư xử; cách ăn ở; tư cách đạo đức",
+          "list_en_vn": [
+            {
+              "full_en": "good /bad behaviour",
+              "full_vn": "tư cách đạo đức tốt/xấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách hành động hoặc hoạt động",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on one's best behaviour",
+              "list_im": [
+                {
+                  "im_full_vn": "cư xử thật khéo léo; cư xử thật tốt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to study the behaviour of infants , apes , bees",
+              "full_vn": "nghiên cứu cách hoạt động của trẻ thơ, khỉ, ong"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352697_99cd560bcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352697_a590b3da34_o.png",
+      "id_image": "behaviour_3930532"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308536_7d2ddaca85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308536_0dcc6c42eb_o.png",
+      "id_image": "behaviour_5308028"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308506_6da64d49e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308506_8251de3079_o.png",
+      "id_image": "behaviour_5778282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663694_d71123f9f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663694_5bf3eae389_o.png",
+      "id_image": "behaviour_5998589"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663659_bc7bd82778_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663659_85882ea737_o.png",
+      "id_image": "behaviour_6002351"
+    }
+  ]
+}

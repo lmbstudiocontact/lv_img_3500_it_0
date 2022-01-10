@@ -1,0 +1,50 @@
+{
+  "english": "accomplishment",
+  "phat_am": "[ə'kɔmpli∫mənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hoàn thành, sự làm xong, sự làm trọn"
+        },
+        {
+          "m_full_vn": "sự thực hiện (mục đích...)",
+          "list_en_vn": [
+            {
+              "full_en": "the accomplishment of the prophecy",
+              "full_vn": "sự thực hiện lời tiên đoán"
+            },
+            {
+              "full_en": "the accomplishment of a desire",
+              "full_vn": "sự thực hiện được một điều ước mong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc đã hoàn thành, việc làm xong, ý định đã thực hiện được; thành quả, thành tựu, thành tích"
+        },
+        {
+          "m_full_vn": "( số nhiều) tài năng, tài nghệ (về nhạc, hoạ, nữ công...); (xấu) tài vặt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325376_2abb5c0df3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325376_3cf30dd37b_o.png",
+      "id_image": "accomplishment_1482256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370217_94abe1a9b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370217_ca9a75095d_o.png",
+      "id_image": "accomplishment_2765665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370277_0a9117a389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370277_834d29fbc4_o.png",
+      "id_image": "accomplish_5520767"
+    }
+  ]
+}

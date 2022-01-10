@@ -1,0 +1,30 @@
+{
+  "english": "congestion",
+  "phat_am": "[kən'dʒest∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đông nghịt, sự tắt nghẽn (đường sá...)",
+          "list_en_vn": [
+            {
+              "full_en": "a congestion of the traffic",
+              "full_vn": "sự tắc nghẽn giao thông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) sự sung huyết"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355852_3da30f1461_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355852_6c4b0a277d_o.png",
+      "id_image": "congestion_5759396"
+    }
+  ]
+}

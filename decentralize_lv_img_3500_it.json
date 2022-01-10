@@ -1,0 +1,42 @@
+{
+  "english": "decentralize",
+  "phat_am": "[di:'sentrəlaiz]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(chính trị) chuyển (quyền lực, quyền hành...) từ chính phủ trung ương xuống chính quyền địa phương; phân quyền; tản quyền; phi tập trung hoá",
+          "list_en_vn": [
+            {
+              "full_en": "If we decentralize , the provinces will have more authority",
+              "full_vn": "Nếu ta phân quyền về địa phương, các tỉnh sẽ có nhiều quyền tự trị hơn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422758_3ebe875c78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422758_96c0e91ffa_o.png",
+      "id_image": "decentralized_1349727"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044550_e8d5d19897_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044550_8f5435cb5b_o.png",
+      "id_image": "decentralized_2191466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307556_1a69c67c24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307556_0bb4b551fe_o.png",
+      "id_image": "decentralized_5901797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044495_2a84fa3c7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044495_fb7257ac83_o.png",
+      "id_image": "decentralized_5901809"
+    }
+  ]
+}

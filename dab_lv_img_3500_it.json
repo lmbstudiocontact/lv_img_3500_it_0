@@ -1,0 +1,110 @@
+{
+  "english": "dab",
+  "phat_am": "[dæb]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh nhẹ, vỗ nhẹ, mổ nhẹ, gõ nhẹ",
+          "list_en_vn": [
+            {
+              "full_en": "to dab with one's finger",
+              "full_vn": "lấy ngón tay gõ nhẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chấm chấm nhẹ",
+          "list_en_vn": [
+            {
+              "full_en": "to dab one's forehead with a handkerchief",
+              "full_vn": "chấm chấm nhẹ trán bằng khăn tay"
+            },
+            {
+              "full_en": "to dab paint on something",
+              "full_vn": "chấm nhẹ sơn lên vật gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) đột nhẹ"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự (cái) đánh nhẹ, sự (cái) mổ nhẹ"
+        },
+        {
+          "m_full_vn": "sự chấm chấm nhẹ (mồ hôi, phấn); sự (cái) chấm nhẹ (sơn...); sự thấm (bằng bọt biển...)",
+          "list_en_vn": [
+            {
+              "full_en": "to give a picture a dab of paint",
+              "full_vn": "phết nhẹ sơn lên bức hoạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "miếng, cục (cái gì mềm)",
+          "list_en_vn": [
+            {
+              "full_en": "a dab of cheese",
+              "full_vn": "miếng phó mát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vết (mực, sơn)"
+        },
+        {
+          "m_full_vn": "(động vật học) cá bơn"
+        },
+        {
+          "m_full_vn": "(từ lóng) tay giỏi, tay cừ, tay thạo",
+          "list_one_mean": [
+            {
+              "id_full_en": "a dab (hand ) (at sth )",
+              "list_im": [
+                {
+                  "im_full_vn": "rất thạo, khéo léo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he is a dab hand at painting",
+                      "full_vn": "hắn ta vẽ rất cừ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he is a dab at maths",
+              "full_vn": "hắn là tay giỏi toán"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356207_122264a200_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356207_5f2b641661_o.png",
+      "id_image": "dab_1430755"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667084_d7493c9310_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667084_66a3c24ab7_o.png",
+      "id_image": "dab_1902268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356177_e4323f606f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356177_b37a0c97b9_o.png",
+      "id_image": "dab_5775062"
+    }
+  ]
+}

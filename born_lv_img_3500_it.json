@@ -1,0 +1,159 @@
+{
+  "english": "born",
+  "phat_am": "[bɔ:n]",
+  "list_type": [
+    {
+      "type": "động tính từ quá khứ của bear"
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(không có by theo sau) ra đời nhờ sự sinh đẻ",
+          "list_en_vn": [
+            {
+              "full_en": "she was born in 1965",
+              "full_vn": "cô ấy sinh năm 1965"
+            },
+            {
+              "full_en": "The Trades Union movement was born in the early years of the century",
+              "full_vn": "Phong trào công đoàn ra đời những năm đầu thế kỷ"
+            },
+            {
+              "full_en": "he was born to be a great writer",
+              "full_vn": "ông ấy sinh ra để làm đại văn hào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có một phẩm chất hoặc khả năng tự nhiên đặc biệt; bẩm sinh",
+          "list_en_vn": [
+            {
+              "full_en": "to be a born leader , writer , poet , athlete",
+              "full_vn": "là một nhà lãnh đạo, nhà văn, nhà thơ, vận động viên bẩm sinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tạo nên danh từ và tính từ ghép) có một thứ tự, địa vị hoặc nơi sinh đặc biệt",
+          "list_one_mean": [
+            {
+              "id_full_en": "(not) to be born yesterday",
+              "list_im": [
+                {
+                  "im_full_vn": "(không) dễ bị người khác lừa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be born /made that way",
+              "list_im": [
+                {
+                  "im_full_vn": "xem way"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in all one's born days",
+              "list_im": [
+                {
+                  "im_full_vn": "suốt đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "born and bred",
+              "list_im": [
+                {
+                  "im_full_vn": "được sinh ra, nuôi dưỡng và giáo dục (ở một nơi nào đó hoặc theo một cách nào đó)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he's London born and bred",
+                      "full_vn": "ông ta sinh ra và lớn lên ở Luân Đôn"
+                    },
+                    {
+                      "full_en": "she was born and bred a Catholic",
+                      "full_vn": "cô ấy được sinh ra và nuôi dạy thành một người Thiên chúa giáo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "born in the purple",
+              "list_im": [
+                {
+                  "im_full_vn": "xuất thân từ một gia đình quý phái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "born of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "có được cuộc sống là nhờ ai/cái gì; bắt nguồn từ cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he was born of German parents",
+                      "full_vn": "anh ấy do bố mẹ người Đức sinh ra; bố mẹ anh ấy người Đức"
+                    },
+                    {
+                      "full_en": "her socialist beliefs were born of a hatred of injustice",
+                      "full_vn": "cô ấy tin vào chủ nghĩa xã hội là do căm ghét những nỗi bất công"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be born with a silver spoon in one's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "có bố mẹ giàu có; sướng từ trong trứng sướng ra; đẻ bọc điều"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there's one born every minute",
+              "list_im": [
+                {
+                  "im_full_vn": "có khối kẻ khờ dại trên đời này"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the manner born",
+              "list_im": [
+                {
+                  "im_full_vn": "xem manner"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "first-born",
+              "full_vn": "con đầu lòng"
+            },
+            {
+              "full_en": "French-born",
+              "full_vn": "có bố mẹ là người Pháp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437258_fd29dd7344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437258_9777c689e5_o.png",
+      "id_image": "born_5375923"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058795_a31a3415f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058795_0170400227_o.png",
+      "id_image": "born_5375936"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "english": "alternate",
+  "phat_am": "['ɔ:ltəneit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xen kẽ, luân phiên, lần lượt kế tiếp nhau",
+          "list_en_vn": [
+            {
+              "full_en": "to serve by alternate shifts",
+              "full_vn": "làm luân phiên, làm theo ca kíp"
+            },
+            {
+              "full_en": "a pattern of alternate circles and squares",
+              "full_vn": "mẫu hình xen kẽ hình tròn và hình vuông"
+            },
+            {
+              "full_en": "alternate triumph and despair",
+              "full_vn": "chiến thắng và thất bại lần lượt kế tiếp nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách một cái",
+          "list_en_vn": [
+            {
+              "full_en": "on alternate days",
+              "full_vn": "cách nhật (vào các ngày Thứ hai, Thứ tư, Thứ sáu.....)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về lá cây mọc hai phía của một cuống) không ở vị trí đối nhau; so le"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) người thay phiên, người thay thế, người dự khuyết"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to alternate A and B / A with B ) làm cho (vật hoặc người) diễn ra hoặc xuất hiện cái nọ sau cái kia; sắp xếp lần lượt; xen nhau; thay phiên",
+          "list_en_vn": [
+            {
+              "full_en": "most farmers alternate their crops",
+              "full_vn": "đa số nông dân đều gieo trồng xen vụ"
+            },
+            {
+              "full_en": "he alternated kindness with cruelty",
+              "full_vn": "người ấy khi hiền khi ác"
+            },
+            {
+              "full_en": "she alternated boys and girls round the table",
+              "full_vn": "cô ấy xếp xen kẽ con trai và con gái quanh bàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to alternate with something ; to alternate between A and B ) gồm hai sự việc khác nhau lần lượt diễn ra; lần lượt",
+          "list_en_vn": [
+            {
+              "full_en": "rainy days alternated with dry ones",
+              "full_vn": "ngày mưa và ngày khô ráo xen kẽ nhau"
+            },
+            {
+              "full_en": "the weather alternated between rain and sunshine",
+              "full_vn": "thời tiết xen lẫn mưa và nắng"
+            },
+            {
+              "full_en": "to alternate between laughters and tears",
+              "full_vn": "khóc khóc cười cười"
+            },
+            {
+              "full_en": "their work alternates between Hanoi and Saigon",
+              "full_vn": "công việc của họ luân phiên giữa Hà Nội và Sài Gòn (thường) xuyên từ Hà Nội vào Sài Gòn và từ Sài Gòn ra Hà Nội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315291_1b10da9dea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315291_20995a09a2_o.png",
+      "id_image": "alternate_2413801"
+    }
+  ]
+}

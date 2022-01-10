@@ -1,0 +1,57 @@
+{
+  "english": "commute",
+  "phat_am": "[kə'mju:t]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi lại thường xuyên bằng xe búyt, xe lửa hoặc ô tô giữa nơi làm việc và nhà ở",
+          "list_en_vn": [
+            {
+              "full_en": "she commutes from Oxford to London every day",
+              "full_vn": "cô ấy đi lại hàng ngày từ Oxford đến Luân Đôn"
+            },
+            {
+              "full_en": "she lives in Oxford and commutes (in )",
+              "full_vn": "cô ấy sống ở Oxford và hàng ngày đi xe vào thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) ( to commute something to something ) thay thế (một hình phạt) bằng một hình phạt khác nhẹ hơn; giảm tội",
+          "list_en_vn": [
+            {
+              "full_en": "to commute a death sentence to life imprisonment",
+              "full_vn": "giảm án tử hình xuống án tù chung thân"
+            },
+            {
+              "full_en": "she was given a commuted sentence",
+              "full_vn": "cô ta đã được giảm án"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to commute something for / into something ) đổi cái gì (nhất là một hình thức thanh toán) sang hoặc lấy một cái khác",
+          "list_en_vn": [
+            {
+              "full_en": "to commute one's pension",
+              "full_vn": "đổi tiền trợ cấp"
+            },
+            {
+              "full_en": "to commute an annuity into a lump sum",
+              "full_vn": "chuyển đổi tiền trợ cấp hàng năm lấy một món tiền trọn gói"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432768_777c2c6fb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432768_20fbcf6a40_o.png",
+      "id_image": "commute_3772931"
+    }
+  ]
+}

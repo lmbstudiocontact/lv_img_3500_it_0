@@ -1,0 +1,44 @@
+{
+  "english": "discourse",
+  "phat_am": "[dis'kɔ:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bài thuyết trình; bài diễn thuyết; bài luận văn; bài diễn văn"
+        },
+        {
+          "m_full_vn": "phần liên tục của ngôn ngữ nói hoặc viết",
+          "list_en_vn": [
+            {
+              "full_en": "to analyze the structure of discourse",
+              "full_vn": "phân tích cấu trúc của ngôn từ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to discourse on / upon something ) thuyết trình; diễn thuyết",
+          "list_en_vn": [
+            {
+              "full_en": "he discoursed fluently on pedagogical methods",
+              "full_vn": "ông ta thuyết trình một cách trôi chảy về các phương pháp sư phạm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432653_4447d74cee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432653_7cbc9788d5_o.png",
+      "id_image": "discourse_1322211"
+    }
+  ]
+}

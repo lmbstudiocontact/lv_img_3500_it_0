@@ -1,0 +1,113 @@
+{
+  "english": "copy",
+  "phat_am": "['kɔpi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bản sao, bản chép lại",
+          "list_en_vn": [
+            {
+              "full_en": "certified copy",
+              "full_vn": "bản sao chính thức"
+            },
+            {
+              "full_en": "certified true copy",
+              "full_vn": "bản sao đúng nguyên văn"
+            },
+            {
+              "full_en": "to make a copy of a deed",
+              "full_vn": "sao một chứng từ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự sao lại, sự chép lại, sự bắt chước, sự phỏng theo, sự mô phỏng"
+        },
+        {
+          "m_full_vn": "bản, cuộn (sách); số (báo)"
+        },
+        {
+          "m_full_vn": "(ngành in) bản thảo, bản in"
+        },
+        {
+          "m_full_vn": "đề tài để viết (báo)",
+          "list_en_vn": [
+            {
+              "full_en": "this event will make good copy",
+              "full_vn": "sự kiện này sẽ là một đề tài hay để viết báo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiểu, mẫu (một bức hoạ); kiểu (chữ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "fair (clean ) copy",
+              "list_im": [
+                {
+                  "im_full_vn": "bản thảo đã sửa và chép lại rõ ràng trước khi đưa in"
+                }
+              ]
+            },
+            {
+              "id_full_en": "rough (foul ) copy",
+              "list_im": [
+                {
+                  "im_full_vn": "bản nháp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sao lại, chép lại; bắt chước, phỏng theo, mô phỏng",
+          "list_en_vn": [
+            {
+              "full_en": "to copy a letter",
+              "full_vn": "sao lại một bức thư"
+            },
+            {
+              "full_en": "to copy out a passage from a book",
+              "full_vn": "chép lại một đoạn trong sách"
+            },
+            {
+              "full_en": "to copy someone",
+              "full_vn": "bắt chước ai, làm theo ai"
+            },
+            {
+              "full_en": "to copy someone's walk",
+              "full_vn": "bắt chước dáng đi của người nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quay cóp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333261_344992194c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333261_2f167fd420_o.png",
+      "id_image": "copy_1265884"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688299_06b6a9fe69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688299_4ed49879f4_o.png",
+      "id_image": "copy_3056374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688239_2239277c99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688239_c3db3332f3_o.png",
+      "id_image": "copy_4371362"
+    }
+  ]
+}

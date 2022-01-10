@@ -1,0 +1,79 @@
+{
+  "english": "adopt",
+  "phat_am": "[ə'dɔpt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to adopt somebody as something ) nhận ai vào gia đình để làm con mình hoặc làm người thừa kế mình; nhận làm con nuôi",
+          "list_en_vn": [
+            {
+              "full_en": "she is their adopted daughter",
+              "full_vn": "cô ta là con nuôi của họ"
+            },
+            {
+              "full_en": "they decide to adopt the little news-vendor , because his family situation is very pitiable",
+              "full_vn": "họ quyết định nhận thằng bé bán báo làm con nuôi, vì gia cảnh của nó rất đáng thương"
+            },
+            {
+              "full_en": "that heartless mother has her only child adopted , because he is fatherless",
+              "full_vn": "người mẹ vô tâm ấy cho đứa con duy nhất của mình đi làm con nuôi, bởi nó không có cha"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to adopt somebody as something ) chọn ai làm ứng cử viên hoặc đại diện",
+          "list_en_vn": [
+            {
+              "full_en": "she has been adopted as Labour candidate for York",
+              "full_vn": "cô ta được chọn làm đại biểu Công Đảng cho vùng York"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kế tục và có hoặc sử dụng cái gì như của riêng mình",
+          "list_en_vn": [
+            {
+              "full_en": "to adopt a name , a custom , an idea",
+              "full_vn": "tiếp nhận một cái tên, một tục lệ, một tư tưởng"
+            },
+            {
+              "full_en": "to adopt a hard line towards terrorists",
+              "full_vn": "thực hiện đường lối cứng rắn đồi với bọn khủng bố"
+            },
+            {
+              "full_en": "to adopt a new method of teaching",
+              "full_vn": "theo phương pháp giảng dạy mới"
+            },
+            {
+              "full_en": "her adopted country",
+              "full_vn": "đất nước cô ta sống gửi (đất nước nơi cô ta đến để sinh sống, chứ không phải đất nước quê hương của cô ta)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chấp nhận, thông qua",
+          "list_en_vn": [
+            {
+              "full_en": "Vietnamese Law on labour was adopted by the Vietnamese National Assembly in June 1994",
+              "full_vn": "Luật lao động Việt Nam được Quốc hội Việt Nam thông qua hồi tháng 6 / 1994"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675494_913a59308a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675494_ff6c12af31_o.png",
+      "id_image": "adopt_4213623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675454_9d498f4d8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675454_d5883659f5_o.png",
+      "id_image": "adopt_4966022"
+    }
+  ]
+}

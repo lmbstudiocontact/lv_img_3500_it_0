@@ -1,0 +1,60 @@
+{
+  "english": "dessert",
+  "phat_am": "[di'zə:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "món ngọt (bánh ngọt, bánh nhân hoa quả, kem) ăn vào cuối bữa ăn; món tráng miệng (cũng) sweet",
+          "list_en_vn": [
+            {
+              "full_en": "a pineapple dessert",
+              "full_vn": "món dứa tráng miệng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời gian ăn món tráng miệng",
+          "list_en_vn": [
+            {
+              "full_en": "shall we move on to dessert ?",
+              "full_vn": "ta chuyển sang ăn tráng miệng nhé?"
+            },
+            {
+              "full_en": "a dessert apple , wine",
+              "full_vn": "món táo, rượu vang tráng miệng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373012_2415cb51da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373012_87771ca3a7_o.png",
+      "id_image": "dessert_2484324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328211_f9934dd140_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328211_08204339f9_o.png",
+      "id_image": "dessert_2484349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443243_79f8b85b15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443243_7b552d1e22_o.png",
+      "id_image": "dessert_2484370"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443198_d0896a751a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443198_3fd1428867_o.png",
+      "id_image": "dessert_2836624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443143_101cf3529c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443143_cc7ab52327_o.png",
+      "id_image": "dessert_4072145"
+    }
+  ]
+}

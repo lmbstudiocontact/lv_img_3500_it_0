@@ -1,0 +1,74 @@
+{
+  "english": "advise",
+  "phat_am": "[əd'vaiz]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to advise somebody against something / doing something ) ( to advise somebody on something ) cho ai lời khuyên; khuyên bảo",
+          "list_en_vn": [
+            {
+              "full_en": "the doctor advised (me to take ) a complete rest",
+              "full_vn": "bác sĩ khuyên (tôi) nghỉ ngơi hoàn toàn"
+            },
+            {
+              "full_en": "they advised her against marrying quickly",
+              "full_vn": "họ khuyên cô ấy đừng vội lập gia đình"
+            },
+            {
+              "full_en": "she advises the Government on economic affairs",
+              "full_vn": "cô ấy khuyến cáo chính phủ về các hoạt động kinh tế"
+            },
+            {
+              "full_en": "we advised that they should start early /advised them to start early",
+              "full_vn": "chúng tôi khuyên họ nên bắt đầu sớm"
+            },
+            {
+              "full_en": "I'd advise taking a different approach",
+              "full_vn": "theo tôi, nên có một cách tiếp cận khác"
+            },
+            {
+              "full_en": "you would be well advised to stay indoors",
+              "full_vn": "anh nên ở trong nhà thì tốt hơn"
+            },
+            {
+              "full_en": "can you advise me what to do next ?",
+              "full_vn": "anh có thể khuyên tôi làm gì tiếp hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) ( to advise somebody of something ) báo cho biết",
+          "list_en_vn": [
+            {
+              "full_en": "please advise us of the dispatch of the goods /when the goods are dispatched",
+              "full_vn": "xin vui lòng cho chúng tôi biết khi nào hàng hoá được gửi đi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hỏi ý kiến",
+          "list_en_vn": [
+            {
+              "full_en": "to advise with someone",
+              "full_vn": "hỏi ý kiến người nào"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056010_91e881fe8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056010_ace45ea708_o.png",
+      "id_image": "advise_1732734"
+    }
+  ]
+}

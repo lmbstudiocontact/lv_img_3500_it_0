@@ -1,0 +1,102 @@
+{
+  "english": "column",
+  "phat_am": "['kɔləm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cột, trụ ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "the columns of a building",
+              "full_vn": "những cột trụ của toà nhà"
+            },
+            {
+              "full_en": "a column of smoke",
+              "full_vn": "cột khói"
+            },
+            {
+              "full_en": "a column of figures",
+              "full_vn": "cột số"
+            },
+            {
+              "full_en": "the spinal column",
+              "full_vn": "cột sống"
+            },
+            {
+              "full_en": "the right-hand column of a page",
+              "full_vn": "cột bên phải của trang sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng dọc; đội hình hàng dọc (đơn vị bộ đội, tàu chiến)",
+          "list_en_vn": [
+            {
+              "full_en": "to march in two columns",
+              "full_vn": "đi thành hai hàng dọc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cột; mục (báo)",
+          "list_one_mean": [
+            {
+              "id_full_en": "agony column",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) agony"
+                }
+              ]
+            },
+            {
+              "id_full_en": "fifth column",
+              "list_im": [
+                {
+                  "im_full_vn": "một tổ chức bí mật hoạt động trong một tổ chức hoặc một nước khác để sẵn sàng tiếp tay với bên ngoài phá hoại tổ chức hoặc nước này"
+                }
+              ]
+            },
+            {
+              "id_full_en": "storming column",
+              "list_im": [
+                {
+                  "im_full_vn": "đội quân xung kích"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "in our columns",
+              "full_vn": "trong tờ báo của chúng tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057520_d41b487cd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057520_45efd57fed_o.png",
+      "id_image": "column_3603706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365647_a9da4e5829_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365647_70fa2eae9a_o.png",
+      "id_image": "column_4598378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675724_2a0132006d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675724_02db0e16f6_o.png",
+      "id_image": "column_4615721"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057550_3023917bb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057550_285245dd11_o.png",
+      "id_image": "column_708875"
+    }
+  ]
+}

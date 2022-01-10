@@ -1,0 +1,59 @@
+{
+  "english": "arc",
+  "phat_am": "[ɑ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình cung"
+        },
+        {
+          "m_full_vn": "(toán học) cung"
+        },
+        {
+          "m_full_vn": "cầu võng"
+        },
+        {
+          "m_full_vn": "(điện học) cung lửa; hồ quang",
+          "list_en_vn": [
+            {
+              "full_en": "voltaic arc ; electric arc",
+              "full_vn": "cung lửa điện"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tạo nên một cung lửa điện"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044220_d675abdf92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044220_c44bed8b01_o.png",
+      "id_image": "arc_1277731"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351317_f14ba1a12f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351317_f604498032_o.png",
+      "id_image": "arc_2885530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351292_a26bc684d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351292_06a4fed4eb_o.png",
+      "id_image": "arc_4440024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044240_1577cf5a25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044240_8609196331_o.png",
+      "id_image": "arc_576753"
+    }
+  ]
+}

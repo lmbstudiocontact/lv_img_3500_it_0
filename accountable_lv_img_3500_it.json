@@ -1,0 +1,36 @@
+{
+  "english": "accountable",
+  "phat_am": "[ə'kauntəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chịu trách nhiệm, có trách nhiệm phải giải thích",
+          "list_en_vn": [
+            {
+              "full_en": "to be accountable to somebody",
+              "full_vn": "chịu trách nhiệm trước ai"
+            },
+            {
+              "full_en": "to be accountable for something",
+              "full_vn": "chịu trách nhiệm về cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324971_7c1e049363_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324971_c72b47b3f2_o.png",
+      "id_image": "accountable_5772909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061790_3701ab3363_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061790_5db6826750_o.png",
+      "id_image": "accountable_5906144"
+    }
+  ]
+}

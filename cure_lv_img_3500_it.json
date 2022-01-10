@@ -1,0 +1,109 @@
+{
+  "english": "cure",
+  "phat_am": "[kjuə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chữa bệnh; sự điều trị; đợt chữa bệnh (bằng cách ăn uống cái gì... liên tục trong một thời gian)",
+          "list_en_vn": [
+            {
+              "full_en": "his cure took six weeks",
+              "full_vn": "việc điều trị của anh ta mất sáu tuần lễ"
+            },
+            {
+              "full_en": "the hot water cure",
+              "full_vn": "đợt điều trị tắm nóng"
+            },
+            {
+              "full_en": "the doctor cannot guarantee a cure",
+              "full_vn": "thầy thuốc không thể cam đoan chữa khỏi bệnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( cure for something ) thuốc để trị một chứng bệnh nào đó; phương thuốc; liều thuốc",
+          "list_en_vn": [
+            {
+              "full_en": "a good cure for chilblains",
+              "full_vn": "một phương thuốc tốt để chữa cước nẻ"
+            },
+            {
+              "full_en": "is there a certain cure for AIDS ?",
+              "full_vn": "có thuốc nào chữa được bệnh xiđa hay chưa?"
+            },
+            {
+              "full_en": "is bureaucracy a disease with no known cure ?",
+              "full_vn": "phải chăng quan liêu là căn bệnh chưa có thuốc chữa?"
+            },
+            {
+              "full_en": "she has tried all sorts of cures , but without success",
+              "full_vn": "bà ấy đã dùng thứ đủ loại thuốc, nhưng vẫn không khỏi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự lưu hoá (cao su)"
+        },
+        {
+          "m_full_vn": "(tôn giáo) bổn phận của thầy tu; thánh chức",
+          "list_en_vn": [
+            {
+              "full_en": "the cure of souls",
+              "full_vn": "sự cứu rỗi linh hồn"
+            },
+            {
+              "full_en": "to obtain /resign a cure",
+              "full_vn": "đạt được/từ bỏ thánh chức"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to cure somebody of something ) chữa cho khỏi bệnh",
+          "list_en_vn": [
+            {
+              "full_en": "to cure a patient",
+              "full_vn": "điều trị một người bệnh"
+            },
+            {
+              "full_en": "to cure somebody of diabetes",
+              "full_vn": "chữa cho ai khỏi bệnh tiểu đường"
+            },
+            {
+              "full_en": "this illness cannot be cured easily",
+              "full_vn": "bệnh này không dễ chữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) khắc phục; chữa (thói hư tật xấu...)",
+          "list_en_vn": [
+            {
+              "full_en": "to cure laziness",
+              "full_vn": "chữa thói lười biếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xử lý để có thể để lâu (bằng cách ướp muối, xông khói, phơi khô)"
+        },
+        {
+          "m_full_vn": "lưu hoá (cao su)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359412_0712af9238_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359412_bb9a321d11_o.png",
+      "id_image": "cure_1029134"
+    }
+  ]
+}

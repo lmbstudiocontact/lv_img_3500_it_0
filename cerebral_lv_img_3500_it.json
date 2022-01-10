@@ -1,0 +1,35 @@
+{
+  "english": "cerebral",
+  "phat_am": "['seribrəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về não",
+          "list_en_vn": [
+            {
+              "full_en": "cerebral haemorrhage",
+              "full_vn": "chứng xuất huyết não"
+            },
+            {
+              "full_en": "cerebral troubles",
+              "full_vn": "chứng tai biến não"
+            },
+            {
+              "full_en": "cerebral palsy",
+              "full_vn": "chứng bại não, chứng liệt não"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052560_44e9f5a772_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052560_592193c19e_o.png",
+      "id_image": "cerebral_4200912"
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "english": "beat",
+  "phat_am": "[bi:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cú đánh (lên một cái trống chẳng hạn) hoặc một loạt những cú đánh đều đều; tiếng động của cái đó",
+          "list_en_vn": [
+            {
+              "full_en": "we heard the beat of a drum",
+              "full_vn": "chúng tôi nghe thấy một hồi trống"
+            },
+            {
+              "full_en": "heart beats",
+              "full_vn": "trống ngực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "con đường ai vẫn thường xuyên đi qua; khu vực phâncho một viên cảnh sát, người gác...",
+          "list_en_vn": [
+            {
+              "full_en": "a policeman out on the /his beat",
+              "full_vn": "viên cảnh sát đang đi tuần trên khu vực của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) cái trội hơn hẳn, cái vượt hơn hẳn",
+          "list_en_vn": [
+            {
+              "full_en": "I've never seen his beat",
+              "full_vn": "tớ chưa thấy ai trội hơn nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) nhịp, nhịp đánh (của người chỉ huy dàn nhạc)"
+        },
+        {
+          "m_full_vn": "(vật lý) phách"
+        },
+        {
+          "m_full_vn": "(săn bắn) khu vực săn đuổi, cuộc săn đuổi"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) tin đăng đầu tiên (trước các báo cáo)",
+          "list_one_mean": [
+            {
+              "id_full_en": "out of /off one's beat",
+              "list_im": [
+                {
+                  "im_full_vn": "khác với cái ta thường làm; lạ; không quen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ, thì quá khứ là beat , động tính từ quá khứ là beaten",
+      "list_m": [
+        {
+          "m_full_vn": "đánh ai/cái gì nhiều lần (nhất là bằng cây gậy); đập; nện",
+          "list_en_vn": [
+            {
+              "full_en": "somebody is beating at the door",
+              "full_vn": "có người đang đập cửa"
+            },
+            {
+              "full_en": "to beat one's breast",
+              "full_vn": "tự đấm ngực"
+            },
+            {
+              "full_en": "who's beating the drum ?",
+              "full_vn": "ai đang đánh trống vậy?"
+            },
+            {
+              "full_en": "she's beating the carpet /beating the dust of the carpet",
+              "full_vn": "bà ấy đang đập tấm thảm cho sạch/đang đập bụi thảm"
+            },
+            {
+              "full_en": "to beat somebody black and blue",
+              "full_vn": "đánh ai thâm tím mình mẩy"
+            },
+            {
+              "full_en": "to beat somebody unconscious",
+              "full_vn": "đánh ai bất tỉnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biến đổi hình dạng của (nhất là kim loại) bằng những cú đập",
+          "list_en_vn": [
+            {
+              "full_en": "beaten silver",
+              "full_vn": "bạc gò"
+            },
+            {
+              "full_en": "the gold was beaten (out ) into fine strips",
+              "full_vn": "vàng được đánh thành những sợi nhỏ"
+            },
+            {
+              "full_en": "to beat metal flat",
+              "full_vn": "đập dẹp kim loại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đập (các bụi rậm, tầng cây thấp...); xua thú ra để bắn; khua"
+        },
+        {
+          "m_full_vn": "làm thành (một con đường...) bằng cách vít các cành cây xuống rồi dẫm lên; phát (con đường)",
+          "list_en_vn": [
+            {
+              "full_en": "a well beaten path",
+              "full_vn": "một đường mòn nhẵn (do nhiều người qua lại lâu năm)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to beat against / on something / somebody ) (nói về mưa, nắng gió...) đập vào cái gì/ai",
+          "list_en_vn": [
+            {
+              "full_en": "hailstones beat against the window",
+              "full_vn": "những hòn mưa đá đập vào cửa sổ"
+            },
+            {
+              "full_en": "the waves were beating on the shore",
+              "full_vn": "sóng vỗ vào bờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to beat something up ) dùng một cái dĩa, cái đánh kem. khuấy trộn mạnh cái gì; đánh",
+          "list_en_vn": [
+            {
+              "full_en": "to beat the eggs (up ) (to a frothy consistency )",
+              "full_vn": "đánh trứng (đến độ sền sệt sủi bọt)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về tim) nở ra và co lại nhịp nhàng; đập",
+          "list_en_vn": [
+            {
+              "full_en": "he's alive - his heart is still beating",
+              "full_vn": "anh ta còn sống - tim vẫn còn đập"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phát ra một tiếng động nhịp nhàng; đập",
+          "list_en_vn": [
+            {
+              "full_en": "we heard the drums beating",
+              "full_vn": "chúng tôi nghe tiếng trống đánh thùng thùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cái gì lên xuống nhiều lần; vỗ",
+          "list_en_vn": [
+            {
+              "full_en": "to beat the wings",
+              "full_vn": "(nói về chim) vỗ cánh"
+            },
+            {
+              "full_en": "the bird wings were beating frantically",
+              "full_vn": "cánh chim vỗ loạn xạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to beat somebody at something ) đánh bại ai; thắng ai",
+          "list_en_vn": [
+            {
+              "full_en": "our team was easily beaten",
+              "full_vn": "đội chúng tôi bị đánh bại dễ dàng"
+            },
+            {
+              "full_en": "nothing beats home cooking",
+              "full_vn": "không gì hơn nấu ăn ở nhà"
+            },
+            {
+              "full_en": "The Government's aim is to beat inflation",
+              "full_vn": "Mục tiêu của chính phủ là đẩy lùi lạm phát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho bối rối",
+          "list_en_vn": [
+            {
+              "full_en": "a problem that beats even the experts",
+              "full_vn": "một vấn đề khiến cả các chuyên gia cũng phải bối rối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều khiển bằng cách đánh trống",
+          "list_one_mean": [
+            {
+              "id_full_en": "to beat about the bush",
+              "list_im": [
+                {
+                  "im_full_vn": "nói quanh co; lòng vòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat somebody at his own game",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh bại sở trường của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat one's breast",
+              "list_im": [
+                {
+                  "im_full_vn": "đấm ngực thùm thụp (do quá đau buồn, ân hận, hối tiếc về việc mình đã làm)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat /knock the daylights out of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "xem daylights"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat the drum for somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "nhiệt tình ủng hộ ai/cái gì; khua chiêng gõ mõ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat somebody hollow",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn đánh bại ai; đánh ai tơi bời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat the clock",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn thành trước thời gian quy định"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat /knock hell out of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh ai/cái gì thật mạnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "off the beaten track",
+              "list_im": [
+                {
+                  "im_full_vn": "ở nơi không ai léo hánh đến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a rod /stick to beat somebody with",
+              "list_im": [
+                {
+                  "im_full_vn": "cái cớ để trừng phạt ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "beat it !",
+              "list_im": [
+                {
+                  "im_full_vn": "hãy cút đi!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat a (hasty ) retreat",
+              "list_im": [
+                {
+                  "im_full_vn": "vội vàng bỏ trốn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat the rap",
+              "list_im": [
+                {
+                  "im_full_vn": "thoát được mà không bị trừng phạt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat time to something",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh nhịp",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he beat time (to the music ) with his fingers",
+                      "full_vn": "nó dùng ngón tay đánh nhịp (cho bài nhạc)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "if you can't beat them , join them",
+              "list_im": [
+                {
+                  "im_full_vn": "không thắng được đối thủ thì bắt tay với họ cho rồi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat something down",
+              "list_im": [
+                {
+                  "im_full_vn": "cố sức lọt vào bằng cách đập (cái cửa...) nhiều lần"
+                },
+                {
+                  "im_full_vn": "làm đổ rạp (cây cỏ...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat down on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về mặt trời) toả nóng vào ai/cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat somebody /something down to something",
+              "list_im": [
+                {
+                  "im_full_vn": "thuyết phục (người bán) bớt (giá cả của cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat somebody into /to something",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa ai vào một tình trạng nào đó bằng cách đánh đập nhiều lần",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the children were beaten into submission",
+                      "full_vn": "bọn trẻ bị đánh đập đến nỗi phải quy phục"
+                    },
+                    {
+                      "full_en": "the dog was beaten to death",
+                      "full_vn": "con chó bị đánh đến chết"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat somebody /something off",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh bật; đánh lui"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat something out",
+              "list_im": [
+                {
+                  "im_full_vn": "tạo ra (một nhịp điệu) bằng cách đánh trống"
+                },
+                {
+                  "im_full_vn": "dập tắt lửa bằng cách đập"
+                },
+                {
+                  "im_full_vn": "dùng búa đập để loại bỏ cái gì; gò"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat somebody to ....",
+              "list_im": [
+                {
+                  "im_full_vn": "đến (một nơi) trước khi ai đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll beat you to the top of the hill",
+                      "full_vn": "Tôi sẽ đến đỉnh đồi trước anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat somebody up",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh ai nhừ tử"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat somebody to it",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn thành, đạt tới hoặc lấy được cái gì trước một người khác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Scott aimed to get to the South Pole first , but Amundsen beat him to it",
+                      "full_vn": "Scott chủ tâm đến Nam Cực trước tiên, nhưngAmundsen đã đến trước ông"
+                    },
+                    {
+                      "full_en": "I was about to take the last cake , but he beat me to it",
+                      "full_vn": "Tôi đang định cầm lấy chiếc bánh ngọt cuối cùng thì nó đã phỗng tay trên mất"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to beat a charge",
+              "full_vn": "đánh trống ra lệnh tấn công"
+            },
+            {
+              "full_en": "to beat a retreat",
+              "full_vn": "đánh trống ra lệnh rút lui"
+            },
+            {
+              "full_en": "to beat a parley",
+              "full_vn": "đánh trống đề nghị thương lượng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mệt lử; kiệt sức"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047850_874945cc2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047850_1cbe9cb8a0_o.png",
+      "id_image": "beat_1753158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355272_c58a48ff36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355272_c2e35fc589_o.png",
+      "id_image": "beat_1753164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311086_f79052281f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311086_f2c6fe2271_o.png",
+      "id_image": "beat_1753377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666094_06d2e10791_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666094_38e8261ba6_o.png",
+      "id_image": "beat_3690085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047755_2fe084aae1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047755_7bd1032199_o.png",
+      "id_image": "beat_4382700"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "english": "bid",
+  "phat_am": "[bid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giá được đưa ra để mua cái gì (nhất là tại cuộc bán đấu giá)",
+          "list_en_vn": [
+            {
+              "full_en": "to make a bid of 5000 francs for a painting",
+              "full_vn": "đặt giá bức tranh là 5000 quan"
+            },
+            {
+              "full_en": "any higher /further bids ?",
+              "full_vn": "còn ai ra giá cao hơn hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bỏ thầu (như) tender"
+        },
+        {
+          "m_full_vn": "sự cố gắng; sự nỗ lực",
+          "list_en_vn": [
+            {
+              "full_en": "he failed in his bid to reach the summit",
+              "full_vn": "anh ta cố gắng mà vẫn không lên đỉnh được"
+            },
+            {
+              "full_en": "to make a bid for power /popular support",
+              "full_vn": "cố gắng giành quyền lực/sự ủng hộ của quần chúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xướng lên số quân bài được đưa ra (trong một ván bài tây)",
+          "list_en_vn": [
+            {
+              "full_en": "It's your bid next - No bid",
+              "full_vn": "Đến lượt anh tố - Pha (bỏ)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ, thì quá khứ và động tính từ quá khứ là bid",
+      "list_m": [
+        {
+          "m_full_vn": "( to bid something for something ) ( to bid something on something ) đưa ra (một cái giá) để mua cái gì (nhất là tại cuộc bán đấu giá); trả giá",
+          "list_en_vn": [
+            {
+              "full_en": "What am I bid (for this painting )?",
+              "full_vn": "các vị trả (giá) cho tôi là bao nhiêu (cho bức tranh này)?"
+            },
+            {
+              "full_en": "she bid 5000 francs (for the painting )",
+              "full_vn": "cô ấy trả giá 5000 quan (cho bức tranh)"
+            },
+            {
+              "full_en": "we had hoped to get the house but another couple was bidding against us",
+              "full_vn": "chúng tôi hy vọng là sẽ mua được ngôi nhà, nhưng có một đôi vợ chồng khác trả giá cao hơn chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đưa ra một cái giá để làm công việc gì; dự thầu",
+          "list_en_vn": [
+            {
+              "full_en": "several firms have bid for the contract to build the new bridge",
+              "full_vn": "có mấy hãng dự thầu xây dựng cầu mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong môn chơi bài brit) xướng bài",
+          "list_en_vn": [
+            {
+              "full_en": "to bid two hearts",
+              "full_vn": "xướng hai quân cơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thì quá khứ là bade , động tính từ quá khứ là bidden ) ra lệnh; bảo",
+          "list_en_vn": [
+            {
+              "full_en": "do as you are bidden",
+              "full_vn": "anh hãy làm như người ta yêu cầu"
+            },
+            {
+              "full_en": "she bade me (to ) come in",
+              "full_vn": "bà ta bảo tôi vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mời",
+          "list_en_vn": [
+            {
+              "full_en": "guests bidden to (attend ) the feast",
+              "full_vn": "những vị khách được mời (đến dự) tiệc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói lời chào",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bid fair to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "hứa hẹn; có triển vọng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "our plan bids fair to succeed",
+                      "full_vn": "kế hoạch của chúng nó có triển vọng thành công"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to bid somebody good morning",
+              "full_vn": "chào ai (lời chào buổi sáng)"
+            },
+            {
+              "full_en": "he bade farewell to his sweetheart",
+              "full_vn": "anh ta chào từ biệt người yêu của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306111_e115d1a859_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306111_f76c6c798d_o.png",
+      "id_image": "bid_1809627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043115_dcfff4a75c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043115_8b23382576_o.png",
+      "id_image": "bid_2162190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661474_32ee04e051_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661474_bdd29e5556_o.png",
+      "id_image": "bid_3814240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350212_a0d95ebff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350212_f97e7f8820_o.png",
+      "id_image": "bid_3814293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306031_5dabe33736_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306031_0af81f8532_o.png",
+      "id_image": "bid_6295350"
+    }
+  ]
+}

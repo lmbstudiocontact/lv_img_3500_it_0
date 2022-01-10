@@ -1,0 +1,48 @@
+{
+  "english": "blossom",
+  "phat_am": "['blɔsəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoa (của cây ăn quả)",
+          "list_en_vn": [
+            {
+              "full_en": "in blossom",
+              "full_vn": "đang ra hoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự hứa hẹn, niềm hy vọng"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ra hoa, trổ hoa ( (nghĩa đen) & (nghĩa bóng))"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683899_f9e309f2bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683899_3e1c75af60_o.png",
+      "id_image": "blossom_1727579"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683859_aa9be32611_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683859_be94e3f173_o.png",
+      "id_image": "blossom_1749856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065600_fe4fc8a8f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065600_373ee50c98_o.png",
+      "id_image": "blossom_1772129"
+    }
+  ]
+}

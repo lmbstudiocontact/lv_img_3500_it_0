@@ -1,0 +1,75 @@
+{
+  "english": "bachelor",
+  "phat_am": "['bæt∫ələ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đàn ông không lấy vợ; người độc thân",
+          "list_en_vn": [
+            {
+              "full_en": "he remained a bachelor all his life",
+              "full_vn": "anh ta sống độc thân suốt đời"
+            },
+            {
+              "full_en": "a confirmed bachelor",
+              "full_vn": "một người độc thân thâm căn cố đế (quyết định không bao giờ lấy vợ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người có bằng cử nhân",
+          "list_en_vn": [
+            {
+              "full_en": "a bachelor's degree",
+              "full_vn": "bằng cử nhân"
+            },
+            {
+              "full_en": "Bachelor of Arts /Science",
+              "full_vn": "cử nhân văn chương/khoa học"
+            },
+            {
+              "full_en": "Bachelor of Laws",
+              "full_vn": "cử nhân luật khoa ( LL B )"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sử học) kỵ sĩ, hiệp sĩ"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc hoặc thích hợp với một người không lấy vợ hoặc không lấy chồng",
+          "list_one_mean": [
+            {
+              "id_full_en": "bachelor girl",
+              "list_im": [
+                {
+                  "im_full_vn": "cô gái sống độc thân (sống độc lập, không lấy chồng)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a bachelor flat",
+              "full_vn": "một căn hộ độc thân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367862_22a9bf39da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367862_fdd171bcf9_o.png",
+      "id_image": "bachelor_5352114"
+    }
+  ]
+}

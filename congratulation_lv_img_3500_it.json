@@ -1,0 +1,48 @@
+{
+  "english": "congratulation",
+  "phat_am": "[kən,grætju'lei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chúc mừng hoặc được chúc mừng",
+          "list_en_vn": [
+            {
+              "full_en": "a speech of congratulation for the winner",
+              "full_vn": "bài phát biểu chúc mừng người thắng cuộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) lời chúc mừng, lời khen ngợi",
+          "list_en_vn": [
+            {
+              "full_en": "please accept my congratulations",
+              "full_vn": "xin anh hãy nhận những lời chúc mừng của tôi"
+            },
+            {
+              "full_en": "to offer one's friend one's congratulations on his appointment as a director",
+              "full_vn": "chúc mừng bạn mình được bổ nhiệm làm giám đốc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311751_d5ae448e53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311751_8f83ec9c3a_o.png",
+      "id_image": "congratulation_3316805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426548_d09ea05843_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426548_9ef9634344_o.png",
+      "id_image": "congratulation_5352120"
+    }
+  ]
+}

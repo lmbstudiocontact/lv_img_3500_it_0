@@ -1,0 +1,56 @@
+{
+  "english": "clothe",
+  "phat_am": "[klouð]",
+  "list_type": [
+    {
+      "type": "ngoại động từ, clothed , (từ cổ,nghĩa cổ) clad",
+      "list_m": [
+        {
+          "m_full_vn": "mặc quần áo cho",
+          "list_en_vn": [
+            {
+              "full_en": "to clothe a child",
+              "full_vn": "mặc quần áo cho em bé"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phủ, che phủ",
+          "list_en_vn": [
+            {
+              "full_en": "the trees were clothed in silver frost",
+              "full_vn": "cây cối bị phủ sương giá bạc trắng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374262_8a97b042fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374262_3fb9c3c4ee_o.png",
+      "id_image": "clothes_1864104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374212_dccb01ba25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374212_5924c12818_o.png",
+      "id_image": "clothes_1943869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444503_f7fd38648a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444503_31f7642b4e_o.png",
+      "id_image": "clothes_5765486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066280_4793f12af5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066280_fe50452ce5_o.png",
+      "id_image": "clothes_5822324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684429_14b15fd137_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684429_98d4d740af_o.png",
+      "id_image": "clothes_5853911"
+    }
+  ]
+}

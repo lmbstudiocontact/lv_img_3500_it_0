@@ -1,0 +1,63 @@
+{
+  "english": "burner",
+  "phat_am": "['bə:nə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đốt, người nung",
+          "list_en_vn": [
+            {
+              "full_en": "a brick burner",
+              "full_vn": "người nung gạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đèn",
+          "list_en_vn": [
+            {
+              "full_en": "an oil burner",
+              "full_vn": "đèn dầu"
+            },
+            {
+              "full_en": "blowpipe burner",
+              "full_vn": "đèn xì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mỏ đèn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to put sth on the back burner",
+              "list_im": [
+                {
+                  "im_full_vn": "để cái gì qua một bên, gác qua một bên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496908_55c8d832d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496908_887f9b9f3b_o.png",
+      "id_image": "burner_310090"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309101_1a5fd63174_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309101_0213b249ea_o.png",
+      "id_image": "burner_353610"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664384_14b21eeb2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664384_a5a3924f6f_o.png",
+      "id_image": "burner_3716571"
+    }
+  ]
+}

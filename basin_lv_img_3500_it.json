@@ -1,0 +1,55 @@
+{
+  "english": "basin",
+  "phat_am": "['beisn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái chậu"
+        },
+        {
+          "m_full_vn": "chỗ trũng lòng chảo"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) lưu vực, bể, bồn",
+          "list_en_vn": [
+            {
+              "full_en": "river basin",
+              "full_vn": "lưu vực sông"
+            },
+            {
+              "full_en": "coal basin",
+              "full_vn": "bể than"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vũng, vịnh nhỏ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429253_2d44abc2c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429253_aa1a819716_o.png",
+      "id_image": "basin_1691591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429223_2187c0a4aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429223_ee3b3bd3e1_o.png",
+      "id_image": "basin_1894923"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429188_7cdbc9dc6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429188_189536aa08_o.png",
+      "id_image": "basin_2642429"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050850_25804b1825_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050850_0aaa4501ae_o.png",
+      "id_image": "basin_6080267"
+    }
+  ]
+}

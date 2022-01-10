@@ -1,0 +1,92 @@
+{
+  "english": "declare",
+  "phat_am": "[di'kleə]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tuyên bố",
+          "list_en_vn": [
+            {
+              "full_en": "to declare war",
+              "full_vn": "tuyên chiến"
+            },
+            {
+              "full_en": "to declare somebody to be guilty",
+              "full_vn": "tuyên bố ai có tội"
+            },
+            {
+              "full_en": "to declare for somebody",
+              "full_vn": "tuyên bố ủng hộ ai; tán thành ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công bố",
+          "list_en_vn": [
+            {
+              "full_en": "to declare the result of an election",
+              "full_vn": "công bố kết quả bầu cử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bày tỏ, trình bày, biểu thị",
+          "list_en_vn": [
+            {
+              "full_en": "to declare one's intentions",
+              "full_vn": "bày tỏ ý định của mình"
+            },
+            {
+              "full_en": "to declare oneself",
+              "full_vn": "bày tỏ ý định của mình, tự bộc lộ, tự thú; phát ra (bệnh)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) khai (hàng hoá để đóng thuế)",
+          "list_en_vn": [
+            {
+              "full_en": "to declare goods",
+              "full_vn": "khai hàng hoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh bài) xướng lên",
+          "list_one_mean": [
+            {
+              "id_full_en": "to declare off",
+              "list_im": [
+                {
+                  "im_full_vn": "tuyên bố bãi bỏ; thôi; bỏ, cắt đứt, ngừng (cuộc đàm phán)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "well , I declare !",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) thật như vậy sao!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307266_57146639fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307266_b1b0c9d0f3_o.png",
+      "id_image": "declare_5361668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307251_1bb6002e05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307251_7acf82f3b3_o.png",
+      "id_image": "declare_6159101"
+    }
+  ]
+}

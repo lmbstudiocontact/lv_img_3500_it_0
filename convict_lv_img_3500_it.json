@@ -1,0 +1,58 @@
+{
+  "english": "convict",
+  "phat_am": "['kɔnvikt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người bị kết án tù, người tù",
+          "list_en_vn": [
+            {
+              "full_en": "convict prison (establishment )",
+              "full_vn": "nhà tù, khám lớn"
+            },
+            {
+              "full_en": "returned convict",
+              "full_vn": "tù được phóng thích"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết án, tuyên bố có tội",
+          "list_en_vn": [
+            {
+              "full_en": "to convict someone of a crime",
+              "full_vn": "tuyên bố người nào phạm tội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho thấy rõ sự sai lầm (hoặc tội đã phạm...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305211_d260041699_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305211_567ddec8d9_o.png",
+      "id_image": "convict_2436800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349482_b2214d2ccb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349482_8f7b805278_o.png",
+      "id_image": "convict_583607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042205_545521c613_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042205_c98ce13eb3_o.png",
+      "id_image": "convict_583608"
+    }
+  ]
+}

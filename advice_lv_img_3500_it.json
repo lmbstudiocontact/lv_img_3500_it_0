@@ -1,0 +1,57 @@
+{
+  "english": "advice",
+  "phat_am": "[əd'vais]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lời khuyên, lời chỉ bảo",
+          "list_en_vn": [
+            {
+              "full_en": "to act on /follow /take somebody's advice",
+              "full_vn": "hành động theo/theo/nghe theo lời khuyên của ai"
+            },
+            {
+              "full_en": "to take legal advice ; to take medical advice",
+              "full_vn": "hỏi ý kiến luật sư; hỏi ý kiến bác sĩ (nhờ bác sĩ khám cho)"
+            },
+            {
+              "full_en": "my advice to you would be to wait",
+              "full_vn": "theo ý tôi thì anh nên chờ đợi"
+            },
+            {
+              "full_en": "if you take my advice , you'll see a doctor",
+              "full_vn": "nên nghe lời tôi khuyên, anh hãy đi khám bác sĩ"
+            },
+            {
+              "full_en": "let me give you a piece /a bit /a few words /a word of advice ...",
+              "full_vn": "tôi xin có vài lời khuyên anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) thư thông báo; văn bản thông báo; giấy báo (cũng) advice note",
+          "list_en_vn": [
+            {
+              "full_en": "we received advice that the goods had been dispatched",
+              "full_vn": "chúng tôi nhận được thông báo là hàng hoá đã được chuyển đi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319551_02fdbb6cf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319551_36090a4c50_o.png",
+      "id_image": "advice_1750469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319521_9d23b65bd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319521_3002772e31_o.png",
+      "id_image": "advice_1900160"
+    }
+  ]
+}

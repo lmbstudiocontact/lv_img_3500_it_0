@@ -1,0 +1,97 @@
+{
+  "english": "ash",
+  "phat_am": "[æ∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( số nhiều) tro; tàn (thuốc lá)",
+          "list_en_vn": [
+            {
+              "full_en": "to reduce (burn ) something to ashes",
+              "full_vn": "đốt vật gì thành tro"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) tro hoả táng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lay in ashes",
+              "list_im": [
+                {
+                  "im_full_vn": "đốt ra tro, đốt sạch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn to dust and ashes",
+              "list_im": [
+                {
+                  "im_full_vn": "tiêu tan, tan thành mây khói (hy vọng...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rake over old ashes",
+              "list_im": [
+                {
+                  "im_full_vn": "gợi lại những kỷ niệm không vui, khơi lại đống tro tàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sackcloth and ashes",
+              "list_im": [
+                {
+                  "im_full_vn": "dấu hiệu của sự sám hối hay sự tang tóc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây tần bì",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Ashes",
+              "list_im": [
+                {
+                  "im_full_vn": "giải thưởng tượng trưng trao cho đội thắng cuộc sau một loạt trận đấu crickê giữa Anh và úc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304121_f9d07a25fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304121_3798095b44_o.png",
+      "id_image": "ashes_1450751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304106_54c883f16a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304106_0611266bca_o.png",
+      "id_image": "ashes_3768731"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304066_e48680398a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304066_faf8ba60d0_o.png",
+      "id_image": "ashes_4545211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304151_d4543e30b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304151_dea754668d_o.png",
+      "id_image": "ash_1650364"
+    }
+  ]
+}

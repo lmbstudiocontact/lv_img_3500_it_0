@@ -1,0 +1,85 @@
+{
+  "english": "affair",
+  "phat_am": "[ə'feə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "việc",
+          "list_en_vn": [
+            {
+              "full_en": "it's my affair",
+              "full_vn": "đây là việc (riêng) của tôi"
+            },
+            {
+              "full_en": "mind your own affair",
+              "full_vn": "hãy lo lấy việc của anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) công việc, việc làm, sự vụ",
+          "list_en_vn": [
+            {
+              "full_en": "internal affairs of a country",
+              "full_vn": "công việc nội bộ của một nước"
+            },
+            {
+              "full_en": "Department of Home Affairs",
+              "full_vn": "bộ nội vụ"
+            },
+            {
+              "full_en": "Department of Foreign Affairs",
+              "full_vn": "bộ ngoại giao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyện tình, chuyện yêu đương"
+        },
+        {
+          "m_full_vn": "chuyện, vấn đề",
+          "list_en_vn": [
+            {
+              "full_en": "affair of honour",
+              "full_vn": "vấn đề danh dự; cuộc đọ kiếm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc buôn bán; việc giao thiệp",
+          "list_en_vn": [
+            {
+              "full_en": "a profitable affair",
+              "full_vn": "việc buôn bán có lời"
+            },
+            {
+              "full_en": "to have an affair with somebody",
+              "full_vn": "có việc giao thiệp với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) cái, thứ, vật, đồ, món, chuyện",
+          "list_en_vn": [
+            {
+              "full_en": "this motorbike is a very complicated affair",
+              "full_vn": "cái mô tô này thật là một món phức tạp quá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) trận đánh nhỏ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434293_e65eee564f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434293_bce74b13fc_o.png",
+      "id_image": "affair_2621678"
+    }
+  ]
+}

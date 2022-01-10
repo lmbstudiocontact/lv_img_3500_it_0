@@ -1,0 +1,102 @@
+{
+  "english": "caution",
+  "phat_am": "['kɔ:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thận trọng, sự cẩn thận",
+          "list_en_vn": [
+            {
+              "full_en": "to act with caution",
+              "full_vn": "hành động thận trọng"
+            },
+            {
+              "full_en": "caution !",
+              "full_vn": "chú ý! cẩn thận!"
+            },
+            {
+              "full_en": "you should exercise extreme caution when driving in fog",
+              "full_vn": "bạn nên hết sức thận trọng khi lái xe trong sương mù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời cảnh cáo, lời quở trách",
+          "list_en_vn": [
+            {
+              "full_en": "to be dismissed with a caution",
+              "full_vn": "bị cảnh cáo và cho về"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) người kỳ quái; vật kỳ lạ",
+          "list_one_mean": [
+            {
+              "id_full_en": "caution is the parent of safety",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) cẩn tắc vô ưu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw caution to the winds",
+              "list_im": [
+                {
+                  "im_full_vn": "thiếu thận trọng khi hành động"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "báo trước cho ai phải cẩn thận",
+          "list_en_vn": [
+            {
+              "full_en": "we were cautioned not to drive too fast",
+              "full_vn": "chúng tôi được báo trước là đừng lái xe quá nhanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to caution somebody against something ) báo trước hoặc khuyên ai chống lại cái gì"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433858_07b970b971_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433858_9c11c2dcc0_o.png",
+      "id_image": "caution_1348669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318601_3f7b4b7512_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318601_4ef0602ac0_o.png",
+      "id_image": "caution_1972903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055175_4ab2a0b513_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055175_6cd22fd706_o.png",
+      "id_image": "caution_3100328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673494_ab22828212_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673494_fbedaebf95_o.png",
+      "id_image": "caution_313085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318571_91a5d0cf72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318571_2701287843_o.png",
+      "id_image": "caution_3751796"
+    }
+  ]
+}

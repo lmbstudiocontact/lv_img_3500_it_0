@@ -1,0 +1,59 @@
+{
+  "english": "bumper",
+  "phat_am": "['bʌmpə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người va mạnh"
+        },
+        {
+          "m_full_vn": "cốc rượu đầy tràn"
+        },
+        {
+          "m_full_vn": "vụ mùa bội thu ( (cũng) bumper crop , bumper harvest )"
+        },
+        {
+          "m_full_vn": "rạp hát đóng kín"
+        },
+        {
+          "m_full_vn": "cái hãm xung, cái đỡ va (ô tô...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "bumper-to-bumper",
+              "list_im": [
+                {
+                  "im_full_vn": "theo hàng dọc, nối đuôi nhau",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "all the cars in this garage must be parked bumper-to-bumper",
+                      "full_vn": "tất cả các xe trong gara này phải đậu nối đuôi nhau"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666004_0916af3df1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666004_d17a174513_o.png",
+      "id_image": "bumper_1514207"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310841_b1e8ecfa18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310841_812ab70655_o.png",
+      "id_image": "bumper_2597874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310801_1013a94914_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310801_ae1a882547_o.png",
+      "id_image": "bumper_4805794"
+    }
+  ]
+}

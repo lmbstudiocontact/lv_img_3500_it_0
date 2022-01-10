@@ -1,0 +1,104 @@
+{
+  "english": "broadcast",
+  "phat_am": "['brɔ:dkɑ:st; 'brɔ:dkæ:st]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nói về tin tức...) được loan truyền qua đài phát thanh hoặc đài truyền hình",
+          "list_en_vn": [
+            {
+              "full_en": "broadcast appeal",
+              "full_vn": "lời kêu gọi qua đài phát thanh"
+            },
+            {
+              "full_en": "today's broadcast program",
+              "full_vn": "chương trình phát thanh hôm nay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ (thì quá khứ và động tính từ quá khứ là broadcast )",
+      "list_m": [
+        {
+          "m_full_vn": "phát (tin tức...) bằng cách truyền thanh hoặc truyền hình",
+          "list_en_vn": [
+            {
+              "full_en": "to broadcast the up-to-the-minute news , a fashion show , a football match",
+              "full_vn": "phát tin giờ chót, một buổi trình diễn thời trang, một trận bóng đá"
+            },
+            {
+              "full_en": "The VOA (Voice of America ) broadcasts all over the world",
+              "full_vn": "Đài VOA ( Tiếng nói Hoa Kỳ) phát thanh khắp thế giới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói hoặc xuất hiện trên truyền thanh hoặc truyền hình",
+          "list_en_vn": [
+            {
+              "full_en": "My friend broadcasts on sports",
+              "full_vn": "Bạn tôi phát thanh về thể thao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phổ biến rộng rãi; quảng bá",
+          "list_en_vn": [
+            {
+              "full_en": "to broadcast one's political views",
+              "full_vn": "quảng bá chính kiến của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gieo (hạt) bằng cách rải"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chương trình phát thanh hoặc truyền hình",
+          "list_en_vn": [
+            {
+              "full_en": "an army broadcast",
+              "full_vn": "buổi phát thanh hoặc truyền hình về quân đội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315726_8195aa7171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315726_f7fb0e969e_o.png",
+      "id_image": "broadcast_2396257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359872_1b294db17b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359872_4bbf3aebcf_o.png",
+      "id_image": "broadcast_4318954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670319_a1854955cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670319_eb848ce1b1_o.png",
+      "id_image": "broadcast_5008315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430468_994f4c743c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430468_86512fce1d_o.png",
+      "id_image": "broadcast_6315596"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670414_6505bc42c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670414_39e99f0a1d_o.png",
+      "id_image": "broadcast_650949"
+    }
+  ]
+}

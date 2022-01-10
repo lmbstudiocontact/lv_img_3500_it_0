@@ -1,0 +1,95 @@
+{
+  "english": "blush",
+  "phat_am": "[blʌ∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đỏ mặt (vì thẹn, bối rối...)",
+          "list_en_vn": [
+            {
+              "full_en": "she turned away to hide her blushes",
+              "full_vn": "cô ta quay sang chỗ khác để giấu bộ mặt đỏ ứng vì ngượng của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ánh hồng, nét ửng đỏ",
+          "list_en_vn": [
+            {
+              "full_en": "the blush of morn",
+              "full_vn": "ánh hồng của buổi ban mai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái nhìn, cái liếc mắt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to put somebody to the blush",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai thẹn đỏ mặt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to spare somebody's blushes",
+              "list_im": [
+                {
+                  "im_full_vn": "không làm cho ai lúng túng vì vừa mới khen anh ta"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "at the first blush",
+              "full_vn": "lúc mới nhìn thấy lần đầu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to blush with / at something ) đỏ mặt (vì cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to blush with shame /embarrassment",
+              "full_vn": "đỏ mặt vì thẹn/lúng túng"
+            },
+            {
+              "full_en": "she blushed at (the thought of ) her stupid mistake",
+              "full_vn": "cô ta đỏ mặt khi nghĩ đến cái lỗi ngu xuẩn của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xấu hổ, ngượng ngùng",
+          "list_en_vn": [
+            {
+              "full_en": "I blush to admit /confess that ...",
+              "full_vn": "tôi xấu hổ thừa nhận/thú nhận rằng........"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327676_f4584a7c6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327676_14ebb5b8d7_o.png",
+      "id_image": "blush_213266"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064320_0b5a81bf91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064320_cb3fd4ec88_o.png",
+      "id_image": "blush_3874499"
+    }
+  ]
+}

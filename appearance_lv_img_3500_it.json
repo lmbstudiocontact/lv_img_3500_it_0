@@ -1,0 +1,84 @@
+{
+  "english": "appearance",
+  "phat_am": "[ə'piərəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xuất hiện; sự hiện ra; sự ló ra",
+          "list_en_vn": [
+            {
+              "full_en": "to make one's appearance",
+              "full_vn": "xuất đầu lộ diện; xuất hiện"
+            },
+            {
+              "full_en": "his first appearance on stage was at the age of three",
+              "full_vn": "lần đầu tiên anh ta xuất hiện trên sàn diễn là năm anh ta được ba tuổi"
+            },
+            {
+              "full_en": "to put in an appearance",
+              "full_vn": "đến cho có mặt một lát (ở buổi lễ...)"
+            },
+            {
+              "full_en": "I know that you don't want to attend their wedding , but you'd better put in an appearance",
+              "full_vn": "Tôi biết anh không muốn dự đám cưới họ, nhưng anh nên đến một lát cho có mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) sự trình diện, sự ra hầu toà"
+        },
+        {
+          "m_full_vn": "vẻ bề ngoài; diện mạo; tướng mạo; phong thái",
+          "list_en_vn": [
+            {
+              "full_en": "a man of good appearance",
+              "full_vn": "người có diện mạo tốt"
+            },
+            {
+              "full_en": "she gave every appearance of being extremely rich",
+              "full_vn": "mọi vẻ bề ngoài của cô ta đều cho thấy là cô ta cực kỳ giàu có"
+            },
+            {
+              "full_en": "the hospital was like a hotel in appearance",
+              "full_vn": "bệnh viện trông có vẻ như một khách sạn"
+            },
+            {
+              "full_en": "one should not judge by appearances",
+              "full_vn": "không nên xét đoán theo bề ngoài"
+            },
+            {
+              "full_en": "to save (keep up ) appearances",
+              "full_vn": "giữ thể diện"
+            },
+            {
+              "full_en": "to all appearances",
+              "full_vn": "theo biểu hiện bề ngoài"
+            },
+            {
+              "full_en": "the victim was to all outward appearances dead",
+              "full_vn": "tất cả các biểu hiện bên ngoài cho thấy là nạn nhân đã chết"
+            },
+            {
+              "full_en": "to assume (put on ) the appearance of innocence",
+              "full_vn": "làm ra vẻ ngây thơ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308896_8c3e12c07a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308896_f91faec9ee_o.png",
+      "id_image": "appearance_5772782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424083_6b61e09846_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424083_bd5b2b0352_o.png",
+      "id_image": "appearance_5906121"
+    }
+  ]
+}

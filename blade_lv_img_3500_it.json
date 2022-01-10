@@ -1,0 +1,65 @@
+{
+  "english": "blade",
+  "phat_am": "[bleid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lưỡi (dao, kiếm)",
+          "list_en_vn": [
+            {
+              "full_en": "a razor blade",
+              "full_vn": "lưỡi dao cạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lá (cỏ, lúa)"
+        },
+        {
+          "m_full_vn": "mái (chèo); cánh (chong chóng...)"
+        },
+        {
+          "m_full_vn": "thanh kiếm"
+        },
+        {
+          "m_full_vn": "xương dẹt ( (cũng) blade bone )"
+        },
+        {
+          "m_full_vn": "(thực vật học) phiến (lá)"
+        },
+        {
+          "m_full_vn": "(thông tục) gã, anh chàng, thằng",
+          "list_en_vn": [
+            {
+              "full_en": "a dolly old blade",
+              "full_vn": "một anh chàng vui nhộn"
+            },
+            {
+              "full_en": "a cunning blade",
+              "full_vn": "một thằng láu cá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347057_947fab56f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347057_2c94f17731_o.png",
+      "id_image": "blade_1733375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347102_65b7f995c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347102_abe8190f9f_o.png",
+      "id_image": "blade_258239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417858_25a90700f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417858_6f1edd61e9_o.png",
+      "id_image": "blade_534229"
+    }
+  ]
+}

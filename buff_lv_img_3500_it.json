@@ -1,0 +1,82 @@
+{
+  "english": "buff",
+  "phat_am": "[bʌf]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "da trâu, da bò"
+        },
+        {
+          "m_full_vn": "màu vàng sẫm, màu da bò"
+        },
+        {
+          "m_full_vn": "(thông tục) người ái mộ",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the buff",
+              "list_im": [
+                {
+                  "im_full_vn": "trần truồng, loã lồ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strip to the buff",
+              "list_im": [
+                {
+                  "im_full_vn": "lột trần truồng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a bullfighting buff",
+              "full_vn": "người ái mộ môn đấu bò"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có màu nâu sẫm, có màu da bò"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh bóng bằng vải mềm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357067_34e4ab1f86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357067_a0fe77cc4c_o.png",
+      "id_image": "buff_1620447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313101_e8b75a1910_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313101_d767a7df3a_o.png",
+      "id_image": "buff_1622497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313066_8fb35f3930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313066_5411886cee_o.png",
+      "id_image": "buff_2463444"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667844_28bf8f55c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667844_26ae9ea296_o.png",
+      "id_image": "buff_2790394"
+    }
+  ]
+}

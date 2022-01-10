@@ -1,0 +1,95 @@
+{
+  "english": "authority",
+  "phat_am": "[ɔ:'θɔriti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "uy quyền, quyền lực, quyền thế",
+          "list_en_vn": [
+            {
+              "full_en": "she now has authority over the people she used to take orders from",
+              "full_vn": "bây giờ bà ta có quyền đối với những người mà trước đây bà ta thường nhận lệnh"
+            },
+            {
+              "full_en": "who's in authority now ?",
+              "full_vn": "ai là người cầm quyền bây giờ?"
+            },
+            {
+              "full_en": "I'm acting under her authority",
+              "full_vn": "tôi đang hành động dưới quyền của bà ta"
+            },
+            {
+              "full_en": "the leader must be a person of authority",
+              "full_vn": "người lãnh đạo phải là người có quyền lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyền hành động trong một mức độ cụ thể",
+          "list_en_vn": [
+            {
+              "full_en": "only the treasurer has authority to sign cheques",
+              "full_vn": "chỉ có thủ quỹ mới có quyền ký séc"
+            },
+            {
+              "full_en": "we have the authority to search this building",
+              "full_vn": "chúng tôi có quyền khám xét toà nhà này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người hoặc nhóm người có quyền ra lệnh hoặc thi hành",
+          "list_en_vn": [
+            {
+              "full_en": "he's in the care of the local authority",
+              "full_vn": "nó đang được nhà chức trách địa phương chăm sóc"
+            },
+            {
+              "full_en": "the health authorities are investigating the matter",
+              "full_vn": "nhà chức trách y tế đang điều tra sự việc"
+            },
+            {
+              "full_en": "I'll have to report this to the authorities",
+              "full_vn": "tôi phải báo cáo tình hình đó cho nhà đương cục"
+            },
+            {
+              "full_en": "local authorities are the foundation of national administrative machine",
+              "full_vn": "chính quyền địa phương là nền tảng của bộ máy hành chính quốc gia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người có uy tín, người có thẩm quyền, chuyên gia, người lão luyện (về một môn nào)",
+          "list_en_vn": [
+            {
+              "full_en": "He's an authority on geology",
+              "full_vn": "Ông ấy là chuyên gia về địa chất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tài liệu có thể làm căn cứ đáng tin cậy",
+          "list_en_vn": [
+            {
+              "full_en": "what is his authority for that statement ?",
+              "full_vn": "anh ta căn cứ vào đâu để phát biểu như vậy?"
+            },
+            {
+              "full_en": "always quote your authorities",
+              "full_vn": "bao giờ anh cũng phải dẫn các tài liệu gốc của anh ra (tên sách, người... dùng làm nguồn cho các sự kiện)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370907_f4f449d5ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370907_f3349ddbb5_o.png",
+      "id_image": "authority_2720642"
+    }
+  ]
+}

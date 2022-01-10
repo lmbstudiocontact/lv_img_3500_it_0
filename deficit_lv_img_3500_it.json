@@ -1,0 +1,27 @@
+{
+  "english": "deficit",
+  "phat_am": "['defisit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tài chính) số tiền thiếu hụt (do chi lớn hơn thu)",
+          "list_en_vn": [
+            {
+              "full_en": "to make up a deficit ; to meet a deficit",
+              "full_vn": "bù lại số tiền thiếu hụt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661224_90f96fc41b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661224_503d6225da_o.png",
+      "id_image": "deficit_2112495"
+    }
+  ]
+}

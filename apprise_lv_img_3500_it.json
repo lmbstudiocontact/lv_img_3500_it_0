@@ -1,0 +1,31 @@
+{
+  "english": "apprise",
+  "phat_am": "[ə'praiz]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho biết, báo cho biết",
+          "list_en_vn": [
+            {
+              "full_en": "to apprise somebody of something",
+              "full_vn": "báo cho ai biết cái gì"
+            },
+            {
+              "full_en": "to be apprised of something",
+              "full_vn": "biết cái gì, có ý thức về cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422798_6e958fe5ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422798_c6092d65ef_o.png",
+      "id_image": "apprise_1605536"
+    }
+  ]
+}

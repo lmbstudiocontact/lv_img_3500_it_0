@@ -1,0 +1,54 @@
+{
+  "english": "circulation",
+  "phat_am": "[,sə:kju'lei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lưu thông",
+          "list_en_vn": [
+            {
+              "full_en": "the circulation of the blood",
+              "full_vn": "sự lưu thông của máu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự lưu hành (tiền tệ)",
+          "list_en_vn": [
+            {
+              "full_en": "to put into circulation",
+              "full_vn": "cho lưu hành"
+            },
+            {
+              "full_en": "to withdraw from circulation",
+              "full_vn": "không cho lưu hành, thu hồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tổng số phát hành (báo, tạp chí...)"
+        },
+        {
+          "m_full_vn": "tiền, đồng tiền"
+        },
+        {
+          "m_full_vn": "(toán học) lưu số"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306296_89541f4079_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306296_630de1d685_o.png",
+      "id_image": "circulation_2911081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043305_2256172434_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043305_3e3fa23bc3_o.png",
+      "id_image": "circulation_3653348"
+    }
+  ]
+}

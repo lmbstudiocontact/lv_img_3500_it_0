@@ -1,0 +1,45 @@
+{
+  "english": "capability",
+  "phat_am": "[,keipə'biliti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( capability to do something / of doing something ) ( capability for something ) tính cách có thể làm được việc gì; khả năng; năng lực",
+          "list_en_vn": [
+            {
+              "full_en": "You've the capability to do /of doing this job well",
+              "full_vn": "Anh có khả năng làm tốt việc này"
+            },
+            {
+              "full_en": "Nuclear capability",
+              "full_vn": "khả năng hạt nhân (khả năng tiến hành một cuộc chiến tranh hạt nhân)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) năng lực tiềm tàng",
+          "list_en_vn": [
+            {
+              "full_en": "to have capabilities as a novelist",
+              "full_vn": "có nhiều năng lực tiềm tàng làm một tiểu thuyết gia"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684224_a4a7842a3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684224_2cdb8ab4af_o.png",
+      "id_image": "capability_2503636"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373897_603ec193b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373897_eb4fed55cd_o.png",
+      "id_image": "capability_5216776"
+    }
+  ]
+}

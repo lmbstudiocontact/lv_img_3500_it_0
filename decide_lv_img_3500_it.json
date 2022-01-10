@@ -1,0 +1,77 @@
+{
+  "english": "decide",
+  "phat_am": "[di'said]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giải quyết, phân xử",
+          "list_en_vn": [
+            {
+              "full_en": "to decide a question",
+              "full_vn": "giải quyết một vấn đề"
+            },
+            {
+              "full_en": "to decide against somebody",
+              "full_vn": "phân xử ai thua (kiện...)"
+            },
+            {
+              "full_en": "to decide in favour of somebody",
+              "full_vn": "phân xử cho ai được (kiện)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyết định",
+          "list_en_vn": [
+            {
+              "full_en": "to decide to do something",
+              "full_vn": "quyết định làm cái gì"
+            },
+            {
+              "full_en": "to decide against doing something",
+              "full_vn": "quyết định không làm cái gì"
+            },
+            {
+              "full_en": "that decides me !",
+              "full_vn": "nhất định rồi!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lựa chọn, quyết định chọn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to decide on",
+              "list_im": [
+                {
+                  "im_full_vn": "chọn, quyết định chọn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she decided on the green coat",
+                      "full_vn": "cô ta quyết định chọn cái áo choàng màu lục"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to decide between two things",
+              "full_vn": "lựa chọn trong hai thứ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351617_fa1fcdda60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351617_14aa4b9d5f_o.png",
+      "id_image": "decide_4301938"
+    }
+  ]
+}

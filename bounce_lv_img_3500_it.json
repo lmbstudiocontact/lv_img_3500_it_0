@@ -1,0 +1,123 @@
+{
+  "english": "bounce",
+  "phat_am": "['bauns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nảy lên, sự bật lên"
+        },
+        {
+          "m_full_vn": "sự khoe khoang khoác lác"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) sự đuổi ra, sự tống cổ ra, sự thải hồi",
+          "list_en_vn": [
+            {
+              "full_en": "to get the bounce",
+              "full_vn": "bị tống cổ ra, bị thải hồi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nảy lên",
+          "list_en_vn": [
+            {
+              "full_en": "the ball bounced over the wall",
+              "full_vn": "quả bóng nảy qua tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhảy vụt ra",
+          "list_one_mean": [
+            {
+              "id_full_en": ""
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to bounce out of some place",
+              "full_vn": "nhảy vụt ra khỏi nơi nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "huênh hoang khoác lác, khoe khoang; vênh váo"
+        },
+        {
+          "m_full_vn": "(hàng không) nhún lên nhún xuống (lúc hạ cánh xuống đất)"
+        },
+        {
+          "m_full_vn": "(từ lóng) bị trả về cho người ký vì không có tài khoản (séc)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dồn ép (ai làm việc gì); đánh lừa (ai) làm gì",
+          "list_en_vn": [
+            {
+              "full_en": "to bounce someone out of something",
+              "full_vn": "đánh lừa ai lấy cái gì"
+            },
+            {
+              "full_en": "to bounce someone into doing something",
+              "full_vn": "dồn ép ai làm gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đuổi ra, tống cổ ra, thải hồi (ai)"
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "thình lình, bất chợt, vụt",
+          "list_en_vn": [
+            {
+              "full_en": "to come bounce into the room",
+              "full_vn": "chạy vụt vào phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ầm ĩ, ồn ào"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365757_af68df52e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365757_b803f2c366_o.png",
+      "id_image": "bounce_4542614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365797_47f4879259_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365797_9c4ae2bfb0_o.png",
+      "id_image": "bounce_496568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365727_f4c0e00069_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365727_eba9e3d7a0_o.png",
+      "id_image": "bounce_5060127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365712_0e944da77d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365712_0c105337cd_o.png",
+      "id_image": "bounce_5284182"
+    }
+  ]
+}

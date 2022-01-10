@@ -1,0 +1,66 @@
+{
+  "english": "cloudy",
+  "phat_am": "['klaudi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có mây phủ, đầy mây; u ám",
+          "list_en_vn": [
+            {
+              "full_en": "cloudy sky",
+              "full_vn": "bầu trời đầy mây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đục, vẩn",
+          "list_en_vn": [
+            {
+              "full_en": "a cloudy liquid",
+              "full_vn": "chất nước đục"
+            },
+            {
+              "full_en": "a cloudy diamond",
+              "full_vn": "viên kim cương có vẩn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tối nghĩa, không sáng tỏ, không rõ ràng (văn)"
+        },
+        {
+          "m_full_vn": "buồn bã, u buồn (người)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328826_0973cdcac0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328826_f73f01ec09_o.png",
+      "id_image": "cloudy_1462983"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065630_0973cdcac0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065630_87053d7144_o.png",
+      "id_image": "cloudy_4968414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683829_a4d61ee82c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683829_fde0e9197f_o.png",
+      "id_image": "cloudy_4968458"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373662_bb9b26b42b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373662_f4581fc2e2_o.png",
+      "id_image": "cloudy_762531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328891_0fe76c03ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328891_8c6d7d1ba1_o.png",
+      "id_image": "cloudy_765847"
+    }
+  ]
+}

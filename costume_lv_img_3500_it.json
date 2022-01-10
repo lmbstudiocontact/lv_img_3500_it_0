@@ -1,0 +1,92 @@
+{
+  "english": "costume",
+  "phat_am": "['kɔstju:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quần áo; y phục; trang phục",
+          "list_en_vn": [
+            {
+              "full_en": "National costume",
+              "full_vn": "Quần áo dân tộc; quốc phục"
+            },
+            {
+              "full_en": "Scotsmen in Highland costume",
+              "full_vn": "Người Xcốtlen trong y phục vùng cao"
+            },
+            {
+              "full_en": "Skiing costume",
+              "full_vn": "Quần áo mặc khi trượt tuyết"
+            },
+            {
+              "full_en": "A costume piece /play /drama",
+              "full_vn": "Vở kịch/tuồng có y phục lịch sử"
+            },
+            {
+              "full_en": "People wore historical costumes for the parade",
+              "full_vn": "Mọi người mặc trang phục lịch sử để đi diễu hành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ quần áo của phụ nữ (váy và áo choàng ngắn cùng một thứ vải)",
+          "list_one_mean": [
+            {
+              "id_full_en": "Costume ball",
+              "list_im": [
+                {
+                  "im_full_vn": "Buổi khiêu vũ cải trang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Costume jewellery",
+              "list_im": [
+                {
+                  "im_full_vn": "Nữ trang làm bằng những hạt ngọc nhân tạo; nữ trang giả"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặc quần áo cho"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329146_2b11255554_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329146_5ff6193d8a_o.png",
+      "id_image": "costume_5854350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684089_6b81744e64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684089_c8ea973f8a_o.png",
+      "id_image": "costume_5864683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329011_1c0fb6bfc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329011_80648ac00e_o.png",
+      "id_image": "costume_6236158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443918_8106233b83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443918_7f5125eebd_o.png",
+      "id_image": "costume_6347602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329166_82751eae7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329166_c3eb9f27a4_o.png",
+      "id_image": "costume_722852"
+    }
+  ]
+}

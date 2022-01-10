@@ -1,0 +1,183 @@
+{
+  "english": "care",
+  "phat_am": "[keə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chăm sóc, sự chăm nom, sự giữ gìn, sự bảo dưỡng",
+          "list_en_vn": [
+            {
+              "full_en": "to be in (under ) somebody's care",
+              "full_vn": "được ai chăm nom"
+            },
+            {
+              "full_en": "to take care of one's health",
+              "full_vn": "giữ gìn sức khoẻ"
+            },
+            {
+              "full_en": "I leave this in your care",
+              "full_vn": "tôi phó thác việc này cho anh trông nom"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chăm chú, sự chú ý; sự cẩn thận, sự thận trọng",
+          "list_en_vn": [
+            {
+              "full_en": "to give care to one's work",
+              "full_vn": "chú ý đến công việc"
+            },
+            {
+              "full_en": "take care not to forget your wallet !",
+              "full_vn": "cẩn thận kẻo quên cái ví! (coi chừng quên cái ví!)"
+            },
+            {
+              "full_en": "take care not to fall !",
+              "full_vn": "cẩn thận kẻo té! (coi chừng té!)"
+            },
+            {
+              "full_en": "to do something with care",
+              "full_vn": "làm việc gì cẩn thận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự lo âu, sự lo lắng",
+          "list_one_mean": [
+            {
+              "id_full_en": "care of Mr . X",
+              "list_im": [
+                {
+                  "im_full_vn": "nhờ ông X chuyển giúp ( viếttrên phong bì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "care killed the cat",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) lo bạc râu, sầu bạc tóc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "full of cares",
+              "full_vn": "đầy lo âu"
+            },
+            {
+              "full_en": "free from care",
+              "full_vn": "không phải lo lắng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trông nom, chăm sóc, nuôi nấng",
+          "list_en_vn": [
+            {
+              "full_en": "to care for a patient",
+              "full_vn": "chăm sóc người ốm"
+            },
+            {
+              "full_en": "to be well cared for",
+              "full_vn": "được chăm sóc chu đáo, được trông nom cẩn thận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chú ý đến, để ý đến, quan tâm đến, lo lắng đến; cần đến",
+          "list_en_vn": [
+            {
+              "full_en": "that's all he cares for",
+              "full_vn": "đó là tất cả những điều mà nó lo lắng"
+            },
+            {
+              "full_en": "I don't care",
+              "full_vn": "tôi không cần"
+            },
+            {
+              "full_en": "he doesn't care what they say",
+              "full_vn": "anh ta không để ý đến những điều họ nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thích, muốn",
+          "list_one_mean": [
+            {
+              "id_full_en": "for all I care",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) tớ cần đếch gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I don't care a pin (a damn , a whit , a tinker's cuss , a button , a cent , a chip , a feather , a fig , a straw , a whoop , a brass farthing )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) tớ cóc cần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to care if",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không phản đối gì; không đòi hỏi gì hơn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I don't care if I do",
+                      "full_vn": "(thông tục) tôi không phản đối gì việc phải làm cái đó, tôi sẵn sàng làm cái đó"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "would you care for a walk ?",
+              "full_vn": "anh có thích đi tản bộ không?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325871_bc1212df3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325871_3510f93771_o.png",
+      "id_image": "care_2037226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325811_b8fbee4e40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325811_0c422a4e55_o.png",
+      "id_image": "care_2871743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062570_1d172ba71b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062570_b53478f81d_o.png",
+      "id_image": "care_2997187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681019_10d52bee55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681019_2a92eb915a_o.png",
+      "id_image": "care_436662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440748_abbffd1aa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440748_d82bb0147d_o.png",
+      "id_image": "care_5102111"
+    }
+  ]
+}

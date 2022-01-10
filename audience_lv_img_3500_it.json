@@ -1,0 +1,72 @@
+{
+  "english": "audience",
+  "phat_am": "['ɔ:djəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhóm người tụ hội lại với nhau để nghe hoặc xem ai/cái gì; khán giả; thính giả; cử toạ",
+          "list_en_vn": [
+            {
+              "full_en": "the audience was /were enthusiastic on the opening night of the play",
+              "full_vn": "khán giả hân hoan đón tiếp buổi tối mở màn diễn vở kịch"
+            },
+            {
+              "full_en": "an audience of millions watched the royal wedding on TV",
+              "full_vn": "một cử toạ hàng triệu người xem lễ cưới hoàng gia trên ti vi"
+            },
+            {
+              "full_en": "his books reached an even wider audience when it was filmed for television",
+              "full_vn": "quyển sách của ông ta càng có thêm nhiều người đọc khi quay phim để đưa lên truyền hình"
+            },
+            {
+              "full_en": "she has addressed audiences all over the country",
+              "full_vn": "bà ta đã diễn thuyết trước các thính giả khắp cả nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự yết kiến; sự tiếp kiến",
+          "list_en_vn": [
+            {
+              "full_en": "to request an audience with the Queen",
+              "full_vn": "xin yết kiến Nữ hoàng"
+            },
+            {
+              "full_en": "to grant a private audience to a foreign ambassador",
+              "full_vn": "dành một buổi tiếp kiến riêng cho một đại sứ nước ngoài"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682574_a49db5e274_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682574_d80a2a14ea_o.png",
+      "id_image": "audience_2472030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327436_1a121141c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327436_1d5328d1a9_o.png",
+      "id_image": "audience_4114487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442393_3f0d850ab6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442393_fe10e22c97_o.png",
+      "id_image": "audience_4647331"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372022_b63f1ba19e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372022_cc8c3f4264_o.png",
+      "id_image": "audience_5857310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371972_81a57c6f11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371972_28097ff157_o.png",
+      "id_image": "audience_6347240"
+    }
+  ]
+}

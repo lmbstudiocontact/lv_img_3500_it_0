@@ -1,0 +1,27 @@
+{
+  "english": "crayfish",
+  "phat_am": "['kreifi∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tôm",
+          "list_en_vn": [
+            {
+              "full_en": "freshwater crayfish",
+              "full_vn": "tôm đồng, tôm sông"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438158_0555c9e613_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438158_ae029d6b95_o.png",
+      "id_image": "crayfish_5449748"
+    }
+  ]
+}

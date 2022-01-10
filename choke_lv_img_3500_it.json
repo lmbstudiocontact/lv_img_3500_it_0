@@ -1,0 +1,97 @@
+{
+  "english": "choke",
+  "phat_am": "[t∫ouk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lõi rau atisô"
+        },
+        {
+          "m_full_vn": "động tác hoặc tiếng bị nghẹt, bị chặn"
+        },
+        {
+          "m_full_vn": "(điện học) cuộn cảm kháng ( (cũng) choker )",
+          "list_en_vn": [
+            {
+              "full_en": "high-frequency choke",
+              "full_vn": "cuộn cảm kháng cao tần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) van điều tiết không khí vào một động cơ xăng; bướm gió"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho ai ngưng thở bằng cách bóp chặt khí quản; bóp cổ",
+          "list_en_vn": [
+            {
+              "full_en": "to choke the life out of somebody",
+              "full_vn": "bóp cổ ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho ai không nói nên lời; làm cho ai lặng người",
+          "list_en_vn": [
+            {
+              "full_en": "anger choked his words",
+              "full_vn": "cơn giận làm anh ấy nghẹn lời"
+            },
+            {
+              "full_en": "she was choking with emotion",
+              "full_vn": "cô ấy xúc động nghẹn ngào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to choke something up with something ) làm tắc; làm ngột ngạt",
+          "list_en_vn": [
+            {
+              "full_en": "the drains are choked (up ) with dead leaves",
+              "full_vn": "các cống thoát nước bị tắc vì là rụng"
+            },
+            {
+              "full_en": "the garden is choked with weeds",
+              "full_vn": "khu vườn đầy cỏ dại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to choke something back ) kìm giữ; nén lại",
+          "list_en_vn": [
+            {
+              "full_en": "to choke back one's tears , anger , indignation",
+              "full_vn": "nuốt nước mắt, nuốt giận, kìm cơn phẫn nộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to choke somebody off ) ngắt lời ai; quở trách ai"
+        },
+        {
+          "m_full_vn": "( to choke on something ) nghẹt thở; bí thở",
+          "list_en_vn": [
+            {
+              "full_en": "she choked (to death ) on a fish bone",
+              "full_vn": "cô ta hóc xương cá ngạt thở (đến chết)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045220_c638eafaf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045220_e3ce29dab5_o.png",
+      "id_image": "choke_4658059"
+    }
+  ]
+}

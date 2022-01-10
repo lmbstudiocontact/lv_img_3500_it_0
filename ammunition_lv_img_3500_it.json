@@ -1,0 +1,77 @@
+{
+  "english": "ammunition",
+  "phat_am": "[,æmju'ni∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đạn dược",
+          "list_en_vn": [
+            {
+              "full_en": "ammunition belt",
+              "full_vn": "(từ Mỹ,nghĩa Mỹ) băng đạn"
+            },
+            {
+              "full_en": "ammunition depot",
+              "full_vn": "kho đạn"
+            },
+            {
+              "full_en": "ammunition factory",
+              "full_vn": "xưởng đúc đạn"
+            },
+            {
+              "full_en": "ammunition waggon",
+              "full_vn": "toa chở đạn dược"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) lý lẽ, sự kiện (để công kích hay bào chữa)"
+        },
+        {
+          "m_full_vn": "(sử học) quân trang quân dụng",
+          "list_en_vn": [
+            {
+              "full_en": "ammunition boots",
+              "full_vn": "giày quân dụng"
+            },
+            {
+              "full_en": "ammunition bread",
+              "full_vn": "bánh quân dụng"
+            },
+            {
+              "full_en": "ammunition leg",
+              "full_vn": "(thông tục) chân gỗ, chân giả"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cung cấp đạn dược"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314346_ba0ed2e938_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314346_cf996960b7_o.png",
+      "id_image": "ammunition_1733368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314271_25c7056307_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314271_c011b054bc_o.png",
+      "id_image": "ammunition_2389366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050890_fd6da76bd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050890_811b4b1a9e_o.png",
+      "id_image": "ammunition_2737746"
+    }
+  ]
+}

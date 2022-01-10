@@ -1,0 +1,48 @@
+{
+  "english": "author",
+  "phat_am": "['ɔ:θə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tác giả"
+        },
+        {
+          "m_full_vn": "người tạo ra, người gây ra",
+          "list_en_vn": [
+            {
+              "full_en": "author of evil",
+              "full_vn": "người gây ra các điều ác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) Đấng sáng tạo ( Chúa)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063200_ec67816170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063200_2e602c657f_o.png",
+      "id_image": "author_1753416"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681339_2219e4ed1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681339_dc95e14015_o.png",
+      "id_image": "author_2301789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063090_f3efbbd97e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063090_927bb8fa90_o.png",
+      "id_image": "author_4410343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326231_5c11b644c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326231_16c4cb96e2_o.png",
+      "id_image": "author_4736290"
+    }
+  ]
+}

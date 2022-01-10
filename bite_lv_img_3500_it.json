@@ -1,0 +1,229 @@
+{
+  "english": "bite",
+  "phat_am": "[bait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cắn, sự ngoạm; miếng cắn; vết cắn"
+        },
+        {
+          "m_full_vn": "sự châm, sự đốt; nốt đốt (muỗi, ong...)"
+        },
+        {
+          "m_full_vn": "miếng (thức ăn); thức ăn",
+          "list_en_vn": [
+            {
+              "full_en": "a bite of food",
+              "full_vn": "một miếng ăn"
+            },
+            {
+              "full_en": "without bite and soup",
+              "full_vn": "không cơm nước gì cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đau nhức, sự nhức nhối của vết thương"
+        },
+        {
+          "m_full_vn": "sự cắn câu (cá...)"
+        },
+        {
+          "m_full_vn": "sự bám chắt, sự ăn sâu (mỏ neo, phanh, đinh ốc...)"
+        },
+        {
+          "m_full_vn": "vị cay tê (gừng, hạt tiêu...)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự châm biếm, sự chua cay (lời nói)"
+        },
+        {
+          "m_full_vn": "cỏ cho vật nuôi"
+        }
+      ]
+    },
+    {
+      "type": "động từ bất quy tắc bit ; bitten",
+      "list_m": [
+        {
+          "m_full_vn": "cắn, ngoạm",
+          "list_en_vn": [
+            {
+              "full_en": "to bite one's nails",
+              "full_vn": "cắn móng tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "châm đốt; đâm vào (gươm...)",
+          "list_en_vn": [
+            {
+              "full_en": "to be badly bitten by mosquitoes",
+              "full_vn": "bị muỗi đốt nhiều quá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm đau, làm nhột; ăn mòn; làm cay tê (thức ăn)",
+          "list_en_vn": [
+            {
+              "full_en": "the frost will bite the fruit blossom",
+              "full_vn": "sương giá sẽ làm chột mầm quả"
+            },
+            {
+              "full_en": "strong acids bite metals",
+              "full_vn": "axit mạnh ăn mòn kim loại"
+            },
+            {
+              "full_en": "pepper and ginger bite the tongue",
+              "full_vn": "hạt tiêu và gừng làm cay tê lưỡi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cắn câu ( (nghĩa đen), (nghĩa bóng))"
+        },
+        {
+          "m_full_vn": "bám chắt, ăn sâu, bắt vào",
+          "list_en_vn": [
+            {
+              "full_en": "the screw does not bite",
+              "full_vn": "đinh ốc không bắt vào được"
+            },
+            {
+              "full_en": "the anchor does not bite",
+              "full_vn": "neo không bám chắc"
+            },
+            {
+              "full_en": "the brake will not bite",
+              "full_vn": "phanh không ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) lừa bịp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bite off",
+              "list_im": [
+                {
+                  "im_full_vn": "cắn, cắn đứt ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be bitten with",
+              "list_im": [
+                {
+                  "im_full_vn": "say mê, ham mê (cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bite the dust (ground , sand )",
+              "list_im": [
+                {
+                  "im_full_vn": "ngã xuống và chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bite one's lips",
+              "list_im": [
+                {
+                  "im_full_vn": "mím môi (để nén giận...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bite off more than one can chew",
+              "list_im": [
+                {
+                  "im_full_vn": "cố làm việc gì quá sức mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bite the bullet",
+              "list_im": [
+                {
+                  "im_full_vn": "nhẫn nhục chịu đựng, ngậm đắng nuốt cay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bite someone's head off",
+              "list_im": [
+                {
+                  "im_full_vn": "mắng nhiếc thậm tệ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the biter bit",
+              "list_im": [
+                {
+                  "im_full_vn": "kẻ bị lừa trước khi định lừa người khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bite one's tongue",
+              "list_im": [
+                {
+                  "im_full_vn": "cố gắng không nói ra điều mình nghĩ hoặc cảm thấy; tự trách mình đã nói ra những điều khiến người khác đau lòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sb's bark is worse than his bite",
+              "list_im": [
+                {
+                  "im_full_vn": "trông bề ngoài hung tợn, chứ thực chất không phải vậy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bite the hand that feeds one",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn ở bội bạc, ăn cháo đá bát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "once bitten , twice shy",
+              "list_im": [
+                {
+                  "im_full_vn": "một lần bị cắn là tởn tới già; phải một bận, cạch đến già"
+                }
+              ]
+            },
+            {
+              "id_full_en": "what's biting him ?",
+              "list_im": [
+                {
+                  "im_full_vn": "tại sao hắn lo âu thế?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303181_316b655442_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303181_5961d1be60_o.png",
+      "id_image": "bite_1488843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347397_1ec991db3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347397_f44cd216d0_o.png",
+      "id_image": "bite_6401194"
+    }
+  ]
+}

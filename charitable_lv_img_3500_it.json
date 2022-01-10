@@ -1,0 +1,43 @@
+{
+  "english": "charitable",
+  "phat_am": "['t∫æritəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( charitable to / towards somebody ) rộng lượng trong việc đưa tiền, thức ăn..... cho người nghèo; nhân đức; từ thiện"
+        },
+        {
+          "m_full_vn": "(thuộc) hội từ thiện",
+          "list_en_vn": [
+            {
+              "full_en": "a charitable institution /organization /body",
+              "full_vn": "cơ quan/tổ chức/đoàn thể từ thiện"
+            },
+            {
+              "full_en": "a charitable venture",
+              "full_vn": "một công cuộc từ thiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoan dung; độ lượng",
+          "list_en_vn": [
+            {
+              "full_en": "that wasn't a very charitable remark",
+              "full_vn": "đó là một lời nhận xét không mấy độ lượng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357312_d420502d2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357312_3ddc92d98c_o.png",
+      "id_image": "charitable_5267703"
+    }
+  ]
+}

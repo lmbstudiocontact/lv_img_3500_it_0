@@ -1,0 +1,58 @@
+{
+  "english": "attachment",
+  "phat_am": "[ə'tæt∫mənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tham gia; sự biệt phái",
+          "list_en_vn": [
+            {
+              "full_en": "He's on attachment to the Ministry of Commerce",
+              "full_vn": "Ông ta được biệt phái sang Bộ thương mại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( attachment to / for somebody / something ) lòng quyến luyến; sự gắn bó",
+          "list_en_vn": [
+            {
+              "full_en": "To entertain an attachment for someone",
+              "full_vn": "Gắn bó với ai; quyến luyến ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) sự bắt (người); sự tịch biên, sự tịch thu (tài sản, hàng hoá)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) đồ gá lắp; phụ tùng",
+          "list_en_vn": [
+            {
+              "full_en": "A car with a range of different attachments",
+              "full_vn": "Một chiếc xe hơi với một loạt phụ tùng khác nhau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809655109_c708cb8bb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809655109_c762e8128a_o.png",
+      "id_image": "attachment_1717757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808344012_7a249d224e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808344012_ac4c041f24_o.png",
+      "id_image": "attachment_1792348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809414888_fcb7e58f42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809414888_2331e51345_o.png",
+      "id_image": "attachment_1806617"
+    }
+  ]
+}

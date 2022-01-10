@@ -1,0 +1,47 @@
+{
+  "english": "deployment",
+  "phat_am": "[di'plɔimənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(quân sự) sự dàn quân, sự triển khai",
+          "list_en_vn": [
+            {
+              "full_en": "Fast Deployment Forces",
+              "full_vn": "Lực lượng triển khai nhanh, Lực lượng phản ứng nhanh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067540_e7942595f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067540_9b334fa196_o.png",
+      "id_image": "deployment_1508878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330701_0e98a2778f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330701_6b3d4e7108_o.png",
+      "id_image": "deployment_1769123"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685729_7111a1e720_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685729_5842852b72_o.png",
+      "id_image": "deployment_1988217"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445568_314c2cf865_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445568_224736a37f_o.png",
+      "id_image": "deployment_2535503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375277_fa8568550b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375277_9bcde82bcc_o.png",
+      "id_image": "deployment_2620954"
+    }
+  ]
+}

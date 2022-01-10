@@ -1,0 +1,100 @@
+{
+  "english": "cramp",
+  "phat_am": "[kræmp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) chứng chuột rút, chứng vọp bẻ",
+          "list_en_vn": [
+            {
+              "full_en": "to be taken with a cramp",
+              "full_vn": "bị chuột rút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự bó buộc, sự câu thúc, sự tù túng, sự gò bó"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) thanh kẹp, má kẹp ( (cũng) cramp-iron )"
+        },
+        {
+          "m_full_vn": "bàn kẹp mộng (của thợ mộc)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị chuột rút"
+        },
+        {
+          "m_full_vn": "khó đọc (chữ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "cramp handwriting",
+              "list_im": [
+                {
+                  "im_full_vn": "chữ viết khó đọc"
+                },
+                {
+                  "im_full_vn": "bị ép chặt, bị bó chặt, chật hẹp, tù túng, không tự do, không được thoải mái"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho co gân, làm cho bị chuột rút"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cản trở; câu thúc, làm khó (cử động)",
+          "list_en_vn": [
+            {
+              "full_en": "all these worries cramped his progress",
+              "full_vn": "tất cả các sự lo lắng ấy đã làm cản trở anh ta tiến bộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kẹp bằng thanh kẹp, kẹp bằng bàn kẹp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cramp up",
+              "list_im": [
+                {
+                  "im_full_vn": "ép chặt, bóp chặt, bó chặt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061000_6f7cc372e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061000_10b5064e55_o.png",
+      "id_image": "cramp_1813423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679284_346bedd655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679284_9b1fb218f5_o.png",
+      "id_image": "cramp_2243595"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679179_3042531131_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679179_2fa82b3801_o.png",
+      "id_image": "cramp_3997953"
+    }
+  ]
+}

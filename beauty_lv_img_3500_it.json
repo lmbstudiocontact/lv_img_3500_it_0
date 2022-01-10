@@ -1,0 +1,64 @@
+{
+  "english": "beauty",
+  "phat_am": "['bju:ti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẻ đẹp, sắc đẹp, nhan sắc"
+        },
+        {
+          "m_full_vn": "cái đẹp, cái hay",
+          "list_en_vn": [
+            {
+              "full_en": "the beauty of the story",
+              "full_vn": "cái hay của câu chuyện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người đẹp, vật đẹp",
+          "list_one_mean": [
+            {
+              "id_full_en": "beauty is only skin deep",
+              "list_im": [
+                {
+                  "im_full_vn": "nhan sắc chỉ là bề ngoài"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "look at this rose , isn't it a beauty !",
+              "full_vn": "nhìn bông hoa hồng này mà xem, thật là đẹp!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425773_479ac5092b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425773_54f3bdf6b6_o.png",
+      "id_image": "beauty_4514888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047535_97f076b28d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047535_67e09acc8d_o.png",
+      "id_image": "beauty_4514895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047485_d43a06fcc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047485_8d09b51bc4_o.png",
+      "id_image": "beauty_5099779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425668_7873a86243_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425668_d0b9bfb828_o.png",
+      "id_image": "beauty_5220118"
+    }
+  ]
+}

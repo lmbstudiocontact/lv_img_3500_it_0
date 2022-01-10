@@ -1,0 +1,48 @@
+{
+  "english": "classical",
+  "phat_am": "['klæsikəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "kinh điển",
+          "list_en_vn": [
+            {
+              "full_en": "classical school",
+              "full_vn": "nhà học giả kinh điển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cổ điển; không hoa mỹ"
+        },
+        {
+          "m_full_vn": "hạng ưu (tác phẩm (văn học))"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420043_9b2109645f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420043_8b37b6163e_o.png",
+      "id_image": "classical_2368400"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349147_7fcea26708_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349147_e1ea9d4aa5_o.png",
+      "id_image": "classical_3500485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349112_d8d187f748_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349112_8a27e9cb51_o.png",
+      "id_image": "classical_3500586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349077_01d8ee398d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349077_ffd0e6a1be_o.png",
+      "id_image": "classical_4635433"
+    }
+  ]
+}

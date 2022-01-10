@@ -1,0 +1,70 @@
+{
+  "english": "cope",
+  "phat_am": "[koup]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tôn giáo) áo lễ"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) bầu, vòm; áo khoác, màn",
+          "list_en_vn": [
+            {
+              "full_en": "the cope of night",
+              "full_vn": "trong lúc màn đêm, thừa lúc đêm tối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nắp khuôn đúc"
+        },
+        {
+          "m_full_vn": "(như) coping"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cái chao, cái chụp"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoác áo lễ (cho giáo sĩ)"
+        },
+        {
+          "m_full_vn": "xây vòm"
+        },
+        {
+          "m_full_vn": "xây mái (một bức tường)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + over ) lồi ra (như) phần trên cùng của tường"
+        },
+        {
+          "m_full_vn": "( + with ) đối phó, đương đầu",
+          "list_en_vn": [
+            {
+              "full_en": "to cope with difficulties",
+              "full_vn": "đương đầu với những khó khăn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378192_438dc7fca4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378192_a98db0c4d5_o.png",
+      "id_image": "cope_6159126"
+    }
+  ]
+}

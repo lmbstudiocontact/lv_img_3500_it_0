@@ -1,0 +1,54 @@
+{
+  "english": "attic",
+  "phat_am": "['ætik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thành A-ten"
+        },
+        {
+          "m_full_vn": "sắc sảo, ý nhị",
+          "list_en_vn": [
+            {
+              "full_en": "attic salt (wit )",
+              "full_vn": "lời nói ý nhị"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng A-ten"
+        },
+        {
+          "m_full_vn": "gác mái"
+        },
+        {
+          "m_full_vn": "(kiến trúc) tường mặt thượng, tầng mặt thượng (tường hoặc tầng nhỏ làm trên hết để che mái nhà phía đằng trước)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have rats in the attic",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) hơi điên, hơi gàn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443393_5157a832c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443393_546605e716_o.png",
+      "id_image": "attic_3650793"
+    }
+  ]
+}

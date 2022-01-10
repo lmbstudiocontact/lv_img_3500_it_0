@@ -1,0 +1,108 @@
+{
+  "english": "beard",
+  "phat_am": "[biəd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lông mọc ở cằm và hai bên má trên mặt đàn ông; râu",
+          "list_en_vn": [
+            {
+              "full_en": "a week's growth of beard",
+              "full_vn": "bộ râu cả tuần không cạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngạnh (mũi tên, lưỡi câu)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a goat's beard",
+              "list_im": [
+                {
+                  "im_full_vn": "râu dê"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh in one's beard",
+              "list_im": [
+                {
+                  "im_full_vn": "cười thầm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh at somebody's beard",
+              "list_im": [
+                {
+                  "im_full_vn": "cười vào mặt ai"
+                },
+                {
+                  "im_full_vn": "tìm cách lừa gạt ai; toan lừa bịp ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take by the beard",
+              "list_im": [
+                {
+                  "im_full_vn": "quyết xông vào, quyết xả vào chiếm lấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to speak in one's beard",
+              "list_im": [
+                {
+                  "im_full_vn": "nói lúng búng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đương đầu với, chống cự",
+          "list_one_mean": [
+            {
+              "id_full_en": "to beard the lion in his den",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) vào hang hùm bắt cọp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426393_463c41944f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426393_45b0287f0c_o.png",
+      "id_image": "beard_2681522"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311421_1f8549b98b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311421_854a668b96_o.png",
+      "id_image": "beard_2681607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355572_579dd5e574_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355572_3e595b9893_o.png",
+      "id_image": "beard_4615594"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048070_dd7a2ca4ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048070_897aef4473_o.png",
+      "id_image": "beard_4713726"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "advertise",
+  "phat_am": "['ædvətaiz]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho cái gì được biết đến một cách rộng rãi và công khai; thông báo",
+          "list_en_vn": [
+            {
+              "full_en": "to advertise a meeting , concert , job",
+              "full_vn": "thông báo về một cuộc họp, buổi hoà nhạc, nghề nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công khai ca ngợi cái gì để mọi người mua và sử dụng nó; quảng cáo",
+          "list_en_vn": [
+            {
+              "full_en": "to advertise on TV , in a newspaper",
+              "full_vn": "quảng cáo trên TV, trên môt tờ báo"
+            },
+            {
+              "full_en": "to advertise soap , one's house , one's services",
+              "full_vn": "quảng cáo xà phòng, nhà của mình, dịch vụ của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to advertise for somebody / something ) đăng một thông báo trên báo chí để cho biết mình đang cần gì (mua, bán, thuê...)",
+          "list_en_vn": [
+            {
+              "full_en": "You should advertise for a polyglot",
+              "full_vn": "Anh nên đăng báo tìm một người nói được nhiều thứ tiếng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674579_592fb55d27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674579_dbdd00592e_o.png",
+      "id_image": "advertisement_1208651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434778_8c2988e5cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434778_948d593113_o.png",
+      "id_image": "advertisement_2471424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319756_b1664a85d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319756_5ae4346ab6_o.png",
+      "id_image": "advertise_2472058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056120_b9d5703cb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056120_b15e08fe74_o.png",
+      "id_image": "advertising_3827527"
+    }
+  ]
+}

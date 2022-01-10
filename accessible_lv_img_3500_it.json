@@ -1,0 +1,50 @@
+{
+  "english": "accessible",
+  "phat_am": "[æk'sesəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( accessible to somebody ) có thể tới được, sử dụng được...",
+          "list_en_vn": [
+            {
+              "full_en": "the remote hamlet is accessible by bicycle",
+              "full_vn": "cái xóm nghèo hẻo lánh đó có thể đi xe đạp đến được"
+            },
+            {
+              "full_en": "a beach accessible only from the sea",
+              "full_vn": "một bãi biển chỉ có thể đến được từ ngoài biển vào"
+            },
+            {
+              "full_en": "documents not accessible to the public",
+              "full_vn": "những tài liệu mà công chúng không được phép sử dụng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370882_de8ff7056a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370882_166d639b7b_o.png",
+      "id_image": "access_381613"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681054_f72e63a5a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681054_71cbb4a053_o.png",
+      "id_image": "access_4198534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370682_1b2f492841_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370682_29412f9621_o.png",
+      "id_image": "access_4524006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062675_9a614dce9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062675_618befce44_o.png",
+      "id_image": "access_5967085"
+    }
+  ]
+}

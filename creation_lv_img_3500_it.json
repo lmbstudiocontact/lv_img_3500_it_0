@@ -1,0 +1,46 @@
+{
+  "english": "creation",
+  "phat_am": "[kri:'ei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tạo thành, sự sáng tạo (thế giới); sự sáng tác",
+          "list_en_vn": [
+            {
+              "full_en": "the creation of great works of art",
+              "full_vn": "sự sáng tác những tác phẩm vĩ đại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tác phẩm; vật được sáng tạo ra"
+        },
+        {
+          "m_full_vn": "sự phong tước"
+        },
+        {
+          "m_full_vn": "sự đóng lần đầu tiên (một vai tuồng, kịch)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437543_e7711be239_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437543_9e8e889421_o.png",
+      "id_image": "creation_4752531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059065_7677b87c41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059065_dc4cd8aa88_o.png",
+      "id_image": "creation_5332297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677444_7815be534b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677444_6c146ffaa9_o.png",
+      "id_image": "creation_992619"
+    }
+  ]
+}

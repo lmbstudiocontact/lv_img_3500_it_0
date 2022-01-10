@@ -1,0 +1,73 @@
+{
+  "english": "cancel",
+  "phat_am": "['kænsəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xoá bỏ, sự huỷ bỏ, sự bãi bỏ"
+        },
+        {
+          "m_full_vn": "lệnh ngược lại, phản lệnh"
+        },
+        {
+          "m_full_vn": "(ngành in) tờ in hỏng bỏ đi"
+        },
+        {
+          "m_full_vn": "( số nhiều) kim bấm vé (xe lửa...) ( (cũng) a pair of cancels )"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ, xoá bỏ, huỷ bỏ, bãi bỏ (lệnh, khế ước, hợp đồng...)",
+          "list_en_vn": [
+            {
+              "full_en": "to cancel an order for the goods",
+              "full_vn": "bỏ đơn đặt hàng"
+            },
+            {
+              "full_en": "to cancel a reservation",
+              "full_vn": "bỏ chỗ ngồi (ở máy bay...) đã dành trước; bỏ phòng (ở khách sạn...) đã dành trước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đóng dấu xoá bỏ",
+          "list_en_vn": [
+            {
+              "full_en": "to cancel a stamp",
+              "full_vn": "đóng dấu (xoá bỏ) lên con tem"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thanh toán, trả hết (nợ)"
+        },
+        {
+          "m_full_vn": "(toán học) khử"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659349_70114e57e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659349_52d89be846_o.png",
+      "id_image": "cancel_2456076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040885_6249a88831_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040885_0c40f1ee65_o.png",
+      "id_image": "cancel_2597932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659304_289db5b36e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659304_4813eee3a2_o.png",
+      "id_image": "cancel_3037086"
+    }
+  ]
+}

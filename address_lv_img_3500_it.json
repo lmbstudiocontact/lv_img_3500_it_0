@@ -1,0 +1,118 @@
+{
+  "english": "address",
+  "phat_am": "[ə'dres]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "địa chỉ",
+          "list_en_vn": [
+            {
+              "full_en": "my home /business address is 191 Hoang Van Thu Street",
+              "full_vn": "địa chỉ nhà/cơ quan của tôi là 191 phố Hoàng Văn Thụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bài nói chuyện; bài diễn văn"
+        },
+        {
+          "m_full_vn": "( số nhiều) lời tỏ tình; lời tán tỉnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "a form of address",
+              "list_im": [
+                {
+                  "im_full_vn": "xem address"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to pay one's addresses to a lady",
+              "full_vn": "tán tỉnh một bà, tỏ tình với một bà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to address something to somebody / something ) đề địa chỉ",
+          "list_en_vn": [
+            {
+              "full_en": "to address a letter",
+              "full_vn": "đề địa chỉ trên một bức thư"
+            },
+            {
+              "full_en": "the postcard was wrongly addressed to (us at ) our old home",
+              "full_vn": "bưu thiếp gửi chúng tôi đề sai địa chỉ vào nhà cũ của chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to address something to somebody / something ) gửi thẳng (lời nhận xét, lời tuyên bố) đến ai/vật gì",
+          "list_en_vn": [
+            {
+              "full_en": "please address all comments to the director-general",
+              "full_vn": "xin vui lòng gửi mọi thắc mắc đến tổng giám đốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to address somebody as something ) dùng (tên riêng hoặc chức tước) khi nói hoặc viết cho ai",
+          "list_en_vn": [
+            {
+              "full_en": "Don't address me as ' Major-general ' : I'm only a colonel",
+              "full_vn": "Đừng gọi tôi là 'Thiếu tướng' : Tôi chỉ mới là đại tá thôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đọc một bài diễn văn, nói chuyện (với một người hoặc đám đông) một cách trang trọng",
+          "list_en_vn": [
+            {
+              "full_en": "The chairwoman will now address the meeting",
+              "full_vn": "Bây giờ bà chủ tịch sẽ nói chuyện với hội nghị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to address oneself to something ) chú tâm/chuyên tâm vào điều gì"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) nhằm vào (quả bóng) trong trò đánh cầu"
+        },
+        {
+          "m_full_vn": "(tin học) trữ hoặc lấy ra (một mẩu tin) bằng cách dùng bảng hướng dẫn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057970_b48fb0cb83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057970_a36a5faa37_o.png",
+      "id_image": "address_1076323"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321166_5445c7558e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321166_90cb0678d1_o.png",
+      "id_image": "address_1915040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057890_764bfaf66c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057890_a10821fac9_o.png",
+      "id_image": "address_3163168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321076_6178415433_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321076_b58a8f3f59_o.png",
+      "id_image": "address_5778919"
+    }
+  ]
+}

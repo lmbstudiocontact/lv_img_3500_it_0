@@ -1,0 +1,50 @@
+{
+  "english": "collaboration",
+  "phat_am": "[kə,læbə'rei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cộng tác",
+          "list_en_vn": [
+            {
+              "full_en": "to work in collaboration with others",
+              "full_vn": "cộng tác với những người khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cộng tác với địch"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437918_df9ac3325b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437918_083e759479_o.png",
+      "id_image": "collaboration_2721208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059425_bf7281df5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059425_2bea3a65cb_o.png",
+      "id_image": "collaboration_2753182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437873_ca801c7f8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437873_06b99fb36f_o.png",
+      "id_image": "collaboration_3381322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322536_48a40687d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322536_61d3623e27_o.png",
+      "id_image": "collaboration_4318940"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367477_f6287858d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367477_145e374aa3_o.png",
+      "id_image": "collaboration_5541899"
+    }
+  ]
+}

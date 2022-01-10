@@ -1,0 +1,310 @@
+{
+  "english": "cover",
+  "phat_am": "['kʌvə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vỏ, vỏ bọc, cái bọc ngoài; bìa sách; phong bì",
+          "list_en_vn": [
+            {
+              "full_en": "under the same cover",
+              "full_vn": "trong cùng một bọc, trong cùng một phong bì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vung, nắp",
+          "list_en_vn": [
+            {
+              "full_en": "the cover of a pan",
+              "full_vn": "vung chảo, vung xoong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lùm cây, bụi rậm"
+        },
+        {
+          "m_full_vn": "chỗ núp, chỗ trốn, chỗ trú"
+        },
+        {
+          "m_full_vn": "màn che, lốt, mặt nạ ( (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "under the cover of religion",
+              "full_vn": "đội lốt tôn giáo, giả danh tôn giáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ đồ ăn cho một người (ở bàn ăn)"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) tiền bảo chứng",
+          "list_one_mean": [
+            {
+              "id_full_en": "air cover",
+              "list_im": [
+                {
+                  "im_full_vn": "lực lượng không quân yểm hộ cho một cuộc hành quân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break cover",
+              "list_im": [
+                {
+                  "im_full_vn": "ra khỏi nơi trú ẩn (thú rừng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to read a book from cover to cover",
+              "list_im": [
+                {
+                  "im_full_vn": "đọc một quyển sách từ đầu đến cuối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take cover",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) ẩn núp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under the cover of",
+              "list_im": [
+                {
+                  "im_full_vn": "giả danh, dưới chiêu bài"
+                },
+                {
+                  "im_full_vn": "dưới sự yểm trợ của",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "under cover of the night",
+                      "full_vn": "thừa lúc đêm tối"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "cover charge",
+              "list_im": [
+                {
+                  "im_full_vn": "tiền tính thêm ngoài khoản ăn uống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "cover note",
+              "list_im": [
+                {
+                  "im_full_vn": "giấy chứng nhận bảo hiểm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "che, phủ, bao phủ, bao trùm, bao bọc",
+          "list_en_vn": [
+            {
+              "full_en": "to cover a wall with paper",
+              "full_vn": "dán giấy phủ lên tường"
+            },
+            {
+              "full_en": "to cover one's face with one's hands",
+              "full_vn": "lấy tay che mặt"
+            },
+            {
+              "full_en": "to cover someone with disgrace",
+              "full_vn": "(nghĩa bóng) ghẻ lạnh ai, bỏ rơi ai"
+            },
+            {
+              "full_en": "to cover oneself with glory",
+              "full_vn": "được vẻ vang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặc quần áo, đội mũ",
+          "list_en_vn": [
+            {
+              "full_en": "cover yourself up , it's cold today",
+              "full_vn": "hôm nay trời lạnh, hãy mặc quần áo ấm vào"
+            },
+            {
+              "full_en": "to stand covered ; to remain covered",
+              "full_vn": "cứ đội mũ, cứ để nguyên mũ trên đầu, không bỏ ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) che chở, bảo vệ, yểm hộ; khống chế, kiểm soát",
+          "list_en_vn": [
+            {
+              "full_en": "to cover the retreat",
+              "full_vn": "yểm hộ cuộc rút lui"
+            },
+            {
+              "full_en": "to cover an area",
+              "full_vn": "khống chế cả một vùng (pháo đài, ổ pháo...), kiểm soát cả một vùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giấu, che giấu, che đậy",
+          "list_en_vn": [
+            {
+              "full_en": "to cover one's confusion",
+              "full_vn": "che dấu sự bối rối"
+            },
+            {
+              "full_en": "to cover one's tracks",
+              "full_vn": "làm mất dấu vết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bao gồm, bao hàm, gồm",
+          "list_en_vn": [
+            {
+              "full_en": "the definition does not cover all the meanings of the word",
+              "full_vn": "định nghĩa đó không bao hàm được tất cả ý của từ"
+            },
+            {
+              "full_en": "the book covers the whole subject",
+              "full_vn": "cuốn sách bao hàm toàn bộ vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trải ra",
+          "list_en_vn": [
+            {
+              "full_en": "the city covers ten square miles",
+              "full_vn": "thành phố trải ra trên mười dặm vuông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi được",
+          "list_en_vn": [
+            {
+              "full_en": "to cover sixty kilometres within three hours",
+              "full_vn": "đi được sáu kilômét trong ba tiếng đồng hồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đủ để bù đắp lại được, đủ để trả",
+          "list_en_vn": [
+            {
+              "full_en": "this must be enough to cover your expenses",
+              "full_vn": "số tiền này ắt là đủ để trả các khoản chi tiêu của anh"
+            },
+            {
+              "full_en": "to cover a loss",
+              "full_vn": "đủ để bù đắp lại chỗ mất mát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhằm, chĩa vào (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to cover someone with a revolver",
+              "full_vn": "chĩa súng lục vào ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ấp (trứng)"
+        },
+        {
+          "m_full_vn": "(động vật học) phủ (cái), nhảy (cái)"
+        },
+        {
+          "m_full_vn": "(báo chí) theo dõi hoặc dự để lấy tin",
+          "list_en_vn": [
+            {
+              "full_en": "to cover a conference",
+              "full_vn": "theo dõi (dự) một hội nghị với tư cách là phóng viên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bảo hiểm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cover in",
+              "list_im": [
+                {
+                  "im_full_vn": "che phủ, phủ kín"
+                },
+                {
+                  "im_full_vn": "phủ đầy đất, lấp đất (một nấm mồ...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cover up",
+              "list_im": [
+                {
+                  "im_full_vn": "bọc kỹ, bọc kín"
+                },
+                {
+                  "im_full_vn": "giấu giếm, che đậy"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a covered house",
+              "full_vn": "một toà nhà có bảo hiểm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325651_de52b643ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325651_792ea7b678_o.png",
+      "id_image": "cover_1721451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440643_b819fe0fe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440643_a9fd258331_o.png",
+      "id_image": "cover_2446997"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370367_0ceee34188_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370367_01eb9dfa99_o.png",
+      "id_image": "cover_3159893"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440543_8b50a7433b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440543_b08a1bc2a9_o.png",
+      "id_image": "cover_4636664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370532_d38330f23f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370532_74081c7b12_o.png",
+      "id_image": "cover_837223"
+    }
+  ]
+}

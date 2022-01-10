@@ -1,0 +1,36 @@
+{
+  "english": "compatible",
+  "phat_am": "[kəm'pætəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hợp nhau, tương hợp",
+          "list_en_vn": [
+            {
+              "full_en": "they are never bosom friends , because they are never compatible",
+              "full_vn": "họ chẳng bao giờ là bạn thân của nhau, vì họ chẳng bao giờ hợp nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) tương thích",
+          "list_en_vn": [
+            {
+              "full_en": "these dot-matrix printers are compatible with new generation PCs",
+              "full_vn": "các máy in kim này tương thích với các loại PC đời mới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053370_2cee123abf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053370_7204174538_o.png",
+      "id_image": "compatible_2689697"
+    }
+  ]
+}

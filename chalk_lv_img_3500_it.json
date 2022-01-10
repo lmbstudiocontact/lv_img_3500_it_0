@@ -1,0 +1,147 @@
+{
+  "english": "chalk",
+  "phat_am": "[t∫ɔ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đá phấn"
+        },
+        {
+          "m_full_vn": "phấn (viết)",
+          "list_en_vn": [
+            {
+              "full_en": "a piece of chalk",
+              "full_vn": "một viên phấn (viết)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điểm ghi bằng phấn (trong một trò chơi)"
+        },
+        {
+          "m_full_vn": "(từ lóng) vết sẹo, vết xước",
+          "list_one_mean": [
+            {
+              "id_full_en": "(as) different as chalk and /from cheese",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn khác nhau; khác nhau hẳn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to believe that chalk is cheese",
+              "list_im": [
+                {
+                  "im_full_vn": "trông gà hoá cuốc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "chalks away ; by a long chalk ; by long chalks",
+              "list_im": [
+                {
+                  "im_full_vn": "hơn nhiều, bỏ xa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he is the better man by a long chalk",
+                      "full_vn": "nó bỏ xa đối phương, nó hơn đối phương nhiều"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to know chalk from cheese",
+              "list_im": [
+                {
+                  "im_full_vn": "không biết gì cả, không hiểu gì cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk the chalk",
+              "list_im": [
+                {
+                  "im_full_vn": "đi đúng giữa hai vạch phấn (để tỏ là minh không say rượu khi bị đưa đến cảnh sát...)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) xử, sự mực thước đứng đắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk (stump ) one's chalk",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) chuồn, tẩu, chạy trốn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "viết bằng phấn, vẽ bằng phấn, ghi bằng phấn"
+        },
+        {
+          "m_full_vn": "bôi phấn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to chalk out",
+              "list_im": [
+                {
+                  "im_full_vn": "đề ra, vạc (kế hoạch để thực hiện)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to chalk up",
+              "list_im": [
+                {
+                  "im_full_vn": "(thương nghiệp) ghi (một món tiền vào sổ nợ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to chalk up a victory",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi được một thắng lợi, giành được một thắng lợi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315066_6cb0a0a59e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315066_f22e01a453_o.png",
+      "id_image": "chalks_546642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315106_7c58fbe504_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315106_da509b5612_o.png",
+      "id_image": "chalk_1298728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430043_4653d99204_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430043_1831b8499a_o.png",
+      "id_image": "chalk_200427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359202_5379567953_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359202_efa3d1926a_o.png",
+      "id_image": "chalk_4539150"
+    }
+  ]
+}

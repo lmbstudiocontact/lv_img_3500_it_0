@@ -1,0 +1,66 @@
+{
+  "english": "adapt",
+  "phat_am": "[ə'dæpt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tra vào, lắp vào",
+          "list_en_vn": [
+            {
+              "full_en": "to adapt one thing to another",
+              "full_vn": "tra vật này vào vật kia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phỏng theo, sửa lại cho hợp",
+          "list_en_vn": [
+            {
+              "full_en": "difficult books are often adapted for use in schools",
+              "full_vn": "những sách khó thường được sửa lại cho hợp với trường học"
+            },
+            {
+              "full_en": "a play adapted from a novel",
+              "full_vn": "một vở kịch phỏng theo một cuốn tiểu thuyết"
+            },
+            {
+              "full_en": "a novel adapted for the stage",
+              "full_vn": "một cuốn tiểu thuyết được sửa lại để đưa lên sân khấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm thích nghi, làm thích ứng",
+          "list_en_vn": [
+            {
+              "full_en": "to adapt oneself to circumstances",
+              "full_vn": "tự mình thích nghi với hoàn cảnh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thích nghi (với môi trường...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321751_a8a64aa01a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321751_3cac4448c1_o.png",
+      "id_image": "adaptable_4953836"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321801_6878ee6de8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321801_f0ee7c8b36_o.png",
+      "id_image": "adapt_6159870"
+    }
+  ]
+}

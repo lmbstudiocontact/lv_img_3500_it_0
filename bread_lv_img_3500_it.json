@@ -1,0 +1,163 @@
+{
+  "english": "bread",
+  "phat_am": "[bred]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bánh mì",
+          "list_en_vn": [
+            {
+              "full_en": "a loaf of bread",
+              "full_vn": "ổ bánh mì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) miếng ăn, kế sinh nhai",
+          "list_one_mean": [
+            {
+              "id_full_en": "bread and butter",
+              "list_im": [
+                {
+                  "im_full_vn": "bánh mì phết bơ"
+                },
+                {
+                  "im_full_vn": "miếng ăn; kế sinh nhai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bread and water",
+              "list_im": [
+                {
+                  "im_full_vn": "sự ăn uống kham khổ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bread and cheese",
+              "list_im": [
+                {
+                  "im_full_vn": "miếng ăn; kế sinh nhai"
+                },
+                {
+                  "im_full_vn": "cuộc sống thanh đạm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bread buttered on both sides",
+              "list_im": [
+                {
+                  "im_full_vn": "sự phong lưu, sự sung túc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "half a loaf is better than no bread",
+              "list_im": [
+                {
+                  "im_full_vn": "có còn hơn không"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to earn (make ) one's bread",
+              "list_im": [
+                {
+                  "im_full_vn": "kiếm ăn, kiếm sống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat the bread of affliction",
+              "list_im": [
+                {
+                  "im_full_vn": "phiền não, sầu khổ, đau buồn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat the bread of idleness",
+              "list_im": [
+                {
+                  "im_full_vn": "nhàn rỗi, vô công rỗi nghề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's bread buttered for life",
+              "list_im": [
+                {
+                  "im_full_vn": "suốt đời sống dư dật sung túc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to know which side one's bread is buttered",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) butter"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live on bread and cheese",
+              "list_im": [
+                {
+                  "im_full_vn": "sống đạm bạc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to quarrel with one's bread and butter",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) quarrel"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the bread out of someone's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy mất kế sinh nhai của ai, cướp cơm chim của ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "daily bread",
+              "full_vn": "miếng ăn hàng ngày"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317771_621b339d50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317771_1ddcedca63_o.png",
+      "id_image": "bread_1118015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054270_d121ebaf24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054270_bc29ed1c91_o.png",
+      "id_image": "bread_1191587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317821_b18face8ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317821_d90c3ab6ed_o.png",
+      "id_image": "bread_129121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432953_3b6075e2c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432953_000cb8b384_o.png",
+      "id_image": "bread_527774"
+    }
+  ]
+}

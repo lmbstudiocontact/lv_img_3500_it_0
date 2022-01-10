@@ -1,0 +1,43 @@
+{
+  "english": "detector",
+  "phat_am": "[di'tektə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người dò ra, người tìm ra, người khám phá ra, người phát hiện ra"
+        },
+        {
+          "m_full_vn": "máy dò",
+          "list_en_vn": [
+            {
+              "full_en": "a mine detector",
+              "full_vn": "máy dò mìn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(rađiô) bộ tách sóng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326906_1fbf532666_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326906_f56ca3476a_o.png",
+      "id_image": "detector_1408566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441898_39185a0bd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441898_6596d563bf_o.png",
+      "id_image": "detector_2081377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326816_147469b88c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326816_1a6c39caae_o.png",
+      "id_image": "detector_4090962"
+    }
+  ]
+}

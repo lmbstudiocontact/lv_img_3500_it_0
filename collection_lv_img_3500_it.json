@@ -1,0 +1,101 @@
+{
+  "english": "collection",
+  "phat_am": "[kə'lek∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự góp nhặt; sự thu gom; sự sưu tầm; bộ sưu tập",
+          "list_en_vn": [
+            {
+              "full_en": "there are two collections a day from this mailbox",
+              "full_vn": "người đưa thư đến lấy thư trong hộp thư này hai lần mỗi ngày"
+            },
+            {
+              "full_en": "refuse collection",
+              "full_vn": "sự thu gom rác"
+            },
+            {
+              "full_en": "collection of taxes",
+              "full_vn": "sự thu thuế"
+            },
+            {
+              "full_en": "a fine collection of paintings",
+              "full_vn": "một bộ sưu tầm tranh đẹp"
+            },
+            {
+              "full_en": "a collection of stamps ; a stamp collection",
+              "full_vn": "tập tem sưu tầm"
+            },
+            {
+              "full_en": "a collection of poems",
+              "full_vn": "một tập thơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loạt quần áo kiểu mới... của một nhà sản xuất hoặc nhà tạo mốt đưa ra bán",
+          "list_en_vn": [
+            {
+              "full_en": "you are invited to view our autumn collection",
+              "full_vn": "bạn được mời đến xem gian trưng bày quần áo mùa thu của chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đống; chồng",
+          "list_en_vn": [
+            {
+              "full_en": "a collection of rubbish",
+              "full_vn": "một đống rác"
+            },
+            {
+              "full_en": "a collection of people",
+              "full_vn": "một nhóm người quái dị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự quyên góp, tiền quyên góp được",
+          "list_en_vn": [
+            {
+              "full_en": "to make a collection ; to take up a collection",
+              "full_vn": "mở cuộc quyên góp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) kỳ thi học kỳ (ở Ôc-phớt và các trường đại học khác)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677214_fb36587254_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677214_a300ae310b_o.png",
+      "id_image": "collection_4647471"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677174_144e1ff3b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677174_9a42e7fda1_o.png",
+      "id_image": "collection_4647508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437248_225415f9c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437248_020b5dda59_o.png",
+      "id_image": "collection_4647519"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058775_41a9a719b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058775_1632783832_o.png",
+      "id_image": "collection_5526135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437193_e519cdcca2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437193_0b6e5c1017_o.png",
+      "id_image": "collection_5526145"
+    }
+  ]
+}

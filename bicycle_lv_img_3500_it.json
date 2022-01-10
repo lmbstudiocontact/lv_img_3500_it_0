@@ -1,0 +1,50 @@
+{
+  "english": "bicycle",
+  "phat_am": "['baisikl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe đạp",
+          "list_en_vn": [
+            {
+              "full_en": "bicycle-clip",
+              "full_vn": "cái kẹp lai quần khi đi xe đạp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi xe đạp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306266_c42621534e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306266_c09b48eccd_o.png",
+      "id_image": "bicycle_169421"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350397_5237d673d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350397_cdef17f8fb_o.png",
+      "id_image": "bicycle_183988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306226_31806a2bbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306226_b6edfdb3aa_o.png",
+      "id_image": "bicycle_2307941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306211_ac634b0321_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306211_e82cf3f1e7_o.png",
+      "id_image": "bicycle_6032470"
+    }
+  ]
+}

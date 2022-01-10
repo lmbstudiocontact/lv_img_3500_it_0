@@ -1,0 +1,97 @@
+{
+  "english": "blanket",
+  "phat_am": "['blæηkit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mền, chăn"
+        },
+        {
+          "m_full_vn": "lớp phủ",
+          "list_one_mean": [
+            {
+              "id_full_en": "born on the wrong side of the blanket",
+              "list_im": [
+                {
+                  "im_full_vn": "là con hoang; đẻ hoang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put a wet blanket on somebody , to throw a wet blanket over somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "làm nhụt nhuệ khí của ai, làm ai nản chí, làm ai cụt hứng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "wet blanket",
+              "list_im": [
+                {
+                  "im_full_vn": "người làm cho tập thể cụt hứng (vì bản thân ủ rũ buồn rầu)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a blanket of snow",
+              "full_vn": "một lớp tuyết phủ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) có tính chất chung, có tính chất phổ biến, bao trùm"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trùm chăn, đắp chăn"
+        },
+        {
+          "m_full_vn": "ỉm đi, bịt đi (một chuyện xấu, một vấn đề)"
+        },
+        {
+          "m_full_vn": "làm cho không nghe thấy, làm nghẹt (tiếng động); phá, làm lấp tiếng đi (một buổi phát thanh trên đài)"
+        },
+        {
+          "m_full_vn": "phủ lên, che phủ"
+        },
+        {
+          "m_full_vn": "(hàng hải) hứng gió của thuyền khác"
+        },
+        {
+          "m_full_vn": "phạt tung chăn (trừng phạt bằng cách cho vào chăn rồi tung lên tung xuống)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658054_d8397cf9aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658054_7a904ab2bf_o.png",
+      "id_image": "blanket_1337883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417813_5522781024_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417813_44f5f74d6e_o.png",
+      "id_image": "blanket_1348285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039395_b7fde1ee10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039395_8e01a57c52_o.png",
+      "id_image": "blanket_5059805"
+    }
+  ]
+}

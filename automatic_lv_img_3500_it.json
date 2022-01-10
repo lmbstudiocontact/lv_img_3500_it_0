@@ -1,0 +1,82 @@
+{
+  "english": "automatic",
+  "phat_am": "[,ɔ:tə'mætik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tự động",
+          "list_en_vn": [
+            {
+              "full_en": "automatic pistol",
+              "full_vn": "súng lục tự động"
+            },
+            {
+              "full_en": "automatic telephone system",
+              "full_vn": "hệ thống điện thoại tự động"
+            },
+            {
+              "full_en": "automatic pilot",
+              "full_vn": "máy lái tự động"
+            },
+            {
+              "full_en": "automatic transmission",
+              "full_vn": "hệ thống sang số tự động trong xe máy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vô ý thức, máy móc",
+          "list_en_vn": [
+            {
+              "full_en": "automatic movement",
+              "full_vn": "cử động vô ý thức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tất yếu (nói về hậu quả)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máy tự động; thiết bị tự động"
+        },
+        {
+          "m_full_vn": "súng tự động; súng lục tự động"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325306_7a42342839_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325306_e3e65cd802_o.png",
+      "id_image": "automatic_1857061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325261_1dff36cfa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325261_44b3fb22aa_o.png",
+      "id_image": "automatic_2597414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062050_132901c242_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062050_80a2f84cc1_o.png",
+      "id_image": "automatic_2598061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440188_2354afd5d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440188_cc024a272d_o.png",
+      "id_image": "automatic_5351139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680279_e14374bccc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680279_ea9e607721_o.png",
+      "id_image": "automatic_5612467"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "english": "collision",
+  "phat_am": "[kə'liʒn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đụng, sự va",
+          "list_en_vn": [
+            {
+              "full_en": "the two cars had a slight collision",
+              "full_vn": "hai chiếc ô tô va nhẹ vào nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự va chạm, sự xung đột",
+          "list_en_vn": [
+            {
+              "full_en": "to came into collision with",
+              "full_vn": "va chạm với, xung đột với"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436838_77e60b5e4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436838_3875fb429d_o.png",
+      "id_image": "collision_1533947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366517_79080cd3ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366517_a3002a116b_o.png",
+      "id_image": "collision_2086469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366442_66204d76b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366442_ac474d6563_o.png",
+      "id_image": "collision_3601488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058285_75baa0b50c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058285_fc8d7154e6_o.png",
+      "id_image": "collision_4351713"
+    }
+  ]
+}

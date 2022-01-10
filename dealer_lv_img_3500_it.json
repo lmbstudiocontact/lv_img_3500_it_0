@@ -1,0 +1,49 @@
+{
+  "english": "dealer",
+  "phat_am": "['di:lə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người buôn bán",
+          "list_en_vn": [
+            {
+              "full_en": "a dealer in old clothes",
+              "full_vn": "người buôn bán quần áo cũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người chia bài"
+        },
+        {
+          "m_full_vn": "người đối xử, người ăn ở, người xử sự",
+          "list_en_vn": [
+            {
+              "full_en": "a plain dealer",
+              "full_vn": "người chân thực, thẳng thắn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352587_6704f976c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352587_9b0af38085_o.png",
+      "id_image": "dealer_1055836"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423653_a67912de15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423653_1faaf36bc3_o.png",
+      "id_image": "dealer_5235543"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045375_16ed27e5c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045375_4b459eb7e5_o.png",
+      "id_image": "dealer_6429372"
+    }
+  ]
+}

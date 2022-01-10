@@ -1,0 +1,50 @@
+{
+  "english": "allergic",
+  "phat_am": "[ə'lə:dʒik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( allergic to something ) (y học) dị ứng; do dị ứng gây ra",
+          "list_en_vn": [
+            {
+              "full_en": "an allergic rash",
+              "full_vn": "chứng ban do dị ứng gây ra"
+            },
+            {
+              "full_en": "I like cats but unfortunately I'm allergic to them",
+              "full_vn": "tôi thích mèo nhưng không may là tôi dị ứng với chúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) rất ghét cái gì, có ác cảm",
+          "list_en_vn": [
+            {
+              "full_en": "I'm allergic to self-importance",
+              "full_vn": "tôi rất ghét cái thói tự cao tự đại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360572_77c884a2ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360572_83d94c1a4c_o.png",
+      "id_image": "allergic_2400741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670964_07d1cedcd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670964_c557b8dae5_o.png",
+      "id_image": "allergic_2400744"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360512_efe3534883_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360512_d1a62533a2_o.png",
+      "id_image": "allergic_2854973"
+    }
+  ]
+}

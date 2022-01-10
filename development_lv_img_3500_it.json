@@ -1,0 +1,78 @@
+{
+  "english": "development",
+  "phat_am": "[di'veləpmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trình bày, sự bày tỏ, sự thuyết minh (vấn đề, luận điểm, ý kiến...)"
+        },
+        {
+          "m_full_vn": "sự phát triển, sự mở mang, sự mở rộng, sự khuếch trương, sự phát đạt"
+        },
+        {
+          "m_full_vn": "(sinh vật học) sự phát triển"
+        },
+        {
+          "m_full_vn": "sự tiến triển"
+        },
+        {
+          "m_full_vn": "(nhiếp ảnh) việc rửa ảnh; sự hiện (ảnh)"
+        },
+        {
+          "m_full_vn": "(quân sự) sự triển khai, sự mở (một cuộc tấn công)"
+        },
+        {
+          "m_full_vn": "(toán học) sự khai triển"
+        },
+        {
+          "m_full_vn": "( số nhiều) sự việc diễn biến",
+          "list_one_mean": [
+            {
+              "id_full_en": "development area",
+              "list_im": [
+                {
+                  "im_full_vn": "vùng bị nạn thất nghiệp nghiêm trọng; vùng có thể bị nạn thất nghiệp nghiêm trọng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to await developments",
+              "full_vn": "đợi chờ sự việc diễn biến ra sao"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680864_0a78614d99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680864_a145a3b407_o.png",
+      "id_image": "development_1646308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325706_2f25fa5eec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325706_39c3c1c7a7_o.png",
+      "id_image": "development_1900174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440668_ac794e8057_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440668_5f89f7fc51_o.png",
+      "id_image": "development_2335271"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680709_b4fe36daa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680709_1174b2c902_o.png",
+      "id_image": "development_2452673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370562_3918524bb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370562_7c40d320ab_o.png",
+      "id_image": "development_943802"
+    }
+  ]
+}

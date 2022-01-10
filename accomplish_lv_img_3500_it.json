@@ -1,0 +1,53 @@
+{
+  "english": "accomplish",
+  "phat_am": "[ə'kɔmpli∫]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoàn thành, làm xong, làm trọn",
+          "list_en_vn": [
+            {
+              "full_en": "to accomplish one's task",
+              "full_vn": "hoàn thành nhiệm vụ"
+            },
+            {
+              "full_en": "to accomplish one's promise",
+              "full_vn": "làm trọn lời hứa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thực hiện, đạt tới (mục đích...)",
+          "list_en_vn": [
+            {
+              "full_en": "to accomplish one's object",
+              "full_vn": "đạt mục đích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm (ai) hoàn hảo, làm (ai) đạt tới sự hoàn mỹ (về nhạc, hoạ, nữ công...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325376_2abb5c0df3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325376_3cf30dd37b_o.png",
+      "id_image": "accomplishment_1482256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370217_94abe1a9b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370217_ca9a75095d_o.png",
+      "id_image": "accomplishment_2765665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370277_0a9117a389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370277_834d29fbc4_o.png",
+      "id_image": "accomplish_5520767"
+    }
+  ]
+}

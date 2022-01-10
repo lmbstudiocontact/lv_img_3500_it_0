@@ -1,0 +1,54 @@
+{
+  "english": "criticism",
+  "phat_am": "['kritisizm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phê bình, sự phê phán, sự bình phẩm, sự chỉ trích",
+          "list_en_vn": [
+            {
+              "full_en": "a scheme that is open to criticism",
+              "full_vn": "một kế hoạch có thể bị chỉ trích"
+            },
+            {
+              "full_en": "he hates / can't take criticism",
+              "full_vn": "hắn ghét/không chịu được sự chỉ trích"
+            },
+            {
+              "full_en": "literary criticism",
+              "full_vn": "phê bình văn học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời phê bình, lời phê phán, lời bình phẩm, lời chỉ trích",
+          "list_en_vn": [
+            {
+              "full_en": "I've two criticisms of your plan",
+              "full_vn": "tôi có hai ý kiến phê phán kế hoạch của ông"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434928_864e50f30e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434928_01e0561169_o.png",
+      "id_image": "criticism_3260941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674659_8b5e02cf87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674659_3ce2f92cca_o.png",
+      "id_image": "criticism_5520868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319761_65cb65321e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319761_68ff8a4a1e_o.png",
+      "id_image": "criticism_5520956"
+    }
+  ]
+}

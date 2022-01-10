@@ -1,0 +1,87 @@
+{
+  "english": "calculate",
+  "phat_am": "['kælkjuleit]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính; tính toán",
+          "list_en_vn": [
+            {
+              "full_en": "to calculate the cost of something /how much something will cost",
+              "full_vn": "tính giá của cái gì/cái gì sẽ trị giá bao nhiêu"
+            },
+            {
+              "full_en": "I calculate that we will arrive at destination at about 6 am",
+              "full_vn": "Tôi tính rằng chúng ta sẽ đến nơi vào khoảng 6 giờ sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giả dụ rằng...; cho rằng...; tưởng rằng..."
+        },
+        {
+          "m_full_vn": "tính trước; suy tính; dự tính",
+          "list_en_vn": [
+            {
+              "full_en": "this action had been calculated",
+              "full_vn": "hành động này có suy tính trước"
+            },
+            {
+              "full_en": "a calculated insult",
+              "full_vn": "một lời lăng mạ đã được sắp đặt sẵn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to calculate on something / doing something ) trông mong vào cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be calculated to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "có ý định hoặc nhằm làm cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this advertisement is calculated to appeal to credulous customers",
+                      "full_vn": "lời quảng cáo này nhằm lôi cuốn những khách hàng nhẹ dạ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "we can't calculate upon having fine weather for our holidays",
+              "full_vn": "chúng ta không thể trông mong là thời tiết sẽ tốt trong dịp nghỉ của chúng ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421398_2994a2f2d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421398_a4baf2069c_o.png",
+      "id_image": "calculate_2503374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661619_49df44ce9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661619_6ca4243a1b_o.png",
+      "id_image": "calculate_2542463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421328_d0c6a63719_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421328_d0ec01278e_o.png",
+      "id_image": "calculate_4306935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306156_e06c2ef689_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306156_16d59aef06_o.png",
+      "id_image": "calculate_6388895"
+    }
+  ]
+}

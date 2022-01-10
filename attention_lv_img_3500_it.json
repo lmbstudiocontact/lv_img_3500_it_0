@@ -1,0 +1,127 @@
+{
+  "english": "attention",
+  "phat_am": "[ə'ten∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chú ý",
+          "list_en_vn": [
+            {
+              "full_en": "to pay attention to",
+              "full_vn": "chú ý tới"
+            },
+            {
+              "full_en": "to attract attention",
+              "full_vn": "lôi cuốn sự chú ý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chăm sóc",
+          "list_en_vn": [
+            {
+              "full_en": "to receive attention at a hospital",
+              "full_vn": "được chăm sóc điều trị tại một bệnh viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) sự ân cần, sự chu đáo với ai",
+          "list_en_vn": [
+            {
+              "full_en": "to show attentions to somebody",
+              "full_vn": "ân cần chu đáo với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) tư thế đứng nghiêm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pay attention",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) pay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to catch sb's attention",
+              "list_im": [
+                {
+                  "im_full_vn": "khiến ai phải chú ý, thu hút sự chú ý của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give one's undivided attention to sth",
+              "list_im": [
+                {
+                  "im_full_vn": "hết sức chú ý đến điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get /have sb's undivided attention",
+              "list_im": [
+                {
+                  "im_full_vn": "là người hoặc vật duy nhất được để ý đến, được ai đặc biệt quan tâm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to snap to attention",
+              "list_im": [
+                {
+                  "im_full_vn": "nhanh chóng vào tư thế nghiêm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for the attention of sb",
+              "list_im": [
+                {
+                  "im_full_vn": "(ở đầu thư) gửi cho ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Attention !",
+              "full_vn": "nghiêm!"
+            },
+            {
+              "full_en": "to come to (stand at ) attention",
+              "full_vn": "đứng nghiêm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065305_f645cf1c84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065305_d06c609953_o.png",
+      "id_image": "attention_1410040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683534_701dc9a917_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683534_df5b786ab9_o.png",
+      "id_image": "attention_1603239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373167_74f6b5a34a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373167_03d78d0c5c_o.png",
+      "id_image": "attention_4524964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373272_77b1c39674_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373272_b229794a15_o.png",
+      "id_image": "attention_526800"
+    }
+  ]
+}

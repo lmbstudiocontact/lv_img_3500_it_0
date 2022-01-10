@@ -1,0 +1,98 @@
+{
+  "english": "animal",
+  "phat_am": "['æniməl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sinh vật có cảm xúc và tự di chuyển được; động vật",
+          "list_en_vn": [
+            {
+              "full_en": "Men , dogs , birds , flies , fish and snakes are all animals",
+              "full_vn": "Người, chó, chim, ruồi, cá và rắn đều là động vật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sinh vật có bốn chân; thú vật",
+          "list_en_vn": [
+            {
+              "full_en": "domestic animal",
+              "full_vn": "động vật nuôi"
+            },
+            {
+              "full_en": "wild animal",
+              "full_vn": "động vật hoang dại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người hung tợn dữ dằn"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) động vật; (thuộc) thú vật",
+          "list_en_vn": [
+            {
+              "full_en": "the animal kingdom",
+              "full_vn": "giới động vật"
+            },
+            {
+              "full_en": "animal husbandry",
+              "full_vn": "nghề chăn nuôi gia súc"
+            },
+            {
+              "full_en": "animal magnetism",
+              "full_vn": "sức hấp dẫn vật chất ở động vật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) xác thịt",
+          "list_en_vn": [
+            {
+              "full_en": "animal spirits",
+              "full_vn": "tính sôi nổi, tính yêu đời"
+            },
+            {
+              "full_en": "animal desires",
+              "full_vn": "những ham muốn xác thịt; nhục dục"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667199_c0aeabbd53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667199_4126cca833_o.png",
+      "id_image": "animal_1718000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312241_1509551e88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312241_04c571f265_o.png",
+      "id_image": "animal_1730469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427068_d9722defde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427068_93c0bf8fd8_o.png",
+      "id_image": "animal_1772248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312196_2484895daa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312196_fa42df8063_o.png",
+      "id_image": "animal_1772252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356182_7ef59ff7e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356182_71b4e4c6fa_o.png",
+      "id_image": "animal_3317392"
+    }
+  ]
+}

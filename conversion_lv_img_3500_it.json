@@ -1,0 +1,62 @@
+{
+  "english": "conversion",
+  "phat_am": "[kən'və:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đổi (ý kiến, (tôn giáo), đảng...); sự cải tâm, sự cải tính, sự cải tà quy chánh"
+        },
+        {
+          "m_full_vn": "sự đổi, sự chuyển biến",
+          "list_en_vn": [
+            {
+              "full_en": "the conversion of water into ice",
+              "full_vn": "sự chuyển biến nước thành băng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đảo ngược, sự đổi chỗ"
+        },
+        {
+          "m_full_vn": "lôgíc sự chuyển hoán"
+        },
+        {
+          "m_full_vn": "(tài chính) sự chuyển (chứng khoán, tín phiếu... thành những loại khác)"
+        },
+        {
+          "m_full_vn": "(quân sự) sự chuyển mặt trận"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305676_085061c0ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305676_5625b7bb2d_o.png",
+      "id_image": "conversion_1162278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042590_2989d683b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042590_83bcfc9ac8_o.png",
+      "id_image": "conversion_1622685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661069_4d1bc4654e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661069_5c017a105d_o.png",
+      "id_image": "conversion_1685709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420663_949a2d478f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420663_cc37679276_o.png",
+      "id_image": "conversion_2132265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305566_02f7cc2503_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305566_f4afdba393_o.png",
+      "id_image": "conversion_4497109"
+    }
+  ]
+}

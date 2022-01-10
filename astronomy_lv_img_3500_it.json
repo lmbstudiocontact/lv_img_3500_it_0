@@ -1,0 +1,58 @@
+{
+  "english": "astronomy",
+  "phat_am": "[əs'trɔnəmi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thiên văn học",
+          "list_en_vn": [
+            {
+              "full_en": "nautical astronomy",
+              "full_vn": "thiên văn học hàng hải"
+            },
+            {
+              "full_en": "general astronomy",
+              "full_vn": "thiên văn học đại cương"
+            },
+            {
+              "full_en": "practical astronomy",
+              "full_vn": "thiên văn học thực hành"
+            },
+            {
+              "full_en": "statistical astronomy",
+              "full_vn": "thiên văn học thống kê"
+            },
+            {
+              "full_en": "theoretical astronomy",
+              "full_vn": "thiên văn học lý thuyết"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808346537_2281e9f328_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808346537_9faa162a50_o.png",
+      "id_image": "astronomy_1137524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810038910_34c535ba35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810038910_68e1c35a3a_o.png",
+      "id_image": "astronomy_1284108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810038885_cf95990a5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810038885_e90c2a4c50_o.png",
+      "id_image": "astronomy_4635402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417418_1b77ebc9a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417418_5c26d613f9_o.png",
+      "id_image": "astronomy_947664"
+    }
+  ]
+}

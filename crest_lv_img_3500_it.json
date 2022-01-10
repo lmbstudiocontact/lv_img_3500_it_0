@@ -1,0 +1,79 @@
+{
+  "english": "crest",
+  "phat_am": "[krest]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mào (gà); bờm (ngựa)"
+        },
+        {
+          "m_full_vn": "chòm lông mào (trên mũ sắt thời xưa)"
+        },
+        {
+          "m_full_vn": "chỏm mũ sắt; mũ sắt"
+        },
+        {
+          "m_full_vn": "tiêu ngữ (trên huy chương...)"
+        },
+        {
+          "m_full_vn": "đỉnh nóc, chỏm, ngọn (núi, sóng, mái nhà...)",
+          "list_en_vn": [
+            {
+              "full_en": "the crest of a wave",
+              "full_vn": "đầu ngọn sóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cạnh sống (của xương)",
+          "list_one_mean": [
+            {
+              "id_full_en": "family crest",
+              "list_im": [
+                {
+                  "im_full_vn": "hình dấu riêng của gia đình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the crest of the wave",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) lúc hưng thịnh nhất"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẽ mào; trang trí (mũ) bằng mào lông"
+        },
+        {
+          "m_full_vn": "trèo lên đỉnh, trèo lên nóc"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gợn nhấp nhô (sóng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436103_395f014e1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436103_706ce0827f_o.png",
+      "id_image": "crest_1835048"
+    }
+  ]
+}

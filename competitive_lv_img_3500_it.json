@@ -1,0 +1,73 @@
+{
+  "english": "competitive",
+  "phat_am": "[kəm'petitiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cạnh tranh, đua tranh",
+          "list_en_vn": [
+            {
+              "full_en": "competitive sports",
+              "full_vn": "những cuộc đua tài thể thao"
+            },
+            {
+              "full_en": "competitive spirit",
+              "full_vn": "tinh thần tranh đua"
+            },
+            {
+              "full_en": "you've to be highly competitive to do well in sport nowadays",
+              "full_vn": "anh phải có ý thức tranh đua cao thì mới đạt được thành tích tốt trong thể thao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( competitive with somebody / something ) có sức cạnh tranh",
+          "list_one_mean": [
+            {
+              "id_full_en": "competitive examination",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc thi tuyển"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "competitive price",
+              "full_vn": "giá có thể cạnh tranh được (với các hàng khác)"
+            },
+            {
+              "full_en": "our firm is no longer competitive in world markets",
+              "full_vn": "hãng của chúng tôi không còn sức cạnh tranh trên thị trường thế giới nữa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360747_f66072cb77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360747_4fd49268e2_o.png",
+      "id_image": "competitive_1924386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360737_048704991f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360737_b0fceda9f2_o.png",
+      "id_image": "competitive_4729418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052995_719daec1be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052995_3500f4175c_o.png",
+      "id_image": "competitive_751798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052960_59c076200d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052960_b93cf8a92d_o.png",
+      "id_image": "competitive_994622"
+    }
+  ]
+}

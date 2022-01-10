@@ -1,0 +1,70 @@
+{
+  "english": "aggregate",
+  "phat_am": "['ægrigit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tập hợp lại, kết hợp lại"
+        },
+        {
+          "m_full_vn": "gộp chung, toàn thể"
+        },
+        {
+          "m_full_vn": "(pháp lý) gồm nhiều cá nhân hợp lại, gồm nhiều đơn vị hợp lại"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khối tập hợp, khối kết tập"
+        },
+        {
+          "m_full_vn": "toàn bộ, toàn thể, tổng số",
+          "list_en_vn": [
+            {
+              "full_en": "in the aggregate",
+              "full_vn": "tính gộp, tính chung, tính tổng số"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) kết tập",
+          "list_en_vn": [
+            {
+              "full_en": "polycrystalline aggregate",
+              "full_vn": "kết tập đa tinh thể"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tập hợp lại, kết hợp lại"
+        },
+        {
+          "m_full_vn": "tổng số lên đến",
+          "list_en_vn": [
+            {
+              "full_en": "these armies aggregate 500,000 men",
+              "full_vn": "những đạo quân ấy tổng số lên đến 500, 000 người"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363172_1b92539b48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363172_49c18b0efa_o.png",
+      "id_image": "aggregate_2519351"
+    }
+  ]
+}

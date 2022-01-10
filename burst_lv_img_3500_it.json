@@ -1,0 +1,267 @@
+{
+  "english": "burst",
+  "phat_am": "[bə:st]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nổ tung, sự vỡ tung; tiếng nổ (bom)"
+        },
+        {
+          "m_full_vn": "sự gắng lên, sự dấn lên, sự nổ lực lên",
+          "list_en_vn": [
+            {
+              "full_en": "a burst of energy",
+              "full_vn": "sự gắng sức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bật lên, sự nổ ra, sự bùng lên",
+          "list_en_vn": [
+            {
+              "full_en": "a burst of laughter",
+              "full_vn": "sự cười phá lên"
+            },
+            {
+              "full_en": "a burst of flame",
+              "full_vn": "lửa bùng cháy"
+            },
+            {
+              "full_en": "a burst of gun-fire",
+              "full_vn": "loạt đạn nổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự xuất hiện đột ngột"
+        },
+        {
+          "m_full_vn": "sự phi nước đại (ngựa)"
+        },
+        {
+          "m_full_vn": "sự chè chén say sưa",
+          "list_en_vn": [
+            {
+              "full_en": "to go (be ) on the burst",
+              "full_vn": "chè chén say sưa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nổ, nổ tung (bom, đạn...); vỡ (mụn nhọt); nổ, vỡ (bong bóng); vỡ, vỡ tung ra (để); nhú, nở (lá, nụ hoa)",
+          "list_en_vn": [
+            {
+              "full_en": "sides burst with laughing",
+              "full_vn": "cười vỡ bụng"
+            },
+            {
+              "full_en": "buttons burst with food",
+              "full_vn": "ăn no căng bật cả khuy cài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầy ních, tràn đầy",
+          "list_en_vn": [
+            {
+              "full_en": "storehouse bursting with grain",
+              "full_vn": "nhà kho đầy ních thóc lúa"
+            },
+            {
+              "full_en": "to be bursting with pride (happiness , envy , health )",
+              "full_vn": "tràn đầy kiêu hãnh (hạnh phúc, ghen tị, sức khoẻ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nóng lòng, háo hức",
+          "list_en_vn": [
+            {
+              "full_en": "to be bursting with a secret ; to be bursting to tell a secret",
+              "full_vn": "nóng lòng muốn nói ra một điều bí mật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm nổ tung ra; làm bật tung ra; làm rách tung ra, làm vỡ tung ra",
+          "list_en_vn": [
+            {
+              "full_en": "to burst the tire",
+              "full_vn": "làm nổ lốp"
+            },
+            {
+              "full_en": "to burst the door open",
+              "full_vn": "phá tung cửa ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xông, xộc, vọt; đột nhiên xuất hiện",
+          "list_one_mean": [
+            {
+              "id_full_en": "to burst in",
+              "list_im": [
+                {
+                  "im_full_vn": "mở tung vào (phía trong)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to burst the door in",
+                      "full_vn": "mở tung cửa vào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burst in upon",
+              "list_im": [
+                {
+                  "im_full_vn": "làm gián đoạn; ngắt lời",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to burst in upon a conversation",
+                      "full_vn": "làm gián đoạn câu chuyện"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thình lình đến, thình lình xuất hiện",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he 'll be bursting in upon us at any moment",
+                      "full_vn": "chưa biết lúc nào anh ta sẽ đến với chúng ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burst into",
+              "list_im": [
+                {
+                  "im_full_vn": "bùng lên, bật lên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to burst into flames",
+                      "full_vn": "bùng cháy"
+                    },
+                    {
+                      "full_en": "to burst into tears",
+                      "full_vn": "khóc oà lên"
+                    },
+                    {
+                      "full_en": "to burst into laughter",
+                      "full_vn": "cười phá lên"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burst out",
+              "list_im": [
+                {
+                  "im_full_vn": "thốt lên; nói ầm lên, lớn tiếng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to burst out into threats",
+                      "full_vn": "thốt lên những lời đe doạ"
+                    },
+                    {
+                      "full_en": "to burst out (forth ) into explanations",
+                      "full_vn": "lớn tiếng giải thích"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "phá lên, oà lên, bật lên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to burst out laughing",
+                      "full_vn": "cười phá lên"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bùng ra, nổ ra, bật ra (chiến tranh, bệnh tật, tiếng ồn ào...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burst up",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) làm nổ bùng, nổ bùng"
+                },
+                {
+                  "im_full_vn": "làm suy sụp; suy sụp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burst upon",
+              "list_im": [
+                {
+                  "im_full_vn": "chợt xuất hiện, chợt đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the view bursts upon our sight",
+                      "full_vn": "quang cảnh đó chợt xuất hiện trước mắt chúng tôi"
+                    },
+                    {
+                      "full_en": "the truth bursts upon him",
+                      "full_vn": "anh ta chợt nhận ra lẽ phải"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to burst into the room",
+              "full_vn": "xộc vào buồng"
+            },
+            {
+              "full_en": "the oil bursts out of the ground",
+              "full_vn": "dầu vọt từ dưới đất lên"
+            },
+            {
+              "full_en": "the sun bursts through the clouds",
+              "full_vn": "mặt trời đột nhiên xuất hiện qua các làn mây"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664184_f1ddce1fe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664184_122094b461_o.png",
+      "id_image": "burst_1408476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353087_e1b9d5c7a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353087_dbf1dc1a7c_o.png",
+      "id_image": "burst_1733408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308916_5490e97f7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308916_b876fe7480_o.png",
+      "id_image": "burst_316528"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664149_9dc3cc0332_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664149_e2171bc84d_o.png",
+      "id_image": "burst_6315782"
+    }
+  ]
+}

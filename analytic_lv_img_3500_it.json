@@ -1,0 +1,41 @@
+{
+  "english": "analytic",
+  "phat_am": "[,ænə'litik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) phân tích",
+          "list_en_vn": [
+            {
+              "full_en": "analytic chemistry",
+              "full_vn": "ngành hoá phân tích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) giải tích",
+          "list_en_vn": [
+            {
+              "full_en": "analytic geometry",
+              "full_vn": "hình học giải tích"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668114_99efb49e84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668114_130235b229_o.png",
+      "id_image": "analytic_1688375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428103_69862dcc57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428103_44659835f9_o.png",
+      "id_image": "analytic_4705539"
+    }
+  ]
+}

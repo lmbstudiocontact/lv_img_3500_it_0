@@ -1,0 +1,148 @@
+{
+  "english": "bottle",
+  "phat_am": "['bɔtl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chai, lọ"
+        },
+        {
+          "m_full_vn": "bầu sữa (cho trẻ em bú) ( (cũng) feeding )",
+          "list_en_vn": [
+            {
+              "full_en": "to be brought up on the bottle",
+              "full_vn": "nuôi bằng sữa ngoài, không cho bú mẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rượu; thói uống rượu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on the bottle ; to hit the bottle",
+              "list_im": [
+                {
+                  "im_full_vn": "nghiện rượu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "black bottle",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) chất độc, nọc độc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to known somebody his bottle up",
+              "list_im": [
+                {
+                  "im_full_vn": "biết ai từ thuở còn thơ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be fond of the bottle",
+              "full_vn": "thích uống rượu"
+            },
+            {
+              "full_en": "to discuss something over a bottle",
+              "full_vn": "vừa uống rượu, vừa thảo luận việc gì"
+            },
+            {
+              "full_en": "to take to the bottle",
+              "full_vn": "nhiễm cái thói uống rượu; bắt đầu thích uống rượu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng chai",
+          "list_en_vn": [
+            {
+              "full_en": "bottled fruit",
+              "full_vn": "quả đóng chai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) bắt được quả tang",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bottle off",
+              "list_im": [
+                {
+                  "im_full_vn": "rót vào chai; đổ vào chai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bottle up",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ, kiềm chế, nén",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he could no longer bottle up his anger",
+                      "full_vn": "anh ấy không thể nào nén giận được nữa"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) giam chân"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bó rơm, bó rạ, bó cỏ khô",
+          "list_one_mean": [
+            {
+              "id_full_en": "to look for a needle in a bottle of hay",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) needle"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bó (rơm, rạ...) thành bó"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436533_df4eb093a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436533_dcfa5a6933_o.png",
+      "id_image": "bottle_169821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366137_c39f503ebc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366137_6bcf5882ac_o.png",
+      "id_image": "bottle_272752"
+    }
+  ]
+}

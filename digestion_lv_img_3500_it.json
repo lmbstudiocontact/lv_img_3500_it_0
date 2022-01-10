@@ -1,0 +1,41 @@
+{
+  "english": "digestion",
+  "phat_am": "[di'dʒest∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tiêu hoá; khả năng tiêu hoá",
+          "list_en_vn": [
+            {
+              "full_en": "hard of digestion",
+              "full_vn": "khó tiêu"
+            },
+            {
+              "full_en": "a weak (sluggish ) digestion",
+              "full_vn": "khả năng tiêu hoá kém"
+            },
+            {
+              "full_en": "a good digestion",
+              "full_vn": "khả năng tiêu hoá tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hiểu thấu, sự lĩnh hội, sự tiêu hoá (những điều đã học...)"
+        },
+        {
+          "m_full_vn": "sự ninh, sự sắc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366832_237d5fba4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366832_f4fe54cd2a_o.png",
+      "id_image": "digestion_5601046"
+    }
+  ]
+}

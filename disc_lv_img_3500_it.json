@@ -1,0 +1,58 @@
+{
+  "english": "disc",
+  "phat_am": "[disk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật dẹt, tròn hình đĩa",
+          "list_en_vn": [
+            {
+              "full_en": "To wear an identity disc round one's neck",
+              "full_vn": "Đeo phù hiệu cá nhân hình đĩa ở cổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bề mặt tròn phẳng",
+          "list_en_vn": [
+            {
+              "full_en": "the moon's disc",
+              "full_vn": "bề mặt tròn của mặt trăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đĩa (cũng) record",
+          "list_en_vn": [
+            {
+              "full_en": "recordings on disc and cassette",
+              "full_vn": "những bản ghi âm trên đĩa và băng từ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) đĩa đệm ở xương sống"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673109_176b8b737e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673109_830b54281d_o.png",
+      "id_image": "disc_1171170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362747_8197ccf0fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362747_e2f55dd068_o.png",
+      "id_image": "disc_1747647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318196_100cbb1333_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318196_5035fd86cd_o.png",
+      "id_image": "disc_1901060"
+    }
+  ]
+}

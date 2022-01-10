@@ -1,0 +1,55 @@
+{
+  "english": "backbone",
+  "phat_am": "['bækboun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xương sống"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) xương sống, cột trụ",
+          "list_en_vn": [
+            {
+              "full_en": "he is the backbone of the football team",
+              "full_vn": "anh ấy là cột trụ của đội bóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nghị lực; sức mạnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to the backbone",
+              "list_im": [
+                {
+                  "im_full_vn": "chính cống, hoàn toàn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he is an Englishman to the backbone",
+                      "full_vn": "hắn là một người Anh chính cống"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to lack backbone",
+              "full_vn": "thiếu nghị lực"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367732_e068ac40f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367732_020f7ca566_o.png",
+      "id_image": "backbone_2252843"
+    }
+  ]
+}

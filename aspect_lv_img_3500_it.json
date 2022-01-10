@@ -1,0 +1,70 @@
+{
+  "english": "aspect",
+  "phat_am": "['æspekt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẻ bề ngoài; diện mạo",
+          "list_en_vn": [
+            {
+              "full_en": "to have a gentle aspect",
+              "full_vn": "có vẻ hiền lành"
+            },
+            {
+              "full_en": "a man of enormous size and terrifying aspect",
+              "full_vn": "người có vóc dáng to đùng và diện mạo khủng khiếp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phía của một ngôi nhà nhìn vào một hướng nhất định; hướng",
+          "list_en_vn": [
+            {
+              "full_en": "the house has a southern aspect",
+              "full_vn": "ngôi nhà xoay hướng về hướng nam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vị trí tương quan của các ngôi sao và các hành tinh được cho là ảnh hưởng đến trái đất"
+        },
+        {
+          "m_full_vn": "bộ phận hoặc nét riêng biệt của cái gì đang được xem xét; khía cạnh; mặt",
+          "list_en_vn": [
+            {
+              "full_en": "to study every aspect of a question",
+              "full_vn": "nghiên cứu mọi khía cạnh của vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) loạt ý nghĩa được biểu thị bằng các dạng của động từ have + động tính từ quá khứ ( has played chẳng hạn) hoặc be + động tính từ hiện tại ( is playing chẳng hạn); thể"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347972_324ff6d3ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347972_6995aa08e5_o.png",
+      "id_image": "aspect_1149546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303761_96001ea202_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303761_9a8399df8f_o.png",
+      "id_image": "aspect_1149554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658999_df02511b1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658999_4351ce5246_o.png",
+      "id_image": "aspect_5068409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658984_850cf5b41a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658984_3c106d7729_o.png",
+      "id_image": "aspect_5496654"
+    }
+  ]
+}

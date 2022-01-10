@@ -1,0 +1,46 @@
+{
+  "english": "concord",
+  "phat_am": "['kɔηkɔ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hoà hợp, sự hoà thuận",
+          "list_en_vn": [
+            {
+              "full_en": "to live in complete concord",
+              "full_vn": "sống với nhau rất hoà thuận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thoả ước, hiệp ước"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) sự tương hợp (về giống và số)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) hoà âm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in concord with",
+              "list_im": [
+                {
+                  "im_full_vn": "hợp với"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357587_22b231c28f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357587_6328724a43_o.png",
+      "id_image": "concord_5352345"
+    }
+  ]
+}

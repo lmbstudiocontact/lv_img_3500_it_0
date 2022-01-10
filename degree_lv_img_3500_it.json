@@ -1,0 +1,242 @@
+{
+  "english": "degree",
+  "phat_am": "[di'gri:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) là deg đơn vị đo nhiệt; độ",
+          "list_en_vn": [
+            {
+              "full_en": "water freezes at 32 degrees Farenheit or zero /nought degree Celsius",
+              "full_vn": "nước đóng băng ở 32 độ Farenheit hoặc zêrô độ Celsius"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mức độ, trình độ",
+          "list_en_vn": [
+            {
+              "full_en": "to some /a certain degree",
+              "full_vn": "đến mức độ nào đó"
+            },
+            {
+              "full_en": "to what degree was he involved in the crime ?",
+              "full_vn": "nó dính líu vào tội ác này đến mức nào?"
+            },
+            {
+              "full_en": "she has also been affected , but to a lesser degree",
+              "full_vn": "cô ta cũng bị ảnh hưởng, nhưng ở mức độ ít hơn"
+            },
+            {
+              "full_en": "she shows a high degree of skill in her work",
+              "full_vn": "cô ta tỏ rõ trình độ kỹ năng cao trong công việc"
+            },
+            {
+              "full_en": "he was not in the slightest degree interested",
+              "full_vn": "anh ta chẳng hề quan tâm chút nào cả"
+            },
+            {
+              "full_en": "by degrees",
+              "full_vn": "từ từ, dần dần"
+            },
+            {
+              "full_en": "by degrees their friendship grew into love",
+              "full_vn": "dần dần tình bạn của họ đã biến thành tình yêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mức trong một cung bậc nghiêm ngặt",
+          "list_en_vn": [
+            {
+              "full_en": "murder in the first degree ; first-degree murder",
+              "full_vn": "vụ giết người cấp một (thuộc loại nghiêm trọng nhất ở Hoa Kỳ)"
+            },
+            {
+              "full_en": "third-degree burns",
+              "full_vn": "vết bỏng cấp 3 (rất nghiêm trọng)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "địa vị trong xã hội",
+          "list_one_mean": [
+            {
+              "id_full_en": ""
+            },
+            {
+              "id_full_en": "forbidden (prohibited ) degrees",
+              "list_im": [
+                {
+                  "im_full_vn": "(pháp lý) quan hệ họ hàng gần quá không cho phép lấy nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put through the third degree",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) tra hỏi, tra tấn để bắt cung khai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a degree",
+              "list_im": [
+                {
+                  "im_full_vn": "rất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the film was boring to a degree",
+                      "full_vn": "bộ phim xem rất chán"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the nth degree",
+              "list_im": [
+                {
+                  "im_full_vn": "xem nth"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "m_full_vn": "học vị; bằng cấp",
+          "list_en_vn": [
+            {
+              "full_en": "to take a degree in law /a law degree",
+              "full_vn": "tốt nghiệp trường luật"
+            },
+            {
+              "full_en": "the degree of Master of Arts (MA )",
+              "full_vn": "bằng Thạc sĩ ngữ văn"
+            },
+            {
+              "full_en": "honorary degree",
+              "full_vn": "học vị danh dự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đơn vị đo góc; độ",
+          "list_en_vn": [
+            {
+              "full_en": "an angle of 90 degrees",
+              "full_vn": "góc 90 độ (góc vuông)"
+            },
+            {
+              "full_en": "32 degrees in the shade",
+              "full_vn": "32 độ trong bóng râm"
+            },
+            {
+              "full_en": "one degree of latitude",
+              "full_vn": "một độ vĩ (khoảng 60 dặm)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) bậc",
+          "list_en_vn": [
+            {
+              "full_en": "degree of polynomial",
+              "full_vn": "bậc của đa thức"
+            },
+            {
+              "full_en": "an equation of the third degree",
+              "full_vn": "phương trình bậc ba"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) cấp",
+          "list_one_mean": [
+            {
+              "id_full_en": ""
+            },
+            {
+              "id_full_en": "forbidden (prohibited ) degrees",
+              "list_im": [
+                {
+                  "im_full_vn": "(pháp lý) quan hệ họ hàng gần quá không cho phép lấy nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put through the third degree",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) tra hỏi, tra tấn để bắt cung khai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a degree",
+              "list_im": [
+                {
+                  "im_full_vn": "rất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the film was boring to a degree",
+                      "full_vn": "bộ phim xem rất chán"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the nth degree",
+              "list_im": [
+                {
+                  "im_full_vn": "xem nth"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "degrees of comparison",
+              "full_vn": "các cấp so sánh"
+            },
+            {
+              "full_en": "superlative degree",
+              "full_vn": "cấp cao nhất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042620_519b5fcd94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042620_869f22c5ed_o.png",
+      "id_image": "degree_1440972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661109_db96f63905_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661109_84296b1e8e_o.png",
+      "id_image": "degree_2036626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042610_92893b4f78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042610_4f1fe8b91e_o.png",
+      "id_image": "degree_2070913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305646_4f352c472a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305646_3a8fab256f_o.png",
+      "id_image": "degree_2234743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661089_b897658c9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661089_8010e66a22_o.png",
+      "id_image": "degree_4650621"
+    }
+  ]
+}

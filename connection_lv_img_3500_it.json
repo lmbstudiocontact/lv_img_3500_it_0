@@ -1,0 +1,137 @@
+{
+  "english": "connection",
+  "phat_am": "[kə'nek∫n]",
+  "list_type": [
+    {
+      "type": "danh từ (cũng) connexion",
+      "list_m": [
+        {
+          "m_full_vn": "sự nối hoặc chuyển tiếp",
+          "list_en_vn": [
+            {
+              "full_en": "how long will the connection of the telephone take ?",
+              "full_vn": "việc lắp đặt máy điện thoại đó tốn bao nhiêu thời gian?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( connection between something and something ; connection with / to something ) sự liên quan; mối quan hệ; vật nối",
+          "list_en_vn": [
+            {
+              "full_en": "there's a faulty connection in the fuse-box",
+              "full_vn": "hộp cầu chì đó bị rò mạch"
+            },
+            {
+              "full_en": "is there any connection between the two events ?",
+              "full_vn": "hai sự kiện đó có quan hệ với nhau hay không?"
+            },
+            {
+              "full_en": "your resignation from office has no connection with his trip",
+              "full_vn": "việc anh từ chức không liên quan gì đến chuyến đi của ông ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự mạch lạc",
+          "list_en_vn": [
+            {
+              "full_en": "there is no connection in his speech",
+              "full_vn": "bài nói của anh ta chẳng có mạch lạc gì cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giao thiệp; sự kết giao",
+          "list_en_vn": [
+            {
+              "full_en": "to form a connection with someone",
+              "full_vn": "giao thiệp với ai"
+            },
+            {
+              "full_en": "to break off a connection",
+              "full_vn": "cắt đứt quan hệ; tuyệt giao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xe lửa hoặc máy bay... chuyển tiếp; sự chuyển từ xe lửa hoặc máy bay này sang xe lửa hoặc máy bay khác",
+          "list_en_vn": [
+            {
+              "full_en": "To miss the connection",
+              "full_vn": "nhỡ mất chuyến xe chạy nối tiếp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người quen; chỗ quen biết",
+          "list_en_vn": [
+            {
+              "full_en": "I heard from him through one of my business connections",
+              "full_vn": "Tôi nhận được tin anh ta qua một trong những người cóquan hệ làm ăn với tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) bà con; họ hàng; thân thuộc",
+          "list_one_mean": [
+            {
+              "id_full_en": "in connection with somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "đề cập đến ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I shall ring you in connection with your quotation",
+                      "full_vn": "Tôi sẽ gọi điện thoại cho anh về vấn đề bản báo giá của anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in this /that connection",
+              "list_im": [
+                {
+                  "im_full_vn": "về việc này/kia"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "She is Vietnamese but also has Chinese connections",
+              "full_vn": "Bà ấy người Việt, nhưng cũng có họ hàng thân thuộc người Trung Hoa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666154_d9b6284e55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666154_d60eed5fc4_o.png",
+      "id_image": "connection_1396592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355242_8a86c02229_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355242_e635dfab24_o.png",
+      "id_image": "connection_1400063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311046_a5ce746d4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311046_2fb6d67ebd_o.png",
+      "id_image": "connection_1402121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426123_5d4a767212_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426123_6a09e12080_o.png",
+      "id_image": "connection_388499"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426113_6d84566966_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426113_518aa688ab_o.png",
+      "id_image": "connection_445720"
+    }
+  ]
+}

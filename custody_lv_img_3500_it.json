@@ -1,0 +1,63 @@
+{
+  "english": "custody",
+  "phat_am": "['kʌstədi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chăm sóc, sự giám hộ, sự trông nom, sự canh giữ",
+          "list_en_vn": [
+            {
+              "full_en": "to have the custody of someone",
+              "full_vn": "trông nom ai"
+            },
+            {
+              "full_en": "the child is in the custody of his father",
+              "full_vn": "đứa con được sự trông nom của bố"
+            },
+            {
+              "full_en": "to be in the custody of someone",
+              "full_vn": "dưới sự trông nom của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bắt giam, sự giam cầm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give someone into custody",
+              "list_im": [
+                {
+                  "im_full_vn": "giao ai cho nhà chức trách"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be in custody",
+              "full_vn": "bị bắt giam"
+            },
+            {
+              "full_en": "to take somebody into custody",
+              "full_vn": "bắt giữ ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357917_d92a27ccd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357917_352a827e50_o.png",
+      "id_image": "custody_1865691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313741_a5434985bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313741_b7c8ba1cf0_o.png",
+      "id_image": "custody_2322911"
+    }
+  ]
+}

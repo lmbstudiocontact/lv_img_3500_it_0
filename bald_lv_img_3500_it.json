@@ -1,0 +1,67 @@
+{
+  "english": "bald",
+  "phat_am": "[bɔ:ld]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hói (đầu)"
+        },
+        {
+          "m_full_vn": "trọc trụi",
+          "list_en_vn": [
+            {
+              "full_en": "bald hill",
+              "full_vn": "đồi trọc"
+            },
+            {
+              "full_en": "bald tree",
+              "full_vn": "cây trụi lá"
+            },
+            {
+              "full_en": "bald bird",
+              "full_vn": "chim trụi lông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không che đậy; lộ liễu; phô bày ra rành rành (tật xấu khuyết điểm)"
+        },
+        {
+          "m_full_vn": "nghèo nàn, khô khan, tẻ (văn chương)"
+        },
+        {
+          "m_full_vn": "có lang trắng ở mặt (ngựa)",
+          "list_one_mean": [
+            {
+              "id_full_en": "as bald as an egg (as a coot , as a billiard ball )",
+              "list_im": [
+                {
+                  "im_full_vn": "đầu trọc lông lốc bình vôi, đầu trọc như cái sọ dừa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055160_33400a42b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055160_71f75d50da_o.png",
+      "id_image": "bald_3296716"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318646_755c396f2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318646_6e5bcc837e_o.png",
+      "id_image": "bald_435064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433843_e0cf382555_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433843_25f76170ab_o.png",
+      "id_image": "bald_599669"
+    }
+  ]
+}
